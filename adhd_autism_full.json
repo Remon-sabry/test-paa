@@ -1,7 +1,8 @@
 [
 {
-  "ADHD_KnowledgeBase": [
-    {
+  "knowledge_base_name": "ADHD_KnowledgeBase",
+  "data": [
+}
       "Parent Question": "how to support a loved one with adhd",
       "Questions": [
         "How can you help a loved one with ADHD?",
@@ -916,10 +917,13 @@
         "What is the best ADHD therapy?",
         "What is the best office layout for ADHD?"
       ]
-    }
-  ],
-  "Autism_KnowledgeBase": [
-    {
+      }
+    ]
+  },
+  {
+    "knowledge_base_name": "Autism_KnowledgeBase",
+    "data": [
+      {
       "Parent Question": "managing meltdowns and sensory overloads",
       "Questions": [
         "How do you manage sensory overload?",
