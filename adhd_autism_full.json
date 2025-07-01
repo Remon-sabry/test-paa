@@ -1,28 +1,27 @@
 [
-{
-  "knowledge_base_name": "ADHD_KnowledgeBase",
-  "data": [
-{
-      "Parent Question": "how to support a loved one with adhd",
-      "Questions": [
-        "How can you help a loved one with ADHD?",
-        "What makes someone with ADHD happy?",
-        "How do you make an ADHD person feel loved?",
-        "What is the 1/3/5 rule for ADHD?",
-        "What is the best thing to say to someone with ADHD?",
-        "What is ADHD love bombing?",
-        "How to calm someone with ADHD?"
-      ]
-    },
-    {
-      "Parent Question": "How can you help a loved one with ADHD?",
-      "Questions": [
-        "What is the best thing to say to someone with ADHD?",
-        "What is ADHD love bombing?",
-        "How to calm someone with ADHD?"
-      ]
-    },
-    {
+  {
+    "knowledge_base_name": "ADHD_KnowledgeBase",
+    "data": [
+      {
+        "Parent Question": "how to support a loved one with adhd",
+        "Questions": [
+          "How can you help a loved one with ADHD?",
+          "What makes someone with ADHD happy?",
+          "How do you make an ADHD person feel loved?",
+          "What is the 1/3/5 rule for ADHD?",
+          "What is the best thing to say to someone with ADHD?",
+          "What is ADHD love bombing?",
+          "How to calm someone with ADHD?"
+        ]
+      },
+      {
+        "Parent Question": "How can you help a loved one with ADHD?",
+        "Questions": [
+          "What is the best thing to say to someone with ADHD?",
+          "What is ADHD love bombing?",
+          "How to calm someone with ADHD?"
+        ]
+      },
       "Parent Question": "What are the 3 major symptom areas of ADHD?",
       "Questions": [
         "How to test for ADHD?",
