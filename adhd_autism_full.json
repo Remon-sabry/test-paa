@@ -945,8 +945,8 @@
           "What triggers sensory overload?",
           "How to do a sensory reset?"
         ]
-      }
-
+    },
+      {
       "Parent Question": "How to control autistic meltdowns?",
       "Questions": [
         "What are the 6 stages of autism meltdowns?"
@@ -1337,9 +1337,7 @@
         "How many CBT sessions for ADHD?",
         "Does CBT change the brain?"
       ]
-    }
-  ],
-  "Autism_ADHD_KnowledgeBase": [
+    },
     {
       "Parent Question": "how to handle someone with autism",
       "Questions": [
