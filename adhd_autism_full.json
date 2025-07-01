@@ -916,7 +916,7 @@
         "How do ADHD people stay organized?",
         "What is the best ADHD therapy?",
         "What is the best office layout for ADHD?"
-      ]
+              ]
       }
     ]
   },
@@ -924,29 +924,29 @@
     "knowledge_base_name": "Autism_KnowledgeBase",
     "data": [
       {
-      "Parent Question": "managing meltdowns and sensory overloads",
-      "Questions": [
-        "How do you manage sensory overload?",
-        "How to control autistic meltdowns?",
-        "How to manage sensory meltdowns?",
-        "How do I control my meltdowns?",
-        "What is the difference between a meltdown and a sensory overload?",
-        "How do you recover from sensory meltdown?"
-      ]
-    },
-    {
-      "Parent Question": "How do you manage sensory overload?",
-      "Questions": [
-        "Is it meltdown or autism?",
-        "How to stop sensory overload touch?",
-        "How do you calm overstimulation?",
-        "Is there medication for sensory overload?",
-        "How to calm down sensory issues?",
-        "What triggers sensory overload?",
-        "How to do a sensory reset?"
-      ]
-    },
-    {
+        "Parent Question": "managing meltdowns and sensory overloads",
+        "Questions": [
+          "How do you manage sensory overload?",
+          "How to control autistic meltdowns?",
+          "How to manage sensory meltdowns?",
+          "How do I control my meltdowns?",
+          "What is the difference between a meltdown and a sensory overload?",
+          "How do you recover from sensory meltdown?"
+        ]
+      },
+      {
+        "Parent Question": "How do you manage sensory overload?",
+        "Questions": [
+          "Is it meltdown or autism?",
+          "How to stop sensory overload touch?",
+          "How do you calm overstimulation?",
+          "Is there medication for sensory overload?",
+          "How to calm down sensory issues?",
+          "What triggers sensory overload?",
+          "How to do a sensory reset?"
+        ]
+      }
+
       "Parent Question": "How to control autistic meltdowns?",
       "Questions": [
         "What are the 6 stages of autism meltdowns?"
