@@ -2938,6 +2938,1885 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "Gardening_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "benefits of native plants in your garden",
+      "Questions": [
+        "Why is it important to increase the biodiversity of native species?",
+        "How are native plants better adapted to Louisiana's climate and soils than ornamental exotics?",
+        "What plants are native to the US?",
+        "How many indigenous plants are there in the Philippines?"
+      ]
+    },
+    {
+      "Parent Question": "Why is it important to increase the biodiversity of native species?",
+      "Questions": [
+        "What is the biggest benefit of native species?",
+        "What are the 5 benefits of biodiversity?",
+        "What is the importance of species diversity in soil?",
+        "What is a native species in an ecosystem?"
+      ]
+    },
+    {
+      "Parent Question": "How are native plants better adapted to Louisiana's climate and soils than ornamental exotics?",
+      "Questions": [
+        "Why are native plants important in California?",
+        "When to plant wildflowers in Louisiana?"
+      ]
+    },
+    {
+      "Parent Question": "What plants are native to the US?",
+      "Questions": [
+        "What is the most common native flower?",
+        "What is meant by non-native species?",
+        "What fruit is native to America?",
+        "Which plant is only grown in USA?",
+        "What are the characteristics of a perfect flower?",
+        "Which plant is a source of drug which is native to America?"
+      ]
+    },
+    {
+      "Parent Question": "How many indigenous plants are there in the Philippines?",
+      "Questions": [
+        "What country has the most native plants?",
+        "What plant can only be seen in the Philippines?",
+        "What plant is used by indigenous peoples?",
+        "What country has the most endemic species?",
+        "What are indigenous materials?",
+        "What is the most grown plant in the Philippines?"
+      ]
+    },
+    {
+      "Parent Question": "best flowers for year round color in your garden",
+      "Questions": [
+        "What is the best flower for all year round?",
+        "How to create a colorful garden?",
+        "Which garden flowers bloom the longest?",
+        "What is the flower that blooms every year?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best flower for all year round?",
+      "Questions": [
+        "Which flower is for all seasons?",
+        "What is the most long-lasting flowers?",
+        "Which plant is best for all seasons?",
+        "What is the lowest maintenance flower?"
+      ]
+    },
+    {
+      "Parent Question": "How to create a colorful garden?",
+      "Questions": [
+        "What is the best color combination for a garden?",
+        "How do I make my garden shade?",
+        "What flower colors go together?",
+        "How do I make my plants more colorful?",
+        "How I can decorate my garden?",
+        "How can I make a Zen garden?"
+      ]
+    },
+    {
+      "Parent Question": "Which garden flowers bloom the longest?",
+      "Questions": [
+        "What is the fastest growing flower to plant?",
+        "What flower is hardest to grow?",
+        "Which bedding plants flower the longest?",
+        "Is there a flower that blooms in all seasons?",
+        "When to plant peonies?",
+        "What are the most long lasting flowers?"
+      ]
+    },
+    {
+      "Parent Question": "What is the flower that blooms every year?",
+      "Questions": [
+        "What is the best plant for all year round?",
+        "What are the best low maintenance flowering plants?",
+        "Which flowers bloom at night?",
+        "What flowers are good for garden beds?",
+        "What flowers stay bloomed the longest?",
+        "Do geraniums flower all year?"
+      ]
+    },
+    {
+      "Parent Question": "best plants for small spaces or container gardening",
+      "Questions": [
+        "What plants are good for small containers?",
+        "What are the best plants to grow in a container?",
+        "What plant needs the least amount of space?",
+        "What is a disadvantage to container gardening?"
+      ]
+    },
+    {
+      "Parent Question": "What plants are good for small containers?",
+      "Questions": [
+        "What are the best low maintenance outdoor potted plants?",
+        "How many plants should you put in a container?",
+        "Which is recommended for container gardening?",
+        "Why do plants grow better in small pots?"
+      ]
+    },
+    {
+      "Parent Question": "What are the best plants to grow in a container?",
+      "Questions": [
+        "What potted plant grows the fastest?",
+        "What plants are good for bucket gardens?",
+        "What is the most productive plant to grow?",
+        "What plants are best for tiny pots?",
+        "What plants need most?",
+        "Can a plant survive in a container?"
+      ]
+    },
+    {
+      "Parent Question": "What plant needs the least amount of space?",
+      "Questions": [
+        "What is the most low maintenance plant?",
+        "How many plants does NASA recommend?",
+        "What is the best plant to grow in space?",
+        "What's the easiest plant to keep alive?",
+        "Which two types of plants are the smallest?",
+        "Can you give a plant too much space?"
+      ]
+    },
+    {
+      "Parent Question": "What is a disadvantage to container gardening?",
+      "Questions": [
+        "What is the most common mistake made with container plants?",
+        "Which container is best for plants?",
+        "Why not to use containers?",
+        "Which shape of container works the best for container gardening?",
+        "Is potting mix good for container gardening?",
+        "How to grow a plant in a container?"
+      ]
+    },
+    {
+      "Parent Question": "best practices for indoor plant care",
+      "Questions": [
+        "How do you keep indoor plants healthy?",
+        "How do I take care of my indoor plants?",
+        "What is the best way to plant indoor plants?",
+        "How do I make my indoor plants happy?"
+      ]
+    },
+    {
+      "Parent Question": "How do you keep indoor plants healthy?",
+      "Questions": [
+        "What is the biggest killer of indoor plants?",
+        "How to fertilize indoor plants?",
+        "How often should I water indoor plants?",
+        "Do plants like artificial light?"
+      ]
+    },
+    {
+      "Parent Question": "How do I take care of my indoor plants?",
+      "Questions": [
+        "How to support indoor plants?",
+        "How to look after a happy plant?",
+        "Do houseplants need misting?",
+        "How many hours do indoor plants need?",
+        "Which fertilizer is best for indoor plants?",
+        "How do you rejuvenate indoor plants?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best way to plant indoor plants?",
+      "Questions": [
+        "How to take care of an indoor plant?",
+        "Which plant gives oxygen 24 hours?",
+        "How do I make my indoor plants flower?",
+        "How do you encourage indoor plants to grow?",
+        "Which plants give off the most oxygen?",
+        "What is the most beneficial indoor plant?"
+      ]
+    },
+    {
+      "Parent Question": "How do I make my indoor plants happy?",
+      "Questions": [
+        "How do you grow happy plants indoors?",
+        "How to raise healthy plants?",
+        "How often should I fertilize indoor plants?",
+        "What is the best indoor plant fertilizer?",
+        "How do I know if my plant is happy?",
+        "Do indoor plants really help?"
+      ]
+    },
+    {
+      "Parent Question": "best practices for pruning trees and shrubs",
+      "Questions": [
+        "What is the best tree pruning method?",
+        "What is the best time to prune shrubs and trees?",
+        "What is the principle of pruning?",
+        "What part of a tree should not be cut?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best tree pruning method?",
+      "Questions": [
+        "What is the difference between tree trimming and pruning?",
+        "What is the most efficient way to cut a tree?",
+        "What is a pruning technique?",
+        "What is the best time for pruning?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best time to prune shrubs and trees?",
+      "Questions": [
+        "When should you not prune?",
+        "How to trim a shrub?",
+        "What are the best days for pruning trees?",
+        "How to prune trees?"
+      ]
+    },
+    {
+      "Parent Question": "What is the principle of pruning?",
+      "Questions": [
+        "What is the pruning rule?",
+        "What is the proper way of pruning?",
+        "What is pruning strategy?",
+        "What are the common acceptable pruning techniques?",
+        "What is pruning ratio?",
+        "What are the major pruning techniques used in decision tree?"
+      ]
+    },
+    {
+      "Parent Question": "What part of a tree should not be cut?",
+      "Questions": [
+        "Is there a wrong way to prune?",
+        "What not to do when trimming bushes?",
+        "When not to cut trees?",
+        "Can you cut too many branches of a tree?",
+        "Which side do you cut trees?",
+        "Is it okay to cut off the top of a tree?"
+      ]
+    },
+    {
+      "Parent Question": "best tools and equipment for gardening",
+      "Questions": [
+        "What is the most useful garden tool?",
+        "What tools do professional gardeners use?",
+        "What to buy for a beginner gardener?",
+        "What are the 9 gardening tools?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most useful garden tool?",
+      "Questions": [
+        "What are the best weeding tools?",
+        "What do gardeners use?",
+        "What tools do you use in a garden?",
+        "What to gift a gardener?"
+      ]
+    },
+    {
+      "Parent Question": "What tools do professional gardeners use?",
+      "Questions": [
+        "What makes a professional gardener?",
+        "Which gardening tool is most useful in cutting and clearing?",
+        "What equipment is used for planting?",
+        "What is the most used gardening tool?",
+        "What is a garden tool used for weeding?",
+        "What are the materials used in gardening?"
+      ]
+    },
+    {
+      "Parent Question": "What to buy for a beginner gardener?",
+      "Questions": [
+        "What is the best starter garden?",
+        "What is one thing that gardeners need?",
+        "What tools do I need to clear a garden?",
+        "What tools do you need for a garden?",
+        "What is the first thing a gardener sets in a garden?",
+        "What type of exercise is gardening?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 9 gardening tools?",
+      "Questions": [
+        "What is the best tool to mix soil?",
+        "What are gardening scissors called?",
+        "What is a Maddox tool?",
+        "What is the most important tool for gardening?",
+        "How many things are there in garden?",
+        "How to plant a seed step by step?"
+      ]
+    },
+    {
+      "Parent Question": "common gardening mistakes and how to avoid them",
+      "Questions": [
+        "What is the most common mistake of first time gardeners?",
+        "What's the hardest part of gardening?",
+        "What is the most common mistake made with container plants?",
+        "How did Monty Don learn gardening?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most common mistake of first time gardeners?",
+      "Questions": [
+        "What is the common garden effect?",
+        "Which is the most common mistake made in tree planting?",
+        "Why does gardening hurt so much?",
+        "What is the first thing a gardener sets in a garden?"
+      ]
+    },
+    {
+      "Parent Question": "What's the hardest part of gardening?",
+      "Questions": [
+        "What is the best gardening method?",
+        "What is the hardest plant to grow in a garden?",
+        "What age are most gardeners?",
+        "What is the hardest crop to grow?",
+        "What type of garden is easiest to maintain?",
+        "Which soil is difficult?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most common mistake made with container plants?",
+      "Questions": [
+        "What is a disadvantage to container gardening?",
+        "How deep of a planter do I need?",
+        "Why is too much water in the soil a problem for most plants?",
+        "What are the hazards of containers?",
+        "What are the dangers of shipping containers?",
+        "What are some other ways shipping containers could be used what problems could they solve?"
+      ]
+    },
+    {
+      "Parent Question": "How did Monty Don learn gardening?",
+      "Questions": [
+        "Is Gardeners World scripted?",
+        "Is it horticulturist or horticulturalist?",
+        "Who is behind garden answer?",
+        "What is the story behind garden answer?",
+        "Is Monty Don a real gardener?",
+        "How old is garden answer?"
+      ]
+    },
+    {
+      "Parent Question": "gardening for mental health and relaxation",
+      "Questions": [
+        "Is gardening a relaxing hobby?",
+        "Which plant is best for mental health?",
+        "How to improve mental wellbeing?",
+        "Why do I feel so good after gardening?"
+      ]
+    },
+    {
+      "Parent Question": "Is gardening a relaxing hobby?",
+      "Questions": [
+        "What personality type likes gardening?",
+        "Is gardening like meditation?",
+        "What is a good quote for gardening?",
+        "What type of exercise is gardening?"
+      ]
+    },
+    {
+      "Parent Question": "Which plant is best for mental health?",
+      "Questions": [
+        "What are 5 ways to improve mental health?",
+        "Which plant is best for brain?",
+        "What vegetables are good for mental health?",
+        "Which plant reduce depression?",
+        "What flower is mental health?",
+        "What is the best herb for mental health?"
+      ]
+    },
+    {
+      "Parent Question": "How to improve mental wellbeing?",
+      "Questions": [
+        "How to grow mentally?",
+        "What are the 7 pillars of self-care?",
+        "What are 5 signs of poor mental wellbeing?",
+        "How to relax your mind?",
+        "How to heal emotionally?",
+        "What is the hardest mental illness to live with?"
+      ]
+    },
+    {
+      "Parent Question": "Why do I feel so good after gardening?",
+      "Questions": [
+        "Is gardening an antidepressant?",
+        "Is gardening stressful?",
+        "Why do I feel so tired after gardening?",
+        "Do plants boost serotonin?",
+        "Why do I feel dizzy after gardening?",
+        "Why do I feel better after eating vegetables?"
+      ]
+    },
+    {
+      "Parent Question": "growing herbs indoors tips and tricks",
+      "Questions": [
+        "How do you keep herb plants alive indoors?",
+        "What herbs are easiest to grow indoors?",
+        "How often should I water indoor herbs?",
+        "What herbs should not be grown indoors?"
+      ]
+    },
+    {
+      "Parent Question": "How do you keep herb plants alive indoors?",
+      "Questions": [
+        "Why are my indoor herbs dying?",
+        "Do herbs need full sun?",
+        "Do indoor herbs need fertilizer?",
+        "How long do potted herbs last?"
+      ]
+    },
+    {
+      "Parent Question": "What herbs are easiest to grow indoors?",
+      "Questions": [
+        "What is the most difficult herb to grow?",
+        "What herbs grow fastest indoors?",
+        "Can you grow herbs indoors without sunlight?",
+        "What are the best conditions for growing herbs indoors?",
+        "What is the fastest plant to grow indoors?",
+        "What herbs should be planted alone?"
+      ]
+    },
+    {
+      "Parent Question": "How often should I water indoor herbs?",
+      "Questions": [
+        "Where do herbs grow best?",
+        "Do herbs need misting?",
+        "How do you save overwatered herbs?",
+        "Do herbs like sun or shade?",
+        "Why are my herbs not growing indoors?",
+        "How to water a rosemary plant?"
+      ]
+    },
+    {
+      "Parent Question": "What herbs should not be grown indoors?",
+      "Questions": [
+        "What herbs are hardest to grow?",
+        "What is the easiest herb to grow indoors?",
+        "What herbs should not be next to each other?",
+        "What herbs should not be potted together?",
+        "What plants are best to start indoors?",
+        "Is it better to grow herbs in a greenhouse or outside?"
+      ]
+    },
+    {
+      "Parent Question": "how to attract birds and butterflies to your garden",
+      "Questions": [
+        "What attracts birds the most?",
+        "What is the best thing to attract butterflies?",
+        "How to make a bird come to you?",
+        "What plant attracts the most birds?"
+      ]
+    },
+    {
+      "Parent Question": "What attracts birds the most?",
+      "Questions": [
+        "What color attracts most birds?",
+        "What do birds need the most?",
+        "What birds like humans the most?",
+        "What attracts female birds?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best thing to attract butterflies?",
+      "Questions": [
+        "How to make garden butterflies?",
+        "What colors attract butterflies the most?",
+        "What triggers butterflies?",
+        "What smell are butterflies attracted to?",
+        "What is the best food to attract butterflies?",
+        "How do you catch butterflies easily?"
+      ]
+    },
+    {
+      "Parent Question": "How to make a bird come to you?",
+      "Questions": [
+        "What food do birds like the most?",
+        "How to get birds to like you?",
+        "How to attract pigeons?",
+        "How do you give a bird attention?",
+        "What is the best bird food to attract colorful birds?",
+        "How do birds show they like you?"
+      ]
+    },
+    {
+      "Parent Question": "What plant attracts the most birds?",
+      "Questions": [
+        "How do you attract a lot of birds?",
+        "What color attracts birds the most?",
+        "What is the best tree to plant for birds?",
+        "Which bird causes the most damage to plants?",
+        "What is the most common predator for birds?"
+      ]
+    },
+    {
+      "Parent Question": "how to create a pollinator friendly garden",
+      "Questions": [
+        "What plants are best for a pollinator garden?",
+        "How do you pollinate a garden?",
+        "How do you attract more pollinators?",
+        "What is the best mulch for a pollinator garden?"
+      ]
+    },
+    {
+      "Parent Question": "What plants are best for a pollinator garden?",
+      "Questions": [
+        "What is the most effective pollinator?",
+        "What plant attracts the most bees?",
+        "What pollinates most plants?",
+        "What are some examples of pollination plants?"
+      ]
+    },
+    {
+      "Parent Question": "How do you pollinate a garden?",
+      "Questions": [
+        "What are the best vegetables for pollinators?",
+        "Do onions need pollination?",
+        "Do tomatoes need to be pollinated?",
+        "What vegetables don't need pollinators?",
+        "How to pollinate without bees?",
+        "What vegetables cross-pollinate?"
+      ]
+    },
+    {
+      "Parent Question": "How do you attract more pollinators?",
+      "Questions": [
+        "What smell do bees hate?",
+        "What color attracts pollinators the most?",
+        "What food attracts bees the most?",
+        "Which flower attracts the most pollinators?",
+        "How to pollinate your garden?",
+        "What scent attracts pollinators?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best mulch for a pollinator garden?",
+      "Questions": [
+        "Which plant is best for pollination?",
+        "Which mulch is healthiest?",
+        "What is the best lawn for pollinators?",
+        "What is the most eco friendly mulch?",
+        "What color mulch is best for flowers?",
+        "What flowers grow best in mulch?"
+      ]
+    },
+    {
+      "Parent Question": "how to create a themed garden eg butterfly garden herb garden",
+      "Questions": [
+        "How to set up a butterfly habitat?",
+        "How do you make a colorful garden?",
+        "What to do in butterfly Garden?",
+        "What are the best plants for a butterfly garden?"
+      ]
+    },
+    {
+      "Parent Question": "How to set up a butterfly habitat?",
+      "Questions": [
+        "How to make a DIY butterfly enclosure?",
+        "What is the best environment for butterflies?",
+        "How do I start a butterfly collection?",
+        "How do you grow a butterfly plant?"
+      ]
+    },
+    {
+      "Parent Question": "How do you make a colorful garden?",
+      "Questions": [
+        "How do I make my garden magical?",
+        "How I can decorate my garden?",
+        "What is the best color combination for a garden?",
+        "How do I make my garden pretty?",
+        "How do you make a creative garden path?",
+        "How do you make a rainbow garden?"
+      ]
+    },
+    {
+      "Parent Question": "What to do in butterfly Garden?",
+      "Questions": [
+        "What is a butterfly garden called?",
+        "What should you put in a butterfly house?",
+        "What is the significance of butterfly garden?",
+        "How many butterflies are there in butterfly garden?",
+        "How do you entertain a butterfly?",
+        "Is food allowed in butterfly garden?"
+      ]
+    },
+    {
+      "Parent Question": "What are the best plants for a butterfly garden?",
+      "Questions": [
+        "What colors attract butterflies?",
+        "How to make a butterfly feeder?",
+        "What to pair with a butterfly bush?",
+        "What is the most common garden butterfly?",
+        "What is the flower that looks like a butterfly?",
+        "How to draw a butterfly on a flower?"
+      ]
+    },
+    {
+      "Parent Question": "how to design a drought tolerant garden",
+      "Questions": [
+        "What is the most drought tolerant ground cover?",
+        "What is the most drought tolerant plant?",
+        "What is the best drought-resistant crop?",
+        "What is the best soil for drought tolerant plants?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most drought tolerant ground cover?",
+      "Questions": [
+        "Which plant will most likely survive a long drought?",
+        "What is the fastest spreading ground cover?",
+        "Which crop is most sensitive to drought?",
+        "What is the best groundcover for full sun?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most drought tolerant plant?",
+      "Questions": [
+        "What plant needs the least amount of water?",
+        "What crops are drought tolerant?",
+        "What is the best drought tolerant cover crop?",
+        "What fruit crops are most drought tolerant?",
+        "What ground cover requires the least water?",
+        "What is the best plant for poor soil?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best drought-resistant crop?",
+      "Questions": [
+        "What vegetable needs the least amount of water?",
+        "Which plant is best suited to survive droughts?",
+        "What is the best crop to grow without water?",
+        "What plant uses the most water?",
+        "What crop is most affected by drought?",
+        "Is rice drought resistant?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best soil for drought tolerant plants?",
+      "Questions": [
+        "Which is the most drought resistant crop?",
+        "Which Fertiliser is most beneficial for drought resistance?",
+        "Which type of root system is best in a drought?",
+        "Which soil needs least water?",
+        "What are drought tolerant traits in plants?",
+        "What is the best soil for absorbing moisture?"
+      ]
+    },
+    {
+      "Parent Question": "how to grow flowers for cutting and arranging",
+      "Questions": [
+        "How to grow a flower cutting?",
+        "What are the best flowers to grow for cut flowers?",
+        "What is the best potting mix for cut flowers?",
+        "What is the best plant food for cut flowers?"
+      ]
+    },
+    {
+      "Parent Question": "How to grow a flower cutting?",
+      "Questions": [
+        "How do you grow cuttings fast?",
+        "How are cut flowers grown?",
+        "What do you need to grow cuttings?",
+        "What flowers last longest in a vase?"
+      ]
+    },
+    {
+      "Parent Question": "What are the best flowers to grow for cut flowers?",
+      "Questions": [
+        "What makes cut flowers last longer?",
+        "What is the easiest flower to grow?",
+        "Which plant is best for cutting?",
+        "What makes cut flowers bloom?",
+        "What is the number 1 cut flower?",
+        "What do florists use to keep cut flowers fresh?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best potting mix for cut flowers?",
+      "Questions": [
+        "What soil should I use for cuttings?",
+        "What is the best recipe for cut flowers?",
+        "What soil should I use for flowers?",
+        "What is the best fertilizer for cut flowers?",
+        "What is the best mix for plant cuttings?",
+        "What is the best compost for flowers?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best plant food for cut flowers?",
+      "Questions": [
+        "Is sugar water good for flowers?",
+        "Is lemon juice good for flowers?",
+        "What to use instead of flower food?",
+        "Does sugar help cut flowers?",
+        "What solution makes cut flowers last longer?",
+        "How to make a bouquet of flowers at home?"
+      ]
+    },
+    {
+      "Parent Question": "how to grow plants from seeds",
+      "Questions": [
+        "How to grow a plant from seed step by step?",
+        "How do you grow seeds for planting?",
+        "Can you put seeds straight into soil?",
+        "How do you grow seeds into new plants?"
+      ]
+    },
+    {
+      "Parent Question": "How to grow a plant from seed step by step?",
+      "Questions": [
+        "What is the best way to germinate seeds?",
+        "How do you plant seeds in 10 easy steps?",
+        "Do seeds need light to germinate?",
+        "How many seeds per hole?"
+      ]
+    },
+    {
+      "Parent Question": "How do you grow seeds for planting?",
+      "Questions": [
+        "What is the best method of planting seeds?",
+        "How do you plant seeds in 5 steps?",
+        "Do I need plant food for seedlings?",
+        "How to start a plant from seed?",
+        "How do you activate seeds for planting?",
+        "How do you plant seeds directly?"
+      ]
+    },
+    {
+      "Parent Question": "Can you put seeds straight into soil?",
+      "Questions": [
+        "Do all seeds need to be soaked before planting?",
+        "Is there a right way to plant a seed?",
+        "Can you plant directly into dirt?",
+        "Do seeds need wet soil?",
+        "Can I replant seeds that didn't germinate?",
+        "How to plant sow-easy seeds?"
+      ]
+    },
+    {
+      "Parent Question": "How do you grow seeds into new plants?",
+      "Questions": [
+        "How to successfully germinate seeds?",
+        "What is the easiest plant to grow from seed?",
+        "What happens when a seed dies in the ground?",
+        "How do you grow plants from seeds for beginners?",
+        "How long does it take for seeds to germinate?",
+        "How to grow seeds fast?"
+      ]
+    },
+    {
+      "Parent Question": "how to grow plants in low light conditions",
+      "Questions": [
+        "How to help plants grow in low light conditions?",
+        "How do you keep plants alive in a low light room?",
+        "Can you use your phone as a light meter for plants?",
+        "What is the easiest plant to grow in low light?"
+      ]
+    },
+    {
+      "Parent Question": "How to help plants grow in low light conditions?",
+      "Questions": [
+        "Do LED lights help plants grow?",
+        "How to keep plants alive with no sun?",
+        "How can I increase my plant light?",
+        "Can low light plants survive without sunlight?"
+      ]
+    },
+    {
+      "Parent Question": "How do you keep plants alive in a low light room?",
+      "Questions": [
+        "What happens if a plant is kept in dark without sunlight?",
+        "Do plants like artificial light?",
+        "How to grow plants in a dark room?",
+        "How do plants grow in low light?",
+        "How to grow ًںھ´?",
+        "What will happen if a plant is kept in the dark for 2 days?"
+      ]
+    },
+    {
+      "Parent Question": "Can you use your phone as a light meter for plants?",
+      "Questions": [
+        "Is electric light OK for plants?",
+        "Can I use my phone as a lamp?",
+        "Can I use my camera as a light meter?",
+        "How do I know if my plant is getting enough light?",
+        "What is the alternative to a par meter?",
+        "Can an iPhone be a light meter?"
+      ]
+    },
+    {
+      "Parent Question": "What is the easiest plant to grow in low light?",
+      "Questions": [
+        "How to care for low light plants?",
+        "Is it okay to have a zz plant in the bedroom?",
+        "Do plants grow slower with less light?",
+        "Which plants don't need sunlight?",
+        "What color of light is least effective for plant growth?",
+        "Do rubber plants need a lot of light?"
+      ]
+    },
+    {
+      "Parent Question": "how to grow succulents and cacti successfully",
+      "Questions": [
+        "How do you grow succulents successfully?",
+        "What is the trick to succulents?",
+        "What is the rule of cacti and succulents?",
+        "How do I make my cactus grow well?"
+      ]
+    },
+    {
+      "Parent Question": "How do you grow succulents successfully?",
+      "Questions": [
+        "What makes succulents grow fast?",
+        "Can succulents take full sun?",
+        "Can succulents live inside without sunlight?",
+        "How do I encourage my succulents to root?"
+      ]
+    },
+    {
+      "Parent Question": "What is the trick to succulents?",
+      "Questions": [
+        "Why are succulents so hard to keep alive?",
+        "Do coffee grounds help succulents?",
+        "How often should I water a succulent?",
+        "How to make a succulent survive?",
+        "How to fertilize succulents?",
+        "What is the best way to water succulents and cactus?"
+      ]
+    },
+    {
+      "Parent Question": "What is the rule of cacti and succulents?",
+      "Questions": [
+        "Should I spray my cactus with water?",
+        "Do cactus need deep or wide pots?",
+        "How do you keep succulents and cacti alive?",
+        "Should you spray succulents with water?",
+        "Can you mix succulents and cacti?",
+        "How often should I feed a succulent?"
+      ]
+    },
+    {
+      "Parent Question": "How do I make my cactus grow well?",
+      "Questions": [
+        "What helps cactus grow faster?",
+        "Do coffee grounds help cactus?",
+        "What is the best fertilizer for cactus?",
+        "How do I keep my cactus happy?",
+        "How can I make my cactus farm more efficient?",
+        "How can I improve my cactus roots?"
+      ]
+    },
+    {
+      "Parent Question": "how to harvest and store garden produce",
+      "Questions": [
+        "How do you store vegetable harvest?",
+        "How to preserve vegetables from the garden?",
+        "How to store fresh vegetables for a long time?",
+        "How should produce be stored?"
+      ]
+    },
+    {
+      "Parent Question": "How do you store vegetable harvest?",
+      "Questions": [
+        "How do you store vegetables after cutting?",
+        "What is the meaning of garden harvest?",
+        "How do you harvest and store root vegetables?",
+        "How long can you leave vegetables in the ground?"
+      ]
+    },
+    {
+      "Parent Question": "How to preserve vegetables from the garden?",
+      "Questions": [
+        "How do you can vegetables for long term storage?",
+        "How do you preserve fruits and vegetables in horticulture?",
+        "How to store garden carrots?",
+        "What is the best method for preserving vegetables?",
+        "How do you freeze fresh garden vegetables?",
+        "What is the best temperature to store fruits and vegetables?"
+      ]
+    },
+    {
+      "Parent Question": "How to store fresh vegetables for a long time?",
+      "Questions": [
+        "What are the techniques in storing vegetables?",
+        "Which vegetables can be stored the longest?",
+        "How can you maximize the shelf life of vegetables?",
+        "How do you keep vegetables fresh after cutting?",
+        "How to store green leafy vegetables?",
+        "How to preserve vegetables without canning?"
+      ]
+    },
+    {
+      "Parent Question": "How should produce be stored?",
+      "Questions": [
+        "What vegetables shouldn't be stored together?",
+        "How to keep vegetables fresh longer?",
+        "How to reduce ethylene gas in a fridge?",
+        "What are the guidelines for storing fruit and vegetables?",
+        "How do you manage fresh produce?",
+        "What fruit should not be refrigerated?"
+      ]
+    },
+    {
+      "Parent Question": "how to improve soil health naturally",
+      "Questions": [
+        "What is the fastest way to improve soil quality?",
+        "How do I make my soil healthy?",
+        "How can I make my soil good again?",
+        "What are 5 ways to increase soil fertility?"
+      ]
+    },
+    {
+      "Parent Question": "What is the fastest way to improve soil quality?",
+      "Questions": [
+        "What is the fastest way to add nutrients to soil?",
+        "How to make soil acidic?",
+        "How to increase soil biology?",
+        "How to make rich soil farmer's delight?"
+      ]
+    },
+    {
+      "Parent Question": "How do I make my soil healthy?",
+      "Questions": [
+        "How to fertile soil naturally?",
+        "How do you add goodness to soil?",
+        "How to healthify soil?",
+        "What makes rich soil?",
+        "How do you fix soil problems?",
+        "How to make soil more breathable?"
+      ]
+    },
+    {
+      "Parent Question": "How can I make my soil good again?",
+      "Questions": [
+        "How to build healthy soil?",
+        "How do you rehydrate old soil?",
+        "How do you know if your soil is bad?",
+        "What is the fastest way to add nitrogen to soil?",
+        "How to improve soil biology?",
+        "How to remineralize soil?"
+      ]
+    },
+    {
+      "Parent Question": "What are 5 ways to increase soil fertility?",
+      "Questions": [
+        "How to make old soil fertile?",
+        "What are the methods of improving soil?",
+        "How can we stop soil erosion?",
+        "What makes soil naturally fertile?",
+        "How can we improve soil productivity?",
+        "How to restore soil fertility?"
+      ]
+    },
+    {
+      "Parent Question": "how to maintain a healthy lawn naturally",
+      "Questions": [
+        "What is the best lawn care routine?",
+        "What is the best thing to put on your lawn?",
+        "What is the best natural lawn?",
+        "How do you fix a weak lawn?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best lawn care routine?",
+      "Questions": [
+        "What is the 1 3 rule for lawn?",
+        "How do I make my lawn good?",
+        "What is the best treatment for a lawn?",
+        "Should you fertilize your lawn before or after it rains?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best thing to put on your lawn?",
+      "Questions": [
+        "What kills grass the best?",
+        "What chemicals to put on grass?",
+        "What do you put on top of your lawn?",
+        "What makes grass green?",
+        "What is the best fertilizer for new grass?",
+        "What is a good lawn care schedule?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best natural lawn?",
+      "Questions": [
+        "What's better for your lawn?",
+        "What are the disadvantages of natural grass?",
+        "What is the easiest lawn to maintain?",
+        "What type is better than grass?",
+        "What is the cheapest thing to replace grass with?",
+        "How long does natural grass last?"
+      ]
+    },
+    {
+      "Parent Question": "How do you fix a weak lawn?",
+      "Questions": [
+        "What is the best way to revive a lawn?",
+        "How do I get my lawn to level perfectly?",
+        "How do I perk up my lawn?",
+        "What fertilizer is best for lawns?",
+        "How to repair bare spots in a lawn?",
+        "How to fix a bumpy lawn?"
+      ]
+    },
+    {
+      "Parent Question": "how to plan and maintain a perennial garden",
+      "Questions": [
+        "What is the best time of year to divide perennials?",
+        "How long is the life cycle of a perennial plant?",
+        "What garden layout is best for sun?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best time of year to divide perennials?",
+      "Questions": [
+        "What are the easiest perennials to divide?",
+        "What is the best time of day to water perennials?",
+        "What is the best tool to divide perennials?",
+        "What is the best temperature to plant perennials?"
+      ]
+    },
+    {
+      "Parent Question": "How long is the life cycle of a perennial plant?",
+      "Questions": [
+        "What is the most popular perennial plant?",
+        "How long do most perennial plants live?",
+        "Is basil a perennial?",
+        "How big are perennial plants?",
+        "What plant lasts the longest, annual or perennial?",
+        "Are carrots biennial?"
+      ]
+    },
+    {
+      "Parent Question": "What garden layout is best for sun?",
+      "Questions": [
+        "What fruit grows best in full sun?",
+        "What is the best garden direction?",
+        "Is morning sun best for a garden?",
+        "What vegetables grow best in full sun?",
+        "What is the most common garden layout for growing vegetables?",
+        "What is the easiest vegetable to grow?"
+      ]
+    },
+    {
+      "Parent Question": "how to prevent and treat plant diseases",
+      "Questions": [
+        "How can you prevent and control the disease of the plant?",
+        "How to treat plant diseases?",
+        "How can we prevent plants?",
+        "How can we preserve plant diseases?"
+      ]
+    },
+    {
+      "Parent Question": "How can you prevent and control the disease of the plant?",
+      "Questions": [
+        "How can you prevent and control diseases?",
+        "Which is the best control method of plant disease?",
+        "How do you manage plant disease control?",
+        "How can we prevent plant viruses?"
+      ]
+    },
+    {
+      "Parent Question": "How to treat plant diseases?",
+      "Questions": [
+        "How do you treat damaged plants?",
+        "What are the methods of controlling diseases?",
+        "How do plants deal with disease?",
+        "How do you treat plant deficiency?",
+        "How do you treat leaf disease?",
+        "What are the 3 main disease agents for plant diseases?"
+      ]
+    },
+    {
+      "Parent Question": "How can we prevent plants?",
+      "Questions": [
+        "How to solve plant diseases?",
+        "How do you control plants?",
+        "What prevents plant growth?",
+        "How do you stop killing plants?",
+        "How can we prevent soil?",
+        "What are the methods of plant conservation?"
+      ]
+    },
+    {
+      "Parent Question": "How can we preserve plant diseases?",
+      "Questions": [
+        "How can we improve plant safety?",
+        "What is plant disease management?",
+        "What is plant preservation?",
+        "How to prevent viral diseases in plants?",
+        "How can you save plants?",
+        "How to control crop disease?"
+      ]
+    },
+    {
+      "Parent Question": "how to propagate plants from cuttings",
+      "Questions": [
+        "What is the best way to propagate plants from cuttings?",
+        "Is it better to propagate cuttings in water or soil?",
+        "Can you put cuttings straight into soil?",
+        "Can you take cuttings from any plant?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best way to propagate plants from cuttings?",
+      "Questions": [
+        "What helps cuttings root faster?",
+        "What is the best homemade rooting hormone?",
+        "What is the best method of plant propagation?",
+        "How long do cuttings take to root?"
+      ]
+    },
+    {
+      "Parent Question": "Is it better to propagate cuttings in water or soil?",
+      "Questions": [
+        "Should you water cuttings everyday?",
+        "Why do cuttings fail to root?",
+        "Should I put fertilizer in water when propagating?",
+        "Why won't my cuttings root in water?",
+        "What are the disadvantages of cuttings?",
+        "How to root a plant cutting?"
+      ]
+    },
+    {
+      "Parent Question": "Can you put cuttings straight into soil?",
+      "Questions": [
+        "Should soil be wet when propagating?",
+        "Where to cut for propagation?",
+        "Do cuttings need fertilizer?",
+        "How deep to put cuttings?",
+        "Do cuttings need to be covered?",
+        "How long can cuttings survive before planting?"
+      ]
+    },
+    {
+      "Parent Question": "Can you take cuttings from any plant?",
+      "Questions": [
+        "What is the best time to propagate cuttings?",
+        "What plants are best for cuttings?",
+        "How to properly propagate plants?",
+        "How long do propagated cuttings take to root?",
+        "What is the best soil for cuttings?",
+        "What plants can you clone from cuttings?"
+      ]
+    },
+    {
+      "Parent Question": "how to start a garden for beginners",
+      "Questions": [
+        "What is the best garden for a beginner?",
+        "What is the most common mistake of first time gardeners?",
+        "What is the first thing a gardener sets in a garden?",
+        "What time of year is best to start a garden?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best garden for a beginner?",
+      "Questions": [
+        "What is the quickest vegetable to grow?",
+        "How to grow cucumbers?",
+        "What is the easiest vegetable to grow?",
+        "What type of garden is easiest to maintain?"
+      ]
+    },
+    {
+      "Parent Question": "how to start a hydroponic garden at home",
+      "Questions": [
+        "How to start hydroponic gardening for beginners?",
+        "What are three common mistakes people make when growing hydroponically?",
+        "What is the cheapest way to start hydroponics?",
+        "What are the 5 disadvantages of hydroponics?"
+      ]
+    },
+    {
+      "Parent Question": "How to start hydroponic gardening for beginners?",
+      "Questions": [
+        "What is the easiest plant to grow in hydroponics?",
+        "How often should I feed hydroponic plants?",
+        "What solution is needed for hydroponics?",
+        "Is growing hydroponic easy?"
+      ]
+    },
+    {
+      "Parent Question": "What are three common mistakes people make when growing hydroponically?",
+      "Questions": [
+        "What 4 things do hydroponic systems need to be successful?",
+        "Do plants grow faster hydroponically or in soil?",
+        "What is the root problem in hydroponics?",
+        "Why are my hydroponic plants dying?",
+        "What is the most important factor in hydroponics?",
+        "What does not grow well hydroponically?"
+      ]
+    },
+    {
+      "Parent Question": "What is the cheapest way to start hydroponics?",
+      "Questions": [
+        "What is the best vegetable for hydroponics?",
+        "What is the easiest DIY hydroponic system for beginners?",
+        "What is the cheapest substrate for hydroponics?",
+        "How do I start indoor hydroponics?",
+        "What materials do you need for hydroponics DIY?",
+        "What is the simplest form of hydroponic systems?"
+      ]
+    },
+    {
+      "Parent Question": "how to start composting at home",
+      "Questions": [
+        "How do I start composting for beginners?",
+        "What are the 3 parts you need to start compost?",
+        "What is the easiest way to compost at home?",
+        "What is the first rule of composting?"
+      ]
+    },
+    {
+      "Parent Question": "How do I start composting for beginners?",
+      "Questions": [
+        "What are 3 tips for composting?",
+        "What is a good compost starter?",
+        "What do I put at the bottom of my compost bin?",
+        "What are the 5 easy steps in composting?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 3 parts you need to start compost?",
+      "Questions": [
+        "What don't you put in compost?",
+        "How to tell when compost is ready?",
+        "What are the disadvantages of composting?",
+        "What 4 items do you need for a successful compost pile?",
+        "Do I need worms in my compost bin?",
+        "Does composting smell?"
+      ]
+    },
+    {
+      "Parent Question": "What is the easiest way to compost at home?",
+      "Questions": [
+        "What is the laziest way to compost?",
+        "What not to do when making compost?",
+        "What is the fastest thing to compost?",
+        "What is the trick to make a good compost in short time?",
+        "Can you compost bread?",
+        "How to make compost step by step?"
+      ]
+    },
+    {
+      "Parent Question": "What is the first rule of composting?",
+      "Questions": [
+        "How to compost for beginners?",
+        "What is the formula for composting?",
+        "What is the most effective method to compost?",
+        "What are 3 best practices for composting?",
+        "What is short method of composting?",
+        "What are the 7 steps in composting?"
+      ]
+    },
+    {
+      "Parent Question": "seasonal planting guide for home gardens",
+      "Questions": [
+        "What is the best season to plant a garden?",
+        "What vegetable is best planted all year round?",
+        "What month is best for planting vegetables?",
+        "What vegetables can be planted next to each other?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best season to plant a garden?",
+      "Questions": [
+        "What months do plants grow fastest?",
+        "What month do you plant outside?",
+        "What season do plants grow best?",
+        "What month is best to sow seeds?"
+      ]
+    },
+    {
+      "Parent Question": "What vegetable is best planted all year round?",
+      "Questions": [
+        "What is the fastest growing garden vegetable?",
+        "What is the best plant for all year round?",
+        "What vegetable has the longest growing season?",
+        "Which vegetable plant grows fastest at home?",
+        "What is the most valuable vegetable to grow?",
+        "What are winter vegetables?"
+      ]
+    },
+    {
+      "Parent Question": "What month is best for planting vegetables?",
+      "Questions": [
+        "What is the easiest vegetable to grow for beginners?",
+        "What season do you start planting?",
+        "When to grow carrots?",
+        "What is the best month to plant plants?",
+        "What temperature is best for growing vegetables?"
+      ]
+    },
+    {
+      "Parent Question": "What vegetables can be planted next to each other?",
+      "Questions": [
+        "What should you not plant cucumbers next to?",
+        "What not to plant next to carrots?",
+        "What plants don't like peppers?",
+        "Can tomatoes and cucumbers be planted together?",
+        "What not to plant near eggplant?",
+        "Can you plant onions next to carrots?"
+      ]
+    },
+    {
+      "Parent Question": "the basics of aquaponic gardening",
+      "Questions": [
+        "What are the fundamentals of aquaponics?",
+        "What are the principles of aquaponics?",
+        "What are the four main parts of an aquaponics system?",
+        "What is the process of aquaponics?"
+      ]
+    },
+    {
+      "Parent Question": "What are the fundamentals of aquaponics?",
+      "Questions": [
+        "What are 3 types of aquaponics?",
+        "How to do simple aquaponics?",
+        "What is the methodology of aquaponics?",
+        "What are the most important water parameters for aquaponics?"
+      ]
+    },
+    {
+      "Parent Question": "What are the principles of aquaponics?",
+      "Questions": [
+        "What are the parameters of aquaponics?",
+        "What do I need to start aquaponics?",
+        "What is the ratio for aquaponics plants?",
+        "What are the conditions for aquaponics?",
+        "What are the practices of aquaponics?",
+        "What is aquaponics limitation?"
+      ]
+    },
+    {
+      "Parent Question": "What are the four main parts of an aquaponics system?",
+      "Questions": [
+        "What plants are good for aquaponics?",
+        "What are three disadvantages of aquaponics?",
+        "What chemicals are used in aquaponics?",
+        "What fish is best for aquaponics?",
+        "How to size an aquaponics system?",
+        "What are 5 nutrient deficiencies that show up in aquaponics systems?"
+      ]
+    },
+    {
+      "Parent Question": "What is the process of aquaponics?",
+      "Questions": [
+        "How do I start aquaponics?",
+        "What is the summary of aquaponics?",
+        "What technology is used in aquaponics?",
+        "What is the cycle of aquaponics?",
+        "How deep should an aquaponics grow bed be?",
+        "How to do aquaponics without fish?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits of companion planting",
+      "Questions": [
+        "Why does growing different plants next to each other help them grow better?",
+        "What vegetables should not be planted next to each other in a garden?",
+        "What is companion intercropping?",
+        "Can I plant sunflowers next to raspberries?"
+      ]
+    },
+    {
+      "Parent Question": "Why does growing different plants next to each other help them grow better?",
+      "Questions": [
+        "Do plants benefit from being next to each other?",
+        "Why do plants grow better in groups?",
+        "Why should we grow more plants around our house?",
+        "What is it called when you mix plants?"
+      ]
+    },
+    {
+      "Parent Question": "What vegetables should not be planted next to each other in a garden?",
+      "Questions": [
+        "Which vegetables grow best together?",
+        "How close can you plant plants next to each other?",
+        "What not to plant next to cucumbers?",
+        "What vegetables to keep away from each other?",
+        "Is it OK to plant flowers next to vegetables?",
+        "What herbs should you not plant next to each other?"
+      ]
+    },
+    {
+      "Parent Question": "What is companion intercropping?",
+      "Questions": [
+        "What is another name for companion planting?",
+        "What is the difference between intercropping and intercropping?",
+        "Who discovered companion planting?",
+        "Which is the best example of intercropping?",
+        "What is a trap plant?",
+        "What is parallel crop?"
+      ]
+    },
+    {
+      "Parent Question": "Can I plant sunflowers next to raspberries?",
+      "Questions": [
+        "What vegetables grow best together?",
+        "Can you plant garlic next to raspberries?",
+        "What do sunflowers grow best with?",
+        "What is the best companion plant for cabbage?",
+        "Can you plant onions next to sunflowers?",
+        "Do raspberry plants like coffee?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits of rainwater harvesting for gardens",
+      "Questions": [
+        "What are the benefits of rainwater harvesting?",
+        "What is the importance of rainwater in harvesting?",
+        "Why is rainwater harvesting good?",
+        "What is rain water good for?"
+      ]
+    },
+    {
+      "Parent Question": "What are the benefits of rainwater harvesting?",
+      "Questions": [
+        "What are the benefits of conserving rainwater?",
+        "What is the conclusion of rainwater harvesting?",
+        "How does rainwater harvesting work?",
+        "Is rain water good for your skin?"
+      ]
+    },
+    {
+      "Parent Question": "What is the importance of rainwater in harvesting?",
+      "Questions": [
+        "What is the need rainwater harvesting?",
+        "What are the benefits of the rain?",
+        "What is the objective of rainwater harvesting?",
+        "What are the methods of rainwater harvesting?",
+        "What is the principle of water harvesting?",
+        "What is the definition of harvesting?"
+      ]
+    },
+    {
+      "Parent Question": "Why is rainwater harvesting good?",
+      "Questions": [
+        "What are the benefits of reusing rainwater?",
+        "What are the advantages and disadvantages of the rain?",
+        "What is the purpose of a rainwater tank?",
+        "Do rainwater tanks save money?",
+        "What are the disadvantages of a rain barrel?",
+        "How to collect rainwater?"
+      ]
+    },
+    {
+      "Parent Question": "What is rain water good for?",
+      "Questions": [
+        "What are the advantages of rainwater harvesting?",
+        "Why is rainwater good for the environment?",
+        "What can you use rainwater harvesting for?",
+        "What is the benefit of rain?",
+        "Is rainwater good for indoor plants?",
+        "How to purify rainwater?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits of raised bed gardening",
+      "Questions": [
+        "What are the benefits of a raised garden bed?",
+        "What is the advantage and disadvantage of raised bed?",
+        "What is a raised garden bed and why are they necessary?",
+        "What is the point in raised beds?"
+      ]
+    },
+    {
+      "Parent Question": "What are the benefits of a raised garden bed?",
+      "Questions": [
+        "What is special about raised bed soil?",
+        "Are raised beds good for the environment?",
+        "What makes a good raised bed?",
+        "Why are beds raised?"
+      ]
+    },
+    {
+      "Parent Question": "What is the advantage and disadvantage of raised bed?",
+      "Questions": [
+        "What do you use raised beds for?",
+        "What are the disadvantages of a high bed?",
+        "Are raised garden beds safe?",
+        "Are raised garden beds better than in ground?",
+        "What are the advantages of a seedbed?",
+        "What is the meaning of raised bed?"
+      ]
+    },
+    {
+      "Parent Question": "What is a raised garden bed and why are they necessary?",
+      "Questions": [
+        "What are the pros and cons of raised garden beds?",
+        "What plants do best in raised beds?",
+        "Do raised beds need fertilizer?",
+        "What is the difference between a planter and a raised bed?",
+        "Do raised beds need a bottom?",
+        "How deep should a raised bed be?"
+      ]
+    },
+    {
+      "Parent Question": "What is the point in raised beds?",
+      "Questions": [
+        "What is the use of raised beds?",
+        "What is the easiest vegetable to grow?",
+        "What is the difference between garden soil and raised bed soil?",
+        "What are the features of raised beds?",
+        "What is the raised bed method?",
+        "Why do you put cardboard under a raised bed?"
+      ]
+    },
+    {
+      "Parent Question": "the role of mulch in a thriving garden",
+      "Questions": [
+        "What does mulch do in a garden?",
+        "What is mulching and its advantages and disadvantages?",
+        "What is the use for mulching?",
+        "What is the effect of mulching?"
+      ]
+    },
+    {
+      "Parent Question": "What does mulch do in a garden?",
+      "Questions": [
+        "Why is mulching important?",
+        "What is the best time to put mulch?",
+        "How long does mulch take to decompose?",
+        "Is mulch a fertilizer?"
+      ]
+    },
+    {
+      "Parent Question": "What is mulching and its advantages and disadvantages?",
+      "Questions": [
+        "Does mulching really help?",
+        "Why is compost not ideal for mulching?",
+        "What are the properties of mulching?",
+        "What are the challenges in mulching?",
+        "What are the different types of mulching?",
+        "What is mulch made of?"
+      ]
+    },
+    {
+      "Parent Question": "What is the use for mulching?",
+      "Questions": [
+        "What type of mulch is best?",
+        "What are the limitations of mulching?",
+        "How does mulching control soil?",
+        "What are the needs of mulching?",
+        "Is mulch the same as compost?",
+        "What is the best mulch to stop weeds?"
+      ]
+    },
+    {
+      "Parent Question": "What is the effect of mulching?",
+      "Questions": [
+        "What is the purpose of mulching?",
+        "How does mulching affect soil temperature?",
+        "What are the applications of mulching?",
+        "How effective is mulching?",
+        "How does mulching help in answer?",
+        "What materials are used for mulching?"
+      ]
+    },
+    {
+      "Parent Question": "tips for growing fruit trees at home",
+      "Questions": [
+        "What is the easiest fruit tree to grow at home?",
+        "What not to plant next to fruit trees?",
+        "What is the best fertilizer for fruit trees?",
+        "How long do most fruit trees take to produce fruit?"
+      ]
+    },
+    {
+      "Parent Question": "What is the easiest fruit tree to grow at home?",
+      "Questions": [
+        "Which fruits grow fastest?",
+        "Can I plant a fruit tree next to my house?",
+        "What fruit tree takes the longest to grow?",
+        "What's the quickest vegetable to grow?"
+      ]
+    },
+    {
+      "Parent Question": "What not to plant next to fruit trees?",
+      "Questions": [
+        "What is best to put around fruit trees?",
+        "Should you let grass grow around fruit trees?",
+        "What are the best companion plants for fruit trees?",
+        "What is the best soil for fruit trees?",
+        "Where is the best place to plant a fruit tree?",
+        "Should you plant flowers around fruit trees?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best fertilizer for fruit trees?",
+      "Questions": [
+        "What fertilizer makes fruit bigger?",
+        "What is the best compost for fruit trees?",
+        "What is 20/20 fertilizer?",
+        "What fertilizer to use to make fruit sweet?",
+        "What fertilizer is good for tomatoes?",
+        "What is the best fertilizer for fruits and vegetables?"
+      ]
+    },
+    {
+      "Parent Question": "How long do most fruit trees take to produce fruit?",
+      "Questions": [
+        "What is the fastest fruit to grow?",
+        "Is the best time to plant fruit trees?",
+        "What are the five stages of an apple tree?",
+        "What is the fastest growing tree that produces fruit?",
+        "How long do apples take to grow?",
+        "Which fruit takes most time to grow?"
+      ]
+    },
+    {
+      "Parent Question": "tips for growing organic vegetables",
+      "Questions": [
+        "What is the best way to grow organic vegetables?",
+        "What is the best method for growing vegetables?",
+        "How do you prepare soil for an organic vegetable garden?",
+        "What is the easiest crop to grow organically?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best way to grow organic vegetables?",
+      "Questions": [
+        "What are four ways you can increase organic growth?",
+        "What are the best organic farming methods?",
+        "Which crop is best for organic farming?",
+        "How can I increase the growth of my vegetable plants?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best method for growing vegetables?",
+      "Questions": [
+        "How to make vegetables grow faster?",
+        "What are the best conditions for growing vegetables?",
+        "What is the best gardening method?",
+        "How to grow organic vegetables?",
+        "What temperature is best for growing vegetables?",
+        "How do I make the best soil for vegetables?"
+      ]
+    },
+    {
+      "Parent Question": "How do you prepare soil for an organic vegetable garden?",
+      "Questions": [
+        "What is the fastest way to add nutrients to soil?",
+        "How to compost correctly?",
+        "How to make super soil for vegetables?",
+        "How to make your own organic soil?",
+        "How do you make organic fertilizer for vegetables?",
+        "What is the ratio of compost to soil for vegetable garden?"
+      ]
+    },
+    {
+      "Parent Question": "What is the easiest crop to grow organically?",
+      "Questions": [
+        "What are the most difficult vegetables to grow?",
+        "How long do tomatoes take to grow?",
+        "What is the quickest vegetable to grow?",
+        "How to grow big vegetables?",
+        "Which is the most profitable crop to grow?",
+        "What is the best thing to plant for beginners?"
+      ]
+    },
+    {
+      "Parent Question": "tips for growing tomatoes in any climate",
+      "Questions": [
+        "What climate is best for growing tomatoes?",
+        "What conditions do tomatoes grow best in?",
+        "Which fertilizer is best for tomatoes?",
+        "How often should I water tomatoes?"
+      ]
+    },
+    {
+      "Parent Question": "What climate is best for growing tomatoes?",
+      "Questions": [
+        "Do tomatoes need sun or heat?",
+        "What are 5 facts about tomatoes?",
+        "Can tomatoes get too much sun?",
+        "What is the best tomato for hot weather?"
+      ]
+    },
+    {
+      "Parent Question": "What conditions do tomatoes grow best in?",
+      "Questions": [
+        "What makes tomatoes taste better when growing?",
+        "Why do tomato leaves turn yellow?",
+        "How to get big tomatoes?",
+        "How do you grow the tastiest tomatoes?",
+        "What climate do tomatoes grow best in?",
+        "How do you maintain tomato plants?"
+      ]
+    },
+    {
+      "Parent Question": "Which fertilizer is best for tomatoes?",
+      "Questions": [
+        "What fertilizer increases tomato size?",
+        "Are coffee grounds good for tomatoes?",
+        "Why are tomatoes not turning red?",
+        "How do you increase tomato fruit size?",
+        "What is the best source of calcium for tomato plants?",
+        "How to water tomato plants?"
+      ]
+    },
+    {
+      "Parent Question": "How often should I water tomatoes?",
+      "Questions": [
+        "What do overwatered tomato plants look like?",
+        "How long do tomatoes take to grow?",
+        "What causes tomatoes to split?",
+        "Should I remove yellow leaves from a tomato plant?",
+        "How often should I feed tomato plants?",
+        "Why do tomato leaves curl up?"
+      ]
+    },
+    {
+      "Parent Question": "tips for pest control in your garden",
+      "Questions": [
+        "What are the three rules for pest control?",
+        "What is the best method for pest control?",
+        "What is the most common pest in the garden?",
+        "What is the best method of protecting plants from pests?"
+      ]
+    },
+    {
+      "Parent Question": "What are the three rules for pest control?",
+      "Questions": [
+        "What is the most appropriate pest control?",
+        "What are the precautions for pest control?",
+        "What do pests need the most?",
+        "What should be included in pest control?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best method for pest control?",
+      "Questions": [
+        "What is the hardest pest to control?",
+        "Which practice is most effective in controlling pest?",
+        "What is the best pest control to use?",
+        "Which is used most today for pest control?",
+        "How effective is pest control?",
+        "How to control pesticides?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most common pest in the garden?",
+      "Questions": [
+        "How to stop bugs from eating leaves?",
+        "What is insecticidal soap spray?",
+        "What is the most common pest to farmers?",
+        "How to control aphids?",
+        "What are the 2 most common food pests?",
+        "What contains neem oil?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best method of protecting plants from pests?",
+      "Questions": [
+        "Which is the best method for pest control?",
+        "How do you manage pests in plants?",
+        "What is the best defense against pests?",
+        "Which is the best method of plant protection?",
+        "How to make insect spray for plants?",
+        "What is a plant's defense against pests?"
+      ]
+    },
+    {
+      "Parent Question": "tips for winterizing your garden",
+      "Questions": [
+        "How do you winterize soil?",
+        "How do you make a winter garden?",
+        "What is best in a winter garden?",
+        "How to winterize harden?"
+      ]
+    },
+    {
+      "Parent Question": "How do you winterize soil?",
+      "Questions": [
+        "How do you do winterization?",
+        "What is the best way to break up soil?",
+        "What is the best soil cover for winter?",
+        "How do you restart soil?"
+      ]
+    },
+    {
+      "Parent Question": "How do you make a winter garden?",
+      "Questions": [
+        "What consists of a winter garden?",
+        "How do you grow outside in the winter?",
+        "What are winter vegetables?",
+        "What is a winter garden architecture?",
+        "Do greenhouses work in winter?",
+        "What is the point of a winter garden?"
+      ]
+    },
+    {
+      "Parent Question": "What is best in a winter garden?",
+      "Questions": [
+        "What is the best garden in the winter?",
+        "Do carrots grow in winter?",
+        "What happens in winter garden?",
+        "What is the best plant in winter?",
+        "What herbs grow best in winter?",
+        "What are some fall vegetables?"
+      ]
+    },
+    {
+      "Parent Question": "How to winterize harden?",
+      "Questions": [
+        "What is the best solvent for winterization?",
+        "How do you keep soil moist in the winter?",
+        "What is the winterization process?",
+        "How do you harden soil?",
+        "How do you winterproof?",
+        "What are the four steps of hardening off?"
+      ]
+    },
+    {
+      "Parent Question": "watering techniques for healthy plants",
+      "Questions": [
+        "What is the best method for watering plants?",
+        "What is the best water treatment for plants?",
+        "How to make a self-watering system for plants?",
+        "Is it better to overwater or underwater plants?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best method for watering plants?",
+      "Questions": [
+        "What is the most effective watering technique?",
+        "What is good for watering plants?",
+        "What is the best system for watering trees?",
+        "How to tell if a plant needs water?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best water treatment for plants?",
+      "Questions": [
+        "How to purify water for plants?",
+        "How can I improve my water treatment plant?",
+        "What is the best chemical for water treatment?",
+        "What is the best water source for plants?",
+        "What are the two types of water treatment plants?",
+        "How to use banana water for plants?"
+      ]
+    },
+    {
+      "Parent Question": "How to make a self-watering system for plants?",
+      "Questions": [
+        "How to make an automatic watering system?",
+        "What are the disadvantages of self watering plants?",
+        "How to water a plant?",
+        "What is the wick method for watering plants?",
+        "Are self watering devices good for plants?",
+        "How effective is drip irrigation?"
+      ]
+    },
+    {
+      "Parent Question": "Is it better to overwater or underwater plants?",
+      "Questions": [
+        "Can plants recover from overwatering?",
+        "Do plants grow faster with more water?",
+        "Is bottom watering better for plants?",
+        "How to tell if a plant is overwatered?",
+        "Can plants recover from underwatering?",
+        "What type of water do plants grow best in?"
+      ]
+      }
+    ]
   }
 ]
 
