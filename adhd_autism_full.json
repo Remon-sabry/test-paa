@@ -9885,7 +9885,183 @@
         "What are the 5 stages of visualization?",
         "What are the 4 steps of an effective visualization?",
         "What is the best visualization method?"
+       ]
+      }
+    ]
+  },
+  {
+  "knowledge_base_name": "Parenting_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "positive parenting techniques",
+      "Questions": [
+        "What are the 5 positive parenting skills?",
+        "What is the positive parenting method?",
+        "What is the most positive parenting style?",
+        "How to parent in a positive way?"
       ]
+    },
+    {
+      "Parent Question": "child development milestones",
+      "Questions": [
+        "What are the milestones for a 2 year old?",
+        "How much should a 2 year old know academically?",
+        "What is a normal behavior for a 2 year old?",
+        "What is a red flag behavior for a 2 year old?"
+      ]
+    },
+    {
+      "Parent Question": "managing toddler tantrums",
+      "Questions": [
+        "How do you handle toddler tantrums?",
+        "What are 5 things you should do to handle a child having a temper tantrum?",
+        "What are the five steps in dealing with tantrums?",
+        "How do I deal with my 3 year old hitting and tantrums?"
+      ]
+    },
+    {
+      "Parent Question": "how to encourage good behavior",
+      "Questions": [
+        "How to encourage good behaviour?",
+        "What are the four ways of encouraging appropriate behavior?",
+        "How to encourage positive behaviour in adults?",
+        "How can we teach our children good behavior?"
+      ]
+    },
+    {
+      "Parent Question": "building a strong parent child bond",
+      "Questions": [
+        "How do you build a strong bond with your child?",
+        "How do you build a strong parent child relationship?",
+        "What is a strong bond between parent and child?",
+        "What is the strongest parent child bond?"
+      ]
+    },
+    {
+      "Parent Question": "effective discipline strategies",
+      "Questions": [
+        "What are 4 ways of effective discipline?",
+        "What are the 5 C's of discipline?",
+        "How do you discipline a 6?",
+        "What is disciplinary strategies?"
+      ]
+    },
+    {
+      "Parent Question": "sleep training for infants",
+      "Questions": [
+        "Is 7 months too old for sleep training?",
+        "What is the 5-3-3 rule for babies?",
+        "How to train a 7 month old baby to sleep through the night?",
+        "What is the best sleep training method for babies?"
+      ]
+    },
+    {
+      "Parent Question": "managing screen time for children",
+      "Questions": [
+        "Is 9 hours of screen time bad for kids?",
+        "What are the guidelines for screen time for children?",
+        "How screen time affects children?",
+        "How to get a 9 year old off screens?"
+      ]
+    },
+    {
+      "Parent Question": "raising confident kids",
+      "Questions": [
+        "How do you raise a confident child?",
+        "How to raise strong confident daughters?",
+        "How do I build my child's confidence in school?",
+        "How do I help my shy child gain confidence?"
+      ]
+    },
+    {
+      "Parent Question": "healthy eating habits for children",
+      "Questions": [
+        "What are healthy eating habits for children?",
+        "What are the 10 healthy eating habits?",
+        "What are healthy habits for kids?",
+        "What is a healthy food plan for children?"
+      ]
+    },
+    {
+      "Parent Question": "importance of play in child development",
+      "Questions": [
+        "What is the importance of play in child development?",
+        "What are the 10 benefits of play?",
+        "Why role play is important in child development?",
+        "What plays an important role in child development?"
+      ]
+    },
+    {
+      "Parent Question": "dealing with sibling rivalry",
+      "Questions": [
+        "How do you solve sibling rivalry?",
+        "What is the #1 cause of extreme sibling rivalry?",
+        "What age is sibling rivalry the worst?",
+        "What is the psychology behind sibling rivalry?"
+      ]
+    },
+    {
+      "Parent Question": "early literacy tips for parents",
+      "Questions": [
+        "How parents can support early literacy?",
+        "How to help with early literacy?",
+        "What are the big 5 early literacy skills?",
+        "What are the three C's to promoting family literacy?"
+      ]
+    },
+    {
+      "Parent Question": "teaching kids responsibility",
+      "Questions": [
+        "What are the roles and responsibilities of a 15 year old?",
+        "What teaches kids responsibility?",
+        "What are child responsibilities?",
+        "What is the responsibility for kids in school?"
+      ]
+    },
+    {
+      "Parent Question": "preparing your child for school",
+      "Questions": [
+        "What is the best way to prepare for school?",
+        "At what age should a child be able to get themselves ready for school?",
+        "How will you prepare the children for learning?",
+        "What is the best age for a child to start school?"
+      ]
+    },
+    {
+      "Parent Question": "raising emotionally intelligent children",
+      "Questions": [
+        "How to raise an emotionally intelligent child?",
+        "What makes a child emotionally intelligent?",
+        "At what age can children regulate their emotions?",
+        "At what age do kids develop emotional intelligence?"
+      ]
+    },
+    {
+      "Parent Question": "coping with teenage challenges",
+      "Questions": [
+        "How to overcome behavioral challenges in adolescence?",
+        "How do you cope with challenging behaviour?",
+        "How can you cope with the challenges of puberty?",
+        "How do you handle students with Behavioural challenges?"
+      ]
+    },
+    {
+      "Parent Question": "activities to boost creativity in kids",
+      "Questions": [
+        "What are creative activities for kids?",
+        "What activities show creativity?",
+        "What activities promote creative play?",
+        "What are examples of creative activities?"
+      ]
+    },
+    {
+      "Parent Question": "balancing work and parenting duties",
+      "Questions": [
+        "How do you balance work and parenting?",
+        "What is parenting duties?",
+        "What are the 10 duties of a parent?",
+        "How do you balance work and family responsibilities?"
+     ]
       }
     ]
   }
