@@ -9069,6 +9069,586 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "MeditationAndYoga_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "guided meditation",
+      "Questions": [
+        "What is guided meditation?",
+        "Do guided meditations really work?",
+        "What are the 7 steps of meditation?",
+        "What is an example of guided meditation?"
+      ]
+    },
+    {
+      "Parent Question": "What is guided meditation?",
+      "Questions": [
+        "What is guided vs normal meditation?",
+        "What are the steps of guided meditation?",
+        "What are the side effects of guided meditation?",
+        "How to meditate correctly?"
+      ]
+    },
+    {
+      "Parent Question": "Do guided meditations really work?",
+      "Questions": [
+        "Do you meditate in silence?",
+        "Is guided meditation just hypnosis?",
+        "What are the disadvantages of meditation?",
+        "What happens in guided meditation?",
+        "How to meditate in bed?",
+        "Why is meditations so good?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 7 steps of meditation?",
+      "Questions": [
+        "What is the golden rule of meditation?",
+        "How to do meditation in Islam?",
+        "How long should I meditate?",
+        "What is the first rule in meditation?",
+        "Can I meditate lying down?",
+        "How to meditate as a beginner?"
+      ]
+    },
+    {
+      "Parent Question": "What is an example of guided meditation?",
+      "Questions": [
+        "What to say to guide meditation?",
+        "Who invented meditation?",
+        "Is there a totally free meditation app?",
+        "How to do guided meditation?",
+        "What to say in meditation?",
+        "How to meditate 10 minutes?"
+      ]
+    },
+    {
+      "Parent Question": "What is guided vs normal meditation?",
+      "Questions": [
+        "Does guided meditation really work?",
+        "Which type of meditation is better?",
+        "How long is a guided meditation session?",
+        "What happens during guided meditation?",
+        "What is the difference between FA and OM meditation?",
+        "What is the opposite of guided meditation?"
+      ]
+    },
+    {
+      "Parent Question": "What are the steps of guided meditation?",
+      "Questions": [
+        "What are the 3 R's of meditation?",
+        "How to end a guided meditation?",
+        "How many minutes should we meditate?",
+        "How to give guided meditation?",
+        "Can I meditate with music?",
+        "What are the 7 stages of meditation?"
+      ]
+    },
+    {
+      "Parent Question": "What are the side effects of guided meditation?",
+      "Questions": [
+        "Why shouldn't you meditate at night?",
+        "What happens after years of meditation?",
+        "What is one of the biggest problems during meditation?",
+        "Is guided meditation OK?",
+        "What happens when you fall asleep during a guided meditation?"
+      ]
+    },
+    {
+      "Parent Question": "How to meditate correctly?",
+      "Questions": [
+        "How do I know if I am meditating correctly?",
+        "How do you meditate in 5 simple steps?",
+        "How to meditate in bed?",
+        "How to meditate type soul?"
+      ]
+    },
+    {
+      "Parent Question": "Do you meditate in silence?",
+      "Questions": [
+        "How to meditate properly?",
+        "Are you supposed to hear anything in silence?",
+        "Do you think of nothing when you meditate?",
+        "Does silence calm the mind?"
+      ]
+    },
+    {
+      "Parent Question": "Is guided meditation just hypnosis?",
+      "Questions": [
+        "Which is more effective, hypnosis or meditation?",
+        "Is hypnosis real or fake?",
+        "Is guided meditation as effective?",
+        "Can I hypnotise myself?"
+      ]
+    },
+    {
+      "Parent Question": "What are the disadvantages of meditation?",
+      "Questions": [
+        "What is one of the biggest problem during meditation?",
+        "When should you not meditate?",
+        "What can too much meditation cause?",
+        "How much meditation a day is enough?",
+        "What happens when meditation goes wrong?"
+      ]
+    },
+    {
+      "Parent Question": "What happens in guided meditation?",
+      "Questions": [
+        "Why do I cry during guided meditation?",
+        "Is it OK to fall asleep during guided meditation?",
+        "What are the side effects of guided meditation?",
+        "How to do meditation in Islam?"
+      ]
+    },
+    {
+      "Parent Question": "How to meditate in bed?",
+      "Questions": [
+        "Is 10 minutes of meditation equal to 4 hours of sleep?",
+        "How to meditate perfectly?",
+        "How many minutes should I meditate before bed?",
+        "How to relax your mind?"
+      ]
+    },
+    {
+      "Parent Question": "Why is meditations so good?",
+      "Questions": [
+        "Do meditations really work?",
+        "What happens if you meditate every day?",
+        "Which meditation is so powerful?",
+        "How long should you meditate?",
+        "What happens to your brain when you meditate?",
+        "Why do most people not meditate?"
+      ]
+    },
+    {
+      "Parent Question": "What is the golden rule of meditation?",
+      "Questions": [
+        "What is the 555 rule meditation?",
+        "How did Einstein meditate?",
+        "Why do we meditate at 3 am?",
+        "What are the 5 R's of meditation?",
+        "What are the 7 stages of meditation?"
+      ]
+    },
+    {
+      "Parent Question": "How to do meditation in Islam?",
+      "Questions": [
+        "Is guided meditation haram?",
+        "Did Prophet Muhammad used to meditate?",
+        "What does the Quran say about meditation?",
+        "Can Muslims practice Zen?"
+      ]
+    },
+    {
+      "Parent Question": "How long should I meditate?",
+      "Questions": [
+        "Is it OK to meditate for 2 hours?",
+        "Should I meditate before bed?",
+        "How long do monks meditate?",
+        "Is it OK to meditate for 5 minutes?",
+        "Can I meditate lying down?",
+        "Should I listen to music while meditating?"
+      ]
+    },
+    {
+      "Parent Question": "What is the first rule in meditation?",
+      "Questions": [
+        "How to meditate correctly?",
+        "What is the golden rule of meditation?",
+        "What are the 3 R's of meditation?",
+        "How should a beginner start meditation?",
+        "Do you pray or meditate first?",
+        "Does meditation really work?",
+        "What is the minimum meditation time for beginners?"
+      ]
+    },
+    {
+      "Parent Question": "Can I meditate lying down?",
+      "Questions": [
+        "When should you not meditate?",
+        "Can I meditate after eating?",
+        "Is 10 minutes of meditation equal to 4 hours of sleep?",
+        "Is it OK to fall asleep during meditation?",
+        "Can I meditate while walking?",
+        "Can I meditate with my eyes open?"
+      ]
+    },
+    {
+      "Parent Question": "How to meditate as a beginner?",
+      "Questions": [
+        "How to do meditation in Islam?",
+        "How many minutes should I meditate as a beginner?",
+        "What do you say to yourself when meditating?",
+        "How to meditate in bed?",
+        "How to meditate type soul?",
+        "How do you meditate in 5 simple steps?"
+      ]
+    },
+    {
+      "Parent Question": "What to say to guide meditation?",
+      "Questions": [
+        "How to do guided meditation?",
+        "What is an example of guided meditation?",
+        "What are the words to meditate?",
+        "How should you speak during guided meditations?",
+        "What is a good sentence for meditation?",
+        "What do you call someone who guides meditation?"
+      ]
+    },
+    {
+      "Parent Question": "Who invented meditation?",
+      "Questions": [
+        "Is meditation haram in Islam?",
+        "How did Einstein meditate?",
+        "Which religion believes in meditation?",
+        "Do scientists believe in meditation?",
+        "Which country is meditation from?",
+        "What are the 7 steps of meditation?"
+      ]
+    },
+    {
+      "Parent Question": "Is there a totally free meditation app?",
+      "Questions": [
+        "Is it better to meditate with or without an app?",
+        "Is the calm app 100% free?",
+        "What is the number one meditation app?",
+        "How to meditate properly?",
+        "Is calm better than headspace?"
+      ]
+    },
+    {
+      "Parent Question": "How to do guided meditation?",
+      "Questions": [
+        "How to run guided meditation?",
+        "What happens during guided meditation?",
+        "What is the difference between meditation and guided meditation?",
+        "How to mediate in 5 minutes?"
+      ]
+    },
+    {
+      "Parent Question": "What to say in meditation?",
+      "Questions": [
+        "Which mantra is most powerful?",
+        "What do I think when meditating?",
+        "What is a good sentence for meditate?",
+        "What to say to guide meditation?",
+        "What is meditation in one line?",
+        "How to meditate mantra?"
+      ]
+    },
+    {
+      "Parent Question": "How to meditate 10 minutes?",
+      "Questions": [
+        "How long should 1 meditate?",
+        "How to relax your mind?",
+        "How to do meditation in Islam?",
+        "How do I meditate correctly?",
+        "What happens if I meditate 5 minutes everyday?",
+        "What is the first rule in meditation?"
+      ]
+    },
+    {
+      "Parent Question": "meditation for anxiety",
+      "Questions": [
+        "What is the 3 3 3 rule for anxiety?",
+        "Which meditation is good for anxiety?",
+        "How can I reduce my anxiety naturally?",
+        "What is the strongest herb for anxiety?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 3 3 3 rule for anxiety?",
+      "Questions": [
+        "What is the 54321 method?",
+        "What are the 4 C's of anxiety?",
+        "What is the 5 5 5 rule for anxiety?",
+        "What are the 3 C's of anxiety?",
+        "How do you do the 333 technique for anxiety?"
+      ]
+    },
+    {
+      "Parent Question": "Which meditation is good for anxiety?",
+      "Questions": [
+        "Which mantra reduce anxiety?",
+        "Can meditation remove anxiety?",
+        "Which is the most powerful meditation in the world?",
+        "Can meditation cure overthinking?",
+        "How long to meditate for anxiety?",
+        "What calms the mind from anxiety?"
+      ]
+    },
+    {
+      "Parent Question": "How can I reduce my anxiety naturally?",
+      "Questions": [
+        "How do I finally beat anxiety?",
+        "What triggers anxiety?",
+        "What is the best vitamin for stress and anxiety?",
+        "How to heal anxiety?",
+        "What to drink when anxious?",
+        "How to meditate for anxiety?"
+      ]
+    },
+    {
+      "Parent Question": "meditation for beginners",
+      "Questions": [
+        "How should a beginner start meditation?",
+        "Which meditation is good for beginners?",
+        "What is the basic rule of meditation?",
+        "What is the first rule in meditation?"
+      ]
+    },
+    {
+      "Parent Question": "How should a beginner start meditation?",
+      "Questions": [
+        "How to meditate correctly?",
+        "What are the 7 stages of meditation?",
+        "How many minutes should I meditate as a beginner?",
+        "How to do meditation in Islam?"
+      ]
+    },
+    {
+      "Parent Question": "Which meditation is good for beginners?",
+      "Questions": [
+        "How can I teach myself meditation?",
+        "Should I walk or meditate first?",
+        "How to meditate in bed?",
+        "How do beginners start meditating?",
+        "Can I meditate lying down?",
+        "What should I think when meditating?"
+      ]
+    },
+    {
+      "Parent Question": "What is the basic rule of meditation?",
+      "Questions": [
+        "What is the golden rule of meditation?",
+        "How do you meditate in 5 simple steps?",
+        "When not to do meditation?",
+        "How long should I meditate?",
+        "What are the 5 R's of meditation?",
+        "Can I meditate with music?"
+      ]
+    },
+    {
+      "Parent Question": "mental health resources",
+      "Questions": [
+        "What resources are available to help with mental health?",
+        "What is an example of a mental health resource?",
+        "What are the 5 C's of mental health?",
+        "What are the 5 areas of mental health?"
+      ]
+    },
+    {
+      "Parent Question": "What resources are available to help with mental health?",
+      "Questions": [
+        "What are 5 ways to improve mental health?",
+        "What helps support mental health?",
+        "What is mental health support?",
+        "What is the best resource to help someone with mental illnesses and challenges?"
+      ]
+    },
+    {
+      "Parent Question": "mindful eating practices",
+      "Questions": [
+        "What are mindful eating practices?",
+        "What are the 3 R's of mindful eating?",
+        "What are the four steps to mindful eating?",
+        "What are some examples of mindful eating questions?"
+      ]
+    },
+    {
+      "Parent Question": "What are mindful eating practices?",
+      "Questions": [
+        "Can I lose weight with mindful eating?",
+        "How to do a mindfulness walk?",
+        "What is not mindful eating?",
+        "How to eat zen?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 3 R's of mindful eating?",
+      "Questions": [
+        "How to become a mindful eater?",
+        "How do you practice the 3 Rs?",
+        "What are the barriers to mindful eating?",
+        "What should I eat for mindful eating?",
+        "What are the 3 R's activities?",
+        "What is the principle 3 of intuitive eating?"
+      ]
+    },
+    {
+      "Parent Question": "natural remedies for flea control",
+      "Questions": [
+        "What kills fleas naturally?",
+        "What kills 100% of fleas?",
+        "What is the most natural flea treatment?",
+        "What do fleas hate the most?"
+      ]
+    },
+    {
+      "Parent Question": "What kills fleas naturally?",
+      "Questions": [
+        "How do I get rid of fleas urgently?",
+        "What is the best homemade flea spray?",
+        "Can fleas live in human hair?",
+        "What smell do fleas hate on humans?"
+      ]
+    },
+    {
+      "Parent Question": "online counseling services",
+      "Questions": [
+        "Can you talk to a therapist online for free?",
+        "What is the best online therapy website?",
+        "Is online counselling as effective?",
+        "Who can I talk to online for free?"
+      ]
+    },
+    {
+      "Parent Question": "overcoming negative thoughts",
+      "Questions": [
+        "How to rid yourself of negative thoughts?",
+        "What are the 5 C's of negative thinking?",
+        "How can I stop overthinking negative thoughts?",
+        "How do I rewire my brain to stop thinking negative?"
+      ]
+    },
+    {
+      "Parent Question": "self care routines",
+      "Questions": [
+        "What are 5 self-care strategies?",
+        "What are the 5 C's of self-care?",
+        "What are the 7 pillars of self-care?",
+        "What are some activities for self-care?"
+      ]
+    },
+    {
+      "Parent Question": "What are 5 self-care strategies?",
+      "Questions": [
+        "What are the 8 areas of self-care?",
+        "What is a self-care plan?",
+        "What are the 4 main types of self-care skills?",
+        "How to do emotional self-care?"
+      ]
+    },
+    {
+      "Parent Question": "sleep and mental health",
+      "Questions": [
+        "How does sleep affect your mental health?",
+        "How is sleep important for mental health?",
+        "Is there a link between sleep and mental health?",
+        "What are the symptoms of lack of sleep and stress?"
+      ]
+    },
+    {
+      "Parent Question": "stress management techniques",
+      "Questions": [
+        "What are the five stress management techniques?",
+        "What are the 5 R's of stress management?",
+        "What are 7 ways to manage stress?",
+        "How do we manage stress?"
+      ]
+    },
+    {
+      "Parent Question": "transcendental meditation near me",
+      "Questions": [
+        "How much does Transcendental Meditation cost?",
+        "Can I learn Transcendental Meditation by myself?",
+        "Is there a downside to Transcendental Meditation?",
+        "Why is TM expensive?"
+      ]
+    },
+    {
+      "Parent Question": "walking meditation",
+      "Questions": [
+        "What is walking meditation?",
+        "How do I do a walking meditation?",
+        "How effective is walking meditation?",
+        "What are the 4 steps of mindful walking?"
+      ]
+    },
+    {
+      "Parent Question": "What is walking meditation?",
+      "Questions": [
+        "What are the six steps of walking meditation?",
+        "What is walking meditation called?",
+        "What is the path for walking meditation?",
+        "Who created walking meditation?"
+      ]
+    },
+    {
+      "Parent Question": "work life balance tips",
+      "Questions": [
+        "How can we improve work-life balance?",
+        "What are the golden rules of work-life balance?",
+        "How to achieve work-life balance in 5 steps?",
+        "What is the perfect work-life balance?"
+      ]
+    },
+    {
+      "Parent Question": "yoga benefits",
+      "Questions": [
+        "What are the main benefits of yoga?",
+        "What does yoga do to the human body?",
+        "What happens if I do yoga every day?",
+        "Which is better, yoga or gym?"
+      ]
+    },
+    {
+      "Parent Question": "yoga breathing exercises",
+      "Questions": [
+        "What is the breathing exercise in yoga?",
+        "What are the 5 basic pranayama?",
+        "What are the 5 golden rules for yoga breathing?",
+        "What are the 8 pranayamas?"
+      ]
+    },
+    {
+      "Parent Question": "yoga equipment",
+      "Questions": [
+        "What are the equipments used in yoga?",
+        "What essentials do you need for yoga?",
+        "What is yoga equipment called?",
+        "What yoga mat thickness is best?"
+      ]
+    },
+    {
+      "Parent Question": "yoga for back pain",
+      "Questions": [
+        "Can you fix back pain with yoga?",
+        "Which type of yoga is best for lower back pain?",
+        "What is the single best exercise for back pain?",
+        "How to relieve back pain in 5 minutes?"
+      ]
+    },
+    {
+      "Parent Question": "yoga for flexibility",
+      "Questions": [
+        "Which yoga is best for flexibility?",
+        "Can you become flexible from yoga?",
+        "How long does it take for yoga to make you flexible?",
+        "Is yoga good for tight muscles?"
+      ]
+    },
+    {
+      "Parent Question": "yoga for mental health",
+      "Questions": [
+        "Which type of yoga is best for mental health?",
+        "Does yoga improve mental health?",
+        "How to fix mental health without therapy?",
+        "Which yoga for anxiety and depression?"
+      ]
+    },
+    {
+      "Parent Question": "yoga mat",
+      "Questions": [
+        "What is the best thickness for a yoga mat?",
+        "What is the yoga mat used for?",
+        "Which is the best yoga mat to use?",
+        "Is yoga mat the same as gym mat?"
+      ]
+      }
+    ]
   }
 ]
 
