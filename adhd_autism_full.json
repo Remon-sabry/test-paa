@@ -2664,8 +2664,281 @@
           "How to keep the relationship strong and healthy?",
           "What is the best dating advice?",
           "How to build a healthy relationship with yourself?"
-        ]
+       ]
+      }
+    ]
+  },
+  {
+  "knowledge_base_name": "FitnessWellness_Women_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "beginner workout plan for weight loss",
+      "Questions": [
+        "What is the best beginner workout to lose weight?",
+        "How should I start working out to lose weight?",
+        "What is the 4-2-1 workout plan?",
+        "Is working out 30 minutes a day enough to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best beginner workout to lose weight?",
+      "Questions": [
+        "What is the number 1 exercise to lose fat?",
+        "Can I lose weight in 4 weeks?"
+      ]
+    },
+    {
+      "Parent Question": "How should I start working out to lose weight?",
+      "Questions": [
+        "How many hours should a beginner workout to lose weight?",
+        "What exercise burns the most belly fat?",
+        "How to lose 10 kg in a month?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 4-2-1 workout plan?",
+      "Questions": [
+        "What is the best split for fat loss?",
+        "Are 4 exercises enough?",
+        "What is 3 2 8 workout method?"
+      ]
+    },
+    {
+      "Parent Question": "is it better to do more strength training or cardio?",
+      "Questions": [
+        "Does cardio burn fat or muscle?",
+        "Should I do cardio first or weights?",
+        "What burns more fat, strength training or cardio?",
+        "Which is the correct order to perform a workout?",
+        "Which exercise is first in gym?",
+        "What happens if I only workout the upper body?",
+        "How long to rest between sets?"
+      ]
+    },
+    {
+      "Parent Question": "daily affirmations for positive thinking",
+      "Questions": [
+        "What are powerful affirmations to say daily?",
+        "What are positive affirmations to start your day?",
+        "Why 21 days for affirmations?",
+        "What is the most powerful affirmation?",
+        "What are 5 positive self-talks?"
+      ]
+    },
+    {
+      "Parent Question": "benefits of a plant based diet",
+      "Questions": [
+        "What are the main benefits of a plant-based diet?",
+        "What happens to your body when you eat plant-based?",
+        "What are the disadvantages of a plant-based diet?",
+        "What are 5 benefits of healthy eating?",
+        "Is plant-based really healthy?",
+        "What happens if you go vegan for a month?"
+      ]
+    },
+    {
+      "Parent Question": "What are the disadvantages of a plant-based diet?",
+      "Questions": [
+        "Can you live longer with a plant-based diet?",
+        "What foods should you avoid on a plant-based diet?"
+      ]
+    },
+    {
+      "Parent Question": "what is a high-protein diet for weight loss ratio?",
+      "Questions": [
+        "What is the best protein to lose weight?",
+        "Is peanut butter good for weight loss?",
+        "What are the disadvantages of a high protein diet?"
+      ]
+    },
+    {
+      "Parent Question": "what is a good macro ratio for losing weight?",
+      "Questions": [
+        "How much protein to lose weight?",
+        "Is 1500 calories enough?"
+      ]
+    },
+    {
+      "Parent Question": "how to detox your body safely",
+      "Questions": [
+        "What is the fastest way to cleanse your body of toxins?",
+        "What drink is best to flush your system?",
+        "How long does it take to detox whole body?",
+        "How to do a full body flush?",
+        "How long should I fast to detox?"
+      ]
+    },
+    {
+      "Parent Question": "how can I improve my overall wellness?",
+      "Questions": [
+        "How to be healthy mentally?",
+        "How to avoid health problems?",
+        "How to live long healthy life?",
+        "What is the healthiest thing to do everyday?",
+        "How can I develop a good body?",
+        "How do you improve your overall health?",
+        "Which food is best for health?",
+        "How to become healthy from skinny?"
+      ]
+    },
+    {
+      "Parent Question": "how to lose belly fat fast",
+      "Questions": [
+        "What burns the most belly fat?",
+        "How can I lose my belly fat in a week?",
+        "How can I lose my belly fat ASAP?",
+        "How to lose belly fat in 14 days?",
+        "How to get a flat tummy?",
+        "Why is belly fat so hard to lose?",
+        "How to get a flat tummy in 7 days?",
+        "Does walking burn belly fat?",
+        "Why do I gain weight in my stomach only?",
+        "Will fasting burn belly fat?",
+        "How to remove belly fat without exercise?",
+        "How quickly reduce belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "how to manage menopause symptoms naturally",
+      "Questions": [
+        "How can I control my menopause symptoms?",
+        "How to get rid of menopause symptoms?",
+        "How can I control menopause without estrogen?",
+        "What is the best treatment for menopause?",
+        "What is the best natural menopause relief?",
+        "What is the biggest symptom of menopause?",
+        "What's the best drink for menopause?",
+        "How do I self treat menopause?",
+        "What are the 5 stages of menopause?",
+        "Can you beat menopause naturally?",
+        "What is the new treatment for menopause?",
+        "What are the uncomfortable symptoms of menopause?"
+      ]
+    },
+    {
+      "Parent Question": "how to reduce stress and anxiety",
+      "Questions": [
+        "How to overcome stress?",
+        "What are the 5 A's of stress management?",
+        "What is the 3-3-3 rule for anxiety?",
+        "How to relax your mind?",
+        "How do you release stress from your body?",
+        "How do you manage stress in your body?",
+        "What is the best vitamin for stress and anxiety?",
+        "How can I stop stressing?",
+        "How to sleep when stressed and anxious?",
+        "What relieves stress?",
+        "How to stop anxious thoughts in 30 seconds?",
+        "What is the best exercise for stress?",
+        "What is the 555 rule for stress?",
+        "How to avoid stress and anxiety?"
+      ]
+    },
+    {
+      "Parent Question": "best exercises for women over 40",
+      "Questions": [
+        "What is the best exercise routine for a 40 year old woman?",
+        "How much exercise should a 40 year old woman get?",
+        "How can I reshape my body after 40?",
+        "Can a 40 year old woman get toned?",
+        "Which exercise is most anti-aging?",
+        "Can walking count as cardio?",
+        "Is cardio better than weights for over 40?",
+        "Is walking enough exercise?",
+        "What is the best time of day to exercise?",
+        "How do you know if you're aging well?",
+        "How late is too late to workout?",
+        "How long does it take to transform a body female?"
+      ]
+    },
+    {
+      "Parent Question": "best foods for gut health",
+      "Questions": [
+        "What heals the gut the fastest?",
+        "What are the symptoms of an unhealthy gut?",
+        "How can I strengthen my guts?",
+        "What is the diet for reset your gut?",
+        "Are eggs good for gut health?",
+        "What are the 4 stages of gut healing?",
+        "What naturally kills bad bacteria in the gut?",
+        "What is the 7 day gut reset?",
+        "How do I check my gut health?",
+        "What drink is best for gut health?",
+        "What is the best food for weak gut?",
+        "Is coffee good for gut health?"
+      ]
+    },
+    {
+      "Parent Question": "signs of burnout and how to recover",
+      "Questions": [
+        "How do I recover from burnout?",
+        "What are the coping strategies for burnout?",
+        "How to recover from burnout when you can't take time off?",
+        "How long does burnout last?",
+        "How do I restart my life after burnout?",
+        "Am I burnt out or lazy?",
+        "How do you exit a burnout?",
+        "What are the best therapies for burnout?",
+        "What are the 5 main types of coping skills?",
+        "How do you fix a burnout ASAP?",
+        "How do you break the cycle of burnout?",
+        "What is the final stage of burnout?",
+        "How long is burnout revenge?",
+        "How to get energy back after burnout?",
+        "What is a famous quote about burnout?"
+      ]
+    },
+    {
+      "Parent Question": "top superfoods to include in your diet",
+      "Questions": [
+        "What superfoods should you eat daily?",
+        "What are the 5 supreme superfoods?",
+        "What is the #1 super food?"
+      ]
+    },
+    {
+      "Parent Question": "best weight loss diets of current year",
+      "Questions": [
+        "Which diet is the most effective in weight loss?",
+        "What is the best way to lose weight in a year?",
+        "What diet gives the fastest weight loss?",
+        "What is the most successful diet right now?",
+        "What is the 30/30/30 rule for weight loss?",
+        "How to lose 5kg in a week?"
+      ]
+    },
+    {
+      "Parent Question": "how to start meal prepping for beginners",
+      "Questions": [
+        "How should a beginner start a meal plan?",
+        "What are the 5 basic steps of meal planning?",
+        "Can you lose weight by meal prepping?",
+        "How do I begin meal prepping?",
+        "What not to do when meal prepping?",
+        "How do I prepare my first food?",
+        "How to make meal prep easy?",
+        "What diet is best for beginners?",
+        "What are 4 steps to successful meal planning?"
+      ]
+    },
+    {
+      "Parent Question": "mental wellness tools and apps",
+      "Questions": [
+        "Is calm better or headspace?",
+        "Is there an app like calm but free?"
+      ]
+    },
+    {
+      "Parent Question": "how to balance hormones naturally",
+      "Questions": [
+        "How can I fix my hormonal balance naturally?",
+        "What are the signs of hormone imbalance?",
+        "What can I drink to balance my hormones?",
+        "Which foods help balance hormones?"
+      ]
       }
     ]
   }
 ]
+
+
