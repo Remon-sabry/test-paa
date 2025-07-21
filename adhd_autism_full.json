@@ -204,78 +204,357 @@
     ]
   },
   {
-    "knowledge_base_name": "Autism_KnowledgeBase",
-    "data": [
-      {
-        "Parent Question": "how to recognize signs of autism in adults",
-        "Questions": [
-          "What are the symptoms of autism in men?",
-          "Can you develop autism later in life?",
-          "What are the red flags for autism in adults?",
-          "How do psychologists diagnose autism?"
-        ]
-      },
-      {
-        "Parent Question": "What are the red flags for autism in adults?",
-        "Questions": [
-          "What are the signs of mild autism in adults?",
-          "What does undiagnosed autism look like in adults?",
-          "Can you be slightly autistic?"
-        ]
-      },
-      {
-        "Parent Question": "How do psychologists diagnose autism?",
-        "Questions": [
-          "What are the guidelines for diagnosing autism?",
-          "Which test confirms autism?",
-          "What is the first test for autism?",
-          "How do you identify as autistic?"
-        ]
-      },
-      {
-        "Parent Question": "how to manage sensory overload",
-        "Questions": [
-          "Is it meltdown or autism?",
-          "How to stop sensory overload touch?",
-          "How do you calm overstimulation?",
-          "Is there medication for sensory overload?",
-          "How to calm down sensory issues?",
-          "What triggers sensory overload?",
-          "How to do a sensory reset?"
-        ]
-      },
-      {
-        "Parent Question": "managing meltdowns and sensory overloads",
-        "Questions": [
-          "What is the difference between a meltdown and a tantrum?",
-          "How to prevent autistic meltdowns?",
-          "How to recover after a sensory overload?"
-        ]
-      },
-      {
-        "Parent Question": "autism and relationships",
-        "Questions": [
-          "Can autistic people fall in love?",
-          "Do autistic people want relationships?",
-          "What is stimming in a relationship?",
-          "How to communicate with an autistic partner?"
-        ]
-      },
-      {
-        "Parent Question": "how to support a loved one with autism",
-        "Questions": [
-          "How to talk to someone with autism?",
-          "What not to say to an autistic person?",
-          "How to help an autistic adult?"
-        ]
-      },
-      {
-        "Parent Question": "can you have a successful career with autism?",
-        "Questions": [
-          "Is it hard for an autistic person to get a job?",
-          "Where do most autistic adults live?",
-          "Are there actors with autism?"
-        ]
+  "knowledge_base_name": "Autism_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "how to recognize signs of autism in adults",
+      "Questions": [
+        "What are the symptoms of autism in men?",
+        "Can you develop autism later in life?",
+        "What are the red flags for autism in adults?",
+        "How do psychologists diagnose autism?"
+      ]
+    },
+    {
+      "Parent Question": "What are the red flags for autism in adults?",
+      "Questions": [
+        "What are the signs of mild autism in adults?",
+        "What does undiagnosed autism look like in adults?",
+        "Can you be slightly autistic?"
+      ]
+    },
+    {
+      "Parent Question": "How do psychologists diagnose autism?",
+      "Questions": [
+        "What are the guidelines for diagnosing autism?",
+        "Which test confirms autism?",
+        "What is the first test for autism?",
+        "How do you identify as autistic?"
+      ]
+    },
+    {
+      "Parent Question": "autism spectrum disorder explained",
+      "Questions": [
+        "How do you explain the autism spectrum?",
+        "Do autistic people know they are autistic?",
+        "How do autistic people socialize?",
+        "Is autism genetic?",
+        "How does autism affect behavior?",
+        "How do people live with autism?",
+        "How does an autistic child behave?"
+      ]
+    },
+    {
+      "Parent Question": "How do you explain the autism spectrum?",
+      "Questions": [
+        "What is level 1 autism?",
+        "What is level 2 autism?",
+        "What is level 3 autism?",
+        "Do autistic people have empathy?"
+      ]
+    },
+    {
+      "Parent Question": "what is commonly misdiagnosed as autism?",
+      "Questions": [
+        "What is hyperlexia in autism?",
+        "What is often confused with autism?",
+        "What is the hardest thing about autism?",
+        "What is unique to autism?",
+        "What is still unknown about autism?",
+        "Can ADHD and autism co occur?"
+      ]
+    },
+    {
+      "Parent Question": "common myths about autism",
+      "Questions": [
+        "Why is autism so common now?",
+        "What is a shocking fact about autism?",
+        "Is autism caused by bad parenting?",
+        "Do autistic people not feel emotions?"
+      ]
+    },
+    {
+      "Parent Question": "how misunderstood is autism?",
+      "Questions": [
+        "Why is autism so common now?",
+        "What is a shocking fact about autism?"
+      ]
+    },
+    {
+      "Parent Question": "how to manage sensory overload",
+      "Questions": [
+        "Is it meltdown or autism?",
+        "How to stop sensory overload touch?",
+        "How do you calm overstimulation?",
+        "Is there medication for sensory overload?",
+        "How to calm down sensory issues?",
+        "What triggers sensory overload?",
+        "How to do a sensory reset?"
+      ]
+    },
+    {
+      "Parent Question": "managing meltdowns and sensory overloads",
+      "Questions": [
+        "What is the difference between a meltdown and a tantrum?",
+        "How to prevent autistic meltdowns?",
+        "How to recover after a sensory overload?"
+      ]
+    },
+    {
+      "Parent Question": "How to control autistic meltdowns?",
+      "Questions": [
+        "What are the 6 stages of autism meltdowns?",
+        "How do you deal with extreme meltdowns?",
+        "What triggers autism meltdowns?",
+        "What medication is used for autistic meltdowns?",
+        "What happens when you yell at an autistic child?"
+      ]
+    },
+    {
+      "Parent Question": "understanding sensory sensitivities in autism",
+      "Questions": [
+        "What are the sensory sensitivities of autism?",
+        "How do you explain sensory sensitivity?",
+        "How do autistic people act when overstimulated?",
+        "What does sensory sensitivity feel like?"
+      ]
+    },
+    {
+      "Parent Question": "how to calm sensory overload in autism",
+      "Questions": [
+        "How do autistic people act when overstimulated?",
+        "What is chinning in autism?",
+        "How to teach hot and cold autism?",
+        "How to destress autism?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of routine for people with autism",
+      "Questions": [
+        "Why are routines important in autism?",
+        "What happens when an autistic person doesn't have a routine?"
+      ]
+    },
+    {
+      "Parent Question": "can you have a successful career with autism?",
+      "Questions": [
+        "Is it hard for an autistic person to get a job?",
+        "Where do most autistic adults live?",
+        "Are there actors with autism?"
+      ]
+    },
+    {
+      "Parent Question": "what is the best support for high functioning autism?",
+      "Questions": [
+        "What is the best resource for autism?",
+        "Can level 3 autism live independently?",
+        "How do you calm down severe autism?"
+      ]
+    },
+    {
+      "Parent Question": "How do people live with autism?",
+      "Questions": [
+        "What does level 1 autism look like?",
+        "How many years can autism live?",
+        "Do autistic people have empathy?",
+        "How to tell if someone is on the spectrum?",
+        "What is the first cause of autism?",
+        "What is the best lifestyle for autism?"
+      ]
+    },
+    {
+      "Parent Question": "what kind of toys are good for kids with autism?",
+      "Questions": [
+        "What keeps an autistic child busy?",
+        "Are legos good for autism?",
+        "What are children with autism usually good at?"
+      ]
+    },
+    {
+      "Parent Question": "what are the useful tools for autism?",
+      "Questions": [
+        "What do autistic people need most?",
+        "What instrument is best for autism?",
+        "What is the autism tool for kids?",
+        "What items help autistic people?"
+      ]
+    },
+    {
+      "Parent Question": "what are transitional objects for autism?",
+      "Questions": [
+        "What are movement breaks for autism?",
+        "What are 3 ways structure supports students with autism?",
+        "What are the three tools for autism?",
+        "Does an autistic child cry a lot?",
+        "What is an example of transitional activities?"
+      ]
+    },
+    {
+      "Parent Question": "transition planning for teens with autism",
+      "Questions": [
+        "What are the transition goals for autistic students?",
+        "How to help autistic people with transitions?",
+        "What features should be present in a transition plan for students with autism spectrum disorders?"
+      ]
+    },
+    {
+      "Parent Question": "How to help autistic people with transitions?",
+      "Questions": [
+        "How do you set goals for children with autism?",
+        "What is an example of a transition cue?",
+        "How to change routine in autism?",
+        "How do you help an autistic child adapt to change?",
+        "How do you help a child who is struggling with transitions?",
+        "How to transition from one activity to the next?",
+        "How to make transitions easier with autism?"
+      ]
+    },
+    {
+      "Parent Question": "what features should be present in a transition plan for students with autism spectrum disorders?",
+      "Questions": [
+        "What are the 5 parts of a transition plan?",
+        "What makes a good transition plan?",
+        "How do you involve people in the transition process for people with autism?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 3 key themes to supporting an individual with autism?",
+      "Questions": [
+        "What is the main focus of the transition plan?",
+        "What are the options for autistic students?"
+      ]
+    },
+    {
+      "Parent Question": "what is the autism grief cycle?",
+      "Questions": [
+        "What is the average lifespan of a person with autism?",
+        "Do autistic people view death differently?",
+        "Is autism a trauma response?",
+        "How do people with autism show sadness?",
+        "What is a ritual in autism?",
+        "Do autistic people cry during a shutdown?"
+      ]
+    },
+    {
+      "Parent Question": "autism diagnosis process",
+      "Questions": [
+        "How do you diagnose autism?",
+        "What are the stages of autism diagnosis?",
+        "How long is the diagnosis process for autism?",
+        "What are the guidelines for diagnosing autism?",
+        "Which test confirms autism?",
+        "What is the first test for autism?",
+        "How do you identify as autistic?"
+      ]
+    },
+    {
+      "Parent Question": "What are co-occurring disorders with autism?",
+      "Questions": [
+        "What conditions often co-occur with autism?",
+        "Can ADHD and autism co occur?",
+        "Can autism and BPD co occur?",
+        "Can schizophrenia and autism co occur?",
+        "What other conditions can co occur with autism?"
+      ]
+    },
+    {
+      "Parent Question": "What conditions often co-occur with autism?",
+      "Questions": [
+        "What is the highest comorbidity of autism?",
+        "What conditions overlap with autism?"
+      ]
+    },
+    {
+      "Parent Question": "how to create an autism friendly environment",
+      "Questions": [
+        "How do you create an autism-friendly work environment?",
+        "What are some ways to create a supportive and inclusive environment for individuals with autism?"
+      ]
+    },
+    {
+      "Parent Question": "how to support learners with autism in an inclusive setting",
+      "Questions": [
+        "What is autism in inclusive education?",
+        "How to support ASD in the classroom?",
+        "What is assistive technology for autism?",
+        "How can you encourage children with autism to participate in activities?",
+        "Why is it important to include people with autism?"
+      ]
+    },
+    {
+      "Parent Question": "how to be inclusive to autistic people",
+      "Questions": [
+        "How can society be more inclusive of individuals with autism?",
+        "How to promote inclusion with students with autism?"
+      ]
+    },
+    {
+      "Parent Question": "how to handle someone with autism",
+      "Questions": [
+        "Can level 3 autism improve?",
+        "What are the stages of autism?",
+        "How do autistic people communicate?",
+        "What does an autistic adult act like?",
+        "Do autistic adults need help?"
+      ]
+    },
+    {
+      "Parent Question": "how to communicate with my autistic partner",
+      "Questions": [
+        "How do autistic people like to communicate?",
+        "Is autism genetic?",
+        "How to help someone with autism?",
+        "Do people with autism have empathy?",
+        "What are autistic people like in relationships?",
+        "How do you communicate non verbally with autism?"
+      ]
+    },
+    {
+      "Parent Question": "how to tell if someone is on the spectrum",
+      "Questions": [
+        "Do autistic people realize they are autistic?",
+        "How do I know if I’m autistic?",
+        "Are there any physical signs of autism?",
+        "Do autistic people cry?",
+        "What does mild autism look like in adults?"
+      ]
+    },
+    {
+      "Parent Question": "how to support autism people",
+      "Questions": [
+        "How to communicate with an autistic partner?",
+        "What do autistic people need?",
+        "What is the best treatment for autism?",
+        "How do I make my autistic happy?",
+        "How to date someone with autism?",
+        "How do you bond with someone with autism?"
+      ]
+    },
+    {
+      "Parent Question": "what is the best lifestyle for autism?",
+      "Questions": [
+        "Which fruit is best for autism?",
+        "What do autistic people need most?",
+        "What are daily activities for autism?",
+        "How to make autistic life easier?",
+        "How to make autistic people happy?",
+        "What is the best method for autism?",
+        "What do autistic people struggle with the most?"
+      ]
+    },
+    {
+      "Parent Question": "how to cope with being impulsive",
+      "Questions": [
+        "What is the stop skill for impulsivity?",
+        "How to stop impulsive behaviour ADHD?",
+        "What are the 4 types of impulsivity?",
+        "How to stop reacting impulsively?",
+        "How to teach impulse control ADHD?",
+        "How do you break an impulsive habit?",
+        "What does ADHD impulsivity look like?",
+        "How to master impulse control?",
+        "How to stop speaking impulsively?"
+      ]
       }
     ]
   },
