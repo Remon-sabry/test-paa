@@ -8220,6 +8220,852 @@
         "What is the theory of success?",
         "Does success change a person?",
         "Does personality predict success?"
+       ]
+      }
+    ]
+  },
+  {
+  "knowledge_base_name": "LowCarbKetoDiet_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "best keto desserts",
+      "Questions": [
+        "How do you satisfy sweet teeth on keto?",
+        "Are there any sweets you can have on keto?",
+        "What is the best mixer for keto diet?",
+        "What are the best keto snacks when craving sweets?"
+      ]
+    },
+    {
+      "Parent Question": "How do you satisfy sweet teeth on keto?",
+      "Questions": [
+        "What fruit is ok for keto?",
+        "How do you fix a keto mouth?",
+        "Is honey keto friendly?",
+        "Is popcorn keto?"
+      ]
+    },
+    {
+      "Parent Question": "Are there any sweets you can have on keto?",
+      "Questions": [
+        "Is Greek yogurt keto?",
+        "What is the healthiest sweet?",
+        "What sugar is OK on keto?",
+        "Is coke zero keto?",
+        "What is the lowest carb candy?",
+        "Are keto desserts OK?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best mixer for keto diet?",
+      "Questions": [
+        "What are the 9 rules of keto?",
+        "Is hummus keto?",
+        "What is the most filling food on keto?",
+        "What fruit can I eat on keto?",
+        "How to get into ketosis in 24 hours?",
+        "What is the best ketosis drink?"
+      ]
+    },
+    {
+      "Parent Question": "What are the best keto snacks when craving sweets?",
+      "Questions": [
+        "How do I satisfy my sweet tooth on keto?",
+        "What kills sugar and carb cravings?",
+        "Are strawberries keto?",
+        "What are good keto snacks?",
+        "How do you satisfy your hunger on keto?",
+        "Are carrots keto?"
+      ]
+    },
+    {
+      "Parent Question": "easy keto dinner recipes",
+      "Questions": [
+        "What is a lazy keto meal?",
+        "Can I eat KFC on keto?",
+        "Can you eat after 7pm on keto?",
+        "What are the 9 rules of keto?"
+      ]
+    },
+    {
+      "Parent Question": "What is a lazy keto meal?",
+      "Questions": [
+        "What is dirty keto?",
+        "Is peanut butter lazy keto?",
+        "Is keto a starvation diet?",
+        "Why am I gaining weight on lazy keto?"
+      ]
+    },
+    {
+      "Parent Question": "Can I eat KFC on keto?",
+      "Questions": [
+        "What junk food is keto-friendly?",
+        "How many carbs are in 3 pieces of KFC chicken?",
+        "How many carbs are on keto?",
+        "Are chicken nuggets keto?",
+        "Can you fry on keto?",
+        "Is nandos keto?"
+      ]
+    },
+    {
+      "Parent Question": "Can you eat after 7pm on keto?",
+      "Questions": [
+        "Will a 16 hour fast put me in ketosis?",
+        "What time of day is ketosis highest?",
+        "What time should you stop eating to lose belly fat?",
+        "When should I stop keto diet?",
+        "How to wake up in ketosis?",
+        "Can I eat twice a day on keto?"
+      ]
+    },
+    {
+      "Parent Question": "keto casserole dishes",
+      "Questions": [
+        "What is an example of a perfect keto meal?",
+        "Can you eat ground beef on keto?",
+        "What is in casserole?",
+        "What baking ingredients are keto friendly?"
+      ]
+    },
+    {
+      "Parent Question": "What is an example of a perfect keto meal?",
+      "Questions": [
+        "What is a dirty keto meal?",
+        "What are the 9 rules of keto?",
+        "What is a lazy keto meal?",
+        "What is the most filling food on keto?"
+      ]
+    },
+    {
+      "Parent Question": "Can you eat ground beef on keto?",
+      "Questions": [
+        "What meat is not keto-friendly?",
+        "What fruit is ok for keto?",
+        "Is hummus keto?",
+        "Are tomatoes keto-friendly?",
+        "Can you eat unlimited meat on keto?",
+        "Are onions keto?"
+      ]
+    },
+    {
+      "Parent Question": "What is in casserole?",
+      "Questions": [
+        "What are the 5 components of a casserole?",
+        "What is the key to making a good casserole?",
+        "What's the difference between a casserole and a lasagna?",
+        "What is a traditional casserole?",
+        "What's the difference between a stew and a casserole?",
+        "What is the difference between a gratin and a casserole?"
+      ]
+    },
+    {
+      "Parent Question": "What baking ingredients are keto friendly?",
+      "Questions": [
+        "What flour is keto-friendly?",
+        "Can you use garlic in keto?",
+        "Is a baked potato keto?",
+        "What seasonings are OK for keto?",
+        "Which flour has low carbs?",
+        "What makes bread not keto?"
+      ]
+    },
+    {
+      "Parent Question": "keto friendly comfort foods",
+      "Questions": [
+        "What junk food is keto-friendly?",
+        "What are lazy keto foods?",
+        "What foods can you eat unlimited amounts of on keto?",
+        "What is the most filling food on keto?"
+      ]
+    },
+    {
+      "Parent Question": "What junk food is keto-friendly?",
+      "Questions": [
+        "Can I eat KFC on keto?",
+        "What are dirty keto foods?",
+        "Is coke zero good for keto?",
+        "Are bananas dirty keto?"
+      ]
+    },
+    {
+      "Parent Question": "What are lazy keto foods?",
+      "Questions": [
+        "What's a better diet than keto?",
+        "Is peanut butter lazy keto?",
+        "What is starvation mode in keto?",
+        "How to do keto when you're poor?",
+        "Can you lose weight on dirty keto?",
+        "Is a strict keto diet healthy?"
+      ]
+    },
+    {
+      "Parent Question": "What foods can you eat unlimited amounts of on keto?",
+      "Questions": [
+        "What are the 9 rules of keto?",
+        "Which food has no carbs?",
+        "Can I eat 2 meals a day on keto?",
+        "What protein has no carbs?",
+        "What happens if you eat no carbs for a week?",
+        "What foods are 0 calories?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most filling food on keto?",
+      "Questions": [
+        "What are good keto snacks?",
+        "What food is filling but not carbs?",
+        "How do you satisfy your hunger on keto?",
+        "What fruit is ok for keto?",
+        "What is 100% keto?",
+        "How to get into ketosis in 24 hours?"
+      ]
+    },
+    {
+      "Parent Question": "keto friendly sauces and dips",
+      "Questions": [
+        "What dipping sauces are keto friendly?",
+        "Is mayonnaise ok for keto?",
+        "Is salsa ok for a keto diet?",
+        "Is Coke Zero keto friendly?"
+      ]
+    },
+    {
+      "Parent Question": "What dipping sauces are keto friendly?",
+      "Questions": [
+        "What fruit is ok for keto?",
+        "What sauces have no sugar?",
+        "Is hummus keto?",
+        "What mixers are keto-friendly?"
+      ]
+    },
+    {
+      "Parent Question": "Is mayonnaise ok for keto?",
+      "Questions": [
+        "Can I eat ketchup on keto?",
+        "Are onions keto-friendly?",
+        "Is peanut butter keto?",
+        "What sauce can you eat on keto?",
+        "Is tomato keto-friendly?",
+        "Is honey keto-friendly?"
+      ]
+    },
+    {
+      "Parent Question": "Is salsa ok for a keto diet?",
+      "Questions": [
+        "Is garlic allowed in keto?",
+        "Why is tomato sauce not keto?",
+        "Is watermelon keto?",
+        "What sauces are not keto friendly?",
+        "Is cream cheese keto?",
+        "Will a tortilla break ketosis?"
+      ]
+    },
+    {
+      "Parent Question": "Is Coke Zero keto friendly?",
+      "Questions": [
+        "Can I drink milk on keto?",
+        "How do I tell if I'm in ketosis?",
+        "Which alcohol is on keto?",
+        "Is coffee keto-friendly?",
+        "Is popcorn keto?",
+        "Is almond milk keto?"
+      ]
+    },
+    {
+      "Parent Question": "keto friendly snacks",
+      "Questions": [
+        "What's the best snack for keto?",
+        "What junk food is keto-friendly?",
+        "Is popcorn ok with keto?",
+        "What are the 9 rules of keto?"
+      ]
+    },
+    {
+      "Parent Question": "What's the best snack for keto?",
+      "Questions": [
+        "What foods are lazy keto?",
+        "What fruit is ok for keto?",
+        "Are bananas okay for keto?",
+        "Is cucumber keto?"
+      ]
+    },
+    {
+      "Parent Question": "What junk food is keto-friendly?",
+      "Questions": [
+        "Can I eat KFC on keto?",
+        "What are dirty keto foods?",
+        "Is coke zero good for keto?",
+        "Is it OK to snack on keto?",
+        "Is mayo keto-friendly?",
+        "Are tomatoes keto?"
+      ]
+    },
+    {
+      "Parent Question": "Is popcorn ok with keto?",
+      "Questions": [
+        "Is peanut butter keto?",
+        "Is yogurt keto?",
+        "Are carrots keto?",
+        "What is a good keto snack?",
+        "Is watermelon keto?",
+        "Is dark chocolate keto?"
+      ]
+    },
+    {
+      "Parent Question": "keto meal plans for weight loss",
+      "Questions": [
+        "How much weight can I lose in 1 month on keto?",
+        "What should I eat the first week of keto?",
+        "What are the 9 rules of keto?",
+        "How to lose weight in 7 days keto diet?"
+      ]
+    },
+    {
+      "Parent Question": "How much weight can I lose in 1 month on keto?",
+      "Questions": [
+        "How long to lose 20kg on keto?",
+        "What happens if I eat no carbs for a month?",
+        "Does keto really burn fat?",
+        "What happens on day 3 of keto?"
+      ]
+    },
+    {
+      "Parent Question": "What should I eat the first week of keto?",
+      "Questions": [
+        "What happens after 7 days on keto?",
+        "Can you eat rice on keto?",
+        "What is the hardest day of keto?",
+        "How do I know I'm in ketosis?",
+        "Can you drink milk on keto?",
+        "What fruit can you eat on keto?"
+      ]
+    },
+    {
+      "Parent Question": "How to lose weight in 7 days keto diet?",
+      "Questions": [
+        "What is a good keto snack?",
+        "Is Greek yogurt keto?",
+        "Is almond milk keto?",
+        "Is hummus keto?",
+        "How do I tell if I'm in ketosis?",
+        "How much water should I drink on keto?"
+      ]
+    },
+    {
+      "Parent Question": "keto recipes for beginners",
+      "Questions": [
+        "What should I eat the first week of keto?",
+        "What are the 9 rules of keto?",
+        "How do I start my keto diet for the first time?",
+        "What is a lazy keto meal?"
+      ]
+    },
+    {
+      "Parent Question": "How do I start my keto diet for the first time?",
+      "Questions": [
+        "How quickly does keto work?",
+        "What vegetables are keto?",
+        "Is Greek yogurt keto?",
+        "What happens on day 3 of keto?",
+        "How do I kick into keto fast?",
+        "How much can you lose on keto in a month?"
+      ]
+    },
+    {
+      "Parent Question": "keto salad dressings",
+      "Questions": [
+        "What salad dressings can I have on keto?",
+        "Is balsamic vinegar ok for keto?",
+        "Can you eat ranch dressing in keto?",
+        "What sauce is best for keto?"
+      ]
+    },
+    {
+      "Parent Question": "What salad dressings can I have on keto?",
+      "Questions": [
+        "Can I eat salad everyday on keto?",
+        "Is mayo keto-friendly?",
+        "Are onions keto?",
+        "Are tomatoes keto-friendly?"
+      ]
+    },
+    {
+      "Parent Question": "Is balsamic vinegar ok for keto?",
+      "Questions": [
+        "Is olive oil keto-friendly?",
+        "What vinegar has no carbs?",
+        "Is honey keto friendly?",
+        "Is feta keto?",
+        "Is grape must keto?",
+        "Are carrots keto?"
+      ]
+    },
+    {
+      "Parent Question": "Can you eat ranch dressing in keto?",
+      "Questions": [
+        "What dressing has no carbs?",
+        "Are cucumbers keto?",
+        "Is hummus keto?",
+        "Is mayonnaise keto?",
+        "Is peanut butter keto?",
+        "Is garlic keto?"
+      ]
+    },
+    {
+      "Parent Question": "keto smoothie recipes",
+      "Questions": [
+        "What is the best liquid for keto shakes?",
+        "Is banana OK with keto?",
+        "Is almond milk ok on a keto diet?",
+        "How do you thicken a keto smoothie?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best liquid for keto shakes?",
+      "Questions": [
+        "What fruit is ok for keto?",
+        "What is the best ketosis drink?",
+        "Can you eat yogurt on keto?",
+        "Which juice is best in keto diet?"
+      ]
+    },
+    {
+      "Parent Question": "Is banana OK with keto?",
+      "Questions": [
+        "Is cucumber keto-friendly?",
+        "Is peanut butter keto?",
+        "Can I eat an apple on keto?",
+        "Is milk keto-friendly?",
+        "Can you eat carrots on keto?",
+        "Are eggs allowed keto?"
+      ]
+    },
+    {
+      "Parent Question": "Is almond milk ok on a keto diet?",
+      "Questions": [
+        "Is coffee keto-friendly?",
+        "Is honey keto?",
+        "Why is cream keto but not milk?",
+        "Is Greek yogurt keto?",
+        "What fruits are good for keto?",
+        "Is oatmeal keto-friendly?"
+      ]
+    },
+    {
+      "Parent Question": "How do you thicken a keto smoothie?",
+      "Questions": [
+        "Is a protein shake keto?",
+        "What fruit makes smoothies thick?",
+        "How can I thicken my protein shake without bananas?",
+        "Is whey powder keto friendly?",
+        "How can I thicken something without carbs?",
+        "What is a substitute for xanthan gum in a smoothie?"
+      ]
+    },
+    {
+      "Parent Question": "low carb bread alternatives",
+      "Questions": [
+        "What is a good low-carb alternative to bread?",
+        "Which type of bread is lowest in carbs?",
+        "What can I replace eating bread with?",
+        "How can I eat carbs without bread?"
+      ]
+    },
+    {
+      "Parent Question": "What is a good low-carb alternative to bread?",
+      "Questions": [
+        "What is the best substitute for carbs?",
+        "What can I replace bread with for breakfast?",
+        "Is it OK to eat low carb bread?",
+        "How do I get carbs other than bread?"
+      ]
+    },
+    {
+      "Parent Question": "Which type of bread is lowest in carbs?",
+      "Questions": [
+        "Can you eat 2 slices of bread on a low carb diet?",
+        "What is the best bread for weight loss?",
+        "Does freezing bread reduce carbs?",
+        "Can sourdough be low carb?",
+        "Are wraps healthier than bread?",
+        "Is peanut butter keto?"
+      ]
+    },
+    {
+      "Parent Question": "What can I replace eating bread with?",
+      "Questions": [
+        "Which bread has the lowest carbs?",
+        "What happens if you stop eating bread?",
+        "What is a protein substitute for bread?",
+        "What should I replace bread with for breakfast?",
+        "Is removing bread from diet good?",
+        "Is rice better than bread?"
+      ]
+    },
+    {
+      "Parent Question": "How can I eat carbs without bread?",
+      "Questions": [
+        "What can I replace bread with?",
+        "What is filling but no carbs?",
+        "What happens if I eat no carbs for 2 weeks?",
+        "What happens if I eat no carbs for a month?",
+        "Are oats low carb?",
+        "How can I satisfy my hunger without carbs?"
+      ]
+    },
+    {
+      "Parent Question": "low carb breakfast ideas",
+      "Questions": [
+        "What is the lowest carb breakfast?",
+        "Can I eat oatmeal on a low-carb diet?",
+        "Which is the best breakfast for weight loss?",
+        "What is the ideal keto breakfast?"
+      ]
+    },
+    {
+      "Parent Question": "What is the lowest carb breakfast?",
+      "Questions": [
+        "Why eat no carb breakfast?",
+        "Is Greek yogurt low-carb?",
+        "What is the least bad carb?",
+        "Are oats high in carbs?"
+      ]
+    },
+    {
+      "Parent Question": "Can I eat oatmeal on a low-carb diet?",
+      "Questions": [
+        "What is the number one carb to avoid?",
+        "What is the most filling low-carb food?",
+        "Is sweet potato low-carb?",
+        "What happens if you eat no carbs for a week?",
+        "What protein has no carbs?",
+        "Is banana keto friendly?"
+      ]
+    },
+    {
+      "Parent Question": "Which is the best breakfast for weight loss?",
+      "Questions": [
+        "What's the breakfast trick to lose weight?",
+        "What to eat to reduce tummy?",
+        "What is the healthiest breakfast to eat?",
+        "Which fruit is best for weight loss?",
+        "Should I skip breakfast to lose weight?",
+        "How many eggs for breakfast?"
+      ]
+    },
+    {
+      "Parent Question": "What is the ideal keto breakfast?",
+      "Questions": [
+        "Is 7 eggs a day keto?",
+        "What fruit is ok for keto?",
+        "What are the golden rules of keto?",
+        "Is mayonnaise keto?",
+        "How do I start keto in the morning?",
+        "What is the maximum carbs for breakfast?"
+      ]
+    },
+    {
+      "Parent Question": "low carb holiday recipes",
+      "Questions": [
+        "What are some examples of low carb meals?",
+        "How to do Christmas on keto?",
+        "What Greek food is low carb?",
+        "How can I eat low carb if I don't cook?"
+      ]
+    },
+    {
+      "Parent Question": "What are some examples of low carb meals?",
+      "Questions": [
+        "What is filling but no carbs?",
+        "What does 50 grams of carbs a day look like?",
+        "What happens if you eat no carbs for a week?",
+        "Will I lose weight eating 50g carbs a day?"
+      ]
+    },
+    {
+      "Parent Question": "How to do Christmas on keto?",
+      "Questions": [
+        "What are the golden rules of keto?",
+        "How to get into keto in 3 days?",
+        "How do I stick to keto on holiday?",
+        "How do I get into keto in 24 hours?",
+        "What are the rules for lazy keto?",
+        "How to do keto when you're broke?"
+      ]
+    },
+    {
+      "Parent Question": "What Greek food is low carb?",
+      "Questions": [
+        "Is feta cheese keto?",
+        "Can I eat Greek yogurt everyday on keto?",
+        "Is pasta allowed in keto diet?",
+        "Is there low carb Italian food?",
+        "Why does Greek yogurt have less carbs?",
+        "Are onions low keto?"
+      ]
+    },
+    {
+      "Parent Question": "How can I eat low carb if I don't cook?",
+      "Questions": [
+        "What is a carb-free dinner?",
+        "Are egg noodles low-carb?",
+        "Is there a danger in low-carb diet?",
+        "What is an example of a low-carb meal?",
+        "Is peanut butter low-carb?",
+        "Is oatmeal low-carb?"
+      ]
+    },
+    {
+      "Parent Question": "low carb meal prep ideas",
+      "Questions": [
+        "What is filling but no carbs?",
+        "How to stay under 20 carbs a day?",
+        "What is the 30-35-35 meal plan?",
+        "What are some examples of low carb meals?"
+      ]
+    },
+    {
+      "Parent Question": "How to stay under 20 carbs a day?",
+      "Questions": [
+        "What is the 5 to 1 carb rule?",
+        "What happens if I eat no carbs for a month?",
+        "What do 50g carbs look like?",
+        "What is the most filling low-carb food?",
+        "Is tofu low-carb?",
+        "Is 50 carbs a day okay?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 30-35-35 meal plan?",
+      "Questions": [
+        "What is an example of a low-carb meal?",
+        "How to lose 10 kg weight in 7 days?",
+        "What does 45g of carbs look like?",
+        "What is a no carb diet menu?",
+        "What is the best protein to lose weight?",
+        "What is the 60 20 20 rule in nutrition?"
+      ]
+    },
+    {
+      "Parent Question": "low carb pizza crust recipes",
+      "Questions": [
+        "Which pizza crust has the least carbs?",
+        "How do you reduce carbs in pizza?",
+        "What can you use instead of flour in pizza dough?",
+        "Can you use almond flour for keto?"
+      ]
+    },
+    {
+      "Parent Question": "Which pizza crust has the least carbs?",
+      "Questions": [
+        "What is a healthy alternative for pizza dough?",
+        "Is cauliflower pizza crust less carbs?",
+        "What is the healthiest type of pizza crust?",
+        "Is pizza bad for low-carb diet?"
+      ]
+    },
+    {
+      "Parent Question": "How do you reduce carbs in pizza?",
+      "Questions": [
+        "What cancels out carbs?",
+        "How do you reduce carbs in flour?",
+        "Is yeast keto-friendly?",
+        "What is the lowest carb pizza?",
+        "What helps break down carbs?",
+        "How many carbs are in almond flour?"
+      ]
+    },
+    {
+      "Parent Question": "What can you use instead of flour in pizza dough?",
+      "Questions": [
+        "Can you knead pizza dough without flour?",
+        "Can you use cornflour instead of flour for pizza?",
+        "What can I use instead of bread for pizza?",
+        "Can I roll dough without flour?",
+        "Can I use cornstarch instead of flour?",
+        "What is the best flour for pizza dough not to stick?"
+      ]
+    },
+    {
+      "Parent Question": "Can you use almond flour for keto?",
+      "Questions": [
+        "Which flour has the lowest carbs?",
+        "Are sweet potatoes keto?",
+        "Is Greek yogurt keto?",
+        "Which flour is OK on keto?",
+        "Is stevia keto?",
+        "Are oats keto?"
+      ]
+    },
+    {
+      "Parent Question": "low carb side dishes",
+      "Questions": [
+        "What are good sides that aren't carbs?",
+        "What is a good side instead of rice?",
+        "What are filling low carb foods?",
+        "What junk food is low carb?"
+      ]
+    },
+    {
+      "Parent Question": "What are good sides that aren't carbs?",
+      "Questions": [
+        "What can you eat on no carbs?",
+        "What can I serve instead of potatoes or rice?",
+        "What is the best vegetable with no carbs?",
+        "What rice has the lowest carbs?"
+      ]
+    },
+    {
+      "Parent Question": "What is a good side instead of rice?",
+      "Questions": [
+        "What is a keto substitute for rice?",
+        "What is the healthiest side dish to eat?",
+        "What should I eat instead of rice and bread?",
+        "What can be replaced with rice?",
+        "What is a good side besides potatoes?",
+        "How to reduce carbs in rice?"
+      ]
+    },
+    {
+      "Parent Question": "low carb soups and stews",
+      "Questions": [
+        "What soup is lowest in carbs?",
+        "Can I eat soup on a low carb diet?",
+        "What is the healthiest soup to eat on a diet?",
+        "How do you thicken soup without carbs?"
+      ]
+    },
+    {
+      "Parent Question": "What soup is lowest in carbs?",
+      "Questions": [
+        "What broth has no carbs?",
+        "Is sweet potato low-carb?",
+        "Is tomato soup full of carbs?",
+        "Are lentils low-carb?"
+      ]
+    },
+    {
+      "Parent Question": "Can I eat soup on a low carb diet?",
+      "Questions": [
+        "Which soup has the most protein for weight loss?",
+        "Does rice soup have carbs?",
+        "How many kgs can I lose in soup diet?",
+        "Which soups are keto?",
+        "Is egg drop soup full of carbs?",
+        "Does homemade soup have carbs?"
+      ]
+    },
+    {
+      "Parent Question": "What is the healthiest soup to eat on a diet?",
+      "Questions": [
+        "Which soup is good to reduce belly fat?",
+        "What can I serve with soup instead of bread?",
+        "Can I lose weight if I eat soup everyday?",
+        "How much weight can you lose on the 7 day cabbage soup diet?",
+        "What to eat with soup for weight loss?",
+        "Is tomato soup good for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "How do you thicken soup without carbs?",
+      "Questions": [
+        "What 2 ingredients are used to thicken the soup?",
+        "How to thicken a sauce without adding carbs?",
+        "Is arrowroot flour low in carbs?",
+        "Can you have soup in keto?",
+        "What is the healthiest stew thickener?",
+        "What is a thickener in place of flour?"
+      ]
+    },
+    {
+      "Parent Question": "low carb vegetarian dishes",
+      "Questions": [
+        "Is it possible to be low-carb and vegetarian?",
+        "How to eat more protein and less carbs as a vegetarian?",
+        "What should I eat for dinner in vegetarian?",
+        "What are high protein low-carb vegetables?"
+      ]
+    },
+    {
+      "Parent Question": "Is it possible to be low-carb and vegetarian?",
+      "Questions": [
+        "Is tofu low-carb?",
+        "What organ is affected by a low-carb diet?",
+        "Are chickpeas low-carb?",
+        "What is a low-carb diet for 3 days?"
+      ]
+    },
+    {
+      "Parent Question": "How to eat more protein and less carbs as a vegetarian?",
+      "Questions": [
+        "What protein has no carbs?",
+        "How to get 100g protein a day vegetarian?",
+        "Is sweet potato low-carb?",
+        "How do vegetarians eat low carbs?",
+        "Are oats low-carb?",
+        "How can I add protein but not carbs?"
+      ]
+    },
+    {
+      "Parent Question": "What should I eat for dinner in vegetarian?",
+      "Questions": [
+        "What is the healthiest vegetarian meal?",
+        "What are 10 good dinner foods?",
+        "What is the most famous vegetarian dish?",
+        "What are 5 healthy food vegetarian?",
+        "What is the most filling vegetarian food?",
+        "How do vegetarians get protein?"
+      ]
+    },
+    {
+      "Parent Question": "What are high protein low-carb vegetables?",
+      "Questions": [
+        "What is the most filling low carb food?",
+        "How many carbs a day to lose weight?",
+        "What is the lowest carb vegetable?",
+        "What are the high carb veggies to avoid?",
+        "What beans are low carb?",
+        "What is the highest protein low carb food?"
+      ]
+    },
+    {
+      "Parent Question": "quick low carb lunch recipes",
+      "Questions": [
+        "What is a good low carbohydrate lunch?",
+        "What is filling but no carbs?",
+        "Is 150 carbs a day low carb?",
+        "What are easy low carb foods?"
+      ]
+    },
+    {
+      "Parent Question": "What is a good low carbohydrate lunch?",
+      "Questions": [
+        "What do 20 grams of carbs look like?",
+        "What is the 90 30 50 diet?",
+        "What is an extremely low-carb diet?",
+        "Are rice noodles low-carb?"
+      ]
+    },
+    {
+      "Parent Question": "Is 150 carbs a day low carb?",
+      "Questions": [
+        "What happens if I eat no carbs for a month?",
+        "How to lose 5 pounds in a week?",
+        "How do I tell if I'm in ketosis?",
+        "Will I lose weight if I don't eat carbs for a week?",
+        "Is sweet potato low-carb?",
+        "What is the fastest way to lose weight on a low-carb diet?"
+      ]
+    },
+    {
+      "Parent Question": "What are easy low carb foods?",
+      "Questions": [
+        "What junk food is low carb?",
+        "What is the healthiest carb to eat?",
+        "What is an example of a low carb meal?",
+        "What is the most filling low carb food?",
+        "Are chickpeas low carb?",
+        "Is hummus keto?"
       ]
       }
     ]
