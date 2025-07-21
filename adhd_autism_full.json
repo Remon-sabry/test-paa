@@ -9649,6 +9649,245 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "Motivation_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "achieving work life balance",
+      "Questions": [
+        "How is work-life balance achieved?",
+        "How to achieve work-life balance in 5 steps?",
+        "How can employees achieve a decent work-life balance?",
+        "Why is it important to achieve a work-life balance?"
+      ]
+    },
+    {
+      "Parent Question": "building confidence and self esteem",
+      "Questions": [
+        "How do I boost my confidence and self-esteem?",
+        "What actually builds confidence?",
+        "What are the 10 steps to build self-esteem and confidence?",
+        "How to overcome lack of confidence?"
+      ]
+    },
+    {
+      "Parent Question": "building resilience",
+      "Questions": [
+        "What does building resilience mean?",
+        "What are the 7 C's of building resilience?",
+        "What are the 5 R's of resilience?",
+        "What are the 5 pillars of resilience?"
+      ]
+    },
+    {
+      "Parent Question": "building self discipline",
+      "Questions": [
+        "How do I develop self-discipline?",
+        "What are the three types of self-discipline?",
+        "Why do I have such poor self-discipline?",
+        "How to be 100% disciplined?"
+      ]
+    },
+    {
+      "Parent Question": "creating a vision board",
+      "Questions": [
+        "How do I make my own vision board?",
+        "What should be on a vision board?",
+        "What questions should you ask yourself when creating a vision board?",
+        "What is the free app to create a vision board?"
+      ]
+    },
+    {
+      "Parent Question": "daily motivation routines",
+      "Questions": [
+        "How do I motivate myself everyday?",
+        "What is the best daily routine?",
+        "How do I start my day motivated?",
+        "How do I write my daily life routine?"
+      ]
+    },
+    {
+      "Parent Question": "developing a growth mindset",
+      "Questions": [
+        "What are the 5 ways you can develop a growth mindset?",
+        "What are the 4 steps to developing a growth mindset?",
+        "What does it mean to develop a growth mindset?",
+        "How do I train myself to have a growth mindset?"
+      ]
+    },
+    {
+      "Parent Question": "empowering yourself to succeed",
+      "Questions": [
+        "How can I empower myself?",
+        "What are the 5 points of empowerment?",
+        "What does it mean to keep empowering yourself successfully?",
+        "What does empowering your success mean?"
+      ]
+    },
+    {
+      "Parent Question": "goal setting for personal development",
+      "Questions": [
+        "What is an example of a personal development goal?",
+        "What is goal setting in personal development?",
+        "What are the 5 points of personal development?",
+        "How do you write personal development goals?"
+      ]
+    },
+    {
+      "Parent Question": "how to break bad habits",
+      "Questions": [
+        "What is the easiest way to break a bad habit?",
+        "What are the 7 steps to breaking a habit?",
+        "What is the 3 day rule to break a habit?",
+        "Why can't I break bad habits?"
+      ]
+    },
+    {
+      "Parent Question": "how to find your purpose in life",
+      "Questions": [
+        "How do I discover my purpose in life?",
+        "Why is it so hard to find my purpose in life?",
+        "How do I find my definite purpose in life?",
+        "What is the main purpose of my life?"
+      ]
+    },
+    {
+      "Parent Question": "how to stay motivated daily",
+      "Questions": [
+        "How can I motivate myself daily?",
+        "How to be 100% motivated?",
+        "How do I stop losing motivation?",
+        "How can I motivate my day?"
+      ]
+    },
+    {
+      "Parent Question": "improving emotional intelligence",
+      "Questions": [
+        "What are the 5 C's of emotional intelligence?",
+        "Can you actually become more emotionally intelligent?",
+        "How to get your EQ up?",
+        "Can low emotional intelligence be fixed?"
+      ]
+    },
+    {
+      "Parent Question": "managing stress for personal growth",
+      "Questions": [
+        "How does stress help with personal growth?",
+        "What is managing stress in personal development?",
+        "How do you manage stress in your personal life?",
+        "What are the 5 R's of stress management?"
+      ]
+    },
+    {
+      "Parent Question": "mindfulness for personal growth",
+      "Questions": [
+        "What is mindfulness in personal development?",
+        "How to mindfully improve your personal development?",
+        "What is growth mindfulness?",
+        "How can mindfulness help individuals?"
+      ]
+    },
+    {
+      "Parent Question": "motivational quotes for success",
+      "Questions": [
+        "What is the best motivational quote ever?",
+        "What is the best motivational quote Success?",
+        "What are 5 wise quotes?",
+        "What's the most powerful quote?"
+      ]
+    },
+    {
+      "Parent Question": "motivation tips for success",
+      "Questions": [
+        "How do I motivate myself to be successful?",
+        "What are some tips for motivation?",
+        "What are my top 5 motivations?",
+        "What is motivation 5 points?"
+      ]
+    },
+    {
+      "Parent Question": "overcoming procrastination",
+      "Questions": [
+        "How can you overcome procrastination?",
+        "How do I stop being lazy and procrastinating?",
+        "What is the 321 method of procrastination?",
+        "What is the root of procrastination?"
+      ]
+    },
+    {
+      "Parent Question": "overcoming self doubt",
+      "Questions": [
+        "How do I overcome doubt in myself?",
+        "What is the cause of self-doubt?",
+        "What is the root of self-doubt?",
+        "What is self-doubt a symptom of?"
+      ]
+    },
+    {
+      "Parent Question": "personal development books",
+      "Questions": [
+        "What are the top personal development books?",
+        "What are the five 5 areas of personal development?",
+        "Why read personal development books?",
+        "What self-improvement book should I read first?"
+      ]
+    },
+    {
+      "Parent Question": "personal growth strategies",
+      "Questions": [
+        "What are the 4 growth strategies?",
+        "What are the 5 points of personal development?",
+        "What are the 4 stages of personal growth?",
+        "How do you develop personal growth?"
+      ]
+    },
+    {
+      "Parent Question": "positive thinking techniques",
+      "Questions": [
+        "What are the techniques of positive thinking?",
+        "What are the 5 C's of positive thinking?",
+        "What are positive thinking exercises?",
+        "How do I rewire my brain to think positive?"
+      ]
+    },
+    {
+      "Parent Question": "self improvement habits",
+      "Questions": [
+        "What habit contributes to self-improvement?",
+        "What are good self care habits?",
+        "How can I improve my self?",
+        "What are the 5 points of personal development?"
+      ]
+    },
+    {
+      "Parent Question": "staying focused on goals",
+      "Questions": [
+        "How can I stay focused towards my goals?",
+        "Why is it important to stay focused on your goals?",
+        "Why can't I focus on my goals?",
+        "What are the five steps to maintain focus on achieving the goal?"
+      ]
+    },
+    {
+      "Parent Question": "time management for personal growth",
+      "Questions": [
+        "How does time management contribute to personal growth?",
+        "How do you take time for personal growth?",
+        "What are the 5 P's of time management?",
+        "How does time management help an individual?"
+      ]
+    },
+    {
+      "Parent Question": "visualization for success",
+      "Questions": [
+        "How do you visualise success?",
+        "What are the 5 stages of visualization?",
+        "What are the 4 steps of an effective visualization?",
+        "What is the best visualization method?"
+      ]
+      }
+    ]
   }
 ]
 
