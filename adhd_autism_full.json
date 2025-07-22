@@ -21500,8 +21500,329 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "BODYBUILDING_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "best exercises for building biceps",
+      "Questions": [
+        "What is the most effective exercise for biceps?",
+        "How can I build my biceps fast?",
+        "What bicep exercise gives the most growth?",
+        "Are 4 exercises enough for biceps?"
+      ]
+    },
+    {
+      "Parent Question": "best supplements for fat loss",
+      "Questions": [
+        "Which supplement is best for burning fat?",
+        "What is the best supplement to shred fat?",
+        "What burns fat the fastest?",
+        "What is the #1 weight loss pill?"
+      ]
+    },
+    {
+      "Parent Question": "best supplements for muscle gain",
+      "Questions": [
+        "What is the best muscle-building supplement?",
+        "What is best for fast muscle gain?",
+        "Which vitamin is best for muscle gain?",
+        "Do supplements help build muscle?"
+      ]
+    },
+    {
+      "Parent Question": "best workout plans for bodybuilding",
+      "Questions": [
+        "What is a good workout schedule for bodybuilding?",
+        "What is the best workout plan to gain muscle?",
+        "What is the 6 12 25 rule?",
+        "What is the 3/2/1 rule in gym?"
+      ]
+    },
+    {
+      "Parent Question": "building muscle with bodyweight exercises",
+      "Questions": [
+        "Can you build muscle just doing bodyweight exercises?",
+        "Is it possible to get ripped with only bodyweight exercises?",
+        "What is the 5 10 15 bodyweight workout?",
+        "Can bodyweight exercises replace weights?"
+      ]
+    },
+    {
+      "Parent Question": "bulking vs cutting phases explained",
+      "Questions": [
+        "What is the difference between bulking phase and cutting phase?",
+        "What is the best cycle for bulking and cutting?",
+        "What is the science behind bulking and cutting?",
+        "Is it better to start bulking or cutting?"
+      ]
+    },
+    {
+      "Parent Question": "cardio for bodybuilders is it necessary",
+      "Questions": [
+        "Is cardio necessary for bodybuilding?",
+        "Can you bodybuild without cardio?",
+        "Do I need to do cardio if I lift weights?",
+        "Is it necessary to do cardio when bulking?"
+      ]
+    },
+    {
+      "Parent Question": "common mistakes in bodybuilding",
+      "Questions": [
+        "What do bodybuilders struggle with?",
+        "What not to do in body building?",
+        "What is failure in bodybuilding?",
+        "What are some common mistakes people make at the gym?"
+      ]
+    },
+    {
+      "Parent Question": "common myths about bodybuilding",
+      "Questions": [
+        "What is a fact about bodybuilders?",
+        "Why are bodybuilders big but not strong?",
+        "Who is the legend of bodybuilding?",
+        "What is the secret of bodybuilding?"
+      ]
+    },
+    {
+      "Parent Question": "compound vs isolation exercises",
+      "Questions": [
+        "Is it better to do compound exercises or isolation?",
+        "What are examples of compound and isolation exercises?",
+        "What happens if you only do compound exercises?",
+        "Do compound exercises burn more calories?"
+      ]
+    },
+    {
+      "Parent Question": "how to achieve a six pack",
+      "Questions": [
+        "How to get 6 packs fast?",
+        "How long will it take to get six-pack?",
+        "Can I get abs in 30 days?",
+        "Can I get abs in 2 weeks?"
+      ]
+    },
+    {
+      "Parent Question": "how to avoid overtraining",
+      "Questions": [
+        "How can we prevent overtraining?",
+        "How can I exercise without overtraining?",
+        "How do bodybuilders avoid overtraining?",
+        "How do I not over workout?"
+      ]
+    },
+    {
+      "Parent Question": "how to balance strength and aesthetics",
+      "Questions": [
+        "How to be strong and aesthetic?",
+        "How do you balance strength and hypertrophy?",
+        "How do you train strength and aesthetics at the same time?",
+        "Can you get aesthetic with strength training?"
+      ]
+    },
+    {
+      "Parent Question": "how to build a bigger chest",
+      "Questions": [
+        "How can I make my chest bigger fast?",
+        "How can I expand chest size?",
+        "Why won't my chest grow?",
+        "Is it hard to build a big chest?"
+      ]
+    },
+    {
+      "Parent Question": "how to build muscle mass effectively",
+      "Questions": [
+        "What is the fastest way to build muscle mass?",
+        "What is the 6 12 25 rule?",
+        "Which method is best for muscle growth?",
+        "Is a 30 minute workout enough to build muscle?"
+      ]
+    },
+    {
+      "Parent Question": "how to calculate your macros for muscle growth",
+      "Questions": [
+        "How do I calculate my macros to build muscle?",
+        "What is the best macro ratio for muscle gain?",
+        "Is 40-40-20 macro good for bulking?",
+        "What is 40/30/30 macro cutting?"
+      ]
+    },
+    {
+      "Parent Question": "how to deal with gym intimidation",
+      "Questions": [
+        "How to get over intimidation at the gym?",
+        "How do you respond to intimidation?",
+        "What is gym intimidation?",
+        "How do I stop gym harassment?"
+      ]
+    },
+    {
+      "Parent Question": "how to design a muscle building diet",
+      "Questions": [
+        "How to create a diet plan to gain muscle?",
+        "How do I make my own bodybuilding diet?",
+        "What is the best diet for muscle gain?",
+        "How do I calculate what to eat to build muscle?"
+      ]
+    },
+    {
+      "Parent Question": "how to get rid of stubborn belly fat",
+      "Questions": [
+        "How can I lose my stubborn belly fat?",
+        "What burns the most belly fat?",
+        "Why is my belly fat so stubborn?",
+        "Why is my stomach fat not going away?"
+      ]
+    },
+    {
+      "Parent Question": "how to increase bench press strength",
+      "Questions": [
+        "How do I make my bench press stronger?",
+        "How much should a 70 kg man bench press?",
+        "Is 100 kg a good bench press?",
+        "Is benching 135 at 14 good?"
+      ]
+    },
+    {
+      "Parent Question": "how to optimize testosterone levels naturally",
+      "Questions": [
+        "Which foods boost testosterone the most?",
+        "Does ejaculating raise testosterone naturally?",
+        "What's the best natural testosterone booster?",
+        "How to get 1000 testosterone levels?"
+      ]
+    },
+    {
+      "Parent Question": "how to prevent workout plateaus",
+      "Questions": [
+        "How to stop plateau when working out?",
+        "How long do workout plateaus last?",
+        "How do I make sure I don't plateau?",
+        "How do you break a plateau?"
+      ]
+    },
+    {
+      "Parent Question": "how to recover faster from workouts",
+      "Questions": [
+        "How can I speed up my recovery after working out?",
+        "Is it okay to workout when sore?",
+        "What recovery method is the fastest?",
+        "How long does workout recovery take?"
+      ]
+    },
+    {
+      "Parent Question": "how to safely use resistance bands",
+      "Questions": [
+        "What are the safety considerations for resistance bands?",
+        "Is it safe to use resistance bands everyday?",
+        "How likely are resistance bands to break?",
+        "What are the injuries of resistance bands?"
+      ]
+    },
+    {
+      "Parent Question": "how to structure a workout split",
+      "Questions": [
+        "What is the most effective workout split?",
+        "How to organize a workout split?",
+        "What is the 3-3-3 rule gym?",
+        "What is the 6 12 25 rule?"
+      ]
+    },
+    {
+      "Parent Question": "how to track your progress in bodybuilding",
+      "Questions": [
+        "How do bodybuilders track progress?",
+        "How to measure muscle building progress?",
+        "How do I track my lifting progress?",
+        "What is the 2 2 2 rule in gym?"
+      ]
+    },
+    {
+      "Parent Question": "how to train legs for maximum growth",
+      "Questions": [
+        "How should you train legs for growth?",
+        "How to grow bigger legs fast?",
+        "Are 3 exercises enough to grow legs?",
+        "Does training legs increase growth?"
+      ]
+    },
+    {
+      "Parent Question": "progressive overload techniques",
+      "Questions": [
+        "What are the 6 common methods of progressive overload?",
+        "How to progressive overload correctly?",
+        "What is the 2 for 2 rule for progressive overload?",
+        "What is a good example of progressive overload?"
+      ]
+    },
+    {
+      "Parent Question": "six pack abs diet vs exercise",
+      "Questions": [
+        "Is diet or exercise better for six-pack abs?",
+        "Are abs a result of diet?",
+        "Can I get six-pack without diet?",
+        "Does eating less give you a six-pack?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of core strength in bodybuilding",
+      "Questions": [
+        "Do bodybuilders have core strength?",
+        "How important is core strength for weightlifting?",
+        "Why is core strength important?",
+        "Why is it important to have a strong set of core muscles?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of sleep for muscle growth",
+      "Questions": [
+        "How important is sleep for muscle gain?",
+        "Will I lose muscle if I don't sleep?",
+        "Is sleep important for body growth?",
+        "Is 7 hours of sleep enough for muscle growth?"
+      ]
+    },
+    {
+      "Parent Question": "the role of genetics in bodybuilding",
+      "Questions": [
+        "How do genetics play a role in muscle?",
+        "Do genetics play a role in the gym?",
+        "How much do genetics play a role in physique?",
+        "Do you need good genetics to build muscle?"
+      ]
+    },
+    {
+      "Parent Question": "the role of protein in bodybuilding",
+      "Questions": [
+        "What is the role of protein for building human body?",
+        "How much protein does a 70 kg man need?",
+        "Is 40% protein too high?",
+        "What is the 2 hour protein rule?"
+      ]
+    },
+    {
+      "Parent Question": "the truth about fasted workouts for fat loss",
+      "Questions": [
+        "Is working out fasted better for fat loss?",
+        "Will I burn more fat if I exercise on an empty stomach?",
+        "Does fasting train your body to burn fat?",
+        "Does fasting after a workout burn fat?"
+      ]
+    },
+    {
+      "Parent Question": "the truth about spot reduction",
+      "Questions": [
+        "Does fat reduction really work?",
+        "Does anything actually target belly fat?",
+        "Does spot running reduce belly fat?",
+        "Can I lose 20% body fat in 2 months?"
+      ]
+      }
+    ]
   }
 ]
+
 
 
 
