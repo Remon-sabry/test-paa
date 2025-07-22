@@ -17198,7 +17198,2000 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "AI_FOR_BUSINESS_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "ai and ethical concerns privacy bias and accountability",
+      "Questions": [
+        "What are the 3 big ethical concerns of AI?",
+        "What are some ethical concerns of AI with respect to inclusion bias and privacy?",
+        "What are the ethical issues with bias in AI?",
+        "What are the privacy concerns of AI?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 3 big ethical concerns of AI?",
+      "Questions": [
+        "What are AI biases?",
+        "What is the main ethical concern with data privacy?",
+        "What is the biggest concern with AI?",
+        "What is AI ethics concerned with?"
+      ]
+    },
+    {
+      "Parent Question": "What are some ethical concerns of AI with respect to inclusion bias and privacy?",
+      "Questions": [
+        "What are the list of ethical issues in AI?",
+        "What is ethical dilemma in AI?",
+        "What are the basics of AI ethics with respect to inclusion?",
+        "What are the risks of AI ethics?",
+        "What are the ethical concerns of AI surveillance?",
+        "What is the most ethical issue using AI in business?"
+      ]
+    },
+    {
+      "Parent Question": "What are the ethical issues with bias in AI?",
+      "Questions": [
+        "What is accountability in AI ethics?",
+        "What is the future of AI?",
+        "What are ethical concerns?",
+        "What is AI bias with example?",
+        "What is one major ethical concern in the use of generative AI?",
+        "How can AI avoid bias?"
+      ]
+    },
+    {
+      "Parent Question": "What are the privacy concerns of AI?",
+      "Questions": [
+        "How can AI improve privacy?",
+        "What is AI ethics?",
+        "What is privacy concern?",
+        "What is the biggest concern about AI?",
+        "What are the privacy concerns of Gen AI?",
+        "What is privacy and security in responsible AI?"
+      ]
+    },
+    {
+      "Parent Question": "ai and robotics innovations in automation and manufacturing",
+      "Questions": [
+        "What is robotics and automation in manufacturing?",
+        "What is the role of AI in robotics and automation?",
+        "How is AI used in manufacturing robots?",
+        "How is AI used in automation?"
+      ]
+    },
+    {
+      "Parent Question": "What is robotics and automation in manufacturing?",
+      "Questions": [
+        "What are 10 amazing examples of robotic process automation in practice?",
+        "How are robotics used in manufacturing industries?",
+        "What is the future of robotics in manufacturing?",
+        "What are the different types of automation in manufacturing?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in robotics and automation?",
+      "Questions": [
+        "What is an example of AI in robotics?",
+        "How are robots used in automation?",
+        "Which is best, AI or robotics?",
+        "What are 4 ways that AI is used in robotics?",
+        "What is the future of AI and robotics?",
+        "Who is the father of AI?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in manufacturing robots?",
+      "Questions": [
+        "What is the role of AI in robotics?",
+        "How does AI help in the automation process?",
+        "Where are manufacturing robots used?",
+        "What is the future of robots in manufacturing?",
+        "What is meant by smart manufacturing?",
+        "What are the primary benefits of using AI in manufacturing?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in automation?",
+      "Questions": [
+        "What is the role of AI automation?",
+        "What are the best AI tools?",
+        "How is AI used in production?",
+        "How to use AI in industrial automation?",
+        "What are some examples of automation?",
+        "What is the impact of AI automation?"
+      ]
+    },
+    {
+      "Parent Question": "ai applications in healthcare revolutionizing diagnosis and treatment",
+      "Questions": [
+        "What is the role of AI in healthcare diagnosis and treatment?",
+        "What are the AI applications for disease diagnosis and treatment?",
+        "How can AI revolutionize healthcare?",
+        "What is an example of a medical diagnosis with AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in healthcare diagnosis and treatment?",
+      "Questions": [
+        "How is AI revolutionizing medical diagnosis?",
+        "How can AI be used in diagnosis?",
+        "How is AI used in healthcare 2024?",
+        "What are the limitations of AI in diagnosing diseases?"
+      ]
+    },
+    {
+      "Parent Question": "What are the AI applications for disease diagnosis and treatment?",
+      "Questions": [
+        "What is AI application in healthcare?",
+        "How is AI used in treatment?",
+        "What is the most common use of AI in healthcare?",
+        "How can AI help cure diseases?",
+        "How is AI used in medical devices?",
+        "What is the application of artificial intelligence for the diagnosis and treatment of liver diseases?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI revolutionize healthcare?",
+      "Questions": [
+        "How will AI benefit the health sector?",
+        "How can AI revolutionize?",
+        "How does AI reduce human error in healthcare?",
+        "How is AI used in medical diagnosis?",
+        "What is generative AI in healthcare 2024?",
+        "What is the role of AI in the future of healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "What is an example of a medical diagnosis with AI?",
+      "Questions": [
+        "What is the best AI tool for medical diagnosis?",
+        "How is AI changing healthcare?",
+        "What is generative AI for medical diagnosis?",
+        "What is artificial intelligence for medical treatment?",
+        "Can AI diagnose rare diseases?",
+        "What is AI for early diagnosis?"
+      ]
+    },
+    {
+      "Parent Question": "ai for environmental sustainability and climate change solutions",
+      "Questions": [
+        "How is artificial intelligence used in environmental sustainability and climate change?",
+        "How can AI help solve climate change?",
+        "How can AI solve environmental problems?",
+        "Which AI application can be used to help with sustainability problems?"
+      ]
+    },
+    {
+      "Parent Question": "How is artificial intelligence used in environmental sustainability and climate change?",
+      "Questions": [
+        "What are the applications of AI in climate?",
+        "How can AI be helpful in improving the work environment?",
+        "How can AI be used for sustainable development?",
+        "What are the top 3 environmental issues?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI help solve climate change?",
+      "Questions": [
+        "What is AI for good climate?",
+        "What technology is used to solve climate change?",
+        "How AI will change the world for the better?",
+        "How can AI improve weather and climate prediction?",
+        "How is climate change being solved?",
+        "What is the AI for climate initiative?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI solve environmental problems?",
+      "Questions": [
+        "How can AI help with climate change?",
+        "What is the role of AI in environmental research and sustainability?",
+        "What are the artificial changes in the environment?",
+        "How can AI be used to improve sustainability?",
+        "How AI can reduce air pollution?",
+        "How bad is ChatGPT for the environment?"
+      ]
+    },
+    {
+      "Parent Question": "Which AI application can be used to help with sustainability problems?",
+      "Questions": [
+        "How AI can solve environmental problems?",
+        "What are the technological solutions to climate change?",
+        "What is the AI for good sustainability?",
+        "How is AI good for environment?",
+        "How to save the climate?",
+        "What is responsible AI for sustainability?"
+      ]
+    },
+    {
+      "Parent Question": "ai in entertainment video games movies and music creation",
+      "Questions": [
+        "How is AI used in the entertainment industry?",
+        "What AI is used in video games?",
+        "How is AI used in music and media?",
+        "Can AI be used to make movies?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in the entertainment industry?",
+      "Questions": [
+        "What is generative AI in media and entertainment industry?",
+        "Is AI is used in the creative industry today to create art movies and other media?",
+        "How to use AI in content creation?",
+        "What are the disadvantages of AI in entertainment?"
+      ]
+    },
+    {
+      "Parent Question": "What AI is used in video games?",
+      "Questions": [
+        "Can Generative AI create video games?",
+        "Which AI technique is commonly used in game playing?",
+        "How does Generative AI impact the video and animation industry?",
+        "Will AI speed up video game development?",
+        "What is an example of a Generative AI game?",
+        "How is AI used in robotics?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in music and media?",
+      "Questions": [
+        "What is the use of AI in entertainment industry?",
+        "Can I use AI to create music?",
+        "How is AI used in games?",
+        "Is AI taking over music industry?",
+        "What are the 5 advantages and 5 disadvantages of artificial intelligence?",
+        "What is the transformative impact of AI on media and entertainment sectors?"
+      ]
+    },
+    {
+      "Parent Question": "Can AI be used to make movies?",
+      "Questions": [
+        "How is AI used in video?",
+        "Can AI replace animation?",
+        "Can AI write a movie script?",
+        "What is generative AI for movies?",
+        "Can AI animate a movie?",
+        "Is there an AI video creator?"
+      ]
+    },
+    {
+      "Parent Question": "ai in financial services fraud detection and risk management",
+      "Questions": [
+        "How is AI used in financial services?",
+        "What is the best AI model for fraud detection?",
+        "What banks use AI for fraud detection?",
+        "How is AI used in credit risk management?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in financial services?",
+      "Questions": [
+        "What is the future of AI in financial services?",
+        "What is the best AI for finance?",
+        "How are financial services companies using Generative AI?",
+        "What is the AI that solves financial problems?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best AI model for fraud detection?",
+      "Questions": [
+        "What is the fraud detection system for financial institutions?",
+        "How is AI used in threat detection?",
+        "Which is the best AI detection tool?",
+        "What is the role of ML in fraud detection?",
+        "What is generative AI in financial crime?",
+        "Does AI detection software work?"
+      ]
+    },
+    {
+      "Parent Question": "What banks use AI for fraud detection?",
+      "Questions": [
+        "What is the AI model for fraud?",
+        "How can AI be used in finance?",
+        "Which bank has best fraud detection?",
+        "How to use AI in banking?",
+        "What is an example of AI fraud?",
+        "How does JPMorgan use AI?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in credit risk management?",
+      "Questions": [
+        "What is the role of AI in financial risk management?",
+        "How is AI used in AML?",
+        "How to implement AI in risk management?",
+        "How is AI ML changing financial risk management?",
+        "Will risk management be replaced by AI?",
+        "What is a limitation of AI in banking?"
+      ]
+    },
+    {
+      "Parent Question": "ai in sports performance analysis and injury prevention",
+      "Questions": [
+        "How can AI be used for injury prevention in sports?",
+        "What is the use of AI in sports performance analysis?",
+        "How will AI be used in sports?",
+        "What technology is used in sport injury prevention?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used for injury prevention in sports?",
+      "Questions": [
+        "How can AI be used in fitness?",
+        "How AI can prevent accidents?",
+        "How will AI improve safety?",
+        "How is AI used in sports medicine?"
+      ]
+    },
+    {
+      "Parent Question": "What is the use of AI in sports performance analysis?",
+      "Questions": [
+        "How is performance analysis used in sport?",
+        "What are the disadvantages of AI in sports?",
+        "How AI can be used in performance management?",
+        "How can we measure performance in AI?",
+        "How is analytics used in sports?",
+        "How is AI used in the Olympics?"
+      ]
+    },
+    {
+      "Parent Question": "How will AI be used in sports?",
+      "Questions": [
+        "Can AI be used to predict sports?",
+        "What are the best AI tools?",
+        "Who created AI in sports?",
+        "Will AI replace humans in sports?",
+        "How does AI in sports analytics analyze sports performance data to provide insights and strategies for teams and athletes?",
+        "How is AI used in FIFA?"
+      ]
+    },
+    {
+      "Parent Question": "What technology is used in sport injury prevention?",
+      "Questions": [
+        "What technology is used in sports analysis?",
+        "Which is the best way to prevent sports injuries?",
+        "What are the new treatments for sports injuries?",
+        "What is injury prevention in sport?",
+        "How to use technology to improve performance of athletes?",
+        "How can injury prevention be improved by future technologies?"
+      ]
+    },
+    {
+      "Parent Question": "ai in the medical field drug discovery and personalized medicine",
+      "Questions": [
+        "How is AI used in personalized medicine?",
+        "What is the role of AI in drug discovery and healthcare?",
+        "What is the AI platform for drug discovery?",
+        "How has AI been used in the medical field?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in personalized medicine?",
+      "Questions": [
+        "How is AI used in drugs?",
+        "What is an example of personalized medicine?",
+        "What is the role of AI in personalization?",
+        "What technologies are used in personalized medicine?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in drug discovery and healthcare?",
+      "Questions": [
+        "How can AI accelerate drug discovery?",
+        "What is the application of artificial intelligence in medicine?",
+        "How is AI used in e discovery?",
+        "What is the success rate of AI drug discovery?",
+        "What is the primary goal of AI-driven personalized medicine?",
+        "How does drug discovery work?"
+      ]
+    },
+    {
+      "Parent Question": "What is the AI platform for drug discovery?",
+      "Questions": [
+        "Can AI create new medicine?",
+        "What technology is used in drug discovery?",
+        "What is AI discovery?",
+        "What are examples of AI drugs?",
+        "Who introduced AI in medicine?",
+        "What are the algorithms used in AI drug discovery?"
+      ]
+    },
+    {
+      "Parent Question": "How has AI been used in the medical field?",
+      "Questions": [
+        "How is AI being used to personalize treatments and medications for patients?",
+        "What is the future of AI in medicine?",
+        "What are the examples of AI in medical diagnosis?",
+        "How is AI used in healthcare 2024?",
+        "Will AI help cure diseases?",
+        "How is AI used in surgery?"
+      ]
+    },
+    {
+      "Parent Question": "ai powered language translation and its global impact",
+      "Questions": [
+        "What is the impact of AI translation?",
+        "How does AI help with language translation?",
+        "What is AI powered speech translation system?",
+        "Will AI replace translators in 2024?"
+      ]
+    },
+    {
+      "Parent Question": "What is the impact of AI translation?",
+      "Questions": [
+        "What is the impact of AI in the world?",
+        "What are the problems with AI translation?",
+        "What are the biggest challenges facing AI translation technology?",
+        "What are the impacts benefits of AI?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help with language translation?",
+      "Questions": [
+        "What is the best AI for translation?",
+        "How will AI affect language learning?",
+        "What is an example of translation system in AI?",
+        "What is the future of translation with AI?",
+        "How is AI used in language?",
+        "Which field of AI is used for translation?"
+      ]
+    },
+    {
+      "Parent Question": "What is AI powered speech translation system?",
+      "Questions": [
+        "What is AI powered translation?",
+        "Can AI convert speech to text?",
+        "Can AI translate language in real-time?",
+        "What is the free AI powered translation?",
+        "What is an example of speech AI?",
+        "Is Google Translate powered by AI?"
+      ]
+    },
+    {
+      "Parent Question": "Will AI replace translators in 2024?",
+      "Questions": [
+        "Will AI replace language learning?",
+        "Will AI replace transcription?",
+        "What will be replaced by AI?",
+        "What is the future of language translation?",
+        "Can AI change the future?",
+        "Can AI revive dead languages?"
+      ]
+    },
+    {
+      "Parent Question": "ai powered smart homes features and benefits",
+      "Questions": [
+        "What is a key benefit of AI-based smart home appliances?",
+        "What are the benefits of a smart home?",
+        "What are the features of smart home automation system?",
+        "What is a smart home feature?"
+      ]
+    },
+    {
+      "Parent Question": "What is a key benefit of AI-based smart home appliances?",
+      "Questions": [
+        "How can AI help at home?",
+        "What are three advantages of AI?",
+        "What is the future of AI in smart homes?",
+        "What are the advantages and disadvantages of smart devices?"
+      ]
+    },
+    {
+      "Parent Question": "What are the benefits of a smart home?",
+      "Questions": [
+        "What are 5 reasons for a smart house?",
+        "What are the environmental benefits of smart homes?",
+        "What are the components of a smart home?",
+        "What is smart home in AI?",
+        "What is smart technology and what are its benefits?",
+        "What is the impact of smart homes?"
+      ]
+    },
+    {
+      "Parent Question": "What are the features of smart home automation system?",
+      "Questions": [
+        "What is one of the major features of a smart home _____?",
+        "What are the features of intelligent machine?",
+        "What are the 3 common uses of home automation?",
+        "What are the features of intelligent control system?",
+        "What are the three main automation components of smart?",
+        "What are some features of an automated system?"
+      ]
+    },
+    {
+      "Parent Question": "What is a smart home feature?",
+      "Questions": [
+        "What is the future of smart home technology?",
+        "What is a smart feature?",
+        "What is the difference between smart home and home automation?",
+        "What are smart homes in AI?",
+        "How do smart homes help the environment?",
+        "Do smart homes need Wi-Fi?"
+      ]
+    },
+    {
+      "Parent Question": "ai regulations and the need for global standards",
+      "Questions": [
+        "What is the global regulation of artificial intelligence?",
+        "What is the need for AI regulation?",
+        "Why does AI need to be regulated?",
+        "What are artificial intelligence standards?"
+      ]
+    },
+    {
+      "Parent Question": "What is the global regulation of artificial intelligence?",
+      "Questions": [
+        "What is the regulation of AI?",
+        "What are the global regulations?",
+        "What are the pros and cons of AI regulation?",
+        "What is global AI governance?"
+      ]
+    },
+    {
+      "Parent Question": "What is the need for AI regulation?",
+      "Questions": [
+        "What is the role of AI in regulatory compliance?",
+        "What is AI and its need?",
+        "Why does the government need AI?",
+        "What are the requirements for AI governance?",
+        "Why is responsible AI needed?",
+        "What is needed for AI?"
+      ]
+    },
+    {
+      "Parent Question": "Why does AI need to be regulated?",
+      "Questions": [
+        "What is AI ethics and regulation?",
+        "Why AI is important for a country?",
+        "What are the trustworthy AI regulations?",
+        "Who is the father of AI?",
+        "What is the future of AI?",
+        "How does AI affect regulatory affairs?"
+      ]
+    },
+    {
+      "Parent Question": "What are artificial intelligence standards?",
+      "Questions": [
+        "What are AI regulations?",
+        "What are the 5 components of AI?",
+        "Is there an ISO standard for AI?",
+        "What is AI rules?",
+        "What are the 7 C's of artificial intelligence?",
+        "What are the advantages of AI?"
+      ]
+    },
+    {
+      "Parent Question": "deepfake technology risks and how to detect them",
+      "Questions": [
+        "How can deepfakes be detected?",
+        "What is the tool to detect deepfakes?",
+        "What is the deepfake detection approach?",
+        "What are the concerns of Deepfake technology?"
+      ]
+    },
+    {
+      "Parent Question": "How can deepfakes be detected?",
+      "Questions": [
+        "How to tell if an image is a deepfake?",
+        "How to prevent deepfakes?",
+        "How to detect deepfake audio?",
+        "How to identify AI-generated video?"
+      ]
+    },
+    {
+      "Parent Question": "What is the tool to detect deepfakes?",
+      "Questions": [
+        "What tools are used to detect deepfake audio?",
+        "Which model is best for deepfake detection?",
+        "How deepfake algorithms work?",
+        "How do you discover a deepfake?",
+        "Can facial recognition detect deepfake?",
+        "Why do we need deepfake detection?"
+      ]
+    },
+    {
+      "Parent Question": "What is the deepfake detection approach?",
+      "Questions": [
+        "What is the methodology of face detection?",
+        "How to tell if a video is a deepfake?",
+        "What technology is used to identify or detect deepfakes?",
+        "How to spot AI fakes?",
+        "What is the solution for Deepfake technology?",
+        "What is the problem statement for deepfake detection?"
+      ]
+    },
+    {
+      "Parent Question": "What are the concerns of Deepfake technology?",
+      "Questions": [
+        "What are the potential dangers of AI?",
+        "What are the privacy concerns of deepfakes?",
+        "How will we deal with deepfakes?",
+        "Is deepfake beneficial?",
+        "What does it mean to say modern AI technology is generative?",
+        "What are the disadvantages of deepfakes?"
+      ]
+    },
+    {
+      "Parent Question": "ethical ai design ensuring fairness and transparency",
+      "Questions": [
+        "What is ethical AI in recruitment ensuring fairness and transparency?",
+        "How do you ensure fairness in AI?",
+        "How do we ensure transparency in AI?",
+        "What do we need to do to ensure lawfulness fairness and transparency in AI systems?"
+      ]
+    },
+    {
+      "Parent Question": "What is ethical AI in recruitment ensuring fairness and transparency?",
+      "Questions": [
+        "What is ethical AI design?",
+        "What is AI used for in recruitment?",
+        "How can we ensure AI is ethical?",
+        "How AI can improve recruitment?"
+      ]
+    },
+    {
+      "Parent Question": "How do you ensure fairness in AI?",
+      "Questions": [
+        "How to make AI fair?",
+        "What are three ways to show fairness?",
+        "What is the most ethical way to use AI?",
+        "How can we ensure that AI systems are fair and unbiased?",
+        "How do you resolve ethical issues in AI?",
+        "What is fairness of an AI model?"
+      ]
+    },
+    {
+      "Parent Question": "How do we ensure transparency in AI?",
+      "Questions": [
+        "What are the ethical issues with transparency in AI?",
+        "How to make AI models transparent?",
+        "What is ensuring transparency?",
+        "What is AI ethics?",
+        "How do I reduce transparency in AI?",
+        "What are the three levels of AI transparency?"
+      ]
+    },
+    {
+      "Parent Question": "What do we need to do to ensure lawfulness fairness and transparency in AI systems?",
+      "Questions": [
+        "How to measure fairness in AI?",
+        "Why is AI transparency important?",
+        "How to use AI fairly?",
+        "How do we ensure fairness in AI?",
+        "How do I make sure AI is ethical?",
+        "How can businesses ensure that the integration of AI is ethical and fair to employees?"
+      ]
+    },
+    {
+      "Parent Question": "how ai assists in scientific research and discoveries",
+      "Questions": [
+        "How does AI help with scientific research?",
+        "How can AI be used in information science research?",
+        "Has AI made any scientific discoveries?",
+        "What are the applications of AI in scientific research?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help with scientific research?",
+      "Questions": [
+        "How artificial intelligence is useful in research?",
+        "What AI tool is best for research?",
+        "What is the potential of AI in scientific research?",
+        "What is the role of artificial intelligence in scientific writing?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used in information science research?",
+      "Questions": [
+        "What is the role of AI in research and development?",
+        "What is the impact and role of AI on in information sciences?",
+        "What are some examples of how AI simulations help in drug discovery and materials science?",
+        "How can AI help with scientific research?",
+        "How does AI work scientifically?",
+        "What is the role of AI tools in research?"
+      ]
+    },
+    {
+      "Parent Question": "Has AI made any scientific discoveries?",
+      "Questions": [
+        "Will AI speed up scientific research?",
+        "How is AI changing research?",
+        "Can AI solve scientific problems?",
+        "Can AI discover new knowledge?",
+        "Can AI discover new medicine?",
+        "Who is the top AI scientist?"
+      ]
+    },
+    {
+      "Parent Question": "What are the applications of AI in scientific research?",
+      "Questions": [
+        "How does AI impact research?",
+        "What is the most advanced AI right now?",
+        "Who is the father of AI?",
+        "What is AI for scientific discoveries?",
+        "What is the role of AI research?",
+        "What is the role of AI in experimental materials science?"
+      ]
+    },
+    {
+      "Parent Question": "how ai improves cybersecurity and threat detection",
+      "Questions": [
+        "How does AI help with threat detection?",
+        "How has AI improved cyber security?",
+        "How can AI be used to improve security?",
+        "What is the advantage of AI in cybersecurity?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help with threat detection?",
+      "Questions": [
+        "How is artificial intelligence a threat to cybersecurity?",
+        "What is the role of AI in crime detection?",
+        "What is the relationship between AI and cybersecurity?",
+        "What is threat detection in cyber security?"
+      ]
+    },
+    {
+      "Parent Question": "How has AI improved cyber security?",
+      "Questions": [
+        "How does artificial intelligence detect cyber attacks?",
+        "Which is a direct benefit of using AI in cybersecurity offenses?",
+        "How can generative AI be used in cybersecurity?",
+        "Which AI technique is used for threat detection in cybersecurity?",
+        "What is the main challenge of using AI in cybersecurity?",
+        "How will AI-driven cyberattacks reshape cyber protection?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used to improve security?",
+      "Questions": [
+        "How is cybersecurity AI being improved?",
+        "How will AI improve safety?",
+        "Can AI replace search engines?",
+        "What is an example of AI in cybersecurity?",
+        "What is the role of AI in enhancing cyber security?",
+        "How can AI make us safer?"
+      ]
+    },
+    {
+      "Parent Question": "What is the advantage of AI in cybersecurity?",
+      "Questions": [
+        "How is AI useful in security?",
+        "Is AI good or bad for cyber security?",
+        "Can AI take over cyber security?",
+        "How artificial intelligence is transforming cybersecurity forbes?",
+        "What is the role of AI in detecting suspicious network traffic?",
+        "How is AI cybersecurity different from traditional cybersecurity?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is reshaping social media algorithms",
+      "Questions": [
+        "How is AI reshaping social media?",
+        "How is AI used in social media algorithms?",
+        "How to outsmart social media algorithms?",
+        "How do algorithms shape the content we see on social media?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI reshaping social media?",
+      "Questions": [
+        "How is AI shaping society?",
+        "How is AI changing media?",
+        "How is AI shaping?",
+        "What is the impact of artificial intelligence on social media?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in social media algorithms?",
+      "Questions": [
+        "How do you change your social media algorithm?",
+        "What are the advantages and disadvantages of AI in social media?",
+        "How is AI used in algorithms?",
+        "How is AI shaping social media?",
+        "Does Instagram use AI algorithms?",
+        "What is the future of AI in social media?"
+      ]
+    },
+    {
+      "Parent Question": "How to outsmart social media algorithms?",
+      "Questions": [
+        "How to trick social media algorithms?",
+        "How do you beat Facebook algorithm?",
+        "How do I clear my social media algorithm?",
+        "Are social media algorithms secret?",
+        "Who created social media algorithms?",
+        "What is the algorithm of most social media?"
+      ]
+    },
+    {
+      "Parent Question": "How do algorithms shape the content we see on social media?",
+      "Questions": [
+        "Do social media algorithms use AI?",
+        "How to change social media algorithm?",
+        "How do algorithms work on TikTok?",
+        "Is AI just an algorithm?",
+        "How do social media algorithms affect society?",
+        "In which of the following ways is AI suitable to use with social media platforms?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is transforming the automotive industry with autonomous vehicles",
+      "Questions": [
+        "How is AI transforming the automotive industry?",
+        "How does AI help autonomous vehicles?",
+        "What is the future of AI in autonomous vehicles?",
+        "How big is the AI in autonomous vehicles market?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI transforming the automotive industry?",
+      "Questions": [
+        "How AI is transforming the industry?",
+        "How is AI implemented in cars?",
+        "How AI is transforming manufacturing?",
+        "How is artificial intelligence used to drive cars nowadays?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help autonomous vehicles?",
+      "Questions": [
+        "What is the role of AI in autonomous systems?",
+        "What is the role of AI in electric vehicles?",
+        "How is machine learning used in autonomous vehicles?",
+        "How is AI going to benefit the automotive industry?",
+        "What is an example of autonomous AI?",
+        "What is autonomous vehicle technology?"
+      ]
+    },
+    {
+      "Parent Question": "What is the future of AI in autonomous vehicles?",
+      "Questions": [
+        "How does AI work in autonomous vehicles?",
+        "What is an example of a strong AI?",
+        "How AI is making autonomous vehicles safer?",
+        "Can AI be fully autonomous?",
+        "How will autonomous vehicles change the world?",
+        "What is the future of artificial intelligence in transportation?"
+      ]
+    },
+    {
+      "Parent Question": "How big is the AI in autonomous vehicles market?",
+      "Questions": [
+        "Which car company has the best AI?",
+        "What is the industry trend for autonomous vehicles?",
+        "What is the biggest benefit of autonomous cars?",
+        "What are the latest developments in autonomous driving?",
+        "How big is the AI automation market?",
+        "How many industry accepted automation levels for autonomous vehicles?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is used in data analysis and decision making",
+      "Questions": [
+        "How is AI used in data analysis?",
+        "How does AI use data to make decisions?",
+        "Which AI is used for decision-making?",
+        "How to use data analysis in decision-making?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in data analysis?",
+      "Questions": [
+        "Which AI tool is best for data analysis?",
+        "How is open AI used in data analysis?",
+        "How will AI change data analysis?",
+        "How to AI can be used for data management?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI use data to make decisions?",
+      "Questions": [
+        "What is the role of intelligence in decision-making?",
+        "How is AI used to collect data?",
+        "Can AI make decisions for us?",
+        "How can AI be used for data analysis?",
+        "Does AI use human intelligence to make decisions?",
+        "How does technology help in decision-making?"
+      ]
+    },
+    {
+      "Parent Question": "Which AI is used for decision-making?",
+      "Questions": [
+        "How has AI helped managers with decision-making through data analysis?",
+        "Can AI replace decision-making?",
+        "What AI is used to predict?",
+        "How do companies use data to make decisions?",
+        "What is responsible AI decision-making?",
+        "Which AI is used the most?"
+      ]
+    },
+    {
+      "Parent Question": "How to use data analysis in decision-making?",
+      "Questions": [
+        "What are the 4 types of data analytics?",
+        "What type of data is used for decision-making?",
+        "How is data analysis used?",
+        "What are the four types of data analysis that improve decision-making?",
+        "How does Netflix use data analytics?",
+        "What is data usage in decision-making?"
+      ]
+    },
+    {
+      "Parent Question": "how to get started with ai programming and tools",
+      "Questions": [
+        "How to start with AI programming?",
+        "How to start using AI for beginners?",
+        "How do I become an AI programmer?",
+        "How do I start an AI career with no experience?"
+      ]
+    },
+    {
+      "Parent Question": "How to start with AI programming?",
+      "Questions": [
+        "Can I learn AI myself?",
+        "Which language is best for AI?",
+        "Can I learn AI without coding?",
+        "How do I start writing AI code?"
+      ]
+    },
+    {
+      "Parent Question": "How to start using AI for beginners?",
+      "Questions": [
+        "Can I learn AI for free?",
+        "How do I start training my own AI?",
+        "What are the best AI tools?",
+        "Is Google's AI free?",
+        "Is intro to AI hard?",
+        "Which is the best AI course for beginners?"
+      ]
+    },
+    {
+      "Parent Question": "How do I become an AI programmer?",
+      "Questions": [
+        "Who is the father of AI?",
+        "What is the salary of AI coding?",
+        "Is there a free AI site?",
+        "Can I learn AI on my own?",
+        "What is the salary of an AI programmer?",
+        "How can I start AI startup?"
+      ]
+    },
+    {
+      "Parent Question": "How do I start an AI career with no experience?",
+      "Questions": [
+        "How do I start AI for beginners?",
+        "What jobs can AI easily replace?",
+        "Can I study AI without coding?",
+        "How do I get my first AI job?",
+        "Can a non it person learn AI?",
+        "How to become AI Tools and ChatGPT Expert?"
+      ]
+    },
+    {
+      "Parent Question": "how to learn ai and machine learning skills for beginners",
+      "Questions": [
+        "How to learn artificial intelligence and machine learning for beginners?",
+        "Can I learn AI and machine learning on my own?",
+        "How to start using AI for beginners?",
+        "What is required to learn AI and ML?"
+      ]
+    },
+    {
+      "Parent Question": "How to learn artificial intelligence and machine learning for beginners?",
+      "Questions": [
+        "Can I learn AI without coding?",
+        "Which language is best for AI?",
+        "Is AI hard to learn?",
+        "What are the best AI tools?"
+      ]
+    },
+    {
+      "Parent Question": "Can I learn AI and machine learning on my own?",
+      "Questions": [
+        "Should I learn AI first or ML?",
+        "How to learn AI with Python?",
+        "How to learn AI with no background?",
+        "How can I teach myself AI?",
+        "Can a normal person learn AI?",
+        "What is a real life example of ML?"
+      ]
+    },
+    {
+      "Parent Question": "How to start using AI for beginners?",
+      "Questions": [
+        "Which is the best AI course for beginners?",
+        "How do I start training my own AI?",
+        "Can I learn AI for free?",
+        "Is Google's AI free?",
+        "How do I start an AI career with no experience?",
+        "What is the first step to AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is required to learn AI and ML?",
+      "Questions": [
+        "Is Python required to learn AI?",
+        "How to learn AI step by step?",
+        "Is there a free AI site?",
+        "Can I learn artificial intelligence by myself?",
+        "Which programming language is used for AI?",
+        "What to learn before machine learning?"
+      ]
+    },
+    {
+      "Parent Question": "machine learning vs deep learning key differences and applications",
+      "Questions": [
+        "What are the key differences between deep learning and machine learning?",
+        "What are the applications of machine learning and deep learning?",
+        "What is the difference between machine learning and deep learning feature engineering?",
+        "What is the difference between ML and ds?"
+      ]
+    },
+    {
+      "Parent Question": "What are the key differences between deep learning and machine learning?",
+      "Questions": [
+        "Is ChatGPT deep learning?",
+        "What is an example of ML and DL?",
+        "What is the difference between ML AI and DL?",
+        "What is CNN in deep learning?"
+      ]
+    },
+    {
+      "Parent Question": "What are the applications of machine learning and deep learning?",
+      "Questions": [
+        "What is a key application of deep learning?",
+        "What is the application of machine learning?",
+        "What are the four applications of machine learning?",
+        "What is the difference between deep learning and machine learning?",
+        "How do ML applications differ from AI applications?",
+        "Which of the following applications of deep learning?"
+      ]
+    },
+    {
+      "Parent Question": "What is the difference between machine learning and deep learning feature engineering?",
+      "Questions": [
+        "Which of the following is a key difference between deep learning and machine learning?",
+        "Which aspects are compared between machine learning and deep learning?",
+        "What is the difference between machine learning and deep learning Google Scholar?",
+        "What is the difference between machine learning and deep learning in finance?",
+        "What is an example of deep learning?",
+        "What are some common applications of AI NLP?"
+      ]
+    },
+    {
+      "Parent Question": "What is the difference between ML and ds?",
+      "Questions": [
+        "Why is DL better than ML?",
+        "What are the key differences between AI ML and DL?",
+        "What is the difference between ML and DL units?",
+        "What is the difference between DL and ML servers?",
+        "Which is better, AI DS or AI ML?",
+        "Is AI a type of deep learning?"
+      ]
+    },
+    {
+      "Parent Question": "natural language processing nlp ): how ai understands and processes language",
+      "Questions": [
+        "How does AI understand language?",
+        "How does AI NLP combine technologies to process human language?",
+        "What is NLP basic understanding?",
+        "What is NLP and how it is different from natural language understanding?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI understand language?",
+      "Questions": [
+        "How does NLP work in AI?",
+        "How can AI understand us?",
+        "Is natural language understanding AI?",
+        "How AI can be used for language learning?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI NLP combine technologies to process human language?",
+      "Questions": [
+        "How to use NLP techniques?",
+        "How is natural language processing (NLP) used in the context of AI capabilities AI associate?",
+        "How does artificial intelligence affect language?",
+        "How does AI understand human language?",
+        "What is the relationship between AI and NLP?",
+        "What is representation and understanding in NLP?"
+      ]
+    },
+    {
+      "Parent Question": "What is NLP basic understanding?",
+      "Questions": [
+        "What are the 5 senses of NLP?",
+        "What are the 5 steps in NLP?",
+        "How does NLP understand the text?",
+        "What is NLP principles?",
+        "What are the best NLP tools?",
+        "How does natural language understanding work?"
+      ]
+    },
+    {
+      "Parent Question": "What is NLP and how it is different from natural language understanding?",
+      "Questions": [
+        "Why do we need NLP?",
+        "Is NLP AI or ML?",
+        "What is an example of NLU?",
+        "How does NLP work in artificial intelligence?",
+        "What are applications of NLP?",
+        "Is NLP supervised or unsupervised?"
+      ]
+    },
+    {
+      "Parent Question": "predictive analytics how ai forecasts trends and behaviors",
+      "Questions": [
+        "How AI can be used in forecasting?",
+        "How to determine the prediction for a future trend artificial intelligence?",
+        "What are predictive analytics for user behavior?",
+        "How can AI be used in predictive maintenance?"
+      ]
+    },
+    {
+      "Parent Question": "How AI can be used in forecasting?",
+      "Questions": [
+        "How can AI predict trends?",
+        "How is AI used in predictive analytics?",
+        "How to use AI for prediction?",
+        "How AI can forecast demand?"
+      ]
+    },
+    {
+      "Parent Question": "How to determine the prediction for a future trend artificial intelligence?",
+      "Questions": [
+        "How to use AI to find trends in data?",
+        "How do you predict future trends?",
+        "What is the future of artificial intelligence trends and predictions?",
+        "How is artificial intelligence a trend?",
+        "Which AI can predict future?",
+        "How accurate is AI prediction?"
+      ]
+    },
+    {
+      "Parent Question": "What are predictive analytics for user behavior?",
+      "Questions": [
+        "What are the 4 predictive analytics?",
+        "What is predictive behavior model?",
+        "What is an example of user behavior analytics?",
+        "What is predictive analytics in AI?",
+        "How does AI prediction work?",
+        "What are examples of predictive analytics?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used in predictive maintenance?",
+      "Questions": [
+        "Which algorithm is best for predictive maintenance?",
+        "How is AI used for recommendations?",
+        "In which areas AI predictive analysis has found its application?",
+        "Which technology is used in predictive maintenance?",
+        "How do you make a predictive AI?",
+        "Can AI predict lift maintenance?"
+      ]
+    },
+    {
+      "Parent Question": "quantum computing and its implications for ai development",
+      "Questions": [
+        "How does quantum computing impact AI?",
+        "What is quantum theory of artificial intelligence?",
+        "What is an example of quantum computing AI?",
+        "What are the security implications of quantum computing?"
+      ]
+    },
+    {
+      "Parent Question": "How does quantum computing impact AI?",
+      "Questions": [
+        "What is the future of Quantum AI?",
+        "Does chat gpt use quantum computing?",
+        "What is the dark side of quantum computing?",
+        "How will quantum computing affect machine learning?"
+      ]
+    },
+    {
+      "Parent Question": "What is quantum theory of artificial intelligence?",
+      "Questions": [
+        "What will happen when AI and quantum computing join forces?",
+        "What is the theory of quantum AI?",
+        "What is quantum computing with an example?",
+        "Will quantum computing affect AI?",
+        "What does the future of AI look like?",
+        "What is the quantum theory of intelligence?"
+      ]
+    },
+    {
+      "Parent Question": "What is an example of quantum computing AI?",
+      "Questions": [
+        "What is the future of quantum computing?",
+        "What is the intersection of AI and quantum computing?",
+        "What is the main application of quantum computing?",
+        "What are the benefits of quantum computing?",
+        "What is an example of quantum in real life?",
+        "What comes under artificial intelligence?"
+      ]
+    },
+    {
+      "Parent Question": "What are the security implications of quantum computing?",
+      "Questions": [
+        "What is the biggest problem with quantum computing?",
+        "What is a risk of quantum computing?",
+        "What are the disadvantages quantum computing?",
+        "What problems can quantum computers solve?",
+        "What are quantum safe algorithms?",
+        "What will be the impact of quantum computing?"
+      ]
+    },
+    {
+      "Parent Question": "the basics of neural networks and their role in ai",
+      "Questions": [
+        "What is the basics of AI and neural networks?",
+        "What is the role of neural network in AI?",
+        "What is the use of AI in neural network?",
+        "What are the basic functions of neural networks?"
+      ]
+    },
+    {
+      "Parent Question": "What is the basics of AI and neural networks?",
+      "Questions": [
+        "What are the basics of AI?",
+        "Does AI require a neural network?",
+        "What are the basics of ANN?",
+        "What is NLP in AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of neural network in AI?",
+      "Questions": [
+        "What is the function of a neuron in AI?",
+        "Is ChatGPT a neural network?",
+        "What are the advantages of neural networks?",
+        "What is deep learning in AI?",
+        "What is neural network architecture in artificial intelligence?",
+        "How to create a neural network?"
+      ]
+    },
+    {
+      "Parent Question": "What is the use of AI in neural network?",
+      "Questions": [
+        "What is the use of neural network in AI?",
+        "What does GPT stand for?",
+        "How is AI used in networks?",
+        "Do you need neural networks for AI?",
+        "Are neural networks used in all AI?",
+        "What is CNN used for in AI?"
+      ]
+    },
+    {
+      "Parent Question": "What are the basic functions of neural networks?",
+      "Questions": [
+        "What is the role of the neural network?",
+        "What is an example of a neural network in AI?",
+        "What is the basis of a neural network?",
+        "What is the principle of neural network?",
+        "What is the basic function of the neural system?",
+        "What are the 2 important features of neural network?"
+      ]
+    },
+    {
+      "Parent Question": "the challenges of building trustworthy ai systems",
+      "Questions": [
+        "What are the challenges of artificial intelligence?",
+        "How can AI systems be made more trustworthy?",
+        "What are the 7 principles of trustworthy AI?",
+        "Why there is lack of trust in AI?"
+      ]
+    },
+    {
+      "Parent Question": "What are the challenges of artificial intelligence?",
+      "Questions": [
+        "What is a key challenge in AI development?",
+        "What is the biggest issue with AI?",
+        "What are the challenges of intelligent systems?",
+        "What are the 4 main problems AI can solve?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI systems be made more trustworthy?",
+      "Questions": [
+        "What is trustworthiness of AI?",
+        "How to build a safe AI?",
+        "What is ethical and trustworthy AI?",
+        "What is trustworthy artificial intelligence in industry and society?",
+        "What is one way that AI systems can improve reliability?",
+        "Can we trust AI decision making?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 7 principles of trustworthy AI?",
+      "Questions": [
+        "How can we make AI trustworthy?",
+        "What are the 4 principles of trustworthiness?",
+        "How can we build trust in AI?",
+        "What is a trustworthy AI approach?",
+        "What are the 7 C's of artificial intelligence?",
+        "What are the 5 ethics of AI?"
+      ]
+    },
+    {
+      "Parent Question": "Why there is lack of trust in AI?",
+      "Questions": [
+        "What is the biggest challenge in AI?",
+        "Why does trustworthy AI matter?",
+        "Why is it hard to build trust?",
+        "What problem can AI not solve?",
+        "Why there is lack of trust?",
+        "What is the biggest fear of implementing AI?"
+      ]
+    },
+    {
+      "Parent Question": "the different types of ai narrow ai general ai and super ai",
+      "Questions": [
+        "What are the types of AI narrow AI general AI and super AI?",
+        "What are the 4 types of AI?",
+        "What are the three main types of AI?",
+        "What is the difference between gen AI and general AI?"
+      ]
+    },
+    {
+      "Parent Question": "What are the types of AI narrow AI general AI and super AI?",
+      "Questions": [
+        "What is super AI?",
+        "What is a narrow AI?",
+        "What is a general AI example?",
+        "Is Siri an example of narrow AI general AI?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 4 types of AI?",
+      "Questions": [
+        "What are the 4 AI techniques?",
+        "What are the three types of AI with examples?",
+        "What is Big 4 in AI?",
+        "What are the 4 domains of AI?",
+        "Is generative AI Narrow AI?",
+        "Who is the father of AI?"
+      ]
+    },
+    {
+      "Parent Question": "What are the three main types of AI?",
+      "Questions": [
+        "What are the 4 types of artificial intelligence?",
+        "What is the difference between narrow AI and general AI and super AI?",
+        "Which is the 3 concept of AI?",
+        "What is an example of narrow AI?",
+        "What is an example of super AI?",
+        "What is general AI with an example?"
+      ]
+    },
+    {
+      "Parent Question": "What is the difference between gen AI and general AI?",
+      "Questions": [
+        "What is difference between type of AI?",
+        "What is another name for general AI?",
+        "Is ChatGPT a generative AI?",
+        "Is there a general AI?",
+        "What are the types of generative AI?",
+        "How many levels of AI are there?"
+      ]
+    },
+    {
+      "Parent Question": "the future of ai in education personalized learning experiences",
+      "Questions": [
+        "How can AI be used to personalize learning experiences for students?",
+        "What is the role of artificial intelligence in personalized learning shaping the future of education?",
+        "Is personalized learning the future of education?",
+        "What is the future of education with artificial intelligence?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used to personalize learning experiences for students?",
+      "Questions": [
+        "How is AI used for personalization?",
+        "How AI will be used in education?",
+        "How AI personalized learning paths?",
+        "How AI helps in giving you personalized experience online?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of artificial intelligence in personalized learning shaping the future of education?",
+      "Questions": [
+        "What are the potential benefits of AI in personalized learning for students and how do they compare to traditional teaching methods?",
+        "What is the role of artificial intelligence in shaping the future?",
+        "Which aspect of technology is crucial for personalized learning experiences?",
+        "How can AI personalize learning experiences for students?",
+        "How AI is currently being used in higher education?",
+        "How do virtual reality and AI simulations change the way students learn?"
+      ]
+    },
+    {
+      "Parent Question": "Is personalized learning the future of education?",
+      "Questions": [
+        "What is the role of personalized learning in education?",
+        "How can AI make learning more engaging?",
+        "What is the conclusion of artificial intelligence in education?",
+        "What is the role of artificial intelligence in personalized learning?",
+        "What is the future of AI in education?",
+        "What is an example of personalized education?"
+      ]
+    },
+    {
+      "Parent Question": "What is the future of education with artificial intelligence?",
+      "Questions": [
+        "What is the main role of AI in education?",
+        "Will AI replace teachers in the future?",
+        "What is the future of AI?",
+        "How could AI be used to make learning more effective and personalized?",
+        "How can AI be used in education?",
+        "What are the advantages and disadvantages of AI in education?"
+      ]
+    },
+    {
+      "Parent Question": "the future of humanoid robots powered by ai",
+      "Questions": [
+        "What is the future of a humanoid robot?",
+        "What is the future of robotics with AI?",
+        "How is AI used in humanoid robots?",
+        "What is the future of AI for humans?"
+      ]
+    },
+    {
+      "Parent Question": "What is the future of a humanoid robot?",
+      "Questions": [
+        "Will AI robots replace humans?",
+        "What are the predictions for humanoid robots?",
+        "What kind of robots will be in the future?",
+        "What is the most advanced humanoid robot today?"
+      ]
+    },
+    {
+      "Parent Question": "What is the future of robotics with AI?",
+      "Questions": [
+        "What is the future of AI?",
+        "How is AI changing robotics?",
+        "What is the future of robotics in 2030?",
+        "What will AI be in 2050?",
+        "How AI is useful in robotics?",
+        "What can humanoid robots do?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in humanoid robots?",
+      "Questions": [
+        "What is the future of robotics AI?",
+        "What is the future of humanoids?",
+        "What are 4 ways that AI is used in robotics?",
+        "How is AI powering a robotics revolution?",
+        "Do AI robots exist now?",
+        "How does AI impact human robot interaction?"
+      ]
+    },
+    {
+      "Parent Question": "What is the future of AI for humans?",
+      "Questions": [
+        "What is the future of artificial intelligence?",
+        "Can AI robots replace humans?",
+        "Who is the father of AI?",
+        "What will AI do in 2050?",
+        "How AI will change human life?",
+        "What's next after AI?"
+      ]
+    },
+    {
+      "Parent Question": "the history of artificial intelligence key milestones and breakthroughs",
+      "Questions": [
+        "What is the history of artificial intelligence?",
+        "What is the history of artificial general intelligence?",
+        "What key historical milestones and developments have shaped the evolution of neural networks?",
+        "When did the AI boom start?"
+      ]
+    },
+    {
+      "Parent Question": "What is the history of artificial intelligence?",
+      "Questions": [
+        "Who is first artificial intelligence?",
+        "What is the evolution of artificial intelligence?",
+        "Who is the father of AI?",
+        "What is the history of artificial intelligence drawing?"
+      ]
+    },
+    {
+      "Parent Question": "What is the history of artificial general intelligence?",
+      "Questions": [
+        "What is intelligence history?",
+        "What is the history of AI root?",
+        "What is the history of the AI group?",
+        "What is the history of AI?",
+        "What are the key aspects of responsible AI?",
+        "Who owns AI?"
+      ]
+    },
+    {
+      "Parent Question": "What key historical milestones and developments have shaped the evolution of neural networks?",
+      "Questions": [
+        "What are some significant milestones in the history of AI?",
+        "What comes under artificial intelligence?",
+        "What is the history of artificial neurons?",
+        "What are the major milestones in the evolution of the nervous system?",
+        "Who invented machine learning?",
+        "What is the winter of AI?"
+      ]
+    },
+    {
+      "Parent Question": "When did the AI boom start?",
+      "Questions": [
+        "Who is the founder of AI?",
+        "What will AI look like in 2050?",
+        "How did AI get started?",
+        "Who first predicted AI?",
+        "Where will AI be in 2030?",
+        "When was the golden age of AI?"
+      ]
+    },
+    {
+      "Parent Question": "the impact of ai on job markets and employment",
+      "Questions": [
+        "How does AI affect jobs and employment?",
+        "What are the positive and negative effects of AI on employment?",
+        "How does the use of AI in the workplace impact job satisfaction?",
+        "How is AI causing job losses worldwide?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI affect jobs and employment?",
+      "Questions": [
+        "How does AI affect employee experience?",
+        "What jobs will AI not replace?",
+        "How will AI affect the economy?",
+        "How many jobs will AI replace by 2030?"
+      ]
+    },
+    {
+      "Parent Question": "What are the positive and negative effects of AI on employment?",
+      "Questions": [
+        "What are 5 disadvantages of AI?",
+        "How many jobs will AI replace by 2050?",
+        "What is the negative impact of AI on unemployment?",
+        "How is AI affecting the job market?",
+        "What are 5 advantages of AI?",
+        "What jobs are affected by AI?"
+      ]
+    },
+    {
+      "Parent Question": "How does the use of AI in the workplace impact job satisfaction?",
+      "Questions": [
+        "What are the positive impacts of AI on jobs?",
+        "Is AI good or bad for the workplace?",
+        "How does AI affect employee productivity?",
+        "How does AI change the workplace?",
+        "What is job insecurity due to AI?",
+        "How can AI help me in my job?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI causing job losses worldwide?",
+      "Questions": [
+        "What is the solution to AI job loss?",
+        "Which industry is most affected by AI?",
+        "Why AI is not a threat to jobs?",
+        "What are the negative effects of AI on the job market?",
+        "Why AI will lead to unemployment?",
+        "Is AI good or bad?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of data in training ai models",
+      "Questions": [
+        "Why is data important in training AI models?",
+        "What is the importance of data in artificial intelligence?",
+        "What is the importance of training data?",
+        "Why training with information data is important in AI devices?"
+      ]
+    },
+    {
+      "Parent Question": "Why is data important in training AI models?",
+      "Questions": [
+        "How to train AI model with data?",
+        "Why is it important to balance the data before training a model?",
+        "How much data do you need to train an AI model?",
+        "Does AI require training data?"
+      ]
+    },
+    {
+      "Parent Question": "What is the importance of data in artificial intelligence?",
+      "Questions": [
+        "Why does data matter for AI?",
+        "Why is data considered an important source of AI?",
+        "Does AI always need data?",
+        "How does AI use data?",
+        "Why do AI models need vast amounts of data?",
+        "Why are datasets important in AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is the importance of training data?",
+      "Questions": [
+        "Why is it important to have a lot of data for training AI?",
+        "What data do you need for AI?",
+        "What is an example of AI training data?",
+        "How to train AI model with dataset?",
+        "Why is training with information data important in artificial intelligence devices?",
+        "Why is model training important?"
+      ]
+    },
+    {
+      "Parent Question": "Why training with information data is important in AI devices?",
+      "Questions": [
+        "What is the role of training data in AI?",
+        "What is the importance of data with reference to AI?",
+        "What type of data is used to train generative AI models?",
+        "Why is training important in AI?",
+        "Why do we need to collect data in AI?",
+        "How important is data in machine learning?"
+      ]
+    },
+    {
+      "Parent Question": "the role of ai in customer service chatbots and virtual assistants",
+      "Questions": [
+        "What is the role of AI in chatbots and virtual assistants?",
+        "How do AI chatbots and virtual assistants contribute to the efficiency of customer service operations?",
+        "What does AI do for customer service?",
+        "How is AI used in chatbots?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in chatbots and virtual assistants?",
+      "Questions": [
+        "What is an AI chatbot assistant?",
+        "What is the role of AI in AR and VR?",
+        "Which of the following AI techniques is are used in chatbots?",
+        "What are chatbots and virtual assistants based on?"
+      ]
+    },
+    {
+      "Parent Question": "How do AI chatbots and virtual assistants contribute to the efficiency of customer service operations?",
+      "Questions": [
+        "How can AI chatbots improve customer support?",
+        "How do virtual assistants help clients?",
+        "How AI can help customer success?",
+        "How is AI used in virtual assistants?",
+        "How are AI chatbots transforming customer service?",
+        "In which two ways do AI technologies like chatbots and AI assistants enhance the customer experience?"
+      ]
+    },
+    {
+      "Parent Question": "What does AI do for customer service?",
+      "Questions": [
+        "How can AI improve customer satisfaction?",
+        "What is the purpose of AI as a service?",
+        "What is an al chatbot?",
+        "What is the role of artificial intelligence in customer experience?",
+        "What is responsible AI as a service?",
+        "How does AI impact customers?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in chatbots?",
+      "Questions": [
+        "How effective are AI chatbots?",
+        "What are the best AI chatbots?",
+        "What is the main goal of generative AI?",
+        "What is the impact of AI chatbot?",
+        "What makes a good AI chatbot?",
+        "What is the difference between AI chatbot and chatbot?"
+      ]
+    },
+    {
+      "Parent Question": "the role of ai in e commerce recommendations and personalized marketing",
+      "Questions": [
+        "What is the role of AI in customer personalization for e-commerce?",
+        "What is the role of artificial intelligence in personalized marketing?",
+        "What is the role of AI in e-commerce?",
+        "What does AI help achieve through personalized product recommendations?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in customer personalization for e-commerce?",
+      "Questions": [
+        "What is personalization in e-commerce?",
+        "What is AI personalization?",
+        "How AI helps in giving you personalized experience online?",
+        "What is the use of personalization in e-commerce What business value does personalization have?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of artificial intelligence in personalized marketing?",
+      "Questions": [
+        "How is AI important in marketing?",
+        "What is the role of personalization in digital marketing?",
+        "How does AI personalized social media?",
+        "How is AI used in personalized shopping?",
+        "What is the role of AI in consumer digital marketing?",
+        "What is the role of AI in personalized medicine?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in e-commerce?",
+      "Questions": [
+        "What is the main role of AI?",
+        "How has AI changed e-commerce?",
+        "What is the role of AI and intelligent agents in e business?",
+        "What is the conclusion of AI in ecommerce?",
+        "How can artificial intelligence transform the e-commerce industry by enhancing customer experience?",
+        "How does AI play a role in business?"
+      ]
+    },
+    {
+      "Parent Question": "What does AI help achieve through personalized product recommendations?",
+      "Questions": [
+        "What is the role of AI in personalization?",
+        "How is AI used for recommendations?",
+        "Why is AI useful in marketing?",
+        "What is the role of AI in personalized learning?",
+        "What is personalized recommendation?",
+        "How to use AI for marketing strategy?"
+      ]
+    },
+    {
+      "Parent Question": "the role of ai in renewable energy optimization",
+      "Questions": [
+        "How can AI help with renewable energy?",
+        "What is the role of artificial intelligence in energy efficiency?",
+        "What is the role of artificial intelligence in the energy transition?",
+        "What is the role of AI in green technology?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI help with renewable energy?",
+      "Questions": [
+        "What is generative AI in renewable energy?",
+        "How can AI optimize the performance of wind turbines?",
+        "Why is artificial intelligence a game changer for renewable energy?",
+        "Can AI solve energy problems?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of artificial intelligence in energy efficiency?",
+      "Questions": [
+        "How does AI optimize energy?",
+        "What is the role of artificial intelligence in sustainable agriculture?",
+        "How can AI improve efficiency?",
+        "How can AI help in renewable energy?",
+        "How can artificial intelligence improve energy efficiency and reduce emissions?",
+        "What is the AI solution for energy?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of artificial intelligence in the energy transition?",
+      "Questions": [
+        "Why are artificial intelligence and green energy so promising?",
+        "What is the role of AI in EV?",
+        "What is the role of AI in power systems?",
+        "What will be the role of artificial intelligence?",
+        "What is the role of AI in climate change?",
+        "How artificial intelligence is transforming waste management?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in green technology?",
+      "Questions": [
+        "What is the role of AI in the energy sector?",
+        "What is the role of AI in agriculture?",
+        "Why is AI important for environmental sustainability?",
+        "What is the role of AI in conservation?",
+        "What is the role of artificial intelligence AI in IR?",
+        "How can AI be helpful in improving the work environment?"
+      ]
+    },
+    {
+      "Parent Question": "the role of ai in space exploration and astronomy",
+      "Questions": [
+        "What is the role of AI in space exploration?",
+        "What is the role of AI in astronomy?",
+        "What role does technology play in space exploration?",
+        "When was AI first used in space exploration?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in space exploration?",
+      "Questions": [
+        "Will AI solve space travel?",
+        "What is the role of artificial intelligence in the aerospace industry?",
+        "Has AI helped NASA?",
+        "What is the role of AI in travel?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in astronomy?",
+      "Questions": [
+        "Will AI replace astronomy?",
+        "How can AI help the planet?",
+        "How AI can help in solar energy?",
+        "What is the role of AI in space?",
+        "Will AI explain the universe?",
+        "How has technology impacted astronomy?"
+      ]
+    },
+    {
+      "Parent Question": "What role does technology play in space exploration?",
+      "Questions": [
+        "What are the 5 technologies needed for space exploration?",
+        "How did technology play a role in exploration?",
+        "What are 10 benefits of space exploration?",
+        "How does technology limit the future of space exploration?",
+        "What is the role of computers in space exploration?",
+        "Is an artificial satellite?"
+      ]
+    },
+    {
+      "Parent Question": "When was AI first used in space exploration?",
+      "Questions": [
+        "How do satellites use AI?",
+        "How can AI be helpful in space exploration class 9?",
+        "What was the first AI robot in space?",
+        "How does AI help space exploration?",
+        "What is the future of AI in space?",
+        "Who invented AI?"
+      ]
+    },
+    {
+      "Parent Question": "the use of ai in law enforcement and crime prevention",
+      "Questions": [
+        "How is AI used in crime prevention?",
+        "How is AI being used by law enforcement?",
+        "How is AI being used in the criminal justice system?",
+        "What is the use of AI law?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in crime prevention?",
+      "Questions": [
+        "How does AI help to uncover criminal activity and solve serial crimes?",
+        "How is intelligence used in the criminal justice system?",
+        "What are the disadvantages of AI in crime?",
+        "How is AI used in prisons?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI being used by law enforcement?",
+      "Questions": [
+        "How are robots used in law enforcement?",
+        "How is AI used in investigations?",
+        "How does AI protect us?",
+        "How can AI enhance security?",
+        "Why do law enforcement agencies need AI for analyzing big data?",
+        "How is AI used in security surveillance?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI being used in the criminal justice system?",
+      "Questions": [
+        "How can AI help with social justice?",
+        "How is law enforcement in the US currently using AI?",
+        "How is intelligence applied to the criminal justice system?",
+        "Can an AI simulate be criminally liable?"
+      ]
+    },
+    {
+      "Parent Question": "What is the use of AI law?",
+      "Questions": [
+        "What are the uses of AI in criminal justice?",
+        "What is the relationship between AI and law?",
+        "What is the main uses of AI?",
+        "What are the disadvantages of AI in law?",
+        "What is the definition of AI in law?",
+        "Who is the father of AI?"
+      ]
+    },
+    {
+      "Parent Question": "voice recognition and ai the technology behind virtual assistants",
+      "Questions": [
+        "How is AI used in virtual assistants?",
+        "Which AI technology is used behind the personal voice assistant?",
+        "How is AI used in voice recognition?",
+        "How do voice assistants use AI?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in virtual assistants?",
+      "Questions": [
+        "What is the technology behind voice assistants?",
+        "What is the best AI voice assistant?",
+        "What is virtual assistant technology?",
+        "How do people use AI voice?"
+      ]
+    },
+    {
+      "Parent Question": "Which AI technology is used behind the personal voice assistant?",
+      "Questions": [
+        "What is the technology that is used for voice recognition known as?",
+        "What is the difference between voice assistant and AI?",
+        "Where is voice AI used?",
+        "What is the difference between AI and virtual assistant?",
+        "What is the future of voice recognition technology?",
+        "What is the name of AI voice assistant?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in voice recognition?",
+      "Questions": [
+        "How does AI work in the voice assistant?",
+        "How is voice recognition used?",
+        "How does AI recognition work?",
+        "Which AI assistant is the best?",
+        "What algorithm is used in voice recognition?",
+        "Who is the leader in AI voice technology?"
+      ]
+    },
+    {
+      "Parent Question": "How do voice assistants use AI?",
+      "Questions": [
+        "What AI is used for voice recognition?",
+        "What is voice assistant technology?",
+        "What is AI voice technology?",
+        "What is the difference between voice assistant and virtual assistant?",
+        "How does AI contribute to the development of virtual assistants?",
+        "Which AI technology is used in them to understand human voice?"
+      ]
+    },
+    {
+      "Parent Question": "what is artificial intelligence ai and how does it work",
+      "Questions": [
+        "How does AI work step by step?",
+        "What is artificial intelligence and how does AI work?",
+        "What is the simplest way to explain AI?",
+        "What is AI explained in detail?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI work step by step?",
+      "Questions": [
+        "How does AI work actually?",
+        "Who created AI?",
+        "What is AI in simple words?",
+        "How can AI be used?"
+      ]
+    },
+    {
+      "Parent Question": "What is artificial intelligence and how does AI work?",
+      "Questions": [
+        "How is AI used in real life?",
+        "Is Siri an AI?",
+        "Is AI good or bad?",
+        "How does AI work for beginners?",
+        "What are examples of AI?",
+        "Does Google have AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is the simplest way to explain AI?",
+      "Questions": [
+        "Where is AI used today?",
+        "What are four types of AI?",
+        "How do you explain AI to a layman?",
+        "What is AI and how does it work?",
+        "Who is the father of AI?",
+        "How can I start using AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is AI explained in detail?",
+      "Questions": [
+        "What is the simplest explanation of AI?",
+        "Can I use AI for free?",
+        "How do you use AI?",
+        "What is AI to explain?",
+        "What are the best AI tools?",
+        "What is the difference between human intelligence and artificial intelligence?"
+      ]
+      }
+    ]
   }
 ]
+
 
 
