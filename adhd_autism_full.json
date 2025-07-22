@@ -19190,8 +19190,2319 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "ANTI_AGING_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "adaptogens for youthful skin and stress relief",
+      "Questions": [
+        "Which adaptogen is best for stress?",
+        "Are adaptogens good for your skin?",
+        "Are adaptogens anti-aging?",
+        "What is the most powerful adaptogen in the world?"
+      ]
+    },
+    {
+      "Parent Question": "Which adaptogen is best for stress?",
+      "Questions": [
+        "What is the queen of adaptogens?",
+        "What's stronger than ashwagandha?",
+        "What is the number one herb for stress?",
+        "Do adaptogens increase estrogen?"
+      ]
+    },
+    {
+      "Parent Question": "Are adaptogens good for your skin?",
+      "Questions": [
+        "What is the miracle herb for skin?",
+        "Does Rhodiola help skin?",
+        "What are the negatives of adaptogens?",
+        "How quickly do adaptogens work?",
+        "Who should avoid adaptogens?",
+        "Does herbs help your skin?"
+      ]
+    },
+    {
+      "Parent Question": "Are adaptogens anti-aging?",
+      "Questions": [
+        "What is the miracle drug for aging?",
+        "Which plant hormone is anti-aging hormone?",
+        "What is the best herb for anti-aging?",
+        "Is rhodiola anti-aging?",
+        "Does ashwagandha make you younger?",
+        "What is the most powerful anti-aging substance?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most powerful adaptogen in the world?",
+      "Questions": [
+        "What is the king of the adaptogens?",
+        "What are adaptogens in skincare?",
+        "Does ashwagandha have negative side effects?",
+        "How do I choose the right adaptogen?",
+        "What herb reduces cortisol levels?",
+        "Who shouldn't take rhodiola?"
+      ]
+    },
+    {
+      "Parent Question": "What is the queen of adaptogens?",
+      "Questions": [
+        "What is the best adaptogen for menopause?",
+        "Does ashwagandha decrease dopamine?",
+        "Is CBD an adaptogen?",
+        "What is the best adaptogen for anxiety?",
+        "Can you take adaptogens long term?",
+        "Is Maca an adaptogens?"
+      ]
+    },
+    {
+      "Parent Question": "What's stronger than ashwagandha?",
+      "Questions": [
+        "Is reishi better than ashwagandha?",
+        "What is the strongest anti-anxiety herb?",
+        "What replaces ashwagandha?",
+        "What is the most powerful adaptogen in the world?",
+        "Is maca or ashwagandha better?",
+        "Which is better, moringa or ashwagandha?"
+      ]
+    },
+    {
+      "Parent Question": "What is the number one herb for stress?",
+      "Questions": [
+        "Is Rhodiola or ashwagandha better for stress?",
+        "What is the most powerful herb in the world?",
+        "Do adaptogens increase estrogen?",
+        "What is the best vitamin for stress and anxiety?"
+      ]
+    },
+    {
+      "Parent Question": "Do adaptogens increase estrogen?",
+      "Questions": [
+        "Does ashwagandha turn into estrogen?",
+        "What is the best herb to increase estrogen?",
+        "Does rhodiola increase or decrease estrogen?",
+        "What are the negatives of adaptogens?"
+      ]
+    },
+    {
+      "Parent Question": "What is the miracle herb for skin?",
+      "Questions": [
+        "What is the best herb for wrinkles?",
+        "Does ashwagandha help skin?",
+        "What is the Japanese herb for skin?",
+        "Which plant is best for skin tightening?",
+        "What herbs make skin glow?",
+        "What is Korean herb for skin?"
+      ]
+    },
+    {
+      "Parent Question": "Does Rhodiola help skin?",
+      "Questions": [
+        "Is rhodiola anti aging?",
+        "Is rhodiola better than Ashwagandha?",
+        "What are the negatives of rhodiola?",
+        "What does rhodiola do to estrogen?",
+        "Does rhodiola work immediately?",
+        "Does rhodiola make your hair grow?"
+      ]
+    },
+    {
+      "Parent Question": "What are the negatives of adaptogens?",
+      "Questions": [
+        "Are adaptogens anti aging?",
+        "Is it bad to take adaptogens everyday?",
+        "Do adaptogens balance hormones?",
+        "Who should avoid adaptogens?",
+        "What are adaptogens in skincare?",
+        "How quickly do adaptogens work?"
+      ]
+    },
+    {
+      "Parent Question": "How quickly do adaptogens work?",
+      "Questions": [
+        "What are the best adaptogens?",
+        "Who shouldn't take rhodiola?",
+        "What is the best time of day to take adaptogens?",
+        "Does adaptogen make you sleepy?",
+        "Is green tea an adaptogen?",
+        "How long until ashwagandha kicks in?"
+      ]
+    },
+    {
+      "Parent Question": "Who should avoid adaptogens?",
+      "Questions": [
+        "What is the most powerful adaptogen in the world?",
+        "Why do I feel weird after taking ashwagandha?",
+        "Are adaptogens safe long term?",
+        "Do adaptogens increase estrogen?",
+        "What is the best adaptogen drink?",
+        "Should you take a break from adaptogens?"
+      ]
+    },
+    {
+      "Parent Question": "Does herbs help your skin?",
+      "Questions": [
+        "What is the miracle herb for skin?",
+        "Which herb is best for glowing skin?",
+        "Which medicine is best for skin?",
+        "What is the best herb for wrinkles?",
+        "What is the most powerful herb for hair growth?",
+        "Which tea is best for clearing skin?"
+      ]
+    },
+    {
+      "Parent Question": "What is the miracle drug for aging?",
+      "Questions": [
+        "What supplement makes you look younger?",
+        "What is the most powerful anti-aging drug?",
+        "Why does metformin make you look younger?",
+        "What to eat for younger looking skin?",
+        "What is the most powerful anti-aging substance?",
+        "What is the best treatments for aging skin?"
+      ]
+    },
+    {
+      "Parent Question": "Which plant hormone is anti-aging hormone?",
+      "Questions": [
+        "Which hormone is known as anti-aging?",
+        "Which vitamin also work as plant hormone?",
+        "What hormones control aging?",
+        "Which hormone delays ageing?",
+        "What is hormone therapy for aging?",
+        "What are plant hormones for menopause?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best herb for anti-aging?",
+      "Questions": [
+        "What is the miracle drug for aging?",
+        "What plant makes you look younger?",
+        "What is the Japanese anti-aging herb?",
+        "What is the best supplement for aging skin?"
+      ]
+    },
+    {
+      "Parent Question": "Is rhodiola anti-aging?",
+      "Questions": [
+        "Which is better, ashwagandha or rhodiola?",
+        "Is ashwagandha anti-aging?",
+        "What does rhodiola do for skin?",
+        "Is L Theanine anti-aging?"
+      ]
+    },
+    {
+      "Parent Question": "Does ashwagandha make you younger?",
+      "Questions": [
+        "Does ashwagandha increase collagen?",
+        "Is there any age limit for ashwagandha use?",
+        "Can ashwagandha clear skin?",
+        "Does ashwagandha increase estrogen in females?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most powerful anti-aging substance?",
+      "Questions": [
+        "What is the holy grail of antiaging?",
+        "Which acid is best for aging?",
+        "What is the most effective anti-aging skin treatment?",
+        "What drug reverses aging?"
+      ]
+    },
+    {
+      "Parent Question": "What is the king of the adaptogens?",
+      "Questions": [
+        "What is the most powerful adaptogen in the world?",
+        "What are adaptogens in skincare?",
+        "Who shouldn't take rhodiola?",
+        "What is the best adaptogen for anxiety?",
+        "What are the negatives of adaptogens?",
+        "Does ashwagandha have negative side effects?"
+      ]
+    },
+    {
+      "Parent Question": "What are adaptogens in skincare?",
+      "Questions": [
+        "What are adaptogens in dermatology?",
+        "Does Rhodiola help skin?",
+        "What is ashwagandha in skin care?",
+        "What is herbal skincare?",
+        "Can adaptogens be used topically?"
+      ]
+    },
+    {
+      "Parent Question": "Does ashwagandha have negative side effects?",
+      "Questions": [
+        "Why can't you take ashwagandha for more than 3 months?",
+        "Is Maca root better than ashwagandha?",
+        "Can ashwagandha cause serotonin syndrome?",
+        "Who should not use ashwagandha?",
+        "Does ashwagandha reduce cortisol?",
+        "Is ashwagandha safe for the liver?"
+      ]
+    },
+    {
+      "Parent Question": "How do I choose the right adaptogen?",
+      "Questions": [
+        "Which is the king of adaptogen?",
+        "Do adaptogens increase estrogen?",
+        "Does ashwagandha decrease dopamine?",
+        "What is better than ashwagandha?",
+        "What is the difference between nootropics and adaptogens?",
+        "What adaptogens lower cortisol?"
+      ]
+    },
+    {
+      "Parent Question": "What herb reduces cortisol levels?",
+      "Questions": [
+        "How to reduce cortisol in the face?",
+        "What is the number one herb for stress?",
+        "Is Rhodiola or ashwagandha better for stress?",
+        "What lowers cortisol immediately?",
+        "What are the best adaptogens?",
+        "Does ashwagandha increase estrogen levels?"
+      ]
+    },
+    {
+      "Parent Question": "Who shouldn't take rhodiola?",
+      "Questions": [
+        "What herbs not to mix together?",
+        "What does L-theanine do?",
+        "What supplements should you take with ashwagandha?",
+        "Does rhodiola increase estrogen?",
+        "What are the negative side effects of rhodiola?",
+        "What can you not mix with rhodiola?"
+      ]
+    },
+    {
+      "Parent Question": "anti aging benefits of gua sha and jade rollers",
+      "Questions": [
+        "Does gua sha help with anti-aging?",
+        "Is jade roller anti-aging?",
+        "Do jade rollers and gua sha really work?",
+        "Can you use jade roller and gua sha at the same time?"
+      ]
+    },
+    {
+      "Parent Question": "Does gua sha help with anti-aging?",
+      "Questions": [
+        "Does gua sha boost collagen?",
+        "What is the best age for gua sha?",
+        "Can gua sha replace Botox?",
+        "Are there long term benefits to gua sha?"
+      ]
+    },
+    {
+      "Parent Question": "Is jade roller anti-aging?",
+      "Questions": [
+        "What is the disadvantage of jade roller?",
+        "What do dermatologists think of gua sha?",
+        "Which face roller is best for aging skin?",
+        "Can gua sha remove wrinkles?",
+        "What happens if I use a jade roller everyday?",
+        "Does jade help with wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "Do jade rollers and gua sha really work?",
+      "Questions": [
+        "What is better than jade roller?",
+        "Does gua sha actually sculpt face?",
+        "How long does it take to see results from jade roller?",
+        "Can gua sha slim your face?",
+        "Which gua sha is better, rose or jade?",
+        "Does jade roller slim face?"
+      ]
+    },
+    {
+      "Parent Question": "Can you use jade roller and gua sha at the same time?",
+      "Questions": [
+        "Should I gua sha in the morning or night?",
+        "How to know if gua sha is real?",
+        "Can I use gua sha without oil?",
+        "Should I use my jade roller in the morning or night?",
+        "Should you gua sha before or after moisturizer?",
+        "Is gua sha good for hormonal acne?"
+      ]
+    },
+    {
+      "Parent Question": "Does gua sha boost collagen?",
+      "Questions": [
+        "Does gua sha reduce aging?",
+        "What are the disadvantages of gua sha?",
+        "Does gua sha actually tighten skin?",
+        "Can gua sha reduce wrinkles on the forehead?",
+        "What will happen if I use gua sha everyday?",
+        "Can you use retinol with gua sha?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best age for gua sha?",
+      "Questions": [
+        "Can gua sha reduce face fat?",
+        "What is the age limit for jade rollers?",
+        "How long does it take to see benefits of gua sha?",
+        "Can gua sha change face structure?",
+        "Is gua sha better than face roller?"
+      ]
+    },
+    {
+      "Parent Question": "Can gua sha replace Botox?",
+      "Questions": [
+        "What is a natural alternative to Botox?",
+        "Can you massage away forehead wrinkles?",
+        "What is the new treatment instead of Botox?",
+        "Does gua sha improve skin elasticity?"
+      ]
+    },
+    {
+      "Parent Question": "Are there long term benefits to gua sha?",
+      "Questions": [
+        "Does gua sha reduce wrinkles?",
+        "Does gua sha have permanent results?",
+        "Can gua sha reduce double chin?",
+        "Do gua shas actually work scientifically?"
+      ]
+    },
+    {
+      "Parent Question": "What is the disadvantage of jade roller?",
+      "Questions": [
+        "Do jade rollers stimulate collagen?",
+        "Do dermatologists recommend jade rollers?",
+        "Do jade rollers make you look younger?",
+        "What is better than jade roller?"
+      ]
+    },
+    {
+      "Parent Question": "What do dermatologists think of gua sha?",
+      "Questions": [
+        "Does gua sha actually change face shape?",
+        "Do face rollers reduce wrinkles?",
+        "Are there long term benefits to gua sha?",
+        "Do the jade rollers really work?"
+      ]
+    },
+    {
+      "Parent Question": "Which face roller is best for aging skin?",
+      "Questions": [
+        "How do you use a jade roller for anti-aging?",
+        "Is gua sha or face roller better?",
+        "Do derma rollers work for anti-aging?",
+        "What is the age limit for face rollers?"
+      ]
+    },
+    {
+      "Parent Question": "Can gua sha remove wrinkles?",
+      "Questions": [
+        "Does gua sha increase collagen?",
+        "Can you massage out deep wrinkles?",
+        "Does gua sha make you look younger?",
+        "Is gua sha better than Botox?"
+      ]
+    },
+    {
+      "Parent Question": "What happens if I use a jade roller everyday?",
+      "Questions": [
+        "Is it better to jade roll at night or morning?",
+        "Can I use jade roller and gua sha together?",
+        "How long does it take to see results from a jade roller?",
+        "Should I use my jade roller before or after moisturizer?"
+      ]
+    },
+    {
+      "Parent Question": "Does jade help with wrinkles?",
+      "Questions": [
+        "What is the disadvantage of jade rollers?",
+        "How does gua sha help wrinkles?",
+        "What do dermatologists think of gua sha?",
+        "Does face rolling stimulate collagen?"
+      ]
+    },
+    {
+      "Parent Question": "What is better than jade roller?",
+      "Questions": [
+        "What happens if I use a jade roller everyday?",
+        "Can jade roller slim face?",
+        "Are jade rollers actually beneficial?",
+        "Does ice rolling reduce wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "Does gua sha actually sculpt face?",
+      "Questions": [
+        "Does gua sha actually tighten skin?",
+        "Do face rollers and gua shas actually work?",
+        "Can gua sha reduce double chin?",
+        "Can gua sha slim your face?",
+        "Is there any evidence that gua sha works?",
+        "How long does it take for gua sha to change your face?"
+      ]
+    },
+    {
+      "Parent Question": "How long does it take to see results from jade roller?",
+      "Questions": [
+        "Do jade rollers make you look younger?",
+        "Should I use my jade roller in the morning or night?",
+        "Does jade roller tighten skin?",
+        "Does Gua Sha work for jawline?"
+      ]
+    },
+    {
+      "Parent Question": "Can gua sha slim your face?",
+      "Questions": [
+        "Does gua sha make you younger?",
+        "Does gua sha actually change your face shape?",
+        "Can gua sha reduce wrinkles?",
+        "Does gua sha improve skin elasticity?"
+      ]
+    },
+    {
+      "Parent Question": "Which gua sha is better, rose or jade?",
+      "Questions": [
+        "Is gua sha more effective than jade roller?",
+        "What is the best age for gua sha?",
+        "Does a face roller help wrinkles?",
+        "Is stainless steel guasha better than jade?",
+        "Is jade or rose quartz better for face rollers?",
+        "Which color gua sha stone is best?"
+      ]
+    },
+    {
+      "Parent Question": "Does jade roller slim face?",
+      "Questions": [
+        "Can jade roller reduce double chin?",
+        "Can I use jade roller and gua sha together?",
+        "Do jade facial rollers actually work?",
+        "How many times should I jade roll my face?",
+        "Can a jade roller give you a jawline?",
+        "Do face rollers remove face fat?"
+      ]
+    },
+    {
+      "Parent Question": "Should I gua sha in the morning or night?",
+      "Questions": [
+        "Can gua sha change face shape?",
+        "How to use gua sha for wrinkles?",
+        "What happens if you use gua sha without oil?",
+        "Do I need to moisturize after gua sha?",
+        "Does gua sha make skin glow?",
+        "Should I put my gua sha in the fridge overnight?"
+      ]
+    },
+    {
+      "Parent Question": "How to know if gua sha is real?",
+      "Questions": [
+        "Is gua sha effective scientifically proven?",
+        "What happens if you use a fake jade roller?",
+        "How long does it take for gua sha results to show?",
+        "Why is my jade roller turning black?"
+      ]
+    },
+    {
+      "Parent Question": "Can I use gua sha without oil?",
+      "Questions": [
+        "What happens if you use gua sha every day?",
+        "What are the benefits of jade rollers?",
+        "Can gua sha reduce face fat?",
+        "Should I gua sha in the morning or night?"
+      ]
+    },
+    {
+      "Parent Question": "Should I use my jade roller in the morning or night?",
+      "Questions": [
+        "What is the disadvantage of jade roller?",
+        "Can you use a jade roller under your eyes?",
+        "What happens if I use a jade roller everyday?",
+        "Should I use jade roller or gua sha first?"
+      ]
+    },
+    {
+      "Parent Question": "Should you gua sha before or after moisturizer?",
+      "Questions": [
+        "Do you use serum or oil with gua sha?",
+        "Should I drink water after gua sha?",
+        "Can I use retinol with gua sha?",
+        "When to use jade roller in skin care routine?"
+      ]
+    },
+    {
+      "Parent Question": "Is gua sha good for hormonal acne?",
+      "Questions": [
+        "Does gua sha help with wrinkles?",
+        "How do I balance my hormones to stop chin acne?",
+        "Does gua sha work on breasts?",
+        "What is the best face mask for hormonal acne?"
+      ]
+    },
+    {
+      "Parent Question": "best anti aging devices to use at home",
+      "Questions": [
+        "What is the most effective anti-aging device?",
+        "What is the best home remedy for anti-aging?",
+        "Do any at home skin tightening devices work?",
+        "What is the strongest at home laser for wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most effective anti-aging device?",
+      "Questions": [
+        "What is the number 1 beauty device?",
+        "What does Jennifer Aniston use for anti-aging?",
+        "Which device is best for skin tightening?",
+        "What is the most powerful anti-aging substance?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best home remedy for anti-aging?",
+      "Questions": [
+        "How to look 20 years younger than your age?",
+        "What is the Japanese home remedy for wrinkles?",
+        "What is the household item that reduces wrinkles?",
+        "How can I make my face look younger at home?",
+        "What is the simple trick to erase wrinkles?",
+        "How to reverse aging eyes naturally?"
+      ]
+    },
+    {
+      "Parent Question": "Do any at home skin tightening devices work?",
+      "Questions": [
+        "What is the best skin tightening device in 2024?",
+        "What is the one household item that tightens skin?",
+        "Do LED skin tightening devices work?",
+        "How do I tighten my skin at home?",
+        "What is the most effective skin tightening technology?",
+        "Which is better, RF or HIFU?"
+      ]
+    },
+    {
+      "Parent Question": "What is the strongest at home laser for wrinkles?",
+      "Questions": [
+        "Do at home face lasers really work?",
+        "What lasers make you look younger?",
+        "What are the hardest wrinkles to get rid of?",
+        "Can you do ULtherapy at home?",
+        "Which laser is best for aging?",
+        "Is Lyma better than Nira?"
+      ]
+    },
+    {
+      "Parent Question": "What is the number 1 beauty device?",
+      "Questions": [
+        "What is the most successful skincare line?",
+        "What device does Jessica Alba use on her face?",
+        "What is the most wanted beauty treatment?",
+        "What is number 7 skincare?",
+        "Which cosmetic facial is best?",
+        "Where is the 1 line in skincare?"
+      ]
+    },
+    {
+      "Parent Question": "What does Jennifer Aniston use for anti-aging?",
+      "Questions": [
+        "What makes Jennifer Aniston look younger?",
+        "What is the best peptide for anti-aging?",
+        "Does Jennifer Aniston really take collagen?",
+        "Which celebrities use retinol?"
+      ]
+    },
+    {
+      "Parent Question": "Which device is best for skin tightening?",
+      "Questions": [
+        "Do at home skin tightening devices really work?",
+        "What is the most effective anti-aging device?",
+        "What is the most powerful at home facial laser?",
+        "Do LED face massagers really work?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most powerful anti-aging substance?",
+      "Questions": [
+        "What is the miracle drug for aging?",
+        "What supplement makes you look younger?",
+        "What is the most anti-aging thing you can do?",
+        "What is the number one anti-aging vitamin?"
+      ]
+    },
+    {
+      "Parent Question": "How to look 20 years younger than your age?",
+      "Questions": [
+        "How can I look 10 years younger naturally?",
+        "At what age does your face change most?",
+        "How to look 10 years younger at 35?",
+        "Does caffeine age you?"
+      ]
+    },
+    {
+      "Parent Question": "What is the Japanese home remedy for wrinkles?",
+      "Questions": [
+        "How do Koreans avoid wrinkles?",
+        "What is the best natural wrinkle remover?",
+        "What do Chinese use for wrinkles?",
+        "What's the household item that fills in wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "What is the household item that reduces wrinkles?",
+      "Questions": [
+        "What is the Japanese home remedy for wrinkles?",
+        "How to reverse aging eyes naturally?",
+        "What is the one household item that tightens skin?",
+        "What is the simple trick to erase wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "How can I make my face look younger at home?",
+      "Questions": [
+        "How to look 10 years younger at 45?",
+        "Do any anti-aging creams actually work?",
+        "How to look 20 years younger than your age?",
+        "What is the best anti-aging serum that really works?"
+      ]
+    },
+    {
+      "Parent Question": "What is the simple trick to erase wrinkles?",
+      "Questions": [
+        "What is the best natural wrinkle reducer?",
+        "Does vaseline remove wrinkles?",
+        "Is there anything that really works for wrinkles?",
+        "How to tighten a saggy face?"
+      ]
+    },
+    {
+      "Parent Question": "How to reverse aging eyes naturally?",
+      "Questions": [
+        "How can I rebuild collagen around my eyes?",
+        "How to improve your vision in 7 days?",
+        "How can I make my old eyes look younger?",
+        "How do you fix old looking eyes?",
+        "What simple trick will improve your vision to 20/20?",
+        "Can you reverse aging looks?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best skin tightening device in 2024?",
+      "Questions": [
+        "Do at home skin tightening devices really work?",
+        "What is the number one beauty device in the world?",
+        "What do the Kardashians use for skin tightening?",
+        "What is the most effective skin tightening method?",
+        "Does at-home microcurrent really work?",
+        "Does NuFACE stimulate collagen?"
+      ]
+    },
+    {
+      "Parent Question": "What is the one household item that tightens skin?",
+      "Questions": [
+        "Which oil is best for tightening skin?",
+        "What is the best DIY face mask for wrinkles?",
+        "What can I drink to tighten my skin?",
+        "How to lift face naturally?",
+        "What is the best treatment for deep wrinkles on the face?",
+        "How can I tighten my face after 50?"
+      ]
+    },
+    {
+      "Parent Question": "Do LED skin tightening devices work?",
+      "Questions": [
+        "What is the best skin tightening device in 2024?",
+        "Which color LED light tightens skin?",
+        "What are the negatives of LED light therapy?",
+        "Does at home LED light therapy work for wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "How do I tighten my skin at home?",
+      "Questions": [
+        "What is the best natural skin tightener?",
+        "What is the newest skin tightening procedure in 2024?",
+        "Can you really tighten loose skin?",
+        "What is the best homemade anti-aging face mask?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most effective skin tightening technology?",
+      "Questions": [
+        "Do skin tightening devices really work?",
+        "What is the best permanent skin tightening?",
+        "How to tighten a saggy face?",
+        "What is the best non surgical face lift treatment?"
+      ]
+    },
+    {
+      "Parent Question": "Which is better, RF or HIFU?",
+      "Questions": [
+        "Can you do HIFU at home?",
+        "Why is HIFU so cheap?",
+        "Is there anything better than HIFU?",
+        "Which is better IPL or RF?"
+      ]
+    },
+    {
+      "Parent Question": "Do at home face lasers really work?",
+      "Questions": [
+        "What is the most powerful at home facial laser?",
+        "What is better, peel or laser?",
+        "What is the best face laser for home use?",
+        "Can I laser my face everyday?"
+      ]
+    },
+    {
+      "Parent Question": "What lasers make you look younger?",
+      "Questions": [
+        "What lasers does Kim Kardashian use?",
+        "Do lasers really tighten skin?",
+        "Do at home facial lasers work?",
+        "What is the best age to start laser?"
+      ]
+    },
+    {
+      "Parent Question": "What are the hardest wrinkles to get rid of?",
+      "Questions": [
+        "Is there anything that really works for wrinkles?",
+        "How to get rid of 11 lines without Botox?",
+        "What is the best natural wrinkle reducer?",
+        "Do any anti-aging creams actually work?"
+      ]
+    },
+    {
+      "Parent Question": "Can you do ULtherapy at home?",
+      "Questions": [
+        "Do any home skin tightening devices work?",
+        "Is there anything better than Ultherapy?",
+        "Does Jennifer Aniston do Ultherapy?",
+        "What is the best non surgical treatment for sagging neck and jowls?"
+      ]
+    },
+    {
+      "Parent Question": "Which laser is best for aging?",
+      "Questions": [
+        "What is the best at home laser for wrinkles?",
+        "What lasers make you look younger?",
+        "What is the best skin tightening device in 2024?",
+        "Is laser or Microneedling better for anti aging?"
+      ]
+    },
+    {
+      "Parent Question": "Is Lyma better than Nira?",
+      "Questions": [
+        "Why is LYMA so expensive?",
+        "Does nira skin really work?",
+        "Does LYMA tighten skin?",
+        "Does nira tighten skin?"
+      ]
+    },
+    {
+      "Parent Question": "best anti aging lip treatments",
+      "Questions": [
+        "How do you fix aging lips?",
+        "Which lip therapy is the best?",
+        "Do lip peptides really work?",
+        "What is the #1 dermatologist recommended lip balm?"
+      ]
+    },
+    {
+      "Parent Question": "How do you fix aging lips?",
+      "Questions": [
+        "How can I make my old lips look better?",
+        "Can I put retinol on my lips?",
+        "Is Vaseline good for aging lips?",
+        "How do I restore my lips?"
+      ]
+    },
+    {
+      "Parent Question": "Which lip therapy is the best?",
+      "Questions": [
+        "What is the perfect lips treatment?",
+        "Is vitamin E good for lips?",
+        "What is the best thing to repair your lips?",
+        "Is vaseline lip therapy effective?",
+        "What is the best lip filler in the world?",
+        "What is a good lip moisturiser?"
+      ]
+    },
+    {
+      "Parent Question": "Do lip peptides really work?",
+      "Questions": [
+        "Can you build collagen in your lips?",
+        "Where can I get peptides naturally?",
+        "Do lip serums work?",
+        "What is a collagen lip treatment?",
+        "How long does lip collagen last?",
+        "What is the best lip treatment to plump lips?"
+      ]
+    },
+    {
+      "Parent Question": "What is the #1 dermatologist recommended lip balm?",
+      "Questions": [
+        "What is the best lip balm in the world?",
+        "Which lip balm does Gigi Hadid use?",
+        "What vitamin deficiency causes dry lips?",
+        "Which is better lip balm or lip therapy?",
+        "What lip balm does Meghan Markle use?",
+        "Is salicylic acid good for lips?"
+      ]
+    },
+    {
+      "Parent Question": "How can I make my old lips look better?",
+      "Questions": [
+        "How can I revive my aging lips?",
+        "How do I stop my lips from Ageing?",
+        "How can I plump my aging lips naturally?",
+        "How can I make my lips younger?",
+        "What lip color makes you look younger?",
+        "How can I plump my lips after 50?"
+      ]
+    },
+    {
+      "Parent Question": "Can I put retinol on my lips?",
+      "Questions": [
+        "Does hyaluronic acid help lips?",
+        "What are the side effects of retinol on lips?",
+        "What is the 13 dot technique?",
+        "Can retinol reduce lip pigmentation?",
+        "Where not to apply retinol?"
+      ]
+    },
+    {
+      "Parent Question": "Is Vaseline good for aging lips?",
+      "Questions": [
+        "What is better than Vaseline for lips?",
+        "Do dermatologists recommend Vaseline?",
+        "Which Lip Therapy is the best?",
+        "What does putting Vaseline on your lips every night do?"
+      ]
+    },
+    {
+      "Parent Question": "How do I restore my lips?",
+      "Questions": [
+        "Can you reverse aging lips?",
+        "How can I make my old lips look better?",
+        "How I healed my lips?",
+        "How to regain pigment in lips?"
+      ]
+    },
+    {
+      "Parent Question": "What is the perfect lips treatment?",
+      "Questions": [
+        "How to get flawless lips?",
+        "What makes your lips look better?",
+        "How can I enhance my lips?",
+        "What natural lips are most attractive?"
+      ]
+    },
+    {
+      "Parent Question": "Is vitamin E good for lips?",
+      "Questions": [
+        "Can vitamin E remove dark lips?",
+        "Is jojoba oil good for lips?",
+        "Does vitamin C lighten lips?",
+        "Can we apply vitamin E on lips overnight?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best thing to repair your lips?",
+      "Questions": [
+        "What vitamin helps repair lips?",
+        "What is the perfect lips treatment?",
+        "How do I restore my lips?",
+        "Does Vaseline repair lips?"
+      ]
+    },
+    {
+      "Parent Question": "Is vaseline lip therapy effective?",
+      "Questions": [
+        "Is lip balm better than Vaseline?",
+        "How to get rid of dark lips?",
+        "Is it OK to put Vaseline Lip Therapy on your face?",
+        "What is the best thing to moisturize your lips?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best lip filler in the world?",
+      "Questions": [
+        "What lip fillers do Kardashians use?",
+        "What are the best lip fillers for older lips?",
+        "What is the most natural looking lip filler?",
+        "Which lip fillers last longest?"
+      ]
+    },
+    {
+      "Parent Question": "What is a good lip moisturiser?",
+      "Questions": [
+        "Why is Lanolips so popular?",
+        "Which is better lip balm or lip moisturizer?",
+        "Is it OK to put Moisturiser on your lips?",
+        "What vitamin deficiency causes dry lips?"
+      ]
+    },
+    {
+      "Parent Question": "Can you build collagen in your lips?",
+      "Questions": [
+        "How can I revive my aging lips?",
+        "How to make old lips look younger?",
+        "Does hyaluronic acid make lips bigger?",
+        "Can collagen lips be reversed?"
+      ]
+    },
+    {
+      "Parent Question": "Where can I get peptides naturally?",
+      "Questions": [
+        "What is the best peptide?",
+        "Are peptides the same as collagen?",
+        "What foods are highest in peptides?",
+        "What is a natural peptide?"
+      ]
+    },
+    {
+      "Parent Question": "Do lip serums work?",
+      "Questions": [
+        "Which is better, lip serum or lip balm?",
+        "Does lip collagen work?",
+        "What is the best lip serum?",
+        "What is the best thing to repair your lips?"
+      ]
+    },
+    {
+      "Parent Question": "What is a collagen lip treatment?",
+      "Questions": [
+        "How can I increase collagen in my lips?",
+        "How long does lip collagen last?",
+        "Can collagen help with thin lips?",
+        "How to rebuild skin barrier on lips?"
+      ]
+    },
+    {
+      "Parent Question": "How long does lip collagen last?",
+      "Questions": [
+        "Why did I stop using fillers after 2 years?",
+        "What is Russian lip treatment?",
+        "How long does hyaluronic acid last in lips?",
+        "What's the difference between hyaluronic acid and collagen?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best lip treatment to plump lips?",
+      "Questions": [
+        "How can I plump up my aging lips?",
+        "What does Kylie Jenner use to plump her lips?",
+        "What is the best lip plumper ever?",
+        "How can I plump my lips without fillers?",
+        "How do dermatologists plump lips?",
+        "Can I put hyaluronic acid on my lips?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best lip balm in the world?",
+      "Questions": [
+        "Which lip therapy is the best?",
+        "Which lip balm does Gigi Hadid use?",
+        "Who has the best lips in the world?"
+      ]
+    },
+    {
+      "Parent Question": "Which lip balm does Gigi Hadid use?",
+      "Questions": [
+        "What is the best treatment for lips?",
+        "What lip balm does Kate Middleton use?",
+        "What is the best lip filler in the world?",
+        "What is the best lip balm in the world?",
+        "What does Hailey Bieber use for lips?",
+        "What lip balm does Kim Kardashian wear?"
+      ]
+    },
+    {
+      "Parent Question": "What vitamin deficiency causes dry lips?",
+      "Questions": [
+        "What lip products does Dua Lipa use?",
+        "What does Beyoncé use for lip balm?",
+        "What lip balm does Victoria Beckham use?",
+        "Is vaseline good for lips?",
+        "What hormone causes dry lips?",
+        "Can vitamin C cure dry lips?"
+      ]
+    },
+    {
+      "Parent Question": "Which is better lip balm or lip therapy?",
+      "Questions": [
+        "What is the best thing to moisturize your lips?",
+        "Why are my lips dry even when I drink lots of water?",
+        "Can I use zinc on my lips?",
+        "Is Vaseline or Burt's Bees better?",
+        "What is the number one best lip balm?",
+        "Is it OK to put on lip balm everyday?",
+        "What works better than lip balm?",
+        "What are the side effects of dermal therapy lip balm?",
+        "What does Vaseline lip therapy do?"
+      ]
+    },
+    {
+      "Parent Question": "What lip balm does Meghan Markle use?",
+      "Questions": [
+        "What does Angelina Jolie use on her lips?",
+        "What does Jennifer Aniston use on her lips?",
+        "What did Princess Diana use on her lips?",
+        "What lip product does Kate Middleton use?",
+        "What is the name of Meghan Markle's anti aging cream?",
+        "Which lip oil does Bella Hadid use?"
+      ]
+    },
+    {
+      "Parent Question": "Is salicylic acid good for lips?",
+      "Questions": [
+        "Which acid is best for lips?",
+        "Should you use retinol on your lips?",
+        "Is niacinamide good for lips?",
+        "What is the #1 dermatologist recommended lip balm?"
+      ]
+    },
+    {
+      "Parent Question": "best anti aging serums for glowing skin",
+      "Questions": [
+        "Which serum is best for anti-aging and glowing skin?",
+        "What is the best serum for glowing skin?",
+        "What type of serum is best for aging skin?",
+        "Do anti-ageing serums actually work?"
+      ]
+    },
+    {
+      "Parent Question": "Which serum is best for anti-aging and glowing skin?",
+      "Questions": [
+        "Which serum is no 1?",
+        "At what age anti-aging serum is best?",
+        "Does niacinamide reduce wrinkles?",
+        "Which serum increase collagen in face?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best serum for glowing skin?",
+      "Questions": [
+        "What serum makes you look younger?",
+        "How to get glass skin?",
+        "What vitamin serum makes your skin glow?",
+        "Which brand is best for serum?",
+        "What face serum should I use daily?",
+        "Is Dr Rashel face serum good?"
+      ]
+    },
+    {
+      "Parent Question": "What type of serum is best for aging skin?",
+      "Questions": [
+        "Which brand is best for anti-aging?",
+        "What is the best serum in the world?",
+        "Should I use retinol or hyaluronic acid?",
+        "What is the best treatment for aging skin?",
+        "Do anti-aging serums really work?",
+        "What is the number one ingredient for anti-aging?"
+      ]
+    },
+    {
+      "Parent Question": "Do anti-ageing serums actually work?",
+      "Questions": [
+        "How to look 20 years younger than your age?",
+        "Which is better, night cream or serum?",
+        "Is retinol anti-aging?",
+        "How to make your face look younger?",
+        "Is collagen serum anti-aging?",
+        "Is bakuchiol better than retinol?"
+      ]
+    },
+    {
+      "Parent Question": "Which serum is no 1?",
+      "Questions": [
+        "What is the best anti-aging serum that really works?",
+        "Which serum makes your skin glow?",
+        "How do I choose the right serum?",
+        "Which company is best for serum?",
+        "Which Loreal serum is best?",
+        "What is the number 1 best vitamin C serum?"
+      ]
+    },
+    {
+      "Parent Question": "At what age anti-aging serum is best?",
+      "Questions": [
+        "Which serum is better for anti-aging?",
+        "Is vitamin C anti-aging?",
+        "Is hyaluronic acid anti-aging?",
+        "At what age should I start using retinol?",
+        "Which serum is best after 30 years of age?",
+        "At what age should I use niacinamide?"
+      ]
+    },
+    {
+      "Parent Question": "Does niacinamide reduce wrinkles?",
+      "Questions": [
+        "Is vitamin C or niacinamide better for anti-aging?",
+        "What not to mix with niacinamide?",
+        "Is retinol or niacinamide better?",
+        "Why is my skin getting darker after using niacinamide?"
+      ]
+    },
+    {
+      "Parent Question": "Which serum increase collagen in face?",
+      "Questions": [
+        "Do collagen serums really work?",
+        "How do I activate collagen in my face?",
+        "What is the best anti-aging serum?",
+        "Is collagen or vitamin C better for face?"
+      ]
+    },
+    {
+      "Parent Question": "What serum makes you look younger?",
+      "Questions": [
+        "What is the best face serum in the world?",
+        "Which brand is best for anti-aging?",
+        "At what age anti-aging serum is best?",
+        "Should I use retinol or hyaluronic acid?"
+      ]
+    },
+    {
+      "Parent Question": "How to get glass skin?",
+      "Questions": [
+        "What do Koreans use to get glass skin?",
+        "How to double cleanse your face?",
+        "Which serum is best for glass skin?",
+        "Does retinol give glass skin?"
+      ]
+    },
+    {
+      "Parent Question": "What vitamin serum makes your skin glow?",
+      "Questions": [
+        "Who is the best serum for glowing skin?",
+        "Can I use vitamin C with retinol?",
+        "Which is better for face, vitamin C or E?",
+        "Why is my skin getting darker after using vitamin C serum?"
+      ]
+    },
+    {
+      "Parent Question": "Which brand is best for serum?",
+      "Questions": [
+        "Which serum is no 1?",
+        "What is the best serum in the world?",
+        "Which serum is best according to dermatologist?",
+        "What is the best serum for wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "What face serum should I use daily?",
+      "Questions": [
+        "Can I use 3 serums in a day?",
+        "How to get glass skin?",
+        "What serum should I use in my 40s?",
+        "Which serums cannot be used together?"
+      ]
+    },
+    {
+      "Parent Question": "Is Dr Rashel face serum good?",
+      "Questions": [
+        "Does Dr Rashel serum contain retinol?",
+        "What are the disadvantages of vitamin C serum for the face?",
+        "Which country made Dr. Rashel?",
+        "How long does it take for Dr Rashel face serum to work?"
+      ]
+    },
+    {
+      "Parent Question": "Which brand is best for anti-aging?",
+      "Questions": [
+        "What is the most effective anti-aging skin treatment?",
+        "Is retinol anti-aging?",
+        "What is the best anti-aging serum that really works?",
+        "What is the most effective anti-aging device?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best serum in the world?",
+      "Questions": [
+        "What is the No. 1 face serum?",
+        "What's better than hyaluronic acid?",
+        "What serum do dermatologists recommend?",
+        "Which brand is best for anti-aging?",
+        "Which serum is best for bright and glowing skin?"
+      ]
+    },
+    {
+      "Parent Question": "Should I use retinol or hyaluronic acid?",
+      "Questions": [
+        "What is better, retinol or collagen?",
+        "Do I need retinol or niacinamide?",
+        "At what age should I start using retinol?",
+        "What is better, hyaluronic acid or collagen?",
+        "Can I use retinol, vitamin C, and hyaluronic acid together?",
+        "At what age should I use hyaluronic acid?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best treatment for aging skin?",
+      "Questions": [
+        "What is the best anti-aging serum?",
+        "Do retinoids really reduce wrinkles?",
+        "What is the best skincare routine for aging skin?",
+        "What is the best anti-aging method?",
+        "How can I make my old face look younger?"
+      ]
+    },
+    {
+      "Parent Question": "Do anti-aging serums really work?",
+      "Questions": [
+        "What is the best serum in the world?",
+        "How to look 20 years younger than your age?",
+        "Should I use retinol or hyaluronic acid?",
+        "At what age anti-aging serum is best?"
+      ]
+    },
+    {
+      "Parent Question": "What is the number one ingredient for anti-aging?",
+      "Questions": [
+        "What is the most powerful anti-aging substance?",
+        "What is the No. 1 brand recommended by dermatologists?",
+        "Do anti-aging serums really work?",
+        "What ingredient makes you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "How to look 20 years younger than your age?",
+      "Questions": [
+        "How to look 10 years younger at 35?",
+        "At what age does your face change most?",
+        "How to look 10 years younger at 45?",
+        "Does caffeine age you?"
+      ]
+    },
+    {
+      "Parent Question": "Which is better, night cream or serum?",
+      "Questions": [
+        "Is it necessary to apply moisturizer after serum at night?",
+        "Is retinol serum or moisturizer better?",
+        "Is niacinamide cream or serum better?",
+        "What serum should I use every night?",
+        "Is vitamin C serum or cream better?",
+        "Which face serum is best?"
+      ]
+    },
+    {
+      "Parent Question": "Is retinol anti-aging?",
+      "Questions": [
+        "What age is OK for retinol?",
+        "Can I use retinol and vitamin C together?",
+        "Which is better for anti-aging retinol or retinoid?",
+        "Can I use retinol every day?",
+        "Can you use retinol and hyaluronic acid together?",
+        "Does vitamin C help with wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "How to make your face look younger?",
+      "Questions": [
+        "What is the best anti-aging serum that really works?",
+        "What treatment makes you look 10 years younger?",
+        "What is the Japanese home remedy for wrinkles?",
+        "Which brand is best for anti-aging?",
+        "How can I look 10 years younger than my age naturally?",
+        "What cream works like Botox?"
+      ]
+    },
+    {
+      "Parent Question": "Is collagen serum anti-aging?",
+      "Questions": [
+        "Is hyaluronic acid or collagen better?",
+        "What is the best face serum in the world?",
+        "Which is better, collagen serum or vitamin C serum?",
+        "Can I use collagen and retinol together?"
+      ]
+    },
+    {
+      "Parent Question": "Is bakuchiol better than retinol?",
+      "Questions": [
+        "Is it OK to use bakuchiol everyday?",
+        "What not to mix with bakuchiol?",
+        "Can I use retinol and bakuchiol together?",
+        "What are the downsides of bakuchiol?"
+      ]
+    },
+    {
+      "Parent Question": "best anti aging supplements to consider",
+      "Questions": [
+        "Which supplement is best for anti-aging?",
+        "What supplements should I take as I age?",
+        "What is the most powerful anti-aging substance?",
+        "Which supplement slows down aging?"
+      ]
+    },
+    {
+      "Parent Question": "Which supplement is best for anti-aging?",
+      "Questions": [
+        "What supplements make me look younger?",
+        "How to look 20 years younger than your age?",
+        "What is the best anti-aging thing?",
+        "What is better than collagen for anti-aging?"
+      ]
+    },
+    {
+      "Parent Question": "What supplements should I take as I age?",
+      "Questions": [
+        "What is the best anti aging drink?",
+        "Which supplement is best for old age?",
+        "Are Q10 supplements good for you?",
+        "What is the best supplement for aging brain?",
+        "Which vitamin reduce age?",
+        "What are the anti aging drugs?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most powerful anti-aging substance?",
+      "Questions": [
+        "What is the miracle drug for aging?",
+        "What is proven to slow aging?",
+        "Should I use retinol or hyaluronic acid?",
+        "What supplement makes you look younger?",
+        "What speeds up aging the most?",
+        "Do anti-aging supplements work?"
+      ]
+    },
+    {
+      "Parent Question": "Which supplement slows down aging?",
+      "Questions": [
+        "Can I take vitamin C and E together?",
+        "Can vitamin D reverse wrinkles?",
+        "What is best for anti-aging?",
+        "Does NAC make you look younger?",
+        "What to eat for younger looking skin?",
+        "Which vitamin is vital in fighting the aging process?"
+      ]
+    },
+    {
+      "Parent Question": "What supplements make me look younger?",
+      "Questions": [
+        "Which medicine is best for anti-aging?",
+        "How much CoQ10 should I take?",
+        "Which supplement is best for skin?",
+        "Which vitamin is good for the eyes?",
+        "Which vitamin is best for wrinkles?",
+        "Which supplement is best for skin tightening?"
+      ]
+    },
+    {
+      "Parent Question": "How to look 20 years younger than your age?",
+      "Questions": [
+        "Does caffeine age you?",
+        "How to look 10 years younger at 45?",
+        "At what age does your face change most?",
+        "How to look 10 years younger at 35?",
+        "Can I look younger at 40?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best anti-aging thing?",
+      "Questions": [
+        "What is the most powerful anti-aging substance?",
+        "How to look 20 years younger than your age?",
+        "Do any anti-aging products really work?",
+        "What is the secret to stop aging?"
+      ]
+    },
+    {
+      "Parent Question": "What is better than collagen for anti-aging?",
+      "Questions": [
+        "What is the most powerful anti-aging supplement?",
+        "Should I use retinol or collagen?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best anti aging drink?",
+      "Questions": [
+        "Which vitamin makes you look younger?",
+        "What is the number 1 rated collagen?",
+        "What is the most effective anti-aging device?",
+        "What drink makes you look younger?",
+        "How can I look 10 years younger naturally?",
+        "What really slows down aging?"
+      ]
+    },
+    {
+      "Parent Question": "Which supplement is best for old age?",
+      "Questions": [
+        "What vitamin is best for aging?",
+        "What are the top 3 supplements for health?",
+        "What supplements should I be taking at my age?",
+        "Should seniors take B12 or B complex?"
+      ]
+    },
+    {
+      "Parent Question": "Are Q10 supplements good for you?",
+      "Questions": [
+        "Who cannot take CoQ10?",
+        "What happens when you take CoQ10 every day?",
+        "What not to mix Q10 with?",
+        "What are the disadvantages of Q10?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best supplement for aging brain?",
+      "Questions": [
+        "What is the #1 brain supplement?",
+        "What is the best longevity supplement?",
+        "What supplements should older adults take?",
+        "What are the best things for the aging brain?"
+      ]
+    },
+    {
+      "Parent Question": "Which vitamin reduce age?",
+      "Questions": [
+        "Which supplement is best for anti-aging?",
+        "Can I take vitamin C and E together?",
+        "What supplements make you look younger?",
+        "What is better than collagen for anti-aging?"
+      ]
+    },
+    {
+      "Parent Question": "What are the anti aging drugs?",
+      "Questions": [
+        "What is the miracle drug for aging?",
+        "What is the most powerful anti-aging substance?",
+        "What is the best anti-aging thing?",
+        "What pill is good for anti-aging?"
+      ]
+    },
+    {
+      "Parent Question": "What is the miracle drug for aging?",
+      "Questions": [
+        "What is the most powerful anti-aging drug?",
+        "Why does metformin make you look younger?",
+        "Which medicine is best for anti-aging?",
+        "Who should not take rapamycin?"
+      ]
+    },
+    {
+      "Parent Question": "What is proven to slow aging?",
+      "Questions": [
+        "What speeds up aging the most?",
+        "What is the secret to anti-aging?",
+        "What is the new discovery to reverse aging?",
+        "How to reverse ageing face?",
+        "Does caffeine age you?",
+        "Do you age slower if you sleep more?"
+      ]
+    },
+    {
+      "Parent Question": "Should I use retinol or hyaluronic acid?",
+      "Questions": [
+        "What is better, retinol or collagen?",
+        "Do I need retinol or niacinamide?",
+        "At what age should I start using retinol?",
+        "What is better, hyaluronic acid or collagen?",
+        "Can I use retinol, vitamin C, and hyaluronic acid together",
+        "At what age should I use hyaluronic acid?"
+      ]
+    },
+    {
+      "Parent Question": "What supplement makes you look younger?",
+      "Questions": [
+        "How to look 20 years younger than your age?",
+        "Do anti-aging supplements work?",
+        "Does vitamin E tighten skin?",
+        "Do collagen supplements really work?",
+        "How can I reverse aging and look younger?",
+        "Can vitamin D reverse wrinkles?"
+      ]
+    },
+    {
+      "Parent Question": "What speeds up aging the most?",
+      "Questions": [
+        "What really slows down aging?",
+        "Does coffee age you quicker?",
+        "What is the #1 mistake that will make you age faster?",
+        "How do I stop ageing so fast?",
+        "What is the biggest aging factor?"
+      ]
+    },
+    {
+      "Parent Question": "Do anti-aging supplements work?",
+      "Questions": [
+        "What is the most powerful anti-aging supplement?",
+        "Is vitamin A or C better for anti-aging?",
+        "Is collagen really anti-aging?",
+        "What is the most powerful anti-aging substance?",
+        "Which vitamin makes you look younger?",
+        "Which supplement slows down aging?"
+      ]
+    },
+    {
+      "Parent Question": "Can I take vitamin C and E together?",
+      "Questions": [
+        "Which two vitamins should not be taken together?",
+        "Should I take B12 or B complex?",
+        "Can I take vitamin E and omega 3 together?",
+        "Can I take 5 different vitamins at once?",
+        "Can I take vitamin C and B12 together?",
+        "What not to mix with vitamin C and E?"
+      ]
+    },
+    {
+      "Parent Question": "Can vitamin D reverse wrinkles?",
+      "Questions": [
+        "Which supplement is best for anti-aging?",
+        "What deficiency causes wrinkles?",
+        "Which vitamin gets rid of wrinkles?",
+        "What supplement makes you look younger?",
+        "What deficiency causes early aging?",
+        "Which vitamin is called an anti-aging agent?"
+      ]
+    },
+    {
+      "Parent Question": "What is best for anti-aging?",
+      "Questions": [
+        "Do any anti-aging products really work?",
+        "How to look 20 years younger than your age?",
+        "Which ingredient is best for anti-aging?",
+        "What is the best treatment for ageing?",
+        "What is the best anti-aging drink?",
+        "What is the secret to anti-aging?"
+      ]
+    },
+    {
+      "Parent Question": "Does NAC make you look younger?",
+      "Questions": [
+        "Does NAC stop collagen?",
+        "Does glutathione make you look younger?",
+        "Is it OK to take NAC everyday?",
+        "Which is better, L-cysteine or NAC?"
+      ]
+    },
+    {
+      "Parent Question": "What to eat for younger looking skin?",
+      "Questions": [
+        "How can I look 10 years younger naturally?",
+        "What is the number one anti-aging food?",
+        "How to look younger at 40 naturally?",
+        "What is the #1 best fruit to slow aging?"
+      ]
+    },
+    {
+      "Parent Question": "Which vitamin is vital in fighting the aging process?",
+      "Questions": [
+        "What is better than collagen for anti-aging?",
+        "Which supplement is best for old age?",
+        "Can I take vitamin C and E together?",
+        "What is the most powerful anti-aging substance?"
+      ]
+    },
+    {
+      "Parent Question": "best anti aging wardrobe choices",
+      "Questions": [
+        "What type of clothes make you look younger?",
+        "What wardrobe staple always makes you look older?",
+        "How can I look younger than my age with clothes?",
+        "What clothes colors make you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "What type of clothes make you look younger?",
+      "Questions": [
+        "What hair color makes you look younger?",
+        "What outfit makes you look older?",
+        "What makes a face look younger?",
+        "What clothes make you look smart?"
+      ]
+    },
+    {
+      "Parent Question": "What wardrobe staple always makes you look older?",
+      "Questions": [
+        "What fashion ages you?",
+        "What color makes you look older?",
+        "What makes you look older fast?",
+        "What clothes make a woman look younger?",
+        "What face shape makes you look older?",
+        "How to avoid looking old?"
+      ]
+    },
+    {
+      "Parent Question": "How can I look younger than my age with clothes?",
+      "Questions": [
+        "Which color clothes make you look younger?",
+        "How can I look 10 years younger than my age?",
+        "Does looking thinner make you look younger?",
+        "How can I make my older face look younger?",
+        "What to wear to look mature?",
+        "What makes a woman look younger?"
+      ]
+    },
+    {
+      "Parent Question": "What clothes colors make you look younger?",
+      "Questions": [
+        "Which hair color makes you look younger?",
+        "What is the most attractive color to wear?",
+        "How to dress after 50 years old?",
+        "What colour makeup makes you look younger?",
+        "What face features make you look younger?",
+        "What style makes you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "What hair color makes you look younger?",
+      "Questions": [
+        "What haircut makes you look younger?",
+        "Should you go lighter or darker with hair as you get older?",
+        "What colour top makes you look younger?",
+        "Which hair part makes you look younger?",
+        "Should I go darker or lighter hair?",
+        "Does curly hair make you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "What outfit makes you look older?",
+      "Questions": [
+        "How can I look pretty as I age?",
+        "What mistakes make you look older?",
+        "How do I dress to look younger?",
+        "How to look mature by face?",
+        "What wardrobe staple always makes you look older?",
+        "Do scarves make you look older?"
+      ]
+    },
+    {
+      "Parent Question": "What makes a face look younger?",
+      "Questions": [
+        "How to stop aging face?",
+        "What hairstyle makes a woman look younger?",
+        "Which face shape is most attractive?",
+        "How to look 10 years younger naturally?",
+        "Does caffeine make you look older?"
+      ]
+    },
+    {
+      "Parent Question": "What clothes make you look smart?",
+      "Questions": [
+        "What outfits make you look the skinniest?",
+        "What hairstyle makes you look smart?",
+        "What outfits make you look more attractive?",
+        "What is smart wear clothing?"
+      ]
+    },
+    {
+      "Parent Question": "What fashion ages you?",
+      "Questions": [
+        "What outfits make you look older?",
+        "What makes a woman look older than her age?",
+        "How to stay stylish as you age?",
+        "What makes you look middle aged?"
+      ]
+    },
+    {
+      "Parent Question": "What color makes you look older?",
+      "Questions": [
+        "What clothes color make you look younger?",
+        "What makes you look older fast?",
+        "What color hair ages you?",
+        "How can I look prettier as I age?"
+      ]
+    },
+    {
+      "Parent Question": "What makes you look older fast?",
+      "Questions": [
+        "How to look 20 years younger than your age?",
+        "Does coffee age you?",
+        "What ages the face the most?",
+        "What is the #1 mistake that will make you age faster?"
+      ]
+    },
+    {
+      "Parent Question": "What clothes make a woman look younger?",
+      "Questions": [
+        "What makes a woman look 10 years younger?",
+        "What clothing ages you?",
+        "What clothes make you look smart?",
+        "What makes a female face look younger?",
+        "How can I look younger than my age with clothes?",
+        "What makes a girl look older?"
+      ]
+    },
+    {
+      "Parent Question": "What face shape makes you look older?",
+      "Questions": [
+        "How to make your face look younger?",
+        "What is the most youthful face shape?",
+        "What part of your face ages first?",
+        "What makes you look younger than your age?",
+        "What age do women's looks fade?",
+        "At what age does your face change most?"
+      ]
+    },
+    {
+      "Parent Question": "How to avoid looking old?",
+      "Questions": [
+        "What slows down aging?",
+        "What helps your face not age?",
+        "How to reverse your age naturally?",
+        "How can I improve my appearance as I age?",
+        "What is the best home remedy for anti-aging?",
+        "How can I hide my aging face?"
+      ]
+    },
+    {
+      "Parent Question": "Which color clothes make you look younger?",
+      "Questions": [
+        "What colour hair makes you look younger?",
+        "What clothes make a woman look younger?",
+        "Does looking thinner make you look younger?",
+        "What colour makes you look older?",
+        "What is the most attractive color to wear?",
+        "Do white clothes make you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "How can I look 10 years younger than my age?",
+      "Questions": [
+        "Why do 40 year olds look younger now?",
+        "How do I take 10 years off my face?",
+        "How to look 25 at 35?",
+        "How to look 20 years younger at 40?",
+        "What makes a woman look younger naturally?"
+      ]
+    },
+    {
+      "Parent Question": "Does looking thinner make you look younger?",
+      "Questions": [
+        "How to look 10 years younger at 45?",
+        "How did Adele lose weight?",
+        "What makes a face look younger?",
+        "How to get a bony face?"
+      ]
+    },
+    {
+      "Parent Question": "How can I make my older face look younger?",
+      "Questions": [
+        "How do I stop looking old in the face?",
+        "What hairstyle will make me look younger?",
+        "What is the best anti-aging serum?",
+        "What treatment makes you look 10 years younger?",
+        "Which face shape ages fastest?",
+        "How can I make my 60 year old eyes look younger?"
+      ]
+    },
+    {
+      "Parent Question": "What to wear to look mature?",
+      "Questions": [
+        "What wardrobe staple always makes you look older?",
+        "What color clothes make you look younger?",
+        "How to make your wardrobe more mature?",
+        "How can I look younger than my age with clothes?",
+        "What color makes me look older?",
+        "How can I look attractive as I age?"
+      ]
+    },
+    {
+      "Parent Question": "What makes a woman look younger?",
+      "Questions": [
+        "At what age does your face change most?",
+        "What hairstyle makes a woman look younger?",
+        "How to look 20 years younger than your age?",
+        "What makes a woman's face look older?",
+        "Why do 30 year olds look younger now?",
+        "Do whiter teeth make you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "Which hair color makes you look younger?",
+      "Questions": [
+        "Should you go lighter or darker with hair as you get older?",
+        "Which hair part makes you look younger?",
+        "What colour top makes you look younger?",
+        "What hair color makes someone look older?",
+        "What colour makeup makes you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most attractive color to wear?",
+      "Questions": [
+        "What is the least attractive color to wear?",
+        "What color attracts the human eye most?",
+        "What colors make you look prettier?",
+        "Which color attracts men?"
+      ]
+    },
+    {
+      "Parent Question": "How to dress after 50 years old?",
+      "Questions": [
+        "How to look good at 55 female?",
+        "How should a 50 year old dress with a belly?",
+        "What should a 58 year old woman wear?",
+        "Which wardrobe staple makes you look older?"
+      ]
+    },
+    {
+      "Parent Question": "What colour makeup makes you look younger?",
+      "Questions": [
+        "How to look 10 years younger naturally?",
+        "What color clothing makes you look older?",
+        "How to make eyes look less old?",
+        "What lipstick colour makes you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "What face features make you look younger?",
+      "Questions": [
+        "What gives away your age the most?",
+        "Which face shape is most youthful?",
+        "What makes your face prettier?",
+        "What face shape makes you look older?",
+        "What are the main three facial features first to give away your age?",
+        "Does looking thinner make you look younger?"
+      ]
+    },
+    {
+      "Parent Question": "What style makes you look younger?",
+      "Questions": [
+        "What hair color makes you look younger?",
+        "What makes you look older fast?",
+        "What makes a face look younger?",
+        "Which color clothes make you look younger?",
+        "How can I look prettier as I age?",
+        "How can I look younger than my age with clothes?"
+      ]
+    },
+    {
+      "Parent Question": "best exercises to tone facial muscles",
+      "Questions": [
+        "Can you tighten face muscles with exercise?",
+        "How to increase muscle tone in face?",
+        "How to tone face quickly?",
+        "How long does it take to tone facial muscles?"
+      ]
+    },
+    {
+      "Parent Question": "Can you tighten face muscles with exercise?",
+      "Questions": [
+        "Do facial exercises really work?",
+        "How to tighten a saggy face?",
+        "How to tighten face muscles naturally?",
+        "Do double chin exercises really work?"
+      ]
+    },
+    {
+      "Parent Question": "How to increase muscle tone in face?",
+      "Questions": [
+        "Does face Gym actually work?",
+        "How do you fix weak muscles in your face?",
+        "How to fix sagging cheeks naturally?",
+        "Do jawline exercises work?",
+        "How to get fuller cheeks?",
+        "How to lift face naturally?"
+      ]
+    },
+    {
+      "Parent Question": "How to tone face quickly?",
+      "Questions": [
+        "How to train facial muscles?",
+        "How to build muscle under eyes?",
+        "Which exercise is best for face glow?",
+        "Can facial exercises tighten skin?",
+        "How to get cheekbones?",
+        "How to lose double chin in 5 days without exercise?"
+      ]
+    },
+    {
+      "Parent Question": "How long does it take to tone facial muscles?",
+      "Questions": [
+        "Can I tone my face muscles?",
+        "How to show jawline more?",
+        "What exercises strengthen the mouth muscles?",
+        "Do face exercises actually work?",
+        "How to exercise for jawline?",
+        "How quickly do muscles tone up?"
+      ]
+    },
+    {
+      "Parent Question": "Do facial exercises really work?",
+      "Questions": [
+        "What is the best face exercise?",
+        "What are the disadvantages of facial exercise?",
+        "What is the best anti-aging exercise?"
+      ]
+    },
+    {
+      "Parent Question": "How to tighten a saggy face?",
+      "Questions": [
+        "What is the best natural skin tightener?",
+        "What is the newest skin tightening procedure in 2024?",
+        "Can you reverse face sagging?",
+        "What exercise is best for tightening skin?",
+        "What drink tightens skin?",
+        "Does collagen tighten skin?"
+      ]
+    },
+    {
+      "Parent Question": "How to tighten face muscles naturally?",
+      "Questions": [
+        "Can you tone your face muscles?",
+        "What is the best skin firming product?",
+        "What is the best homemade anti-aging face mask?",
+        "How to tighten a saggy face?",
+        "Do facial exercises really work?"
+      ]
+    },
+    {
+      "Parent Question": "Do double chin exercises really work?",
+      "Questions": [
+        "How can I slim my chin in 2 weeks?",
+        "Does chewing gum reduce double chin?",
+        "Can I lose double chin in 2 months?",
+        "How to get a more defined face?"
+      ]
+    },
+    {
+      "Parent Question": "Does face Gym actually work?",
+      "Questions": [
+        "Can facial exercises make you look better?",
+        "Do facial exercises work to lose face fat?",
+        "Does working out make your face more toned?",
+        "What celebrities are using face gym?"
+      ]
+    },
+    {
+      "Parent Question": "How do you fix weak muscles in your face?",
+      "Questions": [
+        "How can I tighten my face muscles naturally?",
+        "What causes weak face muscles?",
+        "Is it possible to tighten facial muscles?",
+        "What causes loss of muscle tone in face?"
+      ]
+    },
+    {
+      "Parent Question": "How to fix sagging cheeks naturally?",
+      "Questions": [
+        "How can I restore my sunken cheeks?",
+        "How can I tighten my loose cheeks?",
+        "How to tighten skin around mouth and jaw?",
+        "How do you tighten cheek fat?"
+      ]
+    },
+    {
+      "Parent Question": "Do jawline exercises work?",
+      "Questions": [
+        "Does mewing really work?",
+        "Can you really tone your jawline?",
+        "How to tighten the jaw line?",
+        "Does chewing gum actually help the jawline?"
+      ]
+    },
+    {
+      "Parent Question": "How to get fuller cheeks?",
+      "Questions": [
+        "How can I tone my cheeks?",
+        "Why is my face getting skinny?",
+        "Can you build cheek muscles?",
+        "How to pump up your face?"
+      ]
+    },
+    {
+      "Parent Question": "How to lift face naturally?",
+      "Questions": [
+        "What's the best non-surgical face lift?",
+        "Does gua sha lift your face?",
+        "How can I tighten my face muscles?",
+        "Is it possible to do a Natural Face Lift?"
+      ]
+    },
+    {
+      "Parent Question": "How to train facial muscles?",
+      "Questions": [
+        "How long does it take to tone facial muscles?",
+        "How do you fix weak facial muscles?",
+        "Do facial exercises really work?",
+        "How to get a sculpted jawline?"
+      ]
+    },
+    {
+      "Parent Question": "How to build muscle under eyes?",
+      "Questions": [
+        "How can I permanently tighten the skin under my eyes?",
+        "Do eye exercises really work?",
+        "What exercises tighten skin under eyes?",
+        "How can I increase my face muscles?"
+      ]
+    },
+    {
+      "Parent Question": "Which exercise is best for face glow?",
+      "Questions": [
+        "Which exercise make your face beautiful?",
+        "How to get glass skin?",
+        "How to increase facial beauty?",
+        "Can gym bring glow on face?"
+      ]
+    },
+    {
+      "Parent Question": "Can facial exercises tighten skin?",
+      "Questions": [
+        "Do double chin exercises really work?",
+        "Can I tighten my saggy face?",
+        "How can I make my face muscles tighter?",
+        "Do facial workouts actually work?"
+      ]
+    },
+    {
+      "Parent Question": "How to get cheekbones?",
+      "Questions": [
+        "How to tighten face skin with exercise?",
+        "How to get a more defined face?",
+        "How to activate cheek muscles?",
+        "Which cheekbones are attractive?"
+      ]
+    },
+    {
+      "Parent Question": "How to lose double chin in 5 days without exercise?",
+      "Questions": [
+        "How can I slim my chin in 2 weeks?",
+        "Does chewing gum reduce double chin?",
+        "How can I slim my face in 2 days?",
+        "Why do I have a double chin but I'm skinny?"
+      ]
+    },
+    {
+      "Parent Question": "Can I tone my face muscles?",
+      "Questions": [
+        "How long does it take to strengthen face muscles?",
+        "How to tone your face naturally?",
+        "Does face Gym actually work?",
+        "How to sculpt face naturally?"
+      ]
+    },
+    {
+      "Parent Question": "How to show jawline more?",
+      "Questions": [
+        "Does mewing really work?",
+        "Do jawline exercises work?",
+        "How do I tighten my jawline?",
+        "What is the towel method?"
+      ]
+    },
+    {
+      "Parent Question": "What exercises strengthen the mouth muscles?",
+      "Questions": [
+        "How do you strengthen weak facial muscles?",
+        "How can I improve my oral muscle tone?",
+        "How do you tighten the muscles around your mouth?",
+        "Can tongue exercises improve jawline?"
+      ]
+    },
+    {
+      "Parent Question": "Do face exercises actually work?",
+      "Questions": [
+        "Can you tone your face muscles?",
+        "What is the best face exercise?",
+        "Will exercise tighten my face?",
+        "How to change face shape by exercise?"
+      ]
+    },
+    {
+      "Parent Question": "How to exercise for jawline?",
+      "Questions": [
+        "Do jawline exercises really work?",
+        "How to get chiseled face?",
+        "How do I get a toned jawline?",
+        "Is mewing effective?"
+      ]
+    },
+    {
+      "Parent Question": "How quickly do muscles tone up?",
+      "Questions": [
+        "Is a 30 minute workout enough to build muscle?",
+        "How long does it take to go from flabby to toned?",
+        "How often should I workout to get toned?",
+        "Why are my arms getting bigger but not toned?"
+      ]
+    },
+    {
+      "Parent Question": "best face oils for mature skin",
+      "Questions": [
+        "Which face oil is best for mature skin?",
+        "Which oil is best for skin anti-aging?",
+        "What is the best oil for dry aging skin?",
+        "Is rosehip oil good for mature skin?"
+      ]
+    },
+    {
+      "Parent Question": "Which face oil is best for mature skin?",
+      "Questions": [
+        "What oils make you look younger?",
+        "Is Argan Oil good for mature face?",
+        "Is oil or cream better for mature skin?",
+        "What is the best oil to put on your face overnight?"
+      ]
+    },
+    {
+      "Parent Question": "Which oil is best for skin anti-aging?",
+      "Questions": [
+        "Which oil works like Botox?",
+        "What is best for aging skin on face?",
+        "What is the No. 1 brand recommended by dermatologists?",
+        "Are facial oils good for mature skin?",
+        "Which oil contains collagen?",
+        "What is the best skin care routine for mature skin?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best oil for dry aging skin?",
+      "Questions": [
+        "What is best for older dry skin?",
+        "What oil is best for skin glow?",
+        "What vitamin oil is good for aging skin?",
+        "Does argan oil get rid of wrinkles?",
+        "Which oil is most moisturizing for face?",
+        "What essential oils are good for skin tightening?"
+      ]
+    },
+    {
+      "Parent Question": "Is rosehip oil good for mature skin?",
+      "Questions": [
+        "Which oil is better than rosehip oil?",
+        "Is argan oil or vitamin E oil better?",
+        "Should I use retinol or rosehip oil?",
+        "Which oil is best for face anti aging?",
+        "Who should not use rosehip oil?",
+        "Can I leave rosehip oil on my face overnight?"
+      ]
+    },
+    {
+      "Parent Question": "What oils make you look younger?",
+      "Questions": [
+        "How can I make my older face look younger?",
+        "Which oil is best for under eyes?",
+        "What is the best carrier oil for aging skin?",
+        "What oil penetrates the skin best?",
+        "Which oil is best for face massage?",
+        "Does rosehip oil clog pores?"
+      ]
+    },
+    {
+      "Parent Question": "Is Argan Oil good for mature face?",
+      "Questions": [
+        "Is coconut oil good for mature face?",
+        "What is the disadvantage of argan oil on face?",
+        "Is jojoba oil anti-aging?",
+        "Which oil is best for aging?",
+        "Does argan oil increase collagen?"
+      ]
+    },
+    {
+      "Parent Question": "Is oil or cream better for mature skin?",
+      "Questions": [
+        "What not to use on mature skin?",
+        "Is facial oil good for mature skin?",
+        "What is the best oil for the face?",
+        "What is the best treatment for mature skin?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best oil to put on your face overnight?",
+      "Questions": [
+        "Which oil is best for face for daily use?",
+        "What are the disadvantages of applying coconut oil on the face?",
+        "Is it good to put oil on your face every night?",
+        "Which oil is best to leave overnight?"
+      ]
+    },
+    {
+      "Parent Question": "Which oil works like Botox?",
+      "Questions": [
+        "What do celebrities use instead of Botox?",
+        "What essential oil has the most collagen?",
+        "What oil is best for aging skin?",
+        "How can I make my face look younger naturally?"
+      ]
+    },
+    {
+      "Parent Question": "What is best for aging skin on face?",
+      "Questions": [
+        "What makes old skin look younger?",
+        "What do dermatologists recommend for mature skin care?",
+        "What is the best ingredient for aging skin?",
+        "What is the No. 1 brand recommended by dermatologists?"
+      ]
+    },
+    {
+      "Parent Question": "What is the No. 1 brand recommended by dermatologists?",
+      "Questions": [
+        "What is the best skincare routine for aging skin?",
+        "Do dermatologists prefer CeraVe or La Roche-Posay?",
+        "Why is CeraVe so popular?",
+        "What is the best skincare brand in the world?"
+      ]
+    },
+    {
+      "Parent Question": "Are facial oils good for mature skin?",
+      "Questions": [
+        "Is rosehip oil good for mature skin?",
+        "What is the best oil to put on your face overnight?",
+        "Which is better face oil or serum?",
+        "What is the best oil for older skin?",
+        "When not to use face oil?",
+        "Is argan oil good for mature face?"
+      ]
+    },
+    {
+      "Parent Question": "Which oil contains collagen?",
+      "Questions": [
+        "Which oil works like Botox?",
+        "Can you rebuild collagen in your face?",
+        "Does argan oil produce collagen?",
+        "What oil makes you look younger?",
+        "What is the highest source of collagen",
+        "Which oil is best for sagging skin?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best skin care routine for mature skin?",
+      "Questions": [
+        "What not to use on mature skin?",
+        "Is oil or cream better for mature skin?",
+        "What is the best skin booster for mature skin?",
+        "What is the best thing to put on your face for aging?",
+        "How can I make my mature face look younger?",
+        "Does mature skin need serum?"
+      ]
+    },
+    {
+      "Parent Question": "What is best for older dry skin?",
+      "Questions": [
+        "What is the best oil for old dry skin?",
+        "How can I rejuvenate my 60 year old skin?",
+        "How do you rehydrate dry aging skin?",
+        "What is the best face treatment for a 60 year old?",
+        "Why is my 60 year old skin so dry?",
+        "What is the best skin care routine for mature skin?"
+      ]
+    },
+    {
+      "Parent Question": "What oil is best for skin glow?",
+      "Questions": [
+        "Which oil is best for face wrinkles?",
+        "Which vitamin oil is best for glowing skin?",
+        "Is jojoba oil anti-aging?",
+        "What oil penetrates the skin best?",
+        "Can I use jojoba oil on my face every day?"
+      ]
+    },
+    {
+      "Parent Question": "What vitamin oil is good for aging skin?",
+      "Questions": [
+        "What is the best essential oil for aging skin?",
+        "Can I use vitamin E and retinol together?",
+        "Which oil contains collagen?",
+        "What is the best carrier oil for aging skin?"
+      ]
+    },
+    {
+      "Parent Question": "Does argan oil get rid of wrinkles?",
+      "Questions": [
+        "What is the disadvantage of argan oil on face?",
+        "What is the best natural wrinkle reducer",
+        "Which oil is best to remove wrinkles?",
+        "Does argan oil increase collagen?"
+      ]
+      }
+    ]
   }
 ]
+
 
 
 
