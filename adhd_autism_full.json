@@ -11406,6 +11406,380 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "Survival_Hacks_and_First_Aid_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "basic first aid for head injuries",
+      "Questions": [
+        "What is the first line treatment for a head injury?",
+        "What are the emergency procedures for head injury?",
+        "What is the first aid for head pain?",
+        "What to do if someone hits their head with first aid?"
+      ]
+    },
+    {
+      "Parent Question": "basic first aid skills everyone should know",
+      "Questions": [
+        "What are some basic first aid skills?",
+        "What are the 5 P's in first aid?",
+        "What are the 7 basic steps of first aid?",
+        "What are the 5 main of first aid?"
+      ]
+    },
+    {
+      "Parent Question": "first aid tips for children and babies",
+      "Questions": [
+        "How to do first aid for babies?",
+        "What are the 7 basic steps of first aid?",
+        "How to do first aid for kids?",
+        "What is first aid for babies and children fast?"
+      ]
+    },
+    {
+      "Parent Question": "first aid tips for cuts and scrapes",
+      "Questions": [
+        "What is the first aid of cuts and scrapes?",
+        "What are the 4 steps to treating a cut scrape?",
+        "What is the 5 steps first aid for minor wounds?",
+        "What is the first thing you do when you get a cut?"
+      ]
+    },
+    {
+      "Parent Question": "how to build a fire with limited resources",
+      "Questions": [
+        "How to make a fire using only natural resources?",
+        "What are the 3 sources needed for a fire?",
+        "What is the easiest way to build a fire?",
+        "What kind of resources can be used to put out a fire?"
+      ]
+    },
+    {
+      "Parent Question": "how to create a makeshift splint for injuries",
+      "Questions": [
+        "How to make a makeshift splint?",
+        "What is an improvised splint?",
+        "How to splint a finger without a splint?",
+        "What is a temporary splint?"
+      ]
+    },
+    {
+      "Parent Question": "how to create a shelter using natural resources",
+      "Questions": [
+        "How to build a shelter from natural materials?",
+        "What resources do you need to build a shelter?",
+        "What materials can you use to make the shelter?",
+        "What is an example of a natural shelter?"
+      ]
+    },
+    {
+      "Parent Question": "how to deal with heatstroke and dehydration",
+      "Questions": [
+        "How do you treat heat stroke immediately?",
+        "Why can't you drink water if you have heat stroke?",
+        "What is the fastest way to recover from heat exhaustion?",
+        "How do you stop feeling sick from heat stroke?"
+      ]
+    },
+    {
+      "Parent Question": "how to find food in the wild",
+      "Questions": [
+        "How do you find food sources in the wild?",
+        "What is the easiest food to find in the wild?",
+        "Is it hard to find food in the wild?",
+        "How to get food in the forest?"
+      ]
+    },
+    {
+      "Parent Question": "how to find your way without a compass",
+      "Questions": [
+        "How to find direction without a compass?",
+        "What can I use if I don't have a compass?",
+        "How do I know which direction I'm facing?",
+        "How do I find my direction?"
+      ]
+    },
+    {
+      "Parent Question": "how to handle a choking incident",
+      "Questions": [
+        "What are the 4 actions in order when dealing with a choke victim?",
+        "How would you handle a choking incident in a restaurant?",
+        "What is the first thing to do in a suspected choking?",
+        "What are the safety procedures for choking?"
+      ]
+    },
+    {
+      "Parent Question": "how to handle a snake bite",
+      "Questions": [
+        "What are 4 things you should not do for a snake bite?",
+        "What is the correct method to treat a snake bite?",
+        "What should I do if someone is bitten by a snake?",
+        "What are the 7 principles of snake bite management?"
+      ]
+    },
+    {
+      "Parent Question": "how to handle fractures and sprains",
+      "Questions": [
+        "How to deal with sprains and fractures?",
+        "How do you handle a fracture patient?",
+        "How will you manage case with fracture?",
+        "How do you deal with a sprain?"
+      ]
+    },
+    {
+      "Parent Question": "how to identify edible plants and berries",
+      "Questions": [
+        "How do you know if fruit is edible?",
+        "How do you determine a berry?",
+        "How do you find out a correct way to identify an actual fruit?",
+        "Which berry should not be eaten in the wild?"
+      ]
+    },
+    {
+      "Parent Question": "how to make a first aid kit for home and travel",
+      "Questions": [
+        "How to build a travel first aid kit?",
+        "What are 10 items in a home first aid kit?",
+        "What to pack for travel first-aid?",
+        "How to make a first aid kit for home?"
+      ]
+    },
+    {
+      "Parent Question": "how to make an improvised tourniquet",
+      "Questions": [
+        "What can you use if you do not have a real tourniquet?",
+        "Do homemade tourniquets work?",
+        "How to stop bleeding without a tourniquet?",
+        "Can you use a towel as a tourniquet?"
+      ]
+    },
+    {
+      "Parent Question": "how to make a survival shelter from tarps or plastic",
+      "Questions": [
+        "How to make a survival shelter with a tarp?",
+        "How to use a tarp as a shelter?",
+        "What is the best material for a tarp shelter?",
+        "Is A tarp good for survival?"
+      ]
+    },
+    {
+      "Parent Question": "how to manage a broken bone on the way to the hospital",
+      "Questions": [
+        "What happens when you go to the hospital for a broken bone?",
+        "What are the 5 R's of fracture management?",
+        "What is the management of bone fracture?",
+        "What is the first line of management for a fracture?"
+      ]
+    },
+    {
+      "Parent Question": "how to navigate using the sun and stars",
+      "Questions": [
+        "How to navigate by sun and stars?",
+        "How do people use stars to navigate?",
+        "How was the Sun used for navigation?",
+        "How to find your direction using the Sun?"
+      ]
+    },
+    {
+      "Parent Question": "how to perform cpr",
+      "Questions": [
+        "What are the 7 steps of CPR?",
+        "Is it still 30 compressions to 2 breaths?",
+        "How to perform a CPR test?",
+        "What is the golden rule of CPR?"
+      ]
+    },
+    {
+      "Parent Question": "how to perform the heimlich maneuver",
+      "Questions": [
+        "What are the 4 steps of the Heimlich maneuver?",
+        "What are the 5 steps if someone is choking?",
+        "How do you do the Heimlich maneuver guideline?",
+        "How many abdominal thrusts should be given if a person is choking?"
+      ]
+    },
+    {
+      "Parent Question": "how to purify water for drinking",
+      "Questions": [
+        "What is the best way to purify water for drinking?",
+        "What are the 5 ways of purifying water?",
+        "What are 10 ways to purify water?",
+        "How to make pure water drinkable?"
+      ]
+    },
+    {
+      "Parent Question": "how to ration food in a survival situation",
+      "Questions": [
+        "What is the best way to prepare food in a survival situation?",
+        "How to catch food in a survival situation?",
+        "Should you ration food in an emergency?",
+        "How to get fat in a survival situation?"
+      ]
+    },
+    {
+      "Parent Question": "how to recognize and treat shock",
+      "Questions": [
+        "How do you identify and treat shock?",
+        "What are 5 treatments of shock?",
+        "What are the best ways to deal with shock?",
+        "What are the 3 things you should do if a shock is advised?"
+      ]
+    },
+    {
+      "Parent Question": "how to signal for help in the wild",
+      "Questions": [
+        "How to call for help in the wilderness?",
+        "How can I signal that I need help?",
+        "How to signal for help in survival?",
+        "How to signal in the wild?"
+      ]
+    },
+    {
+      "Parent Question": "how to stay calm in a survival situation",
+      "Questions": [
+        "How to stay calm in serious situations?",
+        "How do you remain calm in an emergency situation?",
+        "How not to panic in emergency situations?",
+        "How do I calm myself down?"
+      ]
+    },
+    {
+      "Parent Question": "how to stop bleeding with a wound dressing",
+      "Questions": [
+        "How do you stop dressing bleeding?",
+        "What to do if a wound bleeds through dressing?",
+        "What is the fastest way to stop a wound from bleeding?",
+        "How do you control bleeding when applying a bandage?"
+      ]
+    },
+    {
+      "Parent Question": "how to treat allergic reactions",
+      "Questions": [
+        "What is the fastest way to treat an allergic reaction?",
+        "How long does an allergic reaction take to go away?",
+        "What is the fastest allergy relief?",
+        "What is proper treatment for an allergic reaction?"
+      ]
+    },
+    {
+      "Parent Question": "how to treat a nosebleed",
+      "Questions": [
+        "What stops nosebleeds fast?",
+        "What should you not do during a nosebleed?",
+        "What is the correct treatment for a nose bleed?",
+        "What causes a nosebleed in one nostril?"
+      ]
+    },
+    {
+      "Parent Question": "how to treat a sprained ankle",
+      "Questions": [
+        "How long does it take a sprained ankle to heal?",
+        "Is it okay to walk on a sprained ankle?",
+        "How do I know if my ankle sprain is serious?",
+        "What are the 5 steps for treating a sprain?"
+      ]
+    },
+    {
+      "Parent Question": "how to treat burns effectively",
+      "Questions": [
+        "What is the fastest way to treat a burn?",
+        "What are the 6 C's of burn care?",
+        "What is the correct way to deal with burns?",
+        "What are the three C's for treating burns?"
+      ]
+    },
+    {
+      "Parent Question": "how to treat dehydration in the wild",
+      "Questions": [
+        "What to do for dehydration in the wild?",
+        "How do you treat extreme dehydration?",
+        "How do you treat dehydration in animals?",
+        "What is the fastest way to cure hydration?"
+      ]
+    },
+    {
+      "Parent Question": "how to treat hypothermia in an emergency",
+      "Questions": [
+        "What are the emergency procedures for hypothermia?",
+        "How do you treat hypothermia in the emergency department?",
+        "How to raise body temperature?",
+        "What is the safety protocol after hypothermia?"
+      ]
+    },
+    {
+      "Parent Question": "how to treat insect bites and stings",
+      "Questions": [
+        "What is the best treatment for bites and stings?",
+        "How do you treat insect bites fast?",
+        "What is the best cream for insect bites?",
+        "How do you treat an insect sting reaction?"
+      ]
+    },
+    {
+      "Parent Question": "how to use a knife for survival tasks",
+      "Questions": [
+        "How can a knife be used for survival?",
+        "Are knives good for survival?",
+        "What does a survival knife do?",
+        "How do you carefully use a knife?"
+      ]
+    },
+    {
+      "Parent Question": "how to use natural materials for first aid",
+      "Questions": [
+        "How do you use first aid materials?",
+        "How to make an herbal first aid kit?",
+        "What is the meaning of nature of first aid?",
+        "Why do you need a first aid kit in a natural disaster?"
+      ]
+    },
+    {
+      "Parent Question": "how to use rope for survival tasks",
+      "Questions": [
+        "How to use rope in survival?",
+        "What is the use of rope in survival kit?",
+        "What is the use of rope in disaster?",
+        "What is rope used for in emergency?"
+      ]
+    },
+    {
+      "Parent Question": "survival hacks for staying warm in the wild",
+      "Questions": [
+        "How do people stay warm in the wild?",
+        "How do you survive extreme heat in the wild?",
+        "How do you survive the cold in the wild?",
+        "How to stay warm in nature?"
+      ]
+    },
+    {
+      "Parent Question": "survival hacks for urban emergencies",
+      "Questions": [
+        "What are the 5 most important survival skills?",
+        "How to survive in an urban area?",
+        "What is the strongest survival skill?",
+        "What are the top 3 things you need to survive?"
+      ]
+    },
+    {
+      "Parent Question": "what to do for a dislocated joint",
+      "Questions": [
+        "How do you fix a dislocated joint?",
+        "Can a dislocated joint heal on its own?",
+        "What is the immediate treatment for joint dislocation?",
+        "Can you pop a joint back into place?"
+      ]
+    },
+    {
+      "Parent Question": "what to do in case of a heart attack",
+      "Questions": [
+        "What to do in a heart attack?",
+        "How can I rule out a heart attack at home?",
+        "How do you stop a heart attack in progress?",
+        "What is the first aid treatment for a heart attack?"
+      ]
+      }
+    ]
   }
 ]
 
