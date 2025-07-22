@@ -22350,7 +22350,11 @@
         "Do and don'ts while travelling?",
         "What are the 10 travel constraints?",
         "How to save $100 or more when traveling?"
-     {
+     ]
+      }
+    ]
+  },
+  {
   "knowledge_base_name": "HOME_DECOR_KnowledgeBase",
   "data": [
     {
@@ -22648,11 +22652,12 @@
         "What is vintage decorating style?",
         "How can I decorate my new home?",
         "What is timeless home decor?"
-     ]
+      ]
       }
     ]
   }
 ]
+
 
 
 
