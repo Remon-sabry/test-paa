@@ -10061,7 +10061,183 @@
         "What is parenting duties?",
         "What are the 10 duties of a parent?",
         "How do you balance work and family responsibilities?"
-     ]
+      ]
+      }
+    ]
+  },
+  {
+  "knowledge_base_name": "Personal_Finance_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "budgeting tips for beginners",
+      "Questions": [
+        "How should a beginner budget?",
+        "What are budgeting tips?",
+        "What is the 50/30/20 rule of money?",
+        "What are the 5 basics to any budget?"
+      ]
+    },
+    {
+      "Parent Question": "how to save money fast",
+      "Questions": [
+        "How do I save a lot of money fast?",
+        "What is the 30 day rule?",
+        "How to save $1000 asap?",
+        "How to save money easily?"
+      ]
+    },
+    {
+      "Parent Question": "best personal finance apps",
+      "Questions": [
+        "What is the best app to manage your finances?",
+        "What is the #1 budgeting app?",
+        "What are the three types of personal finance?",
+        "Should I use a personal finance app?"
+      ]
+    },
+    {
+      "Parent Question": "debt repayment strategies",
+      "Questions": [
+        "What is a debt repayment strategy?",
+        "What are the 4 most common types of personal debt?",
+        "What are four ways to deal with debt?",
+        "Are there four options for dealing with debt?"
+      ]
+    },
+    {
+      "Parent Question": "creating a monthly budget",
+      "Questions": [
+        "How to create a monthly budget?",
+        "What are the 5 steps to creating a budget?",
+        "How do you draw up a monthly budget?",
+        "What are the first 5 things you should list in a budget?"
+      ]
+    },
+    {
+      "Parent Question": "emergency fund planning",
+      "Questions": [
+        "What are the 6 ways I can build my emergency fund?",
+        "What is emergency fund planning?",
+        "What is the 3 6 9 rule in finance?",
+        "What is a 6 month emergency fund?"
+      ]
+    },
+    {
+      "Parent Question": "frugal living tips",
+      "Questions": [
+        "How to be frugal like a millionaire?",
+        "How to live an extremely frugal life?",
+        "How can I live frugally?",
+        "What is a frugal habit?"
+      ]
+    },
+    {
+      "Parent Question": "passive income ideas",
+      "Questions": [
+        "How can I make $1000 a month passively?",
+        "What is the most profitable passive income?",
+        "How can I make $500 a month passive income?",
+        "How to make $100,000 in passive income?"
+      ]
+    },
+    {
+      "Parent Question": "how to build credit",
+      "Questions": [
+        "How can I build my credit easily?",
+        "What are the 5 C's of credit?",
+        "How do you build credit ability?",
+        "What builds credit most?"
+      ]
+    },
+    {
+      "Parent Question": "saving for retirement",
+      "Questions": [
+        "Is 10% enough to save for retirement?",
+        "What is the 10x rule for retirement?",
+        "Is 10% good for savings?",
+        "How much do the top 10% have in retirement?"
+      ]
+    },
+    {
+      "Parent Question": "best investment options",
+      "Questions": [
+        "Where can I get 10% interest on my money?",
+        "How can I get 10% return on my money?",
+        "How much is $1000 a month for 5 years?",
+        "How to get 12 percent return on investment?"
+      ]
+    },
+    {
+      "Parent Question": "grocery budgeting hacks",
+      "Questions": [
+        "What is the 5 4 3 2 1 grocery method?",
+        "How can I maximize my grocery budget?",
+        "What is the 6 to 1 grocery rule?",
+        "How to only spend $100 a month on groceries?"
+      ]
+    },
+    {
+      "Parent Question": "side hustle ideas",
+      "Questions": [
+        "What is the most profitable side hustle?",
+        "What side hustles can a 14-year-old do?",
+        "How can I make an extra $2000 a month?",
+        "How to make r300 a day?"
+      ]
+    },
+    {
+      "Parent Question": "how to track expenses",
+      "Questions": [
+        "How do you track your expenses?",
+        "What is the 50/20/30 rule?",
+        "How can I record my expenses?",
+        "How do I create an expense tracker?"
+      ]
+    },
+    {
+      "Parent Question": "money saving challenges",
+      "Questions": [
+        "What is the money saving challenge?",
+        "What is the 52-week rule?",
+        "What is the $100 in 30 days challenge?",
+        "How much do you save with the 52 envelope challenge?"
+      ]
+    },
+    {
+      "Parent Question": "tips for avoiding overspending",
+      "Questions": [
+        "What is the 50 30 20 rule?",
+        "How can I stop myself from overspending?",
+        "What is the 30 day rule?",
+        "How do I block spending?"
+      ]
+    },
+    {
+      "Parent Question": "managing student loans",
+      "Questions": [
+        "What is manageable student loan debt?",
+        "What age has the most student loan debt?",
+        "Is it possible to pay off $100,000 in student loans?",
+        "At what salary should I pay off a student loan in the UK?"
+      ]
+    },
+    {
+      "Parent Question": "credit card management tips",
+      "Questions": [
+        "What is the 20/10 rule for credit cards?",
+        "What is the 20% credit card rule?",
+        "What is the 2/3/4 rule for credit cards?",
+        "What are 5 tips for effective credit card use?"
+      ]
+    },
+    {
+      "Parent Question": "how to set financial goals",
+      "Questions": [
+        "How do you set financial goals?",
+        "What is the 50/30/20 rule in your financial plan?",
+        "How to financially plan in your 20s?",
+        "What is the 80 20 rule in financial planning?"
+      ]
       }
     ]
   }
