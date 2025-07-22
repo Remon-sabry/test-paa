@@ -10240,6 +10240,639 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "Pets_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "best cat food for indoor cats",
+      "Questions": [
+        "What is the healthiest food for an indoor cat?",
+        "What is the best food to feed a house cat?",
+        "What brand of cat food is healthiest?",
+        "What is the safest dry cat food for indoor cats?"
+      ]
+    },
+    {
+      "Parent Question": "best dog food for breed",
+      "Questions": [
+        "What dog food is best for breeding dogs?",
+        "What is the healthiest food to feed a dog?",
+        "What brand of dog food is considered the best?",
+        "What dog food is best for mixed breeds?"
+      ]
+    },
+    {
+      "Parent Question": "best litter boxes for cats",
+      "Questions": [
+        "What litter box do cats like the most?",
+        "What is best to use in a cat litter box?",
+        "What is the best kind of litter box to get?",
+        "Do cats prefer open or closed litter boxes?"
+      ]
+    },
+    {
+      "Parent Question": "best pet care routines",
+      "Questions": [
+        "What is proper pet care?",
+        "How should I take care of my pet?",
+        "What is the best pet to take care of?",
+        "How does pet care fit into your daily or weekly routine?"
+      ]
+    },
+    {
+      "Parent Question": "best supplements for dogs",
+      "Questions": [
+        "What supplements should dogs take?",
+        "What is the healthiest thing for dogs?",
+        "Is it good for dogs to take vitamins everyday?",
+        "Do supplements for itchy dogs work?"
+      ]
+    },
+    {
+      "Parent Question": "best toys for dogs with anxiety",
+      "Questions": [
+        "What is the best thing for an anxious dog?",
+        "Do stuffed animals help dogs with anxiety?",
+        "How do you break anxiety in a dog?",
+        "Do dog calming toys work?"
+      ]
+    },
+    {
+      "Parent Question": "cat care keywords",
+      "Questions": [
+        "What is the basic care for a cat?",
+        "What is cat terminology?",
+        "What is a short description for cats?",
+        "What is common care for cats?"
+      ]
+    },
+    {
+      "Parent Question": "diy dog grooming tips",
+      "Questions": [
+        "How to properly groom your dog at home?",
+        "What does FFF mean in dog grooming?",
+        "How do I start dog grooming at home?",
+        "What are the 7 steps of grooming a dog?"
+      ]
+    },
+    {
+      "Parent Question": "dog care keywords",
+      "Questions": [
+        "What is the word for taking care of dogs?",
+        "What is proper dog care?",
+        "What is the description of a doggy daycare?",
+        "What do you call care dogs?"
+      ]
+    },
+    {
+      "Parent Question": "essential pet supplies checklist",
+      "Questions": [
+        "What are the pet essentials?",
+        "What are pet supplies?"
+      ]
+    },
+    {
+      "Parent Question": "how to care for a kitten",
+      "Questions": [
+        "How to take care of kittens for beginners?",
+        "Where should kittens sleep at night?",
+        "What not to do with a new kitten?",
+        "How many hours should a kitten be left alone?"
+      ]
+    },
+    {
+      "Parent Question": "how to crate train a puppy",
+      "Questions": [
+        "How long can I leave my 8 week old puppy in a crate?",
+        "How to crate train a puppy fast?",
+        "Is it okay to let a puppy cry in a crate at night?",
+        "At what age should a puppy be crate trained?"
+      ]
+    },
+    {
+      "Parent Question": "how to exercise your dog indoors",
+      "Questions": [
+        "How to exercise a dog inside the house?",
+        "How do I exercise my dog without walking?",
+        "How do you tire out a dog inside?",
+        "Is 30 minutes enough exercise for a dog?"
+      ]
+    },
+    {
+      "Parent Question": "how to groom a long haired cat",
+      "Questions": [
+        "How do I groom my long-haired cat at home?",
+        "Is it OK to trim a long-haired cat?",
+        "What are the grooming requirements for long-haired cats?",
+        "What is a sanitary cut for a long-haired cat?"
+      ]
+    },
+    {
+      "Parent Question": "how to groom your pet at home",
+      "Questions": [
+        "What are the 7 steps of grooming a dog?",
+        "How do I start dog grooming at home?",
+        "How can I groom my dog's hair at home?",
+        "What does FFF mean in dog grooming?"
+      ]
+    },
+    {
+      "Parent Question": "how to introduce a new cat to your home",
+      "Questions": [
+        "How long will it take for a cat to get used to a new home?",
+        "What is the 3-3-3 rule for cats?",
+        "Where should a cat sleep on its first night?",
+        "What not to do when introducing cats?"
+      ]
+    },
+    {
+      "Parent Question": "how to stop a cat from scratching furniture",
+      "Questions": [
+        "How do I stop my cat from clawing my furniture?",
+        "How do you train a cat not to scratch furniture?",
+        "What smells deter cats from scratching furniture?",
+        "What is the best homemade spray to stop cats from scratching furniture?"
+      ]
+    },
+    {
+      "Parent Question": "how to stop a dog from barking",
+      "Questions": [
+        "How do you discipline a dog to stop barking?",
+        "How do you stop a dog barking at ASAP?",
+        "Can dogs be trained not to bark?",
+        "What is the 3 bark rule?"
+      ]
+    },
+    {
+      "Parent Question": "how to take care of a puppy",
+      "Questions": [
+        "How do you take care of a puppy for the first time?",
+        "Where should a puppy sleep the first night?",
+        "What not to do when taking care of a puppy?",
+        "Should I ignore a puppy crying at night?"
+      ]
+    },
+    {
+      "Parent Question": "how to train a puppy not to bite",
+      "Questions": [
+        "How do you discipline a puppy who is biting?",
+        "What can I do to stop my puppy biting me?",
+        "At what age should puppy be trained not to bite?",
+        "How do I get my puppy out of the biting stage?"
+      ]
+    },
+    {
+      "Parent Question": "pet care tips for beginners",
+      "Questions": [
+        "What are some basic tips for caring a pet?",
+        "What is basic pet care?",
+        "How do beginners take care of their dogs?",
+        "What is proper pet care?"
+      ]
+    },
+    {
+      "Parent Question": "signs of a happy and healthy cat",
+      "Questions": [
+        "How to tell if a cat is healthy and happy?",
+        "How does a healthy cat behave?",
+        "How should a healthy cat feel?",
+        "How do I know if my cat has quality of life?"
+      ]
+    },
+    {
+      "Parent Question": "common gastrointestinal issues in pets and how to treat them",
+      "Questions": [
+        "How do you treat gastrointestinal disease in dogs?",
+        "How can gastrointestinal problems be treated?",
+        "How do you treat gastrointestinal problems in cats?",
+        "How can I treat my dog's gastroenteritis at home?"
+      ]
+    },
+    {
+      "Parent Question": "common signs your pet might be sick",
+      "Questions": [
+        "How do you know if your pet is suffering?",
+        "How to tell if your dog is unwell?",
+        "How do dogs act when they get sick?",
+        "Which signs can indicate an animal is in poor health?"
+      ]
+    },
+    {
+      "Parent Question": "how to brush your pet's teeth and maintain oral health",
+      "Questions": [
+        "How to brush your pet's teeth?",
+        "What do animals do to brush to have healthy teeth?",
+        "How to brush a cat's teeth?",
+        "How do I keep my dog's mouth open when brushing?"
+      ]
+    },
+    {
+      "Parent Question": "how to care for a pet with kidney disease",
+      "Questions": [
+        "How to care for a dog with chronic kidney failure?",
+        "How long do pets live with kidney disease?",
+        "What foods should dogs with kidney disease avoid?",
+        "Is omega-3 good for dogs with kidney disease?"
+      ]
+    },
+    {
+      "Parent Question": "how to care for a senior pet's health needs",
+      "Questions": [
+        "How to care for a senior cat?",
+        "How do I keep my dog healthy in old age?",
+        "What do senior dogs need more of?",
+        "What is geriatric pet care?"
+      ]
+    },
+    {
+      "Parent Question": "how to care for pets with allergies or food sensitivities",
+      "Questions": [
+        "How do you build immunity to pet allergies?",
+        "How to live with pets if you're allergic?",
+        "How can we help animals with allergies?",
+        "What foods help with pet allergies?"
+      ]
+    },
+    {
+      "Parent Question": "how to choose the best veterinarian for your pet",
+      "Questions": [
+        "How do I choose a good vet?",
+        "What vet should I use?",
+        "What makes a good vet?",
+        "How do I choose the best pet?"
+      ]
+    },
+    {
+      "Parent Question": "how to create a pet first aid kit",
+      "Questions": [
+        "What should be in a pet first aid kit?",
+        "How do you make a homemade first aid kit?",
+        "How to make a first aid kit for cats?",
+        "How to make a dog kit?"
+      ]
+    },
+    {
+      "Parent Question": "how to detect and treat pet dehydration",
+      "Questions": [
+        "What is the best way to determine if your pet is dehydrated?",
+        "What test confirms dehydration?",
+        "How do vets treat dehydration?",
+        "How do you treat dehydration in animals?"
+      ]
+    },
+    {
+      "Parent Question": "how to handle a pet with a sensitive stomach",
+      "Questions": [
+        "How do you treat a dog with a sensitive stomach?",
+        "How do you help a cat with a sensitive stomach?",
+        "How do you live with a sensitive stomach?",
+        "What are the signs of a sensitive stomach in dogs?"
+      ]
+    },
+    {
+      "Parent Question": "how to handle behavioral changes that signal health issues",
+      "Questions": [
+        "How do you handle challenging behavior in mental health?",
+        "What is the behavior change approach to health?",
+        "How do you overcome health compromising behavior?",
+        "What are the interventions for behavioral change?"
+      ]
+    },
+    {
+      "Parent Question": "how to handle pet emergencies and when to seek urgent care",
+      "Questions": [
+        "What to do if your animal is having an emergency?",
+        "At what point should I take my dog to the emergency vet?",
+        "What should you do if an animal is in an emergency situation such as a serious injury or it is gravely ill?",
+        "What if my dog has an emergency and I have no money?"
+      ]
+    },
+    {
+      "Parent Question": "how to help a pet with mobility issues",
+      "Questions": [
+        "How can I help my dog with mobility?",
+        "How to deal with the guilt of surrendering a pet?",
+        "How do you assist a pet that is unable to rise and walk?",
+        "How to deal with a pet's terminal illness?"
+      ]
+    },
+    {
+      "Parent Question": "how to introduce supplements into your pet's diet",
+      "Questions": [
+        "What supplements do I need to add to my dogs food?",
+        "How do I get my cat to eat supplements?",
+        "Should I be adding supplements to my dog's food?",
+        "Should I put supplements in my homemade dog food?"
+      ]
+    },
+    {
+      "Parent Question": "how to manage stress and anxiety in pets",
+      "Questions": [
+        "How do pets reduce stress and anxiety?",
+        "How can you manage stress and anxiety?",
+        "How do you treat stress in animals?",
+        "How to stop a dog from being anxious?"
+      ]
+    },
+    {
+      "Parent Question": "how to prepare for pet surgery and post op care",
+      "Questions": [
+        "How to prep an animal for surgery?",
+        "How do I prepare for post surgery?",
+        "How do I prepare my dog for surgery?",
+        "How do I care for my dog after surgery?"
+      ]
+    },
+    {
+      "Parent Question": "how to prevent and treat ear infections in pets",
+      "Questions": [
+        "What is the best way to prevent ear infections in dogs?",
+        "How do you prevent ear infections?",
+        "How can ear infections be reduced or prevented?",
+        "How do you prevent ear infections in cats?"
+      ]
+    },
+    {
+      "Parent Question": "how to prevent and treat fleas and ticks",
+      "Questions": [
+        "What is the best way to prevent fleas and ticks?",
+        "How do you prevent and treat fleas?",
+        "What is the safest flea and tick prevention?",
+        "What kills fleas and ticks naturally?"
+      ]
+    },
+    {
+      "Parent Question": "how to properly clean your pet's ears",
+      "Questions": [
+        "What is the best way to clean pet ears?",
+        "What is the black stuff in my dog's ears?",
+        "Should I clean the gunk out of my dog's ears?",
+        "How to clean ears properly?"
+      ]
+    },
+    {
+      "Parent Question": "how to recognize and treat heatstroke in pets",
+      "Questions": [
+        "How do you treat heat stroke in pets?",
+        "How do you identify and treat heat stroke?",
+        "How do I know if my dog has heatstroke?",
+        "How do you first recognize heat stroke by signs?"
+      ]
+    },
+    {
+      "Parent Question": "how to recognize and treat pet allergies",
+      "Questions": [
+        "How do I know if I am allergic to my pet?",
+        "What is the best treatment for pet allergies?",
+        "How do you get rid of pet allergy symptoms?",
+        "How to tell the difference between pet allergies and seasonal allergies?"
+      ]
+    },
+    {
+      "Parent Question": "how to recognize and treat respiratory issues in pets",
+      "Questions": [
+        "How do I know if my dog is having respiratory problems?",
+        "What are 5 signs of respiratory distress?",
+        "How do you treat respiratory problems in dogs?",
+        "What steps are taken to check an animal's respiratory rate?"
+      ]
+    },
+    {
+      "Parent Question": "how to recognize and treat urinary tract infections in pets",
+      "Questions": [
+        "How does a vet confirm a UTI?",
+        "How to tell if a dog has an urinary tract infection?",
+        "How do you treat a urinary tract infection in animals?",
+        "What confirms diagnosis of UTI?"
+      ]
+    },
+    {
+      "Parent Question": "how to recognize symptoms of diabetes in pets",
+      "Questions": [
+        "What is generally the first symptom of diabetes in animals?",
+        "How can I tell if my dog has diabetes?",
+        "How do I tell if my cat has diabetes?",
+        "How can I check my dog for diabetes at home?"
+      ]
+    },
+    {
+      "Parent Question": "how to safely administer medication to your pet",
+      "Questions": [
+        "How to administer medication to a dog?",
+        "What are the three main ways to administer medicine to an animal?",
+        "How do you administer medication safely?",
+        "How do you administer oral medication to animals?"
+      ]
+    },
+    {
+      "Parent Question": "how to spot signs of arthritis in pets",
+      "Questions": [
+        "How can I tell if my dog is getting arthritis?",
+        "How is arthritis diagnosed in animals?",
+        "How can a vet tell if a cat has arthritis?",
+        "How can I confirm I have arthritis?"
+      ]
+    },
+    {
+      "Parent Question": "natural remedies for common pet ailments",
+      "Questions": [
+        "How to cure a sick dog at home naturally?",
+        "What is a natural anti-sickness for dogs?",
+        "What are natural antiseptics for dogs?",
+        "What natural remedies can I give my dog?"
+      ]
+    },
+    {
+      "Parent Question": "signs your pet may have heart disease",
+      "Questions": [
+        "What are the signs of heart disease in dogs?",
+        "How do vets check for heart disease?",
+        "How can I prevent my dog from getting heart disease?",
+        "Can a dog live with heart disease?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits of probiotics for pets",
+      "Questions": [
+        "Are probiotics good for pets?",
+        "What do probiotics do for animals?",
+        "What are the benefits of taking a probiotic?",
+        "How long does it take for pet probiotics to work?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits of spaying and neutering your pet",
+      "Questions": [
+        "How does spaying and neutering save lives?",
+        "What happens if you don't spay or neuter your dog?",
+        "What are the pros and cons of neutering a male dog?",
+        "Is neutering important for dogs?"
+      ]
+    },
+    {
+      "Parent Question": "the best diet for optimal pet health",
+      "Questions": [
+        "What is the best food to feed your pet?",
+        "What is the optimum diet for a dog?",
+        "What is optimal dog nutrition?",
+        "What is a balanced diet for animals?"
+      ]
+    },
+    {
+      "Parent Question": "the best ways to help a pet recover from an injury",
+      "Questions": [
+        "How do you treat pet injuries?",
+        "How to help a dog recover?",
+        "How to help an injured dog?",
+        "How to help a pet when another pet dies?"
+      ]
+    },
+    {
+      "Parent Question": "the best ways to keep your pet's coat healthy and shiny",
+      "Questions": [
+        "How do I keep my dog's coat shiny and healthy?",
+        "What food makes dogs' coats shiny?",
+        "What to give your dog for a healthy coat?",
+        "Is a shiny coat on a dog good?"
+      ]
+    },
+    {
+      "Parent Question": "the dangers of obesity in pets and how to prevent it",
+      "Questions": [
+        "How can we prevent obesity in animals?",
+        "What is obesity and how can it be prevented?",
+        "What are the dangers of obesity in dogs?",
+        "Why is obesity bad in animals?"
+      ]
+    },
+    {
+      "Parent Question": "the dangers of over the counter medications for pets",
+      "Questions": [
+        "What over the counter medicine is bad for dogs?",
+        "What medications are toxic to pets?",
+        "What OTC pain meds are safe for dogs?",
+        "Are pet medications safe for humans?"
+      ]
+    },
+    {
+      "Parent Question": "the dangers of toxic foods for pets",
+      "Questions": [
+        "What is the toxin in pet food?",
+        "What can be toxic to pets?",
+        "What are 13 human foods toxic to dogs?",
+        "Is pet food harmful to humans?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of a balanced diet for pet longevity",
+      "Questions": [
+        "Why do pets need a balanced diet?",
+        "How important is diet in longevity?",
+        "Why is it important for animals to have a balanced diet?",
+        "Why is it important to have proper nutrition across the lifespan?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of exercise in maintaining pet health",
+      "Questions": [
+        "Why is exercise important in maintaining good health?",
+        "What are the benefits of keeping pets physically active?",
+        "Why do animals need exercise?",
+        "Why is it important to keep your pet healthy?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of hydration in pet health",
+      "Questions": [
+        "Why is hydration important for pets?",
+        "Why is hydration important?",
+        "What is the importance of hydration in cats?",
+        "How to hydrate a pet?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of mental stimulation for pet health",
+      "Questions": [
+        "Why is mental stimulation important for pets?",
+        "What is the benefit of pets for mental health?",
+        "Why is mental stimulation important?",
+        "What happens if a dog isn't mentally stimulated?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of parasite prevention for pets",
+      "Questions": [
+        "Why is it important to control parasites in pets?",
+        "What is the importance of animal parasites?",
+        "Why is it important to protect and study parasites?",
+        "What is dog parasite prevention?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of pet vaccinations and schedules",
+      "Questions": [
+        "What are the most important vaccines for pets?",
+        "What is the importance of vaccination?",
+        "What is the objective of dog vaccination?",
+        "How often should a pet be vaccinated?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of regular vet check ups for pets",
+      "Questions": [
+        "What does a regular vet do?",
+        "What does a vet check mean?",
+        "How often should a pet receive a physical examination?",
+        "How often should a dog be checked by a vet?"
+      ]
+    },
+    {
+      "Parent Question": "the role of holistic medicine in pet care",
+      "Questions": [
+        "What is the holistic approach to pet care?",
+        "What is the role of holistic medicine?",
+        "What is holistic veterinary care?",
+        "Does holistic medicine work for dogs?"
+      ]
+    },
+    {
+      "Parent Question": "tips for keeping pets healthy during seasonal changes",
+      "Questions": [
+        "How do you take care of pets in the winter?",
+        "How can you keep your pet healthy?",
+        "What are the seasonal changes in dogs?",
+        "Does change of season affect dogs?"
+      ]
+    },
+    {
+      "Parent Question": "understanding different types of pet pain management",
+      "Questions": [
+        "What are the different types of dog pain?",
+        "What are the types of pain management?",
+        "How do you explain different types of pain?",
+        "What are the classification of pain and treatment?"
+      ]
+    },
+    {
+      "Parent Question": "understanding pet insurance and whether it's worth it",
+      "Questions": [
+        "Is it worth making a pet insurance claim?",
+        "What is a disadvantage of pet insurance?",
+        "Which level of pet insurance is the best?",
+        "When should you get pet insurance?"
+      ]
+    },
+    {
+      "Parent Question": "why annual blood tests are important for pets",
+      "Questions": [
+        "Why does my pet need bloodwork?",
+        "Why do I need an annual blood test?",
+        "Is annual blood work necessary for cats?",
+        "Does my dog need annual blood work?"
+      ]
+      }
+    ]
   }
 ]
 
