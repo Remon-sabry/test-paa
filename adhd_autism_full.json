@@ -21939,11 +21939,269 @@
         "How to make $100,000 in passive income?",
         "How can I make $2000 a month in passive income?",
         "How can I make $500 a month passive income?"
-     ]
+      ]
+      }
+    ]
+  },
+  {
+  "knowledge_base_name": "BEAUTY_OF_WOMAN_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "beauty hacks using essential oils",
+      "Questions": [
+        "What is the 30/50/20 rule for essential oils?",
+        "What is the best way to use essential oils on your skin?",
+        "Which essential oil is like Botox?",
+        "What is the best thing to mix essential oils with?"
+      ]
+    },
+    {
+      "Parent Question": "beauty tips for brides and special events",
+      "Questions": [
+        "How to be a beautiful bride?",
+        "How to be a glowing bride?",
+        "How to look beautiful in a wedding?",
+        "What should I do the beauty routine 2 weeks before my wedding?"
+      ]
+    },
+    {
+      "Parent Question": "beauty tips for mature skin",
+      "Questions": [
+        "How can I make my mature skin look better?",
+        "How can I make my 60 year old eyes look younger?",
+        "How to apply make up on mature skin?",
+        "How to get glowing skin at 60 with makeup?"
+      ]
+    },
+    {
+      "Parent Question": "hair care tips for healthy shiny hair",
+      "Questions": [
+        "How do I make my hair healthy and shiny?",
+        "What can I put on my hair to make it glossy?",
+        "How do Koreans get silky hair?",
+        "What is the best hair treatment for shine?"
+      ]
+    },
+    {
+      "Parent Question": "hair styling tips for every occasion",
+      "Questions": [
+        "How do you style your hair regularly?",
+        "How do you style your hair for an event?",
+        "How to make your hair look perfect every day?",
+        "Which hairstyle is best for everyday?"
+      ]
+    },
+    {
+      "Parent Question": "how to achieve a natural makeup look",
+      "Questions": [
+        "How to make your makeup look natural?",
+        "How to ask for natural makeup?",
+        "How to get flawless natural makeup?",
+        "What is considered a natural makeup look?"
+      ]
+    },
+    {
+      "Parent Question": "how to achieve perfect eyebrows",
+      "Questions": [
+        "How do you get perfect eyebrows?",
+        "How do you get perfectly even eyebrows?",
+        "How do you get fully eyebrows?",
+        "How to get attractive eyebrows naturally?"
+      ]
+    },
+    {
+      "Parent Question": "how to brighten dull skin",
+      "Questions": [
+        "How can I make my dull skin brighter?",
+        "How do you fix dark, dull skin?",
+        "Why does my skin look so dull?",
+        "How can I even out my dull skin?"
+      ]
+    },
+    {
+      "Parent Question": "how to care for curly hair",
+      "Questions": [
+        "How do I maintain my curly hair?",
+        "Do and don'ts of curly hair?",
+        "How can I enhance my natural curls?",
+        "What is a curly hair routine?"
+      ]
+    },
+    {
+      "Parent Question": "how to choose the right skincare products",
+      "Questions": [
+        "How do I find the right skin care for me?",
+        "How do I know which product is best for my skin?",
+        "What are the 5 basic of skin care with products?",
+        "What are the 3 most important skin care products?"
+      ]
+    },
+    {
+      "Parent Question": "how to contour your face like a pro",
+      "Questions": [
+        "How do I contour my face for beginners?",
+        "Do you contour before or after foundation?",
+        "How to get a contoured face naturally?",
+        "Can contour change your face shape?"
+      ]
+    },
+    {
+      "Parent Question": "how to create a glowing makeup look",
+      "Questions": [
+        "How do I make my makeup look glowy?",
+        "How to create a dewy makeup look?",
+        "What can I add to my foundation to make it glow?",
+        "What do celebrities use on their skin to make it glow?"
+      ]
+    },
+    {
+      "Parent Question": "how to deal with oily or dry skin",
+      "Questions": [
+        "How to deal with oily and dry skin?",
+        "How do I know if my skin is dry or oily?",
+        "Is it possible to have both oily and dry skin?",
+        "How do you deal with oily skin?"
+      ]
+    },
+    {
+      "Parent Question": "how to enhance your natural beauty",
+      "Questions": [
+        "How can I be prettier naturally?",
+        "How do you enhance natural beauty?",
+        "How to improve the beauty of your face naturally?",
+        "How can I make my nature beautiful?"
+      ]
+    },
+    {
+      "Parent Question": "how to get healthy strong nails",
+      "Questions": [
+        "How do I make my nail strong?",
+        "Are bare nails healthier?",
+        "What makes weak nails stronger?",
+        "What builds stronger nails?"
+      ]
+    },
+    {
+      "Parent Question": "how to get rid of acne scars",
+      "Questions": [
+        "How do you get rid of acne scars fast?",
+        "Can I remove acne scars naturally?",
+        "Do acne scars ever go away?",
+        "Can you 100% remove acne scars?"
+      ]
+    },
+    {
+      "Parent Question": "how to get the perfect red lip",
+      "Questions": [
+        "How to achieve perfect red lips?",
+        "How to find the perfect red lip color?",
+        "How to get pure red lips?",
+        "Is a red lip attractive?"
+      ]
+    },
+    {
+      "Parent Question": "how to keep your skin hydrated",
+      "Questions": [
+        "How can I hydrate my skin naturally?",
+        "What hydrates skin the most?",
+        "How do I hydrate my skin more?",
+        "How can I hydrate my skin overnight?"
+      ]
+    },
+    {
+      "Parent Question": "how to make your eyes pop with makeup",
+      "Questions": [
+        "How can I make my eyes look attractive with makeup?",
+        "How do I get my eyes to pop?",
+        "How can I make my eyes pop naturally?",
+        "How to make your eyes pop up?"
+      ]
+    },
+    {
+      "Parent Question": "how to protect your skin from the sun",
+      "Questions": [
+        "How can I protect my skin from the sun naturally?",
+        "What are 5 ways to protect yourself from the sun?",
+        "How to prevent skin damage from sun?",
+        "What is the best skin protection from sun?"
+      ]
+    },
+    {
+      "Parent Question": "how to remove makeup properly",
+      "Questions": [
+        "What is the best way to remove makeup?",
+        "What is the healthiest way to take off makeup?",
+        "How to properly take foundation off?",
+        "How to properly clean your face after makeup?"
+      ]
+    },
+    {
+      "Parent Question": "makeup tips for a flawless look",
+      "Questions": [
+        "How do I make my makeup look flawless?",
+        "How do I make my makeup look perfect?",
+        "How can I make my face flawless?",
+        "How can I look flawless?"
+      ]
+    },
+    {
+      "Parent Question": "natural beauty remedies for skin",
+      "Questions": [
+        "How can I beautify my skin naturally?",
+        "How can I treat my skin naturally at home?",
+        "How can I glow in 7 days naturally?",
+        "How can I repair my skin naturally at home?"
+      ]
+    },
+    {
+      "Parent Question": "nail care and manicure tips",
+      "Questions": [
+        "How to take care of your manicure?",
+        "What are the 10 steps in basic manicure?",
+        "How do you maintain nail tips?",
+        "What is the most important thing in doing nail care?"
+      ]
+    },
+    {
+      "Parent Question": "skincare tips for glowing skin",
+      "Questions": [
+        "What is a good skin care routine for glowing skin?",
+        "How can I increase my skin glow naturally?",
+        "How to get 100% clear skin?",
+        "Which skincare is best for glowing skin?"
+      ]
+    },
+    {
+      "Parent Question": "the best beauty tips for glowing youthful skin",
+      "Questions": [
+        "How do I make my skin glow and look younger?",
+        "How can I make my aging skin glow?",
+        "How to get 100% clear skin?",
+        "How can I increase my skin glow naturally?"
+      ]
+    },
+    {
+      "Parent Question": "the best facial masks for different skin types",
+      "Questions": [
+        "What type of face mask is best for my skin type?",
+        "What is the most effective face mask to buy?",
+        "Is clay mask good for all skin types?",
+        "Which sheet mask is best for all skin?"
+      ]
+    },
+    {
+      "Parent Question": "tips for reducing dark circles and puffiness",
+      "Questions": [
+        "How do you get rid of puffy eyes and dark circles fast?",
+        "Can you reverse eye bags and dark circles?",
+        "How to gain fat under eyes naturally?",
+        "What causes puffy eyes and dark circles?"
+      ]
       }
     ]
   }
 ]
+
 
 
 
