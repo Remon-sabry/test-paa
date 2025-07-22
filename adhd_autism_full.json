@@ -11777,7 +11777,480 @@
         "How can I rule out a heart attack at home?",
         "How do you stop a heart attack in progress?",
         "What is the first aid treatment for a heart attack?"
+     ]
+      }
+    ]
+  },
+  {
+  "knowledge_base_name": "Stock_Trading_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "how to analyze earnings reports for trading decisions",
+      "Questions": [
+        "How to trade on earnings reports?",
+        "How to read the earnings report of a company?",
+        "Should I buy stock before or after an earnings report?",
+        "How to analyse quality of earnings?"
       ]
+    },
+    {
+      "Parent Question": "how to analyze market sentiment for trading decisions",
+      "Questions": [
+        "How to do sentiment analysis in trading?",
+        "How do you analyze market sentiment?",
+        "How to do market analysis for trading?",
+        "How do you analyze a market before trading?"
+      ]
+    },
+    {
+      "Parent Question": "how to avoid common stock trading mistakes",
+      "Questions": [
+        "How to avoid a common investment mistake?",
+        "What is the 90% rule in trading?",
+        "How to overcome trading mistakes?",
+        "What is the 3-5-7 rule in trading?"
+      ]
+    },
+    {
+      "Parent Question": "how to calculate risk to reward ratios in trading",
+      "Questions": [
+        "What is the 2% risk rule in day trading?",
+        "What is the formula for calculating risk in trading?",
+        "How do you calculate the risk ratio?",
+        "What is the risk to reward ratio of 1 to 5?"
+      ]
+    },
+    {
+      "Parent Question": "how to choose the right broker for stock trading",
+      "Questions": [
+        "How do I choose the right broker?",
+        "Which broker is best for stocks?",
+        "How do I choose my broker?",
+        "Which trading broker is best for beginners?"
+      ]
+    },
+    {
+      "Parent Question": "how to create a stock trading plan",
+      "Questions": [
+        "What is the 5-3-1 rule in trading?",
+        "What is the 3-5-7 rule in trading?",
+        "What should a trading plan look like?",
+        "How do you create a trading program?"
+      ]
+    },
+    {
+      "Parent Question": "how to develop a winning trading strategy",
+      "Questions": [
+        "How to develop a profitable trading strategy?",
+        "What is the 90% rule in trading?",
+        "What is the 5-3-1 rule in trading?",
+        "What is the 3-5-7 rule in trading?"
+      ]
+    },
+    {
+      "Parent Question": "how to get started with stock market trading",
+      "Questions": [
+        "How do beginners start trading stocks?",
+        "Can you trade stocks with $100?",
+        "How can I teach myself to trade?",
+        "How should a beginner start day trading?"
+      ]
+    },
+    {
+      "Parent Question": "how to identify and trade gaps in the stock market",
+      "Questions": [
+        "How to identify gap-up stocks?",
+        "How do companies identify gaps in market?",
+        "What are the 4 types of gaps?",
+        "How to predict market gap-up or down?"
+      ]
+    },
+    {
+      "Parent Question": "how to identify support and resistance levels",
+      "Questions": [
+        "How do you find the correct support and resistance level?",
+        "How to identify the support level?",
+        "What is the best indicator for support and resistance?",
+        "How do you identify support and resistance breakouts?"
+      ]
+    },
+    {
+      "Parent Question": "how to identify undervalued stocks for trading",
+      "Questions": [
+        "How to identify an undervalued stock?",
+        "How to check if stock is overvalued or undervalued?",
+        "How does Warren Buffett find undervalued stocks?",
+        "What stocks are currently undervalued?"
+      ]
+    },
+    {
+      "Parent Question": "how to manage emotions while trading stocks",
+      "Questions": [
+        "How to control your emotions when trading?",
+        "How to remain calm while trading?",
+        "How do I stop overthinking in trading?",
+        "How can you control emotions in investing?"
+      ]
+    },
+    {
+      "Parent Question": "how to read stock charts like a pro",
+      "Questions": [
+        "What is the best way to read stock charts?",
+        "How to read charts for trading like a pro?",
+        "What is the 10 am rule in Stocks?",
+        "What is the most successful chart pattern?"
+      ]
+    },
+    {
+      "Parent Question": "how to set realistic profit targets in trading",
+      "Questions": [
+        "How to set profit target in trading?",
+        "What is the 90% rule in trading?",
+        "What are realistic profit targets for a successful trader?",
+        "What is the 3-5-7 rule in trading?"
+      ]
+    },
+    {
+      "Parent Question": "how to spot and trade trend reversals",
+      "Questions": [
+        "How do you spot reversals in trading?",
+        "What is the best trading indicator for reversals?",
+        "How to trade reversal patterns?",
+        "How to reverse a trend?"
+      ]
+    },
+    {
+      "Parent Question": "how to spot bullish and bearish engulfing patterns",
+      "Questions": [
+        "How to identify a bullish engulfing pattern?",
+        "How do you identify bearish engulfing pattern?",
+        "How to identify bullish and bearish candlesticks?",
+        "What is the 3 candle rule?"
+      ]
+    },
+    {
+      "Parent Question": "how to spot market trends and ride them",
+      "Questions": [
+        "How to identify the market trend?",
+        "How do you predict market trends?",
+        "How to calculate market trend?",
+        "How to ride a trend in forex?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade breakouts effectively",
+      "Questions": [
+        "What is the best way to trade breakouts?",
+        "Is breakout trading profitable?",
+        "How to predict a breakout in trading?",
+        "How to trade the breakout like a pro?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade high growth tech stocks",
+      "Questions": [
+        "What is the 7% rule in stocks?",
+        "How to invest in growth stocks?",
+        "What are the three fastest growing tech stocks?",
+        "What are best tech stocks to buy?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade ipos initial public offerings",
+      "Questions": [
+        "How do I buy initial public offering?",
+        "How are IPOs traded?",
+        "Where are initial public offerings IPOs initially traded?",
+        "Where can I trade IPOs?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade penny stocks safely",
+      "Questions": [
+        "What is the $5 stock rule?",
+        "How can I trade penny stocks?",
+        "What is the 3-5-7 rule in trading?",
+        "What is the best $1 stock to buy?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade stocks during earnings season",
+      "Questions": [
+        "How to trade during earnings season?",
+        "Should you trade during earnings?",
+        "Do stocks go up during earnings season?",
+        "How to trade options during earnings?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade stocks in a bear market",
+      "Questions": [
+        "What is the best strategy in a bear market?",
+        "Is it good to buy stocks in a bear market?",
+        "How to trade options in a bear market?",
+        "What stocks do best in bear market?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade stocks using moving averages",
+      "Questions": [
+        "How do you use moving averages in stock trading?",
+        "What is the best trading strategy using moving averages?",
+        "Is moving average good for trading?",
+        "How to use 20/50/200 ema?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade stocks using rsi relative strength index",
+      "Questions": [
+        "How to buy stock using RSI?",
+        "Can you trade based on RSI?",
+        "What is the best strategy for RSI trading?",
+        "What is the 60-60-50 RSI strategy?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade using etfs exchange traded funds",
+      "Questions": [
+        "How do you trade ETF funds?",
+        "What is the 3:5-10 rule for ETF?",
+        "How do I make money from ETFs?",
+        "How do exchange traded funds ETFs work?"
+      ]
+    },
+    {
+      "Parent Question": "how to trade using macd moving average convergence divergence",
+      "Questions": [
+        "How to use moving average convergence divergence MACD?",
+        "What is the best MACD setting for divergence?",
+        "What is the best way to trade with MACD?",
+        "What is the MACD 12-26-9 strategy?"
+      ]
+    },
+    {
+      "Parent Question": "how to use bollinger bands in stock trading",
+      "Questions": [
+        "How to use Bollinger Bands for trading?",
+        "What is the best indicator to use with Bollinger Bands?",
+        "Do professional traders use Bollinger Bands?",
+        "How to predict with Bollinger Bands?"
+      ]
+    },
+    {
+      "Parent Question": "how to use fibonacci retracement in stock trading",
+      "Questions": [
+        "How to use Fibonacci retracement in stocks?",
+        "How is Fibonacci used in the stock market?",
+        "Why is 61.8 a golden ratio?",
+        "What is 0.618 in trading?"
+      ]
+    },
+    {
+      "Parent Question": "how to use options in stock market trading",
+      "Questions": [
+        "How do you trade options in the stock market?",
+        "Can I trade options with $100?",
+        "How do options work for beginners?",
+        "How do you use stock options?"
+      ]
+    },
+    {
+      "Parent Question": "swing trading vs day trading which is right for you",
+      "Questions": [
+        "Is it better to be a day trader or swing trader?",
+        "Which type of trading is most profitable?",
+        "Does swing trading beat the market?",
+        "Which is better swing or intraday trading?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits and risks of margin trading",
+      "Questions": [
+        "What are the risks of margin trading?",
+        "What are the benefits of margin trading?",
+        "What are the risks associated with using the margin strategy?",
+        "What is the margin benefit?"
+      ]
+    },
+    {
+      "Parent Question": "the best books for learning stock market trading",
+      "Questions": [
+        "Which book is best for stock market trading for beginners?",
+        "What is the best book to learn how to trade stocks?",
+        "What is the best source to learn stock market?",
+        "Which trading is best for beginners in the stock market?"
+      ]
+    },
+    {
+      "Parent Question": "the best free tools for stock market analysis",
+      "Questions": [
+        "What is the best free website for stock analysis?",
+        "What is the best free stock chart tool?",
+        "What is the best tool to analyse stocks?",
+        "What is the most accurate free stock predictor?"
+      ]
+    },
+    {
+      "Parent Question": "the best stock market apps for trading on the go",
+      "Questions": [
+        "What is the best trading app to use?",
+        "Who is best stock market app?",
+        "What is the best free stock trading platform?",
+        "What platform do most day traders use?"
+      ]
+    },
+    {
+      "Parent Question": "the best strategies for trading in a volatile market",
+      "Questions": [
+        "Which strategy is best for a volatile market?",
+        "What is the best option strategy for high volatility?",
+        "Which indicator is best for volatile market?",
+        "What is the best way to deal with volatility?"
+      ]
+    },
+    {
+      "Parent Question": "the best technical indicators for trading stocks",
+      "Questions": [
+        "What is the most accurate technical indicator for stocks?",
+        "Which indicator is best for the stock market?",
+        "What is the most accurate leading indicator?",
+        "What are the best technical indicators for day trading?"
+      ]
+    },
+    {
+      "Parent Question": "the best time frames for day trading stocks",
+      "Questions": [
+        "Which timeframe is best for day traders?",
+        "What is the 10am rule in stocks?",
+        "What is the best time indicator for day trading?",
+        "Is a 15 minute time frame good for trading?"
+      ]
+    },
+    {
+      "Parent Question": "the difference between trading and investing",
+      "Questions": [
+        "Which is better investing or trading?",
+        "Is it better to be an investor or trader?",
+        "Is trading also investing?",
+        "What is the difference between day trading and investing?"
+      ]
+    },
+    {
+      "Parent Question": "the impact of interest rates on stock prices",
+      "Questions": [
+        "Do stocks go up when interest rates go down?",
+        "What stocks do well when interest rates rise?",
+        "Why do rising interest rates generally depress stock prices?",
+        "What happens if interest rates increase?"
+      ]
+    },
+    {
+      "Parent Question": "the impact of market news on stock trading",
+      "Questions": [
+        "How does the news affect the stock market?",
+        "What is the market impact in trading?",
+        "Does news affect indices?",
+        "How does good or bad news affect the price of stocks?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of backtesting trading strategies",
+      "Questions": [
+        "Why is backtesting important in trading?",
+        "What is the power of backtesting?",
+        "What is the function of backtesting?",
+        "What is the 5-3-1 trading strategy?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of diversification in stock trading",
+      "Questions": [
+        "Why is diversification important in the stock market?",
+        "Why is diversity important in stocks?",
+        "Why is diversification strategy important?",
+        "What are the objectives of diversification in trading?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of setting stop loss and take profit levels",
+      "Questions": [
+        "Why is stop-loss and take-profit important?",
+        "What is the stop-loss take-profit level?",
+        "What is the importance of stop-loss?",
+        "What is the best stop-loss and take-profit ratio?"
+      ]
+    },
+    {
+      "Parent Question": "the role of candlestick patterns in trading",
+      "Questions": [
+        "Why are candlestick patterns important?",
+        "What do candlesticks tell you for trading?",
+        "What is the purpose of a candlestick?",
+        "Does trading candlestick patterns work?"
+      ]
+    },
+    {
+      "Parent Question": "the role of dividend stocks in a trading portfolio",
+      "Questions": [
+        "How much of your portfolio should be in dividend stocks?",
+        "What is the point of dividend stocks?",
+        "What role do stocks play in a portfolio?",
+        "What is the 25 rule for dividends?"
+      ]
+    },
+    {
+      "Parent Question": "the role of fundamental analysis in stock trading",
+      "Questions": [
+        "What is fundamental analysis in stock market analysis?",
+        "What is the main purpose of fundamental analysis?",
+        "Can I trade without fundamental analysis?",
+        "What is the role of fundamental analysis and technical analysis in share valuation?"
+      ]
+    },
+    {
+      "Parent Question": "the role of leverage in stock market trading",
+      "Questions": [
+        "How much is $100 with 10x leverage?",
+        "Why is leverage important in trading?",
+        "What does 20x leverage mean in trading?",
+        "What is a good leverage for stock trading?"
+      ]
+    },
+    {
+      "Parent Question": "the role of psychology in successful trading",
+      "Questions": [
+        "What is the role of psychology in trading?",
+        "What is the psychology of successful traders?",
+        "How much psychology is important in trading?",
+        "What is psychological support in trading?"
+      ]
+    },
+    {
+      "Parent Question": "the role of volume in stock trading decisions",
+      "Questions": [
+        "Why is volume important in stock trading?",
+        "What is the role of volume in option trading?",
+        "How much volume is good for trading?",
+        "Is a high volume good for stocks?"
+      ]
+    },
+    {
+      "Parent Question": "tips for managing risk in stock trading",
+      "Questions": [
+        "How to manage risk when trading?",
+        "What is the 3-5-7 rule in trading?",
+        "What is the 2% risk rule in day trading?",
+        "What are the five 5 steps to managing risk?"
+      ]
+    },
+    {
+      "Parent Question": "understanding stock market basics for beginners",
+      "Questions": [
+        "How do beginners understand the stock market?",
+        "What is the 5 rule in the stock market?",
+        "What are the 7 types of stocks?",
+        "What is the simplest explanation of the stock market?"
+     ]
       }
     ]
   }
