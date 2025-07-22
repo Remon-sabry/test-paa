@@ -12901,6 +12901,2838 @@
         "How can someone be distracted?",
         "What does lack of attention cause?",
         "How to deal with distractions in class?"
+     ]
+      }
+    ]
+  },
+  {
+  "knowledge_base_name": "WEIGHT_LOSS_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "best bodyweight exercises for weight loss",
+      "Questions": [
+        "Can you lose weight with bodyweight exercises?",
+        "What bodyweight exercise burns the most fat?",
+        "What is the 4/30-10 method for weight loss?",
+        "What is the number 1 exercise to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose weight with bodyweight exercises?",
+      "Questions": [
+        "Do sit ups burn belly fat?",
+        "Is it OK to do bodyweight exercises everyday?",
+        "Do push-ups burn belly fat?",
+        "Is it OK to only do bodyweight exercises?",
+        "Do pull-ups burn belly fat?",
+        "Is calisthenics better than gym?"
+      ]
+    },
+    {
+      "Parent Question": "What bodyweight exercise burns the most fat?",
+      "Questions": [
+        "How can I burn 1000 calories a day?",
+        "What exercise kills the most fat?",
+        "How many calories are in 1 kg?",
+        "How to burn 600 calories in 30 minutes?",
+        "What burns the most belly fat?",
+        "How many calories do 10,000 steps burn?",
+        "Do planks burn belly fat?",
+        "What exercise burns fat fastest?",
+        "How to burn 300 calories a day?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 4/30-10 method for weight loss?",
+      "Questions": [
+        "What is the 5 to 1 weight loss rule?",
+        "How much weight will I lose if I walk 10,000 steps a day for a month?",
+        "What is the best weight loss schedule?",
+        "What is the 20 20 20 rule weight loss?",
+        "What is the 3 2 1 method for weight loss?",
+        "How to burn 420 calories a day?",
+        "What is the 60 40 rule for weight loss?",
+        "What is the 12-3-30 workout for fat loss?",
+        "What is the 5 10 20 method?"
+      ]
+    },
+    {
+      "Parent Question": "What is the number 1 exercise to lose weight?",
+      "Questions": [
+        "What burns fat the fastest?",
+        "How to slim body in 7 days of exercise?",
+        "How to increase metabolism faster?",
+        "What workout burns the most fat?",
+        "Will I lose weight swimming 3 times a week?",
+        "Does lifting weights burn fat?",
+        "Is working out 30 minutes a day enough to lose weight?",
+        "What exercise burns the most belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "best diets for fast and sustainable weight loss",
+      "Questions": [
+        "What is the best diet to lose weight extremely fast?",
+        "What is the healthiest and most sustainable way to lose weight?",
+        "Which diet plan is best for quick weight loss?",
+        "What is the best fasting diet to lose weight fast?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best diet to lose weight extremely fast?",
+      "Questions": [
+        "How to lose 10 kg in 10 days?",
+        "Which diet burns fat the fastest?",
+        "How to lose 5kg in 3 days?",
+        "How to lose 10kg in a month with guaranteed results?",
+        "How to lose 5kg in a week?",
+        "How do actors lose weight fast?"
+      ]
+    },
+    {
+      "Parent Question": "What is the healthiest and most sustainable way to lose weight?",
+      "Questions": [
+        "How to slim down quickly?",
+        "What is the 30/30/30 rule for weight loss?",
+        "How to lose 10kg sustainably?",
+        "How to lose 1kg a week?",
+        "How to lose belly fat fast?",
+        "How to increase metabolism faster?",
+        "How many kilometers to walk to lose 1kg in a week?",
+        "What drink burns the most belly fat?",
+        "What is the most efficient fast for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "Which diet plan is best for quick weight loss?",
+      "Questions": [
+        "How to slim in 7 days?",
+        "How to lose 10 kg in a month?",
+        "Can I lose noticeable weight in 2 weeks?",
+        "How to lose 2kg in a week with intermittent fasting?",
+        "How to lose 3 kgs in a week?",
+        "Is rice good for weight loss?",
+        "Is it normal to lose 2kg in a month without trying?",
+        "How do celebrities lose weight?",
+        "How much daily walk for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best fasting diet to lose weight fast?",
+      "Questions": [
+        "Does sleeping count as fasting?",
+        "Which type of fasting burns the most fat?",
+        "Why is 16 hours the magic number for fasting?",
+        "How to reduce weight in 2 weeks without exercise?",
+        "How to lose belly fat naturally in 1 week?",
+        "What fasting speeds up weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "best fitness apps for weight loss",
+      "Questions": [
+        "What is the best fitness app to lose weight?",
+        "What is the 30/30/30 rule for weight loss?",
+        "What is the #1 fitness app?",
+        "Which app is best for losing weight for free?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best fitness app to lose weight?",
+      "Questions": [
+        "What is the number 1 exercise to lose weight?",
+        "Do weight loss apps really work?",
+        "Which exercise burns the most belly fat?",
+        "Is Lose It better than MyFitnessPal?",
+        "What is the highest rated weight loss program?",
+        "Does lazy fit work?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 30/30/30 rule for weight loss?",
+      "Questions": [
+        "What is the 80 20 rule to lose weight?",
+        "How to lose 30% belly fat?",
+        "How many eggs to get 30 grams of protein?",
+        "What is the 12 3 30 method for weight loss?",
+        "What is a realistic amount of weight to lose in 30 days?",
+        "What is the 45 35 25 diet?",
+        "Is 40 30 30 good for fat loss?",
+        "How to lose weight fast in 30 days?",
+        "What is the 50 percent rule weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "What is the #1 fitness app?",
+      "Questions": [
+        "Does fitness apps really work?",
+        "Why is FitOn free?",
+        "What is the best app for losing weight and gaining muscle?",
+        "What are the most used fitness apps?",
+        "What is the best workout platform?",
+        "Is Google Fit any good?",
+        "Is MyFitnessPal a fitness app?",
+        "Does Apple have a free fitness app?",
+        "How does FitOn work?"
+      ]
+    },
+    {
+      "Parent Question": "Which app is best for losing weight for free?",
+      "Questions": [
+        "What is the #1 weight loss app?",
+        "How to weight loss fast?",
+        "How many calories a day to lose weight?",
+        "How to lose belly fat for free?",
+        "How to fast properly?",
+        "What weight loss program is the best?",
+        "How can I lose weight in 30 days for free?",
+        "Is Noom free?"
+      ]
+    },
+    {
+      "Parent Question": "best foods to burn belly fat",
+      "Questions": [
+        "What foods burn the most belly fat?",
+        "How can I lose tummy fat fast?",
+        "Which foods help to lose belly fat?",
+        "What 3 foods burn the most fat?"
+      ]
+    },
+    {
+      "Parent Question": "What foods burn the most belly fat?",
+      "Questions": [
+        "How can I reduce my tummy in 7 days?",
+        "Is rice bad for belly fat?",
+        "How to get a flat tummy?",
+        "How to lose weight in 7 days?",
+        "What burns belly fat the fastest?",
+        "What to eat for a flat stomach in 3 days?"
+      ]
+    },
+    {
+      "Parent Question": "How can I lose tummy fat fast?",
+      "Questions": [
+        "Can I reduce my tummy in 2 days?",
+        "What drinks burn belly fat?",
+        "Does walking burn belly fat?",
+        "What to eat to reduce tummy?",
+        "Why is belly fat so hard to lose?",
+        "How to lose belly fat in 2 weeks?",
+        "How can I slim my stomach in 7 days?",
+        "Why do I gain weight in my stomach only?",
+        "How to fast to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "Which foods help to lose belly fat?",
+      "Questions": [
+        "Is rice good for weight loss?",
+        "Which fruit burns the most belly fat?",
+        "What foods burn calories?",
+        "What drink burns the most belly fat?",
+        "Is bread good for weight loss?",
+        "How much rice should I eat a day to lose belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "What 3 foods burn the most fat?",
+      "Questions": [
+        "What burns fat while you sleep?",
+        "Does lemon water burn fat?",
+        "What is the no. 1 weight loss drink?",
+        "What burns fat quickly?",
+        "Are eggs good for weight loss?",
+        "Does coffee burn fat?",
+        "What is the best natural fat burner?",
+        "What fruit burns the most fat?",
+        "What exercise burns the most belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "best healthy snacks for weight loss",
+      "Questions": [
+        "What is the healthiest snack for weight loss?",
+        "What food is 100 calories?",
+        "What is the number 1 best food for weight loss?",
+        "What snack is filling but low in calories?"
+      ]
+    },
+    {
+      "Parent Question": "What is the healthiest snack for weight loss?",
+      "Questions": [
+        "What are the 10 lowest calorie foods?",
+        "Can I snack all day and lose weight?",
+        "What snack has no fat?",
+        "What should I eat more to lose weight?",
+        "What are 0 calorie foods for fasting?",
+        "Is rice good for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "What food is 100 calories?",
+      "Questions": [
+        "Who eats 3,000 calories a day?",
+        "Can I lose weight by burning 200 calories a day?",
+        "How many calories are in 1 kg?",
+        "What to eat 200 calories a day?",
+        "Is rice high in calories?",
+        "How many calories are in 1 boiled egg?",
+        "Which snack is lowest in calories?",
+        "What does 200 calories look like in food?",
+        "What food has 500 calories?"
+      ]
+    },
+    {
+      "Parent Question": "What is the number 1 best food for weight loss?",
+      "Questions": [
+        "What food is zero calories?",
+        "How to lose weight in 7 days?",
+        "What 3 foods burn the most fat?",
+        "How can I reduce my tummy in 7 days?",
+        "What to eat to reduce tummy?",
+        "What to avoid for weight loss?",
+        "How to burn belly fat?",
+        "How to lose 10 kg weight in 7 days?",
+        "Is pasta good for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "What snack is filling but low in calories?",
+      "Questions": [
+        "What is the healthiest snack?",
+        "What should I eat before bed to lose weight?",
+        "Which junk food have less calories?",
+        "Are there zero calorie snacks?",
+        "What is the best snack to lose weight?",
+        "What do 60 calories look like?",
+        "What's a good low-fat snack?",
+        "Is peanut butter healthy?",
+        "Are rice cakes healthy?"
+      ]
+    },
+    {
+      "Parent Question": "best morning habits for weight loss",
+      "Questions": [
+        "What is the morning trick to lose weight?",
+        "What is the morning ritual that burns fat?",
+        "What is the 30/30/30 rule for weight loss?",
+        "How to slim a body in 7 days?"
+      ]
+    },
+    {
+      "Parent Question": "What is the morning trick to lose weight?",
+      "Questions": [
+        "What is the 7 second morning trick?",
+        "What is the healthiest morning routine?",
+        "How to get morning skinny?",
+        "What is the best eating habit to lose weight?",
+        "How to burn belly fat in 1 day?",
+        "Is morning skinny your actual weight?"
+      ]
+    },
+    {
+      "Parent Question": "What is the morning ritual that burns fat?",
+      "Questions": [
+        "What should I drink first thing in the morning to lose fat?",
+        "What is the 7 second daily ritual?",
+        "How to speed up belly fat loss?",
+        "How to jump start metabolism in the morning?",
+        "What is the Japanese morning ritual?",
+        "What is the best daily routine to lose weight?",
+        "What is the 7 second weight loss ritual?",
+        "How do I weigh less in the morning?",
+        "How to reduce belly fat in 7 days?"
+      ]
+    },
+    {
+      "Parent Question": "best supplements for weight loss",
+      "Questions": [
+        "Which supplement is best for weight loss?",
+        "What is the most effective supplement for fat loss?",
+        "Which pill is best for weight loss?",
+        "How can I lose weight in 7 days naturally?"
+      ]
+    },
+    {
+      "Parent Question": "Which supplement is best for weight loss?",
+      "Questions": [
+        "What is the #1 weight loss product?",
+        "Should I take B12 or B complex?",
+        "Which vitamin burns belly fat?",
+        "How to weight loss fast?",
+        "How to lose 20 pounds in a month?",
+        "Which product is best for fat loss?"
+      ]
+    },
+    {
+      "Parent Question": "What is the most effective supplement for fat loss?",
+      "Questions": [
+        "What burns fat the fastest?",
+        "What is the most successful weight loss pill?",
+        "Is L-carnitine a fat burner?",
+        "What burns the most belly fat?",
+        "What vitamin is best for losing weight?",
+        "Does creatine burn fat?",
+        "How to lose belly fat fast?",
+        "Which supplement is best for weight loss gym?",
+        "What drink burns the most belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "Which pill is best for weight loss?",
+      "Questions": [
+        "Do weight loss supplements work?",
+        "Which treatment is best for weight loss?",
+        "How to lose weight fast in 2 weeks?",
+        "What are the top 10 weight loss pills?",
+        "How to increase metabolism faster?",
+        "How to lose weight in 7 days?",
+        "What is the safest weight loss tablet?",
+        "How to lose 50 pounds in 3 months?",
+        "What is the most effective form of weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "How can I lose weight in 7 days naturally?",
+      "Questions": [
+        "How can I lose 5kg in 7 days?",
+        "How can I lose 10 kgs in 7 days?",
+        "How to lose 2 kg in a week?",
+        "How can I lose 5kg in a week fast?",
+        "What drink burns the most fat?",
+        "How to lose 1kg a week?",
+        "How to lose 4 kg in a week?",
+        "How can I get slim quickly?",
+        "How to lose lower belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "best workouts for fat burning",
+      "Questions": [
+        "What exercise burns the most fat?",
+        "Which exercise burns the most belly fat?",
+        "What is the 30/30/30 method of fat loss?",
+        "How can I burn fat in 7 days?"
+      ]
+    },
+    {
+      "Parent Question": "What exercise burns the most fat?",
+      "Questions": [
+        "How can I burn 1000 calories a day?",
+        "Which burns fat fastest?",
+        "How to quickly lose fat?",
+        "How many calories are in 1 kg?",
+        "Who burns fat faster?",
+        "Do planks burn belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "Which exercise burns the most belly fat?",
+      "Questions": [
+        "What is the no 1 way to lose belly fat?",
+        "How many pushups per day?",
+        "How to lose weight fast in 2 weeks?",
+        "What is the number 1 exercise to lose fat?",
+        "How to have a flat tummy?",
+        "Do squats reduce belly fat?",
+        "What burns fat the fastest?",
+        "Do sit ups burn belly fat?",
+        "How many crunches a day?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 30/30/30 method of fat loss?",
+      "Questions": [
+        "What is the TikTok weight loss method?",
+        "Why eat protein within 30 minutes of waking?",
+        "What is the 80 20 weight loss method?",
+        "How to lose weight fast in 30 days?",
+        "What is the 12 3 30 workout for fat loss?",
+        "What is the 4 hour body 30-30-30 rule?",
+        "How to get 30 grams of protein in the morning?",
+        "What is 70% 30% diet?",
+        "What contains 30g of protein?"
+      ]
+    },
+    {
+      "Parent Question": "How can I burn fat in 7 days?",
+      "Questions": [
+        "How to lose tummy fat?",
+        "How can I get slim quickly?",
+        "Does plank reduce belly fat?",
+        "How to get a flat tummy naturally?",
+        "Why is belly fat so hard to lose?",
+        "How to burn fat in 1 day?",
+        "Does running burn belly fat?",
+        "Can I lose fat in 2 days?",
+        "How to lose a beer belly?"
+      ]
+    },
+    {
+      "Parent Question": "biggest weight loss mistakes and how to avoid them",
+      "Questions": [
+        "What is the biggest mistake people make when trying to lose weight?",
+        "What is the 30/30/30 rule for weight loss?",
+        "What is your biggest problem losing weight?",
+        "What is the 2 2 2 method metabolism?"
+      ]
+    },
+    {
+      "Parent Question": "What is the biggest mistake people make when trying to lose weight?",
+      "Questions": [
+        "Do and don'ts for weight loss?",
+        "How to increase metabolism faster?",
+        "Does fat look worse before you lose it?",
+        "What is the biggest contributor to weight loss?",
+        "How to lose weight in 7 days?",
+        "What makes you drastically lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "common weight loss workout mistakes to avoid",
+      "Questions": [
+        "What should be avoided for weight loss?",
+        "What is the 30/30/30 rule for weight loss?",
+        "What gym mistakes to avoid?",
+        "What is the biggest mistake people make when trying to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "What should be avoided for weight loss?",
+      "Questions": [
+        "What to avoid while cutting?",
+        "How can I reduce my tummy in 7 days?",
+        "Is rice bad for weight loss?",
+        "Which exercise is best for weight loss?",
+        "How to lose weight fast in 2 weeks?",
+        "Does losing weight increase PP size?"
+      ]
+    },
+    {
+      "Parent Question": "What gym mistakes to avoid?",
+      "Questions": [
+        "Can I workout 7 days a week?",
+        "What is the number one rule in the gym?",
+        "What are gym negatives?",
+        "Is it bad to workout every day?",
+        "How many times a week should you workout to lose weight?",
+        "Can I workout 5 days a week and rest on weekends?",
+        "Can I do the same workout every day?",
+        "What are the don'ts of exercising?",
+        "Does it matter if you do cardio or weights first?"
+      ]
+    },
+    {
+      "Parent Question": "does yoga help with weight loss",
+      "Questions": [
+        "Which type of yoga is best for weight loss?",
+        "Is 30 minutes of yoga a day enough to lose weight?",
+        "Can you lose belly fat with yoga?",
+        "Can I lose weight just by doing yoga?"
+      ]
+    },
+    {
+      "Parent Question": "Which type of yoga is best for weight loss?",
+      "Questions": [
+        "Is yoga better than gym?",
+        "Does yoga slim your body?",
+        "Does yoga count as exercise?",
+        "Is yoga 3 times a week enough for weight loss?",
+        "Can yoga reduce weight in 7 days?",
+        "Can you get in shape doing yoga?"
+      ]
+    },
+    {
+      "Parent Question": "Is 30 minutes of yoga a day enough to lose weight?",
+      "Questions": [
+        "Can yoga be my only exercise?",
+        "Which yoga burns the most fat?",
+        "Is yoga or Pilates better?",
+        "How long after starting yoga will I see results?",
+        "Is it better to do yoga in the morning or at night?",
+        "What is the best exercise to lose weight?",
+        "What happens if I do yoga every day?",
+        "Does hot yoga burn fat?",
+        "Is yoga really effective?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose belly fat with yoga?",
+      "Questions": [
+        "Does yoga count as cardio?",
+        "How can I reduce my tummy in 7 days?",
+        "Do planks burn belly fat?",
+        "How to begin yoga?",
+        "Which exercise burns the most belly fat?",
+        "Can yoga slim your waist?",
+        "How fast do you see results with yoga?",
+        "Do sit ups burn belly fat?",
+        "What drink burns the most belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "Can I lose weight just by doing yoga?",
+      "Questions": [
+        "Is yoga better than running?",
+        "Which yoga is best for weight loss?",
+        "Is yoga or walking better?",
+        "Is yoga better than cardio?",
+        "How to slim a body?",
+        "Which is better, gym or yoga to lose weight?",
+        "Is 30 minutes of yoga a day enough to lose weight?",
+        "Which exercise is best for weight loss?",
+        "Will I gain weight if I stop doing yoga?"
+      ]
+    },
+    {
+      "Parent Question": "emotional eating how to stop it",
+      "Questions": [
+        "How to break emotional eating?",
+        "What is the cause of emotional eating?",
+        "How to stop eating sugar when stressed?",
+        "Can stress make you lose weight even if you're eating?"
+      ]
+    },
+    {
+      "Parent Question": "How to break emotional eating?",
+      "Questions": [
+        "What medication is used to stop emotional eating?",
+        "How to stop being emotional?",
+        "How to control hunger?",
+        "What are signs of stress eating?",
+        "How to stop food addiction?",
+        "How to fast properly?"
+      ]
+    },
+    {
+      "Parent Question": "What is the cause of emotional eating?",
+      "Questions": [
+        "How to stop cravings instantly?",
+        "How to stop losing weight from stress?",
+        "How to stop overeating?",
+        "How to quit emotional eating?",
+        "How to break bad eating habits?",
+        "Does stress cause weight gain?",
+        "Why can't I stop eating?",
+        "Is emotional eating learned?",
+        "What causes emotional starvation?"
+      ]
+    },
+    {
+      "Parent Question": "How to stop eating sugar when stressed?",
+      "Questions": [
+        "How to control anxiety eating?",
+        "What does a sugar face look like?",
+        "Why do I emotionally eat?",
+        "How to stop stressing?",
+        "How to fight food addiction?",
+        "How do you control sugar anxiety?",
+        "How to overcome overeating?",
+        "How to reduce food cravings?",
+        "How to quit sugar addiction?"
+      ]
+    },
+    {
+      "Parent Question": "Can stress make you lose weight even if you're eating?",
+      "Questions": [
+        "How to get rid of stress fat?",
+        "What are the symptoms of chronic stress?",
+        "Can I lose noticeable weight in 2 weeks?",
+        "How do I stop stressing and losing weight?",
+        "How to lose weight naturally?",
+        "Do panic attacks burn calories?",
+        "How to control emotional eating?",
+        "How to reduce stress?",
+        "Does overthinking cause weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "foods that boost metabolism naturally",
+      "Questions": [
+        "Which foods increase metabolism and burn fat?",
+        "How can I increase my metabolism fast naturally?",
+        "How can I super speed up my metabolism?",
+        "What is the 2 2 2 method metabolism?"
+      ]
+    },
+    {
+      "Parent Question": "Which foods increase metabolism and burn fat?",
+      "Questions": [
+        "How to lose weight fast in 2 weeks?",
+        "Do eggs boost metabolism?",
+        "What to eat to reduce tummy?",
+        "How can I trick my metabolism into burning fat?",
+        "What is a metabolism killer?",
+        "How to burn belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "How can I increase my metabolism fast naturally?",
+      "Questions": [
+        "What is the best metabolism booster?",
+        "What is the 5 day metabolic reset?",
+        "What to drink first thing in the morning to boost metabolism?",
+        "How do I speed up metabolism?",
+        "Does coffee boost metabolism?",
+        "Does drinking water increase metabolism?",
+        "Which food has high metabolism?",
+        "Does green tea actually boost metabolism?",
+        "How can I increase my metabolism in 3 days?"
+      ]
+    },
+    {
+      "Parent Question": "How can I super speed up my metabolism?",
+      "Questions": [
+        "Which exercise boosts metabolism 24 hours a day?",
+        "How to lose weight in 7 days?",
+        "What are signs of high metabolism?",
+        "What are metabolism killers?",
+        "How to trigger the fat burning process?",
+        "What are the best fruits for weight loss?",
+        "Are there foods that burn fat?",
+        "Which drinks increase metabolism?",
+        "How do I check my metabolism?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 2 2 2 method metabolism?",
+      "Questions": [
+        "How to increase metabolism faster?",
+        "What foods should be avoided for weight loss?",
+        "What are the 2 activities going on at the same time during metabolism?",
+        "How to eat to trick your metabolism?",
+        "How do you reset your metabolism to burn fat?",
+        "What are the 2 main areas of metabolism?",
+        "What is the 2 2 2 health hack?",
+        "What is Phase 1 and 2 of metabolism?"
+      ]
+    },
+    {
+      "Parent Question": "high protein meal plans for weight loss",
+      "Questions": [
+        "Can you lose weight eating high protein meals?",
+        "What is the 90 30 50 method?",
+        "How to get 150g of protein a day?",
+        "How to get 85g of protein a day?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose weight eating high protein meals?",
+      "Questions": [
+        "Is 200g of protein too much?",
+        "Does protein burn belly fat?",
+        "Is 150g of protein too much?",
+        "What to eat to reduce tummy?",
+        "What protein burns the most fat?",
+        "Is rice good for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 90 30 50 method?",
+      "Questions": [
+        "What is the protein fiber rule?",
+        "What is the 12330 rule?",
+        "How to lose 15 pounds in 2 months?",
+        "How can I eat 90 grams of protein a day?",
+        "What is the 50 rule for weight loss?",
+        "What is healthy fat?",
+        "What is the 50 30 20 diet?",
+        "What is the protein fiber fat method?",
+        "What is the 100 50 diet?"
+      ]
+    },
+    {
+      "Parent Question": "How to get 150g of protein a day?",
+      "Questions": [
+        "How many eggs equal 100 grams of protein?",
+        "What are the 10 best sources of protein?",
+        "How much protein to lose weight?",
+        "How many eggs are 30 grams of protein?",
+        "How to increase protein to lose weight?",
+        "Are protein bars snacks or meals?",
+        "What food is highest in protein and lowest in calories?",
+        "Can I build muscle with 100g of protein?",
+        "How much chicken is 200 grams of protein?"
+      ]
+    },
+    {
+      "Parent Question": "How to get 85g of protein a day?",
+      "Questions": [
+        "What is a typical high protein meal plan?",
+        "How to lose weight naturally?",
+        "Is chicken 100% protein?",
+        "What does 30g of protein look like?",
+        "What is the 45 35 20 meal plan?",
+        "Which food is highest in protein?",
+        "How much protein per meal for weight loss?",
+        "What protein reduces inflammation?",
+        "What do 80 grams of protein look like in a day?"
+      ]
+    },
+    {
+      "Parent Question": "hiit workouts for quick fat loss",
+      "Questions": [
+        "Can you lose weight fast with HIIT?",
+        "Which HIIT exercise burns the most fat?",
+        "Is a 20 minute HIIT workout enough to lose weight?",
+        "What is a 4/30/10 method workout to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose weight fast with HIIT?",
+      "Questions": [
+        "Is 30 minutes of HIIT a day enough to lose weight?",
+        "Will HIIT burn belly fat?",
+        "Is a 10 minute HIIT workout a day enough?",
+        "What are the results of 30 days of HIIT?",
+        "Is HIIT 3 times a week enough to lose weight?",
+        "Are 30 minute HIIT workouts effective?"
+      ]
+    },
+    {
+      "Parent Question": "Which HIIT exercise burns the most fat?",
+      "Questions": [
+        "How can I burn 1000 calories a day?",
+        "What is the number 1 exercise to lose fat?",
+        "Can I do HIIT every day?",
+        "How to burn 600 calories in 30 minutes?",
+        "How many calories are in 1 kg?",
+        "Is HIIT better than running?",
+        "What exercise burns body fat the fastest?",
+        "How to burn 300 calories a day?",
+        "How many calories do 10,000 steps burn?"
+      ]
+    },
+    {
+      "Parent Question": "Is a 20 minute HIIT workout enough to lose weight?",
+      "Questions": [
+        "Does HIIT burn more fat than walking?",
+        "What does tabata stand for?",
+        "How to burn 400 calories in 20 minutes?",
+        "Will a 20 minute jog burn fat?",
+        "What are the best HIIT intervals for fat loss?",
+        "How many minutes of HIIT per day to lose belly fat?",
+        "What HIIT exercises burn the most calories?",
+        "Is HIIT everyday too much?",
+        "Does HIIT build muscle or burn fat?"
+      ]
+    },
+    {
+      "Parent Question": "What is a 4/30/10 method workout to lose weight?",
+      "Questions": [
+        "What is the 12-3-30 workout for fat loss?",
+        "What is the 80 20 weight loss method?",
+        "What is the 3/2/8 method?",
+        "What is 6 12 25 fat burning workout?",
+        "How many calories does the 12-3-30 workout burn?",
+        "What is the 90 10 rule for weight loss?",
+        "Is 30 minutes of exercise 4 days a week enough to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "how alcohol affects weight loss progress",
+      "Questions": [
+        "Does alcohol shut down fat burning?",
+        "Why do alcoholics lose weight fast?",
+        "How much does alcohol contribute to weight loss?",
+        "Will I lose weight faster if I stop drinking alcohol?"
+      ]
+    },
+    {
+      "Parent Question": "Does alcohol shut down fat burning?",
+      "Questions": [
+        "Why do I weigh less after drinking?",
+        "Can alcohol dissolve fat?",
+        "What causes sudden weight loss?",
+        "How to increase metabolism faster?",
+        "Does alcohol slow metabolism?",
+        "Does alcohol make you lose muscle?"
+      ]
+    },
+    {
+      "Parent Question": "Why do alcoholics lose weight fast?",
+      "Questions": [
+        "Will 2 beers a night make me fat?",
+        "Do alcoholics become skinny?",
+        "Does alcohol make your face puffy?",
+        "How does alcohol affect fat loss?",
+        "Why do alcoholics live so long?",
+        "Why does drinking more help you lose weight?",
+        "Does alcohol remove water weight?",
+        "Which alcohol is best for weight loss?",
+        "Will I lose belly fat if I stop drinking alcohol?"
+      ]
+    },
+    {
+      "Parent Question": "How much does alcohol contribute to weight loss?",
+      "Questions": [
+        "What is the body shape of a female alcoholic person?",
+        "What does a month without alcohol do to your body?",
+        "What is the least fattening alcohol?",
+        "What is the healthiest alcohol?",
+        "What drink burns the most belly fat?",
+        "Does alcohol cause belly fat?",
+        "Why does alcohol stop fat burning?",
+        "Can you lose body fat if you drink alcohol?",
+        "When will alcohol bloat go away?"
+      ]
+    },
+    {
+      "Parent Question": "Will I lose weight faster if I stop drinking alcohol?",
+      "Questions": [
+        "Is alcohol belly permanent?",
+        "Does your face change when you stop drinking alcohol?",
+        "What is considered a heavy drinker?",
+        "Will I lose weight if I eat once a day?",
+        "How much weight can you lose in a month?",
+        "Does your metabolism speed up when you stop drinking alcohol?",
+        "Why do alcoholics lose weight fast?",
+        "Do you get fat when you stop drinking alcohol?"
+      ]
+    },
+    {
+      "Parent Question": "how gut health influences weight loss",
+      "Questions": [
+        "How does gut health affect weight loss?",
+        "How do I reset my gut for weight loss?",
+        "How does gut health affect metabolism?",
+        "Do gut health drinks help you lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "How does gut health affect weight loss?",
+      "Questions": [
+        "How does digestion affect weight loss?",
+        "What happens when you improve your gut health?",
+        "Does gut inflammation cause weight loss?",
+        "Do probiotics help you lose weight?",
+        "Does leaky gut prevent weight loss?",
+        "How to gain weight with gut issues?"
+      ]
+    },
+    {
+      "Parent Question": "How do I reset my gut for weight loss?",
+      "Questions": [
+        "What is the 7 day gut reset?",
+        "How do I restart my metabolism to lose weight?",
+        "How to fix an unhealthy gut?",
+        "Can improving gut health make you lose weight?",
+        "Are eggs good for gut health?",
+        "How can I reset my mind to lose weight?",
+        "Can poor gut health cause weight gain?",
+        "Does fasting reset the gut?",
+        "How do I restart my weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "How does gut health affect metabolism?",
+      "Questions": [
+        "What is the role of the gut in weight loss?",
+        "How to check gut health?",
+        "Does gut health affect body fat?",
+        "What is the best supplement to restore gut health?",
+        "How does gut microbiota affect obesity?",
+        "How does gut health affect the rest of the body?",
+        "Does gut health promote weight loss?",
+        "How can I improve my gut health and metabolism?",
+        "What vitamins do gut bacteria produce?"
+      ]
+    },
+    {
+      "Parent Question": "Do gut health drinks help you lose weight?",
+      "Questions": [
+        "Can gut issues cause weight loss?",
+        "How do you clean your gut to lose weight?",
+        "Does gut health affect hormones?",
+        "How can I restore my gut health for weight loss?",
+        "Which drink reduce belly fat?",
+        "Can gut health affect skin?",
+        "Does gut health affect metabolism?",
+        "Which drink is more effective for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "how hormones impact weight loss",
+      "Questions": [
+        "How do hormones affect weight loss?",
+        "How do hormones affect fat distribution?",
+        "Does lack of estrogen cause weight loss?",
+        "Will I lose weight if I start hormones?"
+      ]
+    },
+    {
+      "Parent Question": "How do hormones affect weight loss?",
+      "Questions": [
+        "Which hormone burns fat?",
+        "What does a hormonal belly look like?",
+        "What hormones speed up metabolism?",
+        "What blocks weight loss?",
+        "How do I stop hormonal weight gain?",
+        "What causes weight loss in females?"
+      ]
+    },
+    {
+      "Parent Question": "How do hormones affect fat distribution?",
+      "Questions": [
+        "Does estrogen make your waist smaller?",
+        "Why am I gaining weight in thighs and buttocks as a female?",
+        "What vitamins help hormonal belly fat?",
+        "How can hormones affect weight loss?",
+        "Why does no fat go to my legs?",
+        "Where do females gain weight first?",
+        "Can estrogen help with weight loss?",
+        "What causes rapid weight gain in females?",
+        "What hormone regulates metabolism?"
+      ]
+    },
+    {
+      "Parent Question": "Does lack of estrogen cause weight loss?",
+      "Questions": [
+        "Does progesterone cause weight loss?",
+        "Why can't I lose belly fat as a female?",
+        "Does cortisol help with weight loss?",
+        "How much weight do you lose to lower estrogen?",
+        "What hormone causes inner thigh fat?",
+        "Does cortisol cause weight gain?",
+        "What hormone helps you lose weight?",
+        "How do I balance my hormones to lose weight?",
+        "How to know if estrogen is low?"
+      ]
+    },
+    {
+      "Parent Question": "Will I lose weight if I start hormones?",
+      "Questions": [
+        "How do you know if hormones are affecting weight loss?",
+        "How to increase metabolism faster?",
+        "Which hormone therapy is best for weight loss?",
+        "Can high estrogen cause weight loss?",
+        "How to fix hormonal belly?",
+        "How to check hormone levels?",
+        "Will I gain weight if I stop taking hormones?",
+        "Is hormonal fat hard to lose?"
+      ]
+    },
+    {
+      "Parent Question": "how long does it take to see weight loss results",
+      "Questions": [
+        "How long does it take to lose noticeable weight?",
+        "Which body part loses fat first?",
+        "How much weight can you lose before people notice?",
+        "How long does it take for weight loss to show up on the scale?"
+      ]
+    },
+    {
+      "Parent Question": "How long does it take to lose noticeable weight?",
+      "Questions": [
+        "What are the first signs of losing weight?",
+        "How long does it take to lose 10kg?",
+        "What are the stages of fat loss?",
+        "How long does it take to lose 25 kg?",
+        "What is Stage 1 of fat burning?",
+        "Is 12 kg weight loss noticeable?"
+      ]
+    },
+    {
+      "Parent Question": "Which body part loses fat first?",
+      "Questions": [
+        "Does the face lose fat first?",
+        "What part of body is hardest to lose fat?",
+        "When losing weight, does your breast get smaller?",
+        "Is face fat easy to lose?",
+        "Does fat look worse before it leaves?",
+        "How long does it take to notice weight loss?",
+        "How do you tell you're losing weight?",
+        "Where does belly fat go when you lose weight?",
+        "When does face fat go away?"
+      ]
+    },
+    {
+      "Parent Question": "How much weight can you lose before people notice?",
+      "Questions": [
+        "Is losing 3kg a month healthy?",
+        "How do you know if you're losing belly fat?",
+        "Why is weight loss so slow?",
+        "Is 2kg weight loss a month good?",
+        "When can others tell you lost weight?",
+        "Is 4 kg weight loss in a month good?",
+        "Is 5kg weight loss in a month bad?",
+        "Does losing weight change your face shape?",
+        "How long does it take to start burning fat?"
+      ]
+    },
+    {
+      "Parent Question": "How long does it take for weight loss to show up on the scale?",
+      "Questions": [
+        "Why do I feel slimmer but weigh the same?",
+        "Can you lose weight just by lifting weights without cardio?",
+        "How many kg should you lose in a month?",
+        "Which body part loses fat first?",
+        "Can I lose noticeable weight in 2 weeks?",
+        "At what weight loss is it noticeable?",
+        "Why do I feel like I lost weight but the scale says I gained?"
+      ]
+    },
+    {
+      "Parent Question": "how to boost metabolism naturally",
+      "Questions": [
+        "How to increase metabolism faster?",
+        "How do I speed up my metabolism to lose weight?",
+        "Which foods increase metabolism and burn fat?",
+        "What is the 2 2 2 method metabolism?"
+      ]
+    },
+    {
+      "Parent Question": "How to increase metabolism faster?",
+      "Questions": [
+        "How to get a super fast metabolism?",
+        "How to reduce belly fat?",
+        "What is a metabolism killer?",
+        "Does coffee boost metabolism?",
+        "What triggers fast metabolism?",
+        "What to drink first thing in the morning to boost metabolism?"
+      ]
+    },
+    {
+      "Parent Question": "How do I speed up my metabolism to lose weight?",
+      "Questions": [
+        "How can I trick my metabolism into burning fat?",
+        "What to eat to reduce tummy?",
+        "Does drinking water increase metabolism?",
+        "Which food boosts metabolism?",
+        "What drink burns the most belly fat?",
+        "Does fasting increase metabolism?",
+        "How do you fix a slow metabolism?",
+        "How to burn belly fat?",
+        "Is rice good for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "Which foods increase metabolism and burn fat?",
+      "Questions": [
+        "What is the best metabolism booster?",
+        "Do eggs boost metabolism?",
+        "How to lose weight fast in 2 weeks?",
+        "What is the best drink to boost metabolism?",
+        "Do bananas boost metabolism?",
+        "What triggers fat metabolism?",
+        "What are metabolism killers?",
+        "Does lemon boost metabolism?",
+        "What exercise burns the most belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 2 2 2 method metabolism?",
+      "Questions": [
+        "Does green tea actually boost metabolism?",
+        "What foods should be avoided for weight loss?",
+        "What is the 2 2 2 health hack?",
+        "What are the 2 activities going on at the same time during metabolism?",
+        "How to reset your metabolism to lose weight?",
+        "What are the two modes of metabolism?",
+        "What is the 222 method of eating?",
+        "How to increase metabolism faster?",
+        "How can I double my metabolism?"
+      ]
+    },
+    {
+      "Parent Question": "how to break a weight loss plateau",
+      "Questions": [
+        "How do you break a weight loss plateau fast?",
+        "How long does a weight loss plateau usually last?",
+        "How do you shock your body out of a plateau?",
+        "Can a cheat day break a plateau?"
+      ]
+    },
+    {
+      "Parent Question": "How do you break a weight loss plateau fast?",
+      "Questions": [
+        "How to lose the last 5kg?",
+        "How do you jumpstart a weight loss plateau?",
+        "How to fast metabolism?",
+        "Why am I not losing weight after 3 weeks of working out?",
+        "How to lose weight from 70 kg to 50kg?",
+        "How much weight can I lose in 3 weeks?"
+      ]
+    },
+    {
+      "Parent Question": "How long does a weight loss plateau usually last?",
+      "Questions": [
+        "Can eating more break a plateau?",
+        "Why didn't I lose weight even with diet and exercise?",
+        "How do I know if I plateau?",
+        "How do you reverse a weight loss plateau?",
+        "Why am I not losing weight even though I'm in a calorie deficit and working out?",
+        "How to remove water weight?",
+        "How do you boost a weight loss plateau?",
+        "What is the whoosh effect?",
+        "Will a weight loss plateau resolve itself?"
+      ]
+    },
+    {
+      "Parent Question": "How do you shock your body out of a plateau?",
+      "Questions": [
+        "How do you push past a plateau?",
+        "How to boost metabolism for weight loss?",
+        "When do you start seeing weight loss in your face?",
+        "How to break a weight loss plateau on Ozempic?",
+        "How long can your body stay in a plateau?",
+        "What if I have no weight loss after 6 weeks of exercise?",
+        "How do you know if you hit a weight loss plateau?",
+        "Why is my weight stuck at 80kg?",
+        "Why do I feel like I'm losing weight but the scale doesn't show it?"
+      ]
+    },
+    {
+      "Parent Question": "Can a cheat day break a plateau?",
+      "Questions": [
+        "What is the 80/20 rule diet?",
+        "Will I look fatter after cheat day?",
+        "How many weeks is considered a weight loss plateau?",
+        "How do you shock your body out of a plateau?",
+        "Will one cheat day ruin fat loss?",
+        "Do weight loss plateaus fix themselves?",
+        "Why do I feel skinnier after a cheat day?"
+      ]
+    },
+    {
+      "Parent Question": "how to calculate your daily calorie needs for weight loss",
+      "Questions": [
+        "How do I calculate how many calories I need a day to lose weight?",
+        "How many calories should I eat per day for weight loss?",
+        "Can I lose weight on 1200 calories per day?",
+        "How do I calculate calories in my daily diet?"
+      ]
+    },
+    {
+      "Parent Question": "How do I calculate how many calories I need a day to lose weight?",
+      "Questions": [
+        "How do I count calories to lose weight?",
+        "How many calories do 10,000 steps burn?",
+        "Is a 1500 calorie diet good for weight loss?",
+        "How many calories to lose 1kg?",
+        "How many calories are in 1 kg?",
+        "How many calories should I eat a day by age?"
+      ]
+    },
+    {
+      "Parent Question": "How many calories should I eat per day for weight loss?",
+      "Questions": [
+        "Why am I not losing weight on 1500 calories a day?",
+        "What is the 30/30/30 rule for weight loss?",
+        "How to calculate a diet plan?",
+        "How to calculate daily calorie intake?",
+        "Is 1200 calories a day enough to lose weight?",
+        "How many calories are burned in a 1 km walk?",
+        "Is 1500 calories a day enough?",
+        "How to calculate the calorie requirement of a person?",
+        "How long will it take to lose 20 pounds eating 1000 calories a day?"
+      ]
+    },
+    {
+      "Parent Question": "Can I lose weight on 1200 calories per day?",
+      "Questions": [
+        "Why am I not losing weight on a 1200 calorie diet?",
+        "What is the minimum calories per day?",
+        "How to increase metabolism faster?",
+        "How many calories are too low?",
+        "How long will it take to lose 30 pounds on a 1200 calorie diet?",
+        "How to meal plan for weight loss?",
+        "Is 1800 calories too low?",
+        "Why am I gaining weight on 1200 calories a day?",
+        "How many calories should I burn a day?"
+      ]
+    },
+    {
+      "Parent Question": "How do I calculate calories in my daily diet?",
+      "Questions": [
+        "How can I calculate my daily calorie needs?",
+        "How many calories are in 2 eggs?",
+        "How many calories are in one banana?",
+        "How much calories should I eat per day to lose weight?",
+        "How many calories are in one egg?",
+        "How many calories are in rice?",
+        "What is the best calorie counting app for free?",
+        "How much weight will I lose in a month if I burn 400 calories a day?"
+      ]
+    },
+    {
+      "Parent Question": "how to get rid of stubborn belly fat",
+      "Questions": [
+        "How can I lose my stubborn belly fat?",
+        "What burns the most belly fat?",
+        "Why won't my belly fat go away?",
+        "How do you break up hard belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "How can I lose my stubborn belly fat?",
+      "Questions": [
+        "How can I reduce my tummy in 7 days?",
+        "Which belly fat is hardest to lose?",
+        "How to get a flat tummy fast naturally?",
+        "What drink burns the most belly fat?",
+        "Does belly fat go away easily?",
+        "How to get a flat tummy at any age?"
+      ]
+    },
+    {
+      "Parent Question": "What burns the most belly fat?",
+      "Questions": [
+        "What is the no 1 way to lose belly fat?",
+        "Does walking reduce belly fat?",
+        "Does sit up burn belly fat?",
+        "Why is belly fat so hard to lose?",
+        "How can I lose my belly fat asap?",
+        "What method burns the most fat?",
+        "How to lose a hanging belly?",
+        "Why am I not losing belly fat even after exercise and diet?",
+        "What loses belly fat the fastest?"
+      ]
+    },
+    {
+      "Parent Question": "Why won't my belly fat go away?",
+      "Questions": [
+        "Why is only my belly so fat?",
+        "What to eat to reduce tummy?",
+        "What is a stress belly?",
+        "Why am I losing weight but my stomach is still big?",
+        "How to flatten the stomach?",
+        "Why won't my belly stop getting bigger?",
+        "What exercises reduce belly fat?",
+        "How to lose belly fat overnight easy trick?",
+        "Can a fat stomach ever be flat?"
+      ]
+    },
+    {
+      "Parent Question": "How do you break up hard belly fat?",
+      "Questions": [
+        "Does walking burn belly fat?",
+        "What is a hormonal belly?",
+        "How to reduce tummy fat without exercise?",
+        "What does a PCOS belly look like?",
+        "Why do I gain weight in my stomach only?",
+        "Why can't I lose belly fat even though I exercise?",
+        "How to lose stomach fat quickly?",
+        "What does a stress belly look like?"
+      ]
+    },
+    {
+      "Parent Question": "how to improve sleep for better fat loss",
+      "Questions": [
+        "Will I lose fat if I sleep more?",
+        "How can I improve my sleep for weight loss?",
+        "Why is it hard to sleep when losing weight?",
+        "How should I sleep to burn fat?"
+      ]
+    },
+    {
+      "Parent Question": "Will I lose fat if I sleep more?",
+      "Questions": [
+        "Does oversleeping cause fat gain?",
+        "Is 6 hours of sleep enough for losing weight?",
+        "Is it normal to lose 1kg overnight?",
+        "How to sleep when dieting?",
+        "Does oversleeping reduce weight?",
+        "Is 6 hours of sleep enough?"
+      ]
+    },
+    {
+      "Parent Question": "How can I improve my sleep for weight loss?",
+      "Questions": [
+        "What burns fat the fastest?",
+        "How to burn belly fat at night?",
+        "Will going to bed hungry burn fat?",
+        "How to keep your body in fat burning mode?",
+        "Will I gain weight if I sleep after a morning walk?",
+        "What is the best drink at night for weight loss?",
+        "How to burn more fat while sleeping?",
+        "How many calories do you burn walking 10,000 steps?",
+        "How to increase metabolism faster?"
+      ]
+    },
+    {
+      "Parent Question": "Why is it hard to sleep when losing weight?",
+      "Questions": [
+        "How many hours of sleep for fat loss?",
+        "What foods help you sleep better?",
+        "Will I gain weight if I sleep after eating?",
+        "What is the best sleep schedule for weight loss?",
+        "Can eating too little affect sleep?",
+        "How much weight is lost overnight?",
+        "Is going to bed hungry good for weight loss?",
+        "Will I gain weight if I sleep after exercise?",
+        "What happens if you sleep late every day?"
+      ]
+    },
+    {
+      "Parent Question": "How should I sleep to burn fat?",
+      "Questions": [
+        "How to sleep to get a flat tummy?",
+        "What burns belly fat the fastest?",
+        "What to eat before bed to lose weight?",
+        "Will I lose fat if I sleep more?",
+        "What sleeping position is best?",
+        "How to get rid of fat fast?",
+        "Does sleeping more help lose belly fat?",
+        "Is 7 hours of sleep enough?"
+      ]
+    },
+    {
+      "Parent Question": "how to lose weight with a busy schedule",
+      "Questions": [
+        "What is the 2 2 2 method metabolism?",
+        "How can a busy student lose weight?",
+        "How to lose weight when you work a lot?",
+        "How to lose weight with a busy schedule for a female?"
+      ]
+    },
+    {
+      "Parent Question": "How can a busy student lose weight?",
+      "Questions": [
+        "How much weight can a 15 year old lose in 1 month?",
+        "How to lose belly fat fast?",
+        "Is there a trick to losing weight?",
+        "How can a 15 year old lose belly fat in 2 weeks?",
+        "Is it normal to gain weight at 16?",
+        "How to reduce weight fast?",
+        "How do I start losing weight on a busy schedule?",
+        "Why is my 16 year old losing weight?",
+        "How to lose 10kg in a month without exercise?"
+      ]
+    },
+    {
+      "Parent Question": "How to lose weight when you work a lot?",
+      "Questions": [
+        "How can I lose weight in a lazy way?",
+        "How to stay healthy in a busy schedule?",
+        "What is the best advice for losing weight?",
+        "How to lose weight when you're already active?",
+        "How can I lose belly fat while working?",
+        "How to diet when your family isn't?",
+        "How do I lose weight when I sit all day?",
+        "What is the best exercise to lose a lot of weight?",
+        "How to lose weight with a stressful job?"
+      ]
+    },
+    {
+      "Parent Question": "How to lose weight with a busy schedule for a female?",
+      "Questions": [
+        "How to lose weight when super busy?",
+        "What drink burns the most belly fat?",
+        "How to be slim in 30 days?",
+        "How to lose 10 kg weight in 7 days?",
+        "Does the 30/30/30 method work for weight loss?",
+        "How can I get slim in less time?",
+        "How many hours should a woman fast to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "how to lose weight with home workouts",
+      "Questions": [
+        "Can you lose weight by doing home workouts?",
+        "What exercise burns the most belly fat?",
+        "Can you lose weight working at home?",
+        "What exercise is best for weight loss at home?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose weight by doing home workouts?",
+      "Questions": [
+        "What burns fat the fastest?",
+        "Is a 30 minute home workout enough to lose weight?",
+        "Is it OK to do home workout everyday?",
+        "What exercise burns the most fat?",
+        "Can I lose weight at home without a gym?",
+        "How to lose fat quickly?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose weight working at home?",
+      "Questions": [
+        "Can you lose weight at home instead of gym?",
+        "How to reduce weight at home?",
+        "Does housework burn fat?",
+        "Is Home exercise enough to lose weight?",
+        "Can working a lot cause weight loss?",
+        "What exercise loses the most weight at home?",
+        "How much should I workout at home to lose weight?",
+        "Can you lose weight indoors?",
+        "Why did I gain weight working from home?"
+      ]
+    },
+    {
+      "Parent Question": "What exercise is best for weight loss at home?",
+      "Questions": [
+        "How to slim body in 7 days of exercise?",
+        "What drink burns the most belly fat?",
+        "Will 2 hours of exercise help me lose weight?",
+        "How to lose stomach fat?",
+        "Will I lose weight swimming 3 times a week?",
+        "What is the number 1 exercise to lose fat?",
+        "How to lose 5 kg in 10 days?",
+        "Is it possible to lose weight with just home workouts?"
+      ]
+    },
+    {
+      "Parent Question": "how to lose weight without a gym",
+      "Questions": [
+        "Is it possible to lose weight without the gym?",
+        "What is the 30 30 30 rule?",
+        "Can I lose 20 kg without gym?",
+        "How to lose weight in 7 days without gym?"
+      ]
+    },
+    {
+      "Parent Question": "Is it possible to lose weight without the gym?",
+      "Questions": [
+        "How to lose 5kg in a week?",
+        "Is it OK if I skip the gym?",
+        "How to lose 10kg in 1 month with exercise?",
+        "How to slim a body?",
+        "How to lose 5 kg in a month without exercise?",
+        "How to lose 10 kg in 15 days?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 30 30 30 rule?",
+      "Questions": [
+        "What exercise burns the most belly fat?",
+        "What does 30g of protein look like?",
+        "How to lose weight fast in 30 days?",
+        "How many eggs are 30 grams of protein?",
+        "What is the 3x30 method?",
+        "What is 30g protein 30 minutes waking up?",
+        "Why eat protein within 30 minutes of waking?",
+        "How to get 30 grams of protein in the morning?",
+        "Is low-intensity exercise good?"
+      ]
+    },
+    {
+      "Parent Question": "Can I lose 20 kg without gym?",
+      "Questions": [
+        "Can I lose 10 kg in 1 month?",
+        "How to burn belly fat?",
+        "Can you lose 5kg in 2 weeks without exercise?",
+        "How can I get slim?",
+        "What drink burns the most belly fat?",
+        "How to reduce belly fat in 7 days?",
+        "How can I lose 5kg in a month without going to the gym?",
+        "Can I lose 20 kg in 1 month?",
+        "How to lose weight fastly?"
+      ]
+    },
+    {
+      "Parent Question": "How to lose weight in 7 days without gym?",
+      "Questions": [
+        "How to have a slim face?",
+        "Can I skip gym for 3 days?",
+        "How to get a flat tummy fast naturally?",
+        "How to remove belly fat?",
+        "Is gym necessary for fat loss?",
+        "What is a military diet?",
+        "How can I lose 5kg in 7 days?",
+        "What drink burns the most fat?"
+      ]
+    },
+    {
+      "Parent Question": "how to lose weight without counting calories",
+      "Questions": [
+        "Is it possible to lose weight without counting calories?",
+        "What can I do instead of counting calories?",
+        "What is the 30/30/30 rule for weight loss?",
+        "Can you lose weight without eating calories?"
+      ]
+    },
+    {
+      "Parent Question": "Is it possible to lose weight without counting calories?",
+      "Questions": [
+        "Is 1500 calories enough?",
+        "Is 1200 calories enough to lose weight without exercise?",
+        "How to cut 500 calories a day?",
+        "How much weight will I lose if I cut 1000 calories a day?",
+        "How to stop calorie counting?",
+        "How to gain weight fast in 1 week?"
+      ]
+    },
+    {
+      "Parent Question": "What can I do instead of counting calories?",
+      "Questions": [
+        "How to stay lean without counting calories?",
+        "What foods burn calories?",
+        "Can you lose weight just by eating less?",
+        "Can I lose fat without tracking?",
+        "How many calories do I burn a day?",
+        "What is the healthiest thing to eat to lose weight?",
+        "Should I count calories or just eat healthy?",
+        "Is 100 calories of chocolate the same as 100 calories of fruit?",
+        "What are high-calorie foods?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose weight without eating calories?",
+      "Questions": [
+        "What foods are 0 calories?",
+        "How many calories are in 1 kg?",
+        "Will I lose weight if I eat once a day?",
+        "Is 1200 calories too low?",
+        "How many calories do 10,000 steps burn?",
+        "Is 1500 calories too low?",
+        "What are the 10 lowest calorie foods?"
+      ]
+    },
+    {
+      "Parent Question": "how to read nutrition labels for weight loss",
+      "Questions": [
+        "How to read a food label to lose weight?",
+        "What should my nutritional intake be to lose weight?",
+        "How to read fat on nutrition labels?",
+        "What are the 10 rules for reading a nutritional label?"
+      ]
+    },
+    {
+      "Parent Question": "How to read a food label to lose weight?",
+      "Questions": [
+        "What is the 5/20 rule?",
+        "How do I measure my food to lose weight?",
+        "What ingredients to look for when losing weight?",
+        "How to tell if something is high in protein?",
+        "How much show I eat to lose weight?",
+        "How to calculate calories from a nutrition label?"
+      ]
+    },
+    {
+      "Parent Question": "What should my nutritional intake be to lose weight?",
+      "Questions": [
+        "What nutrition is best for fat loss?",
+        "How many calories do 10,000 steps burn?",
+        "How many calories are in 1 kg?",
+        "What is the 30 30 30 diet?",
+        "What nutrient burns fat?",
+        "Which intake is best for weight loss?",
+        "What is the 50 20 rule in nutrition?",
+        "How do you calculate weight loss in nutrition?",
+        "Is 1500 calories good for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "How to read fat on nutrition labels?",
+      "Questions": [
+        "How do you read labels to lose weight?",
+        "Are kcal the same as calories?",
+        "How much sugar per 100g is okay?",
+        "How many kcal per day?",
+        "What if a food label says no cholesterol?",
+        "How much salt per 100g is okay?",
+        "How do you read a nutrition label diagram?",
+        "Should I look at cholesterol or saturated fat?",
+        "Is energy the same as calories?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 10 rules for reading a nutritional label?",
+      "Questions": [
+        "How to know if a food is low in fat?",
+        "How many grams of fat per day?",
+        "What are the 3 most important things to know about nutrition labels?",
+        "What is the 10 10 5 rule for nutrition?",
+        "What does 95 fat-free mean?",
+        "What is the 5/20 rule?",
+        "How many grams of sugar per day?"
+      ]
+    },
+    {
+      "Parent Question": "how to reduce sugar cravings naturally",
+      "Questions": [
+        "How can I stop myself craving sugar?",
+        "What deficiency causes sugar cravings?",
+        "What should I eat if I crave sugar?",
+        "What drink stops sugar cravings?"
+      ]
+    },
+    {
+      "Parent Question": "How can I stop myself craving sugar?",
+      "Questions": [
+        "What blocks sugar cravings?",
+        "What does a sugar face look like?",
+        "Why am I craving sugar so badly?",
+        "What happens if you stop eating sugar for 14 days?",
+        "What is the fastest way to detox from sugar?",
+        "How to satisfy a sweet tooth without sugar?"
+      ]
+    },
+    {
+      "Parent Question": "What deficiency causes sugar cravings?",
+      "Questions": [
+        "How do I stop eating sugar?",
+        "What hormone controls sugar cravings?",
+        "What should I eat if I crave chips?",
+        "How do I stop my body from craving sugar?",
+        "What to eat instead of chocolate?",
+        "What is the best supplement for sugar cravings?",
+        "What your body needs when you crave sugar?",
+        "What to eat when you crave bread?",
+        "How much sugar per day?"
+      ]
+    },
+    {
+      "Parent Question": "What should I eat if I crave sugar?",
+      "Questions": [
+        "What do I lack if I crave sugar?",
+        "What happens if you stop eating sugar for 30 days?",
+        "How long do sugar cravings last?",
+        "Should I eat fruit if I crave sugar?",
+        "Why am I craving sugar so much?",
+        "What to eat for cravings?",
+        "How can I stop my body craving sugar?",
+        "Why is sugar so addictive?",
+        "Do bananas help sugar cravings?"
+      ]
+    },
+    {
+      "Parent Question": "What drink stops sugar cravings?",
+      "Questions": [
+        "Is there a supplement to stop sugar cravings?",
+        "Does lemon water reduce sugar cravings?",
+        "How to control sugar levels?",
+        "What am I lacking if I crave sugar?",
+        "What drug stops sugar cravings?",
+        "How do I cut sugar out of my diet?",
+        "What is the main cause of sugar cravings?",
+        "Does salt stop sugar cravings?",
+        "How to get sugar out of your system immediately?"
+      ]
+    },
+    {
+      "Parent Question": "how to stay consistent with workouts for weight loss",
+      "Questions": [
+        "Will I lose weight if I workout consistently?",
+        "What is the 3-3-3 rule for weight loss?",
+        "How can I be consistent with weight loss?",
+        "How do I stay consistent in working out?"
+      ]
+    },
+    {
+      "Parent Question": "Will I lose weight if I workout consistently?",
+      "Questions": [
+        "How many calories are in 1 kg?",
+        "Will I get skinnier if I stop working out?",
+        "Is gym 5 days a week enough?",
+        "Will I get fat again if I stop working out?",
+        "Is 20 minutes of exercise a day enough to lose weight?",
+        "Why am I gaining weight after working out for 3 months?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 3-3-3 rule for weight loss?",
+      "Questions": [
+        "Does 30/30/30 really work?",
+        "Should I eat 3 times a day to lose weight?",
+        "What is 30g protein 30 minutes waking up?",
+        "What are the three C's of weight loss?",
+        "How does eating every 3 hours help you lose weight?",
+        "What is the max 3 day weight loss?",
+        "What is the number one rule to losing weight?",
+        "How to lose belly fat 3?",
+        "Why eat protein within 30 minutes of waking?"
+      ]
+    },
+    {
+      "Parent Question": "How can I be consistent with weight loss?",
+      "Questions": [
+        "How to slim down quickly?",
+        "What drink burns the most belly fat?",
+        "Is 5 months enough time to get in shape?",
+        "How to get skinny thighs?",
+        "How many kg should you lose in a month?",
+        "Which exercise is best for weight loss?",
+        "What exercise burns the most calories?",
+        "Why is losing weight so hard?",
+        "How to lose 1kg a week?"
+      ]
+    },
+    {
+      "Parent Question": "How do I stay consistent in working out?",
+      "Questions": [
+        "How do I make sure I workout everyday?",
+        "What exercises to do to lose belly fat?",
+        "How much exercise per day to lose weight?",
+        "Why am I not losing weight working out 5 days a week?",
+        "How consistent should I workout to see results?",
+        "Should I go to the gym every day?",
+        "How to start working out to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "how to stay motivated during a weight loss journey",
+      "Questions": [
+        "How to keep yourself motivated for weight loss?",
+        "Why can't I stay motivated to lose weight?",
+        "What is the 30/30/30 rule for weight loss?",
+        "How to get inspired for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "How to keep yourself motivated for weight loss?",
+      "Questions": [
+        "What is the biggest motivation to lose weight?",
+        "How much weight can I lose in 1 month?",
+        "How to get in the mindset to lose weight?",
+        "What is a realistic weight loss goal?",
+        "How to mentally prepare for weight loss?",
+        "How to increase metabolism faster?"
+      ]
+    },
+    {
+      "Parent Question": "Why can't I stay motivated to lose weight?",
+      "Questions": [
+        "How do depressed people stay motivated to lose weight?",
+        "How to start a weight loss journey?",
+        "How do I hold myself accountable for weight loss?",
+        "How can I lose weight fast without motivation?",
+        "How to lose weight fast in 2 weeks?",
+        "How much water should I drink to lose weight?",
+        "Why am I so unmotivated to diet?",
+        "How much weight can you lose in a month?",
+        "How to lose weight in 7 days?"
+      ]
+    },
+    {
+      "Parent Question": "How to get inspired for weight loss?",
+      "Questions": [
+        "Why can't I motivate myself to lose weight?",
+        "What is the trick to weight loss?",
+        "How to self motivate?",
+        "How to keep yourself motivated for weight loss?",
+        "Who is the best influencer to lose weight?",
+        "What is the biggest motivation to lose weight?",
+        "How to lose weight fast like actors?"
+      ]
+    },
+    {
+      "Parent Question": "how to stop late night snacking",
+      "Questions": [
+        "Why am I snacking late at night?",
+        "How to stop compulsive eating at night?",
+        "Will I lose weight if I stop late night snacking?",
+        "How do I train my body to stop snacking?"
+      ]
+    },
+    {
+      "Parent Question": "Why am I snacking late at night?",
+      "Questions": [
+        "How to control late-night cravings?",
+        "What time should you stop eating to lose belly fat?",
+        "How to stop sleep eating naturally?",
+        "How to stop cravings instantly?",
+        "Is night eating a disorder?",
+        "How to stop mindless snacking?"
+      ]
+    },
+    {
+      "Parent Question": "How to stop compulsive eating at night?",
+      "Questions": [
+        "How to stop bingeing?",
+        "Why am I so hungry at night even after eating?",
+        "How do I gain self control over eating?",
+        "What is orthorexia?",
+        "How long can you go without food?",
+        "Should I eat if I'm hungry late at night?",
+        "How to resist the urge to eat?",
+        "What causes late night cravings?",
+        "How do I know if I have an eating disorder?"
+      ]
+    },
+    {
+      "Parent Question": "Will I lose weight if I stop late night snacking?",
+      "Questions": [
+        "Is it normal to lose 1kg overnight?",
+        "Will I gain weight if I sleep after eating?",
+        "Is it OK to skip night meal?",
+        "How much weight can you lose with 10,000 steps a day?",
+        "How to lose belly fat at night?",
+        "How to stop nighttime eating syndrome?",
+        "Which sleeping position is best to reduce belly fat?",
+        "How to lose belly fat naturally in 1 week?",
+        "How to control overeating?"
+      ]
+    },
+    {
+      "Parent Question": "How do I train my body to stop snacking?",
+      "Questions": [
+        "How do you beat snack addiction?",
+        "Why do I unconsciously eat fast?",
+        "How do I stop craving snacks all the time?",
+        "How do I stop snacking so much at night?",
+        "Why is snacking so addictive?",
+        "How to end mindless eating?",
+        "How can I stay full without snacking?"
+      ]
+    },
+    {
+      "Parent Question": "how to tone your body while losing weight",
+      "Questions": [
+        "Can I get toned while losing weight?",
+        "How do you keep skin tight while losing weight?",
+        "How to tighten the body when losing weight?",
+        "What is the fastest way to tone and tighten your body?"
+      ]
+    },
+    {
+      "Parent Question": "Can I get toned while losing weight?",
+      "Questions": [
+        "Should I tone or lose weight first?",
+        "How to tone in 30 days?",
+        "How to be toned but not bulky?",
+        "Can you tone up while fat?",
+        "How long does it take to tone up after losing weight?",
+        "How to slim and tone?"
+      ]
+    },
+    {
+      "Parent Question": "How do you keep skin tight while losing weight?",
+      "Questions": [
+        "Will losing 20kg cause loose skin?",
+        "Does fat get jiggly before you lose it?",
+        "What exercise is best for tightening skin?",
+        "Is it loose skin or belly fat?",
+        "What is considered rapid weight loss?",
+        "How to avoid saggy skin after weight loss?",
+        "Will I get loose skin if I lose 10kg?",
+        "How to plump face after weight loss?",
+        "Can you tighten really loose skin?"
+      ]
+    },
+    {
+      "Parent Question": "How to tighten the body when losing weight?",
+      "Questions": [
+        "How to treat skin while losing weight?",
+        "How long does it take to tone your body as a female?",
+        "How can I flatten my loose belly?",
+        "How do you tone your body as you lose weight?",
+        "How long does it take for skin to tighten after weight loss?",
+        "What exercises prevent loose skin during weight loss?",
+        "How can I love my body while losing weight?",
+        "Is it loose skin or fat?",
+        "How can I tighten my whole body?"
+      ]
+    },
+    {
+      "Parent Question": "What is the fastest way to tone and tighten your body?",
+      "Questions": [
+        "What is the best exercise for toning the whole body?",
+        "How to go from skinny fat to toned?",
+        "Does walking tone your body?",
+        "Can I tone up in 2 weeks?",
+        "How to tone belly fat?",
+        "Can you tone your body while losing weight?",
+        "How long will it take to tone my body?"
+      ]
+    },
+    {
+      "Parent Question": "how to track progress beyond the scale",
+      "Questions": [
+        "How to track progress without scale?",
+        "How do you track progress over time?",
+        "How do you track strength progress?",
+        "How do you track progress success?"
+      ]
+    },
+    {
+      "Parent Question": "How to track progress without scale?",
+      "Questions": [
+        "How can I measure my progress?",
+        "How to tell if you're fat without a scale?",
+        "What can I use instead of a scale?",
+        "How is progress tracked?",
+        "Can you lose weight without the scale moving?",
+        "Can body measurements change daily?"
+      ]
+    },
+    {
+      "Parent Question": "How do you track progress over time?",
+      "Questions": [
+        "How can I monitor progress?",
+        "How do I record my progress?",
+        "How do you track performance over time?",
+        "How do you calculate progress?",
+        "How do I track task progress?",
+        "How can I track my progress on a goal?",
+        "Should I track my progress?",
+        "How am I progressing on my goals?",
+        "How do you document your progress?"
+      ]
+    },
+    {
+      "Parent Question": "How do you track strength progress?",
+      "Questions": [
+        "How to see gym progress?",
+        "How do you plan to track your progress?",
+        "What is the best way to progress strength?",
+        "How do you know if you are getting stronger?",
+        "How to record gym progress?",
+        "How to progressive overload?",
+        "How do you measure muscle progress?",
+        "How many exercises per gym session?",
+        "How do personal trainers track progress?"
+      ]
+    },
+    {
+      "Parent Question": "How do you track progress success?",
+      "Questions": [
+        "How do you track KPI progress?",
+        "How will I measure my success?",
+        "How to measure task progress?",
+        "How can you track your progress?",
+        "How do you measure success of a process?",
+        "How to measure an objective?",
+        "How to keep track of goals?",
+        "Why do we track progress?",
+        "What is track of progress?"
+      ]
+    },
+    {
+      "Parent Question": "intermittent fasting for fat loss",
+      "Questions": [
+        "Can you lose fat with intermittent fasting?",
+        "How to lose 2kg in a week with intermittent fasting?",
+        "How long does it take to lose 10 kg with intermittent fasting?",
+        "How many hours of intermittent fasting to burn fat?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose fat with intermittent fasting?",
+      "Questions": [
+        "Why am I not losing weight on 16:8 fasting?",
+        "Is it better to fast 12 or 16 hours?",
+        "Does intermittent fasting melt belly fat?",
+        "What are the results of 4 weeks of 16:8 fasting?",
+        "Why is 16 hours the magic number for fasting?",
+        "How to lose weight fast in 2 weeks?"
+      ]
+    },
+    {
+      "Parent Question": "How to lose 2kg in a week with intermittent fasting?",
+      "Questions": [
+        "Can I lose 20 kgs in 2 months with intermittent fasting?",
+        "What happens after 1 month of intermittent fasting?",
+        "Can I lose 5kg in a month?",
+        "Is losing 6 kg in 2 months healthy?",
+        "Does coffee break a fast?",
+        "Can I lose 10 kg in a month with intermittent fasting?",
+        "How much fat is burned in a 16 hour fast?",
+        "How many calories are in 1 kg?",
+        "Is it possible to lose 10kg in a month?"
+      ]
+    },
+    {
+      "Parent Question": "How long does it take to lose 10 kg with intermittent fasting?",
+      "Questions": [
+        "How to lose 10 kg in 7 days?",
+        "What is the best fasting schedule?",
+        "How to lose belly fat fast?",
+        "What happens after 3 months of intermittent fasting?",
+        "What is a realistic time to lose 10kg?",
+        "Why am I not losing weight on intermittent fasting?",
+        "Is losing 5 kg in a month healthy?",
+        "Is one meal a day fasting healthy?",
+        "Is fasting better than a calorie deficit?"
+      ]
+    },
+    {
+      "Parent Question": "How many hours of intermittent fasting to burn fat?",
+      "Questions": [
+        "Which meal is best to skip for intermittent fasting?",
+        "Will intermittent fasting burn belly fat?",
+        "Does sleep count as fasting?",
+        "How do I burn the most fat with intermittent fasting?",
+        "What not to eat during intermittent fasting?",
+        "What is Stage 1 of fat burning?",
+        "How to lose 2kg in a week with intermittent fasting?",
+        "How do you know if your body is in fat burning mode?"
+      ]
+    },
+    {
+      "Parent Question": "keto vs low carb diet which is better for weight loss",
+      "Questions": [
+        "Is low-carb or keto better for weight loss?",
+        "Can you lose weight by cutting carbs but not keto?",
+        "Is low-carb the best way to lose belly fat?",
+        "Is keto the most effective weight loss diet?"
+      ]
+    },
+    {
+      "Parent Question": "Is low-carb or keto better for weight loss?",
+      "Questions": [
+        "Does low-carb really burn fat?",
+        "What are the 9 rules of keto?",
+        "Is it better to burn fat or carbs?",
+        "Can you eat rice on keto?",
+        "How fast can you lose weight on keto?",
+        "What are the risks of the keto diet?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose weight by cutting carbs but not keto?",
+      "Questions": [
+        "Why am I not losing weight on low-carb keto diet?",
+        "When to stop keto?",
+        "What happens if I eat no carbs for 2 weeks?",
+        "Should I do keto or low-carb?",
+        "Will I get fat if I stop keto?",
+        "Will I lose belly fat if I stop eating carbs?",
+        "Will I burn fat if I don't eat carbs?",
+        "Why am I gaining weight on a low-carb diet?",
+        "Is keto better than low calorie?"
+      ]
+    },
+    {
+      "Parent Question": "Is low-carb the best way to lose belly fat?",
+      "Questions": [
+        "What's the worst carb for belly fat?",
+        "How can I speed up weight loss on a low carb diet?",
+        "What burns the most belly fat?",
+        "Can you lose belly fat on keto?",
+        "What happens if I eat no carbs for a month?",
+        "How to lose stomach fat quickly?",
+        "What carb is best for belly fat?",
+        "How to fast to lose weight?",
+        "How can I reduce my tummy in 7 days?"
+      ]
+    },
+    {
+      "Parent Question": "Is keto the most effective weight loss diet?",
+      "Questions": [
+        "Why do people lose weight so fast on keto?",
+        "What is the best diet to lose weight fast?",
+        "How to burn fat instead of carbs?",
+        "Why am I not losing weight on keto after 2 weeks?",
+        "What are the disadvantages of the keto diet?",
+        "Are eggs keto?",
+        "How to increase metabolism faster?",
+        "How much weight can you lose in 1 week on keto?"
+      ]
+    },
+    {
+      "Parent Question": "meal prep ideas for weight loss on a budget",
+      "Questions": [
+        "How do you meal prep on a tight budget?",
+        "Is meal prepping good for weight loss?",
+        "What is the $5 meal plan?",
+        "Which meal prep is best for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "How do you meal prep on a tight budget?",
+      "Questions": [
+        "What meal prep lasts 5 days?",
+        "Does meal prepping actually save money?",
+        "Can you meal prep for 7 days?",
+        "How do I plan a low cost meal?",
+        "Is it cheaper to meal prep yourself?",
+        "How long can you keep meal prep in the fridge?"
+      ]
+    },
+    {
+      "Parent Question": "Is meal prepping good for weight loss?",
+      "Questions": [
+        "How to meal prep to lose belly fat?",
+        "What is the best meal for weight loss?",
+        "Is rice good for weight loss?",
+        "How do beginners meal prep for weight loss?",
+        "Is chicken and rice good for weight loss?",
+        "How many calories a day to lose weight?",
+        "What is the healthiest meal prep?",
+        "Do meal plans help lose weight?",
+        "Can I eat the same meal prep everyday?"
+      ]
+    },
+    {
+      "Parent Question": "What is the $5 meal plan?",
+      "Questions": [
+        "What does 5 meals a day look like?",
+        "What is the 5 2 money diet?",
+        "What's in a McDonald's Biggie bag?",
+        "Does eating 5 meals a day help you lose weight?",
+        "How does 5 dinners 1 hour work?",
+        "What is a frugal meal?",
+        "What is McDonald's $5 meal deal?",
+        "What is the 5 1 eating plan?",
+        "What is the $5 cravings box?"
+      ]
+    },
+    {
+      "Parent Question": "Which meal prep is best for weight loss?",
+      "Questions": [
+        "Will I lose weight if I meal prep?",
+        "How to lose 10 kg weight in 7 days?",
+        "Which fruits are best for weight loss?",
+        "What meal is most important for weight loss?",
+        "Is it cheaper to meal prep or buy?",
+        "Which prep makes you lose weight?",
+        "What to eat for weight loss in 7 days?",
+        "Which meal is better to skip for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "mindful eating techniques for weight loss",
+      "Questions": [
+        "Can you lose weight with mindful eating?",
+        "How to use mindfulness to lose weight?",
+        "What are the 3 R's of mindful eating?",
+        "What are the 5 steps to eat with weight loss in mind?"
+      ]
+    },
+    {
+      "Parent Question": "Can you lose weight with mindful eating?",
+      "Questions": [
+        "How to practice mindful eating?",
+        "How many calories should I eat in a day to lose weight?",
+        "How is mindful eating different than dieting?",
+        "Does anyone lose weight with intuitive eating?",
+        "What does mindful eating look like?",
+        "Does portion control help with weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "How to use mindfulness to lose weight?",
+      "Questions": [
+        "How can I train my mind to lose weight?",
+        "What is the 3 step mindfulness exercise?",
+        "What is the difference between intuitive eating and mindful eating?",
+        "Is 10 minutes of mindfulness enough?",
+        "What is the slimpod diet?",
+        "How to do a mindfulness walk?",
+        "How many minutes a day should you practice mindfulness?",
+        "How many calories per day to lose weight?",
+        "How can we practice mindful eating?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 3 R's of mindful eating?",
+      "Questions": [
+        "What is the mindful eating theory?",
+        "How do you practice the 3 Rs?",
+        "What are unhealthy eating habits?",
+        "What is an example of mindless eating?",
+        "How to eat slower and more mindfully?",
+        "What are the barriers to mindful eating?",
+        "What is the difference between mindless eating and mindful eating?",
+        "How to eat with intention?",
+        "What are good eating habits?"
+      ]
+    },
+    {
+      "Parent Question": "What are the 5 steps to eat with weight loss in mind?",
+      "Questions": [
+        "How to lose 4 kg in a week?",
+        "What is the 30/30/30 rule for weight loss?",
+        "What drink burns the most belly fat?",
+        "How to lose 1kg a week?",
+        "What are the 7 tips for weight loss?",
+        "How to lose tummy fat?",
+        "How many kilometers to walk to lose 1kg in a week?",
+        "How to reduce weight in 7 days?"
+      ]
+    },
+    {
+      "Parent Question": "morning vs evening workouts which is better for fat loss",
+      "Questions": [
+        "Is it better to workout in the morning or evening for weight loss?",
+        "What time of day is best to workout for fat loss?",
+        "Do you burn more fat in the morning or evening?",
+        "Is it better to work out in the morning or evening?"
+      ]
+    },
+    {
+      "Parent Question": "Is it better to workout in the morning or evening for weight loss?",
+      "Questions": [
+        "Is it better to workout in the morning or night to lose belly fat?",
+        "Is morning better than night for weight training?",
+        "What is the best time to do exercise to reduce belly fat?",
+        "Does exercise in the morning burn more fat?",
+        "Does evening exercise burn fat?",
+        "What exercise burns the most belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "What time of day is best to workout for fat loss?",
+      "Questions": [
+        "Is it better to fast in the morning or evening for weight loss?",
+        "Is working out at night bad for weight loss?",
+        "How to lose belly fat in 1 week?",
+        "Which workout is best for fat loss, morning or evening?",
+        "What exercise burns the most calories?",
+        "How long should a morning workout be?",
+        "Do you burn more fat in the morning or night?",
+        "Is it better to workout first thing in the morning or in the evening?",
+        "Can I do belly fat exercise at night?"
+      ]
+    },
+    {
+      "Parent Question": "Do you burn more fat in the morning or evening?",
+      "Questions": [
+        "When is the best time to workout for fat loss?",
+        "Are you skinnier in the morning or at night?",
+        "Is it better to train in the morning or evening?",
+        "Is it better to run in the morning or evening for weight loss?",
+        "Will 100 crunches a day trim fat in the belly?",
+        "How many kg can I lose in a month by running?",
+        "Are morning workouts better for fat loss?",
+        "When do you burn the most fat?",
+        "Which exercise is best for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "Is it better to work out in the morning or evening?",
+      "Questions": [
+        "Is it better to workout in the morning or evening for weight gain?",
+        "Is it okay to workout 30 minutes after waking up?",
+        "How late is too late to workout?",
+        "Which time workout is best for weight loss?",
+        "Should I workout on an empty stomach?",
+        "Can I workout twice a day?",
+        "Can I do exercise at night for weight loss?",
+        "Which time is best for the gym?"
+      ]
+    },
+    {
+      "Parent Question": "strength training vs cardio for weight loss",
+      "Questions": [
+        "Is cardio or strength training better for weight loss?",
+        "Can I lose weight by lifting weights only?",
+        "What is the 30/30/30 method of fat loss?",
+        "What happens if you only lift weights and no cardio?"
+      ]
+    },
+    {
+      "Parent Question": "Is cardio or strength training better for weight loss?",
+      "Questions": [
+        "What burns fat the most?",
+        "Is 30 minutes of cardio a day enough?",
+        "Which exercise is best for weight loss?",
+        "Should I do more cardio or weights to lose belly fat?",
+        "Which cardio burns the most fat?",
+        "Should I do cardio or weights first?"
+      ]
+    },
+    {
+      "Parent Question": "Can I lose weight by lifting weights only?",
+      "Questions": [
+        "Can I lose belly fat by lifting weights?",
+        "How to increase metabolism faster?",
+        "Why am I gaining weight after working out for 3 weeks?",
+        "Does strength training burn fat faster than cardio?",
+        "What exercise burns the most belly fat?",
+        "Does muscle burn fat while resting?",
+        "Can I skip cardio and just lift weights?",
+        "Is 30 minutes of weight lifting enough to lose weight?",
+        "Is walking enough cardio?"
+      ]
+    },
+    {
+      "Parent Question": "What happens if you only lift weights and no cardio?",
+      "Questions": [
+        "Why don t bodybuilders do cardio?",
+        "What is the best exercise to lose weight?",
+        "When to skip cardio?",
+        "What cardio is best for fat loss?",
+        "What exercise burns the most calories?",
+        "Is it better to lift weights or do cardio first?",
+        "Will I gain weight if I don't do cardio?",
+        "Will I lose muscle if I only do cardio?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits of cold showers for fat loss",
+      "Questions": [
+        "Do cold showers help burn fat?",
+        "What happens after 30 days of cold showers?",
+        "Does cold burn belly fat?",
+        "Is cold water good for fat loss?"
+      ]
+    },
+    {
+      "Parent Question": "Do cold showers help burn fat?",
+      "Questions": [
+        "How many calories does a 30 minute cold bath burn?",
+        "Do hot showers remove fat?",
+        "How many calories does a 10 minute cold shower burn?",
+        "Does hot water burn fat?",
+        "Do cold showers actually work?",
+        "Does cold water reduce face fat?"
+      ]
+    },
+    {
+      "Parent Question": "What happens after 30 days of cold showers?",
+      "Questions": [
+        "Is 2 minute cold shower good?",
+        "Do cold plunges burn fat?",
+        "Do cold showers help hair growth?",
+        "What are the disadvantages of cold showers?",
+        "How does cold water affect your hair?",
+        "Is 5 minutes too long for a cold shower?",
+        "Does cold water burn belly fat?",
+        "Is it better to take a cold shower in the morning or at night?",
+        "Do cold showers boost testosterone?"
+      ]
+    },
+    {
+      "Parent Question": "Does cold burn belly fat?",
+      "Questions": [
+        "What burns white fat?",
+        "Does cold remove fat?",
+        "How to reduce belly fat?",
+        "Do ice baths reduce body fat?",
+        "How to trigger the fat burning process?",
+        "Does heat burn fat?",
+        "Does sleeping cold burn fat?",
+        "How to activate brown fat?",
+        "How to increase metabolism faster?"
+      ]
+    },
+    {
+      "Parent Question": "Is cold water good for fat loss?",
+      "Questions": [
+        "Is cold water good for hair?",
+        "How many calories does 1 litre of water burn?",
+        "How to weight loss?",
+        "Is cold water good for the face?",
+        "How much weight can I lose in 1 month by drinking hot water?",
+        "What to drink to reduce belly fat?",
+        "What happens after 30 days of cold showers?",
+        "Can cold showers burn fat?",
+        "How many calories does a 10 minute cold bath burn?"
+      ]
+    },
+    {
+      "Parent Question": "the best weight loss strategies for women over 40",
+      "Questions": [
+        "What is the fastest way for a 40 year old woman to lose weight?",
+        "How can a 40 year old woman lose belly fat?",
+        "What should a 40 year old woman eat to lose weight?",
+        "How do I jumpstart my weight loss after 40?"
+      ]
+    },
+    {
+      "Parent Question": "What is the fastest way for a 40 year old woman to lose weight?",
+      "Questions": [
+        "How to speed up metabolism after 40?",
+        "How to lose weight fast in 2 weeks 10 kg female?",
+        "How can a 42 year old woman lose weight?",
+        "How to reset hormones to lose weight?",
+        "What is the best fasting method for a 40 year old woman?",
+        "What exercise burns the most belly fat for females?"
+      ]
+    },
+    {
+      "Parent Question": "How can a 40 year old woman lose belly fat?",
+      "Questions": [
+        "How to get rid of hormonal belly?",
+        "What drink burns the most belly fat?",
+        "How can I tone my stomach in my 40s?",
+        "What burns the most belly fat?",
+        "What does a hormonal belly look like?",
+        "How can I reduce my tummy in 7 days?",
+        "How to jumpstart weight loss after 40?",
+        "Will intermittent fasting reduce belly fat?",
+        "Why is my belly fat so high after 40?"
+      ]
+    },
+    {
+      "Parent Question": "What should a 40 year old woman eat to lose weight?",
+      "Questions": [
+        "What is the 30/30/30 rule for weight loss?",
+        "What is the healthiest diet for over 40?",
+        "How much milk should a 40 year old woman drink?",
+        "What is the best exercise for a 40 year old woman?",
+        "How to increase metabolism faster?",
+        "Why is it so hard for a woman over 40 to lose weight?",
+        "What is the menopause diet?",
+        "How many calories should a woman over 40 eat per day?",
+        "How can I get lean after 40?"
+      ]
+    },
+    {
+      "Parent Question": "How do I jumpstart my weight loss after 40?",
+      "Questions": [
+        "How can I jumpstart my metabolism at 40?",
+        "How much walking to lose weight?",
+        "What is the best exercise to lose weight after 40?",
+        "How to lose hormonal belly fat after 40?",
+        "What is the fastest way for a 40 year old woman to lose weight?",
+        "What should a 40 year old woman eat to lose weight?",
+        "How did Kelly Clarkson lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "the impact of stress on weight gain and how to manage it",
+      "Questions": [
+        "How to manage weight gain from stress?",
+        "How to manage weight loss due to stress?",
+        "How to bounce back from weight gain?",
+        "How fast can stress make you lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "How to manage weight gain from stress?",
+      "Questions": [
+        "How stress can affect your weight?",
+        "How to manage stress?",
+        "How to get rid of stress fat?",
+        "How to reduce stress hormones?",
+        "Can stress cause weight gain and bloating?",
+        "What can stress cause to your body?"
+      ]
+    },
+    {
+      "Parent Question": "How to manage weight loss due to stress?",
+      "Questions": [
+        "How to stress relief?",
+        "How to reverse cortisol weight gain?",
+        "How to increase metabolism faster?",
+        "How do you manage stress weight gain?",
+        "Does stress make you look different?",
+        "What is a stress belly?",
+        "How does stress affect weight?",
+        "How to maintain weight?",
+        "Can anxiety cause weight gain?"
+      ]
+    },
+    {
+      "Parent Question": "How to bounce back from weight gain?",
+      "Questions": [
+        "How to stop losing weight from stress?",
+        "How to reduce sudden weight gain?",
+        "Why is losing weight so hard?",
+        "How to prevent weight gain?",
+        "How to regain lost weight?",
+        "How to stop feeling bad about being fat?",
+        "How can I get skinny again after gaining weight?",
+        "How to jumpstart weight loss?",
+        "How to increase metabolism in body?"
+      ]
+    },
+    {
+      "Parent Question": "How fast can stress make you lose weight?",
+      "Questions": [
+        "How to stop stress?",
+        "Does stress make you look older?",
+        "Does overthinking cause weight gain?",
+        "How can I lose weight fast from stress?",
+        "How can you positively manage the stress caused by loss?",
+        "Can overthinking cause weight loss?",
+        "How do exciting activities relieve stress?",
+        "How to lose weight with anxiety?",
+        "What causes weight gain?"
+      ]
+    },
+    {
+      "Parent Question": "the role of fiber in weight loss",
+      "Questions": [
+        "How does fiber help in weight loss?",
+        "How much fiber do I need to lose weight?",
+        "What is the 30/30/30 rule for weight loss?",
+        "Does fiber cancel out fat?"
+      ]
+    },
+    {
+      "Parent Question": "How does fiber help in weight loss?",
+      "Questions": [
+        "Does fiber burn calories?",
+        "How to lose weight fast in 2 weeks?",
+        "Is fiber or protein better for weight loss?",
+        "Does fiber cancel out carbs?",
+        "What do 25 grams of fiber look like in a day?",
+        "When is the best time to take fiber supplements for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "How much fiber do I need to lose weight?",
+      "Questions": [
+        "Does fiber speed up metabolism?",
+        "What are the symptoms of too much fiber?",
+        "Does protein help you lose weight?",
+        "Is fiber good for losing belly fat?",
+        "How to increase metabolism faster?",
+        "Do fibre supplements work?",
+        "Does fiber reduce fat absorption?",
+        "What are the benefits of a high fiber diet?",
+        "How do I calculate my fibre intake for weight loss?"
+      ]
+    },
+    {
+      "Parent Question": "Does fiber cancel out fat?",
+      "Questions": [
+        "Does fiber melt belly fat?",
+        "Can too much fiber cause weight gain?",
+        "Are apples high in fiber?",
+        "Can fiber help you lose weight?",
+        "How to lose belly fat naturally in 1 week?",
+        "How to get 30 grams of fiber a day?",
+        "How to lose belly fat naturally?",
+        "Does fiber actually reduce calories?"
+      ]
+    },
+    {
+      "Parent Question": "the role of hydration in fat loss",
+      "Questions": [
+        "Why is water so good for fat loss?",
+        "Does dehydration reduce fat?",
+        "What is the 30/30/30 rule for weight loss?",
+        "Does drinking water help lose belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "Why is water so good for fat loss?",
+      "Questions": [
+        "Will I lose fat if I drink more water?",
+        "What causes rapid weight loss?",
+        "What is the water trick for weight loss?",
+        "Why should you wait 30 minutes to drink after eating?",
+        "Does drinking 3 litres of water help lose weight?",
+        "How to burn belly fat?"
+      ]
+    },
+    {
+      "Parent Question": "Does dehydration reduce fat?",
+      "Questions": [
+        "Does dehydrating remove fat?",
+        "Does water boost metabolism?",
+        "What drink burns the most belly fat?",
+        "Why is hydration important for fat loss?",
+        "Do fat cells fill with water?",
+        "How to increase metabolism faster?",
+        "Does drinking water flush out fat?",
+        "Does body fat go up when dehydrated?",
+        "Why am I so thirsty when losing weight?"
+      ]
+    },
+    {
+      "Parent Question": "Does drinking water help lose belly fat?",
+      "Questions": [
+        "How to lose stomach fat quickly?",
+        "Does warm water burn fat?",
+        "Does walking burn belly fat?",
+        "What burns the most stomach fat?",
+        "Does cold water burn belly fat?",
+        "Is it good to drink water immediately after eating?",
+        "Will I lose fat if I drink more water?",
+        "How to reduce belly fat in 7 days?"
+      ]
+    },
+    {
+      "Parent Question": "the truth about cheat meals and weight loss",
+      "Questions": [
+        "Does a cheat meal help you lose weight?",
+        "What is the 90/10 cheat meal rule?",
+        "Will I gain fat after a cheat meal?",
+        "How many cheat meals a month to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "Does a cheat meal help you lose weight?",
+      "Questions": [
+        "Is one cheat day a week ok?",
+        "What is the 80/20 rule diet?",
+        "How many calories is OK for a cheat meal?",
+        "Will a cheat meal ruin?",
+        "Can I eat 3000 calories on a cheat day?",
+        "How to increase metabolism faster?"
+      ]
+    },
+    {
+      "Parent Question": "What is the 90/10 cheat meal rule?",
+      "Questions": [
+        "Is pizza ok for a cheat meal?",
+        "Is fasting after a cheat day good?",
+        "What is the best cheat meal to have?",
+        "Do cheat days raise metabolism?",
+        "What does eating healthy 90% of the time look like?",
+        "Will one cheat meal make me gain weight?",
+        "Is one cheat day a month ok?",
+        "How long does cheat day weight last?",
+        "Can I have a cheat day on a calorie deficit?"
+      ]
+    },
+    {
+      "Parent Question": "Will I gain fat after a cheat meal?",
+      "Questions": [
+        "Does water weight go away?",
+        "Can I eat 5000 calories on cheat day?",
+        "What to do immediately after a cheat meal?",
+        "Will one cheat day ruin my weight loss?",
+        "How much weight can you lose in a month?",
+        "How many calories are in cheat day?",
+        "Do cheat meals reset metabolism?",
+        "Can one day ruin your diet?",
+        "What is the most weight you can lose in a day?"
+      ]
+    },
+    {
+      "Parent Question": "How many cheat meals a month to lose weight?",
+      "Questions": [
+        "Can I have a cheat meal everyday?",
+        "Can I eat out once a week and still lose weight?",
+        "Is 3 cheat days a month bad?",
+        "Is cheat meal once a week ok?",
+        "How many calories should I eat to lose weight?",
+        "How to have a proper cheat day?",
+        "Is it OK to have a cheat meal every 2 weeks?",
+        "Will I gain weight if I have a cheat day once a week?"
+      ]
+    },
+    {
+      "Parent Question": "walking for weight loss how many steps per day",
+      "Questions": [
+        "How many steps a day should I walk to lose weight?",
+        "Is walking 5000 steps a day good for weight loss?",
+        "How can I lose 10 kg by walking?",
+        "Is walking 7000 steps a day enough to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "How many steps a day should I walk to lose weight?",
+      "Questions": [
+        "How many steps to lose 1kg per day?",
+        "Is 20,000 steps a day good?",
+        "Why am I not losing weight walking 10,000 steps a day?",
+        "How many kilometres is 10,000 steps?",
+        "Can I lose weight by walking 30 minutes everyday?",
+        "How many steps to burn 500 calories?"
+      ]
+    },
+    {
+      "Parent Question": "Is walking 5000 steps a day good for weight loss?",
+      "Questions": [
+        "How many steps is 60 minutes of walking?",
+        "Why do fast walkers live longer?",
+        "How many calories are in 1 kg?",
+        "How many steps is 30 minutes of walking?",
+        "How much weight can I lose if I walk 10000 steps a day for 30 days?",
+        "What is the ideal steps per day?",
+        "How many steps to lose 1kg?",
+        "How many steps is a 45 minute walk?",
+        "Does walking count as exercise?"
+      ]
+    },
+    {
+      "Parent Question": "How can I lose 10 kg by walking?",
+      "Questions": [
+        "Is walking 2 hours a day too much?",
+        "What is a flat tummy walk?",
+        "How to lose 2kg in a month by walking?",
+        "How soon will I see results from walking?",
+        "How to lose 10 kg in 7 days?",
+        "Can I lose 5kg in a month by walking?",
+        "How did I lose 5kg in a month?",
+        "Can you lose belly fat by walking?",
+        "Can I lose 15 kgs in 2 months?"
+      ]
+    },
+    {
+      "Parent Question": "Is walking 7000 steps a day enough to lose weight?",
+      "Questions": [
+        "Will I lose weight if I walk 10000 steps a day for a month?",
+        "How many steps a day by age?",
+        "How many steps are in 1 km?",
+        "Can I lose weight walking 20,000 steps a day?",
+        "Is walking the secret to weight loss?",
+        "How much weight can I lose in 1 month by walking 6000 steps?",
+        "Does walking 5000 steps reduce belly fat?",
+        "How active am I if I walk 7000 steps a day?"
+      ]
+    },
+    {
+      "Parent Question": "weight loss myths debunked",
+      "Questions": [
+        "Is there a scientifically proven way to lose weight?",
+        "What is the 30/30/30 rule for weight loss?",
+        "How to lose 1kg a week?",
+        "Is it safe to lose 2 pounds a week?"
+      ]
+    },
+    {
+      "Parent Question": "Is there a scientifically proven way to lose weight?",
+      "Questions": [
+        "How to lose 4 kg in a week?",
+        "What is the true secret to losing weight?",
+        "How many kilometers to walk to lose 1kg in a week?",
+        "Is losing weight actually possible?",
+        "How to lose 10 kg weight in 7 days?",
+        "Why is belly fat so hard to lose?"
+      ]
+    },
+    {
+      "Parent Question": "How to lose 1kg a week?",
+      "Questions": [
+        "Is losing 2kg a week healthy?",
+        "How to lose 100g a day?",
+        "How many calories do 10,000 steps burn?",
+        "Can I lose noticeable weight in 2 weeks?",
+        "How to burn belly fat?",
+        "Is it hard to lose 1kg a day?",
+        "How to burn 7700 calories in a day?",
+        "What drink burns the most belly fat?",
+        "How to lose belly fat in 2 weeks?"
+      ]
+    },
+    {
+      "Parent Question": "Is it safe to lose 2 pounds a week?",
+      "Questions": [
+        "How to slim down quickly?",
+        "What exercise burns the most calories?",
+        "How much weight will I lose if I cut 500 calories a day?",
+        "Why is weight loss so slow?",
+        "How to fast properly?",
+        "Can I lose 5kg in 2 weeks?",
+        "What is the 30/30/30 rule for weight loss?",
+        "How can I lose 1kg a week?"
+      ]
+    },
+    {
+      "Parent Question": "weight loss workouts for beginners",
+      "Questions": [
+        "What is the best beginner exercise to lose weight?",
+        "Which exercise burns the most belly fat?",
+        "How to start exercising for weight loss?",
+        "Is working out 30 minutes a day enough to lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best beginner exercise to lose weight?",
+      "Questions": [
+        "How to lose belly fat fast?",
+        "How many squats per day?",
+        "What is the 1 best exercise to lose weight?",
+        "Can I lose weight in 4 weeks?",
+        "What exercise burns the most fat?",
+        "Will 2 hours of exercise help me lose weight?"
+      ]
+    },
+    {
+      "Parent Question": "How to start exercising for weight loss?",
+      "Questions": [
+        "What is the best gym routine for weight loss?",
+        "How many calories are in 1 kg?",
+        "Will I lose weight swimming 3 times a week?",
+        "How long should a beginner workout to lose weight?",
+        "What burns the most calories?",
+        "How to be fit in 1 week?",
+        "How to lose weight in 7 days?",
+        "How much weight can I lose in 1 month?",
+        "How do beginners lose fat at the gym?"
+      ]
+    },
+    {
+      "Parent Question": "Is working out 30 minutes a day enough to lose weight?",
+      "Questions": [
+        "What is the best time to exercise for weight loss?",
+        "How many steps to lose 1kg?",
+        "Will walking 10k a day lose weight?",
+        "Which exercise is best for weight loss?",
+        "What is the best time to work out?",
+        "Can you see results after 1 month of working out?",
+        "Is 1 hour at the gym enough to lose weight?"
       ]
       }
     ]
