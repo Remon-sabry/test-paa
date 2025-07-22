@@ -21817,11 +21817,134 @@
         "Does anything actually target belly fat?",
         "Does spot running reduce belly fat?",
         "Can I lose 20% body fat in 2 months?"
+       ]
+      }
+    ]
+  },
+  {
+  "knowledge_base_name": "DIGITAL_NOMAD_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "best destinations for digital nomads",
+      "Questions": [
+        "Where do most digital nomads go?",
+        "What are the best countries to visit as a digital nomad?",
+        "Where should I be a digital nomad?",
+        "Where is the best place to live as a nomad?"
       ]
+    },
+    {
+      "Parent Question": "how to become a digital nomad",
+      "Questions": [
+        "How do I become a digital nomad?",
+        "How do I start being a nomad?",
+        "How much money do I need to be a digital nomad?",
+        "What jobs can I do as a digital nomad?"
+      ]
+    },
+    {
+      "Parent Question": "digital nomad jobs and careers",
+      "Questions": [
+        "What does a digital nomad do for work?",
+        "What do digital nomads usually do?",
+        "What is a career nomad?",
+        "What is a job nomad?"
+      ]
+    },
+    {
+      "Parent Question": "essential tools for remote work",
+      "Questions": [
+        "What are remote work tools?",
+        "What equipment do you need to work remotely from home?",
+        "What technology is needed for remote work?",
+        "What skills do you need for remote work?"
+      ]
+    },
+    {
+      "Parent Question": "managing time zones as a remote worker",
+      "Questions": [
+        "How do you manage remote teams working across time zones?",
+        "What is the best time zone for remote work?",
+        "How do you manage time zone differences?",
+        "How do you handle working in different time zones interview questions?"
+      ]
+    },
+    {
+      "Parent Question": "packing essentials for digital nomads",
+      "Questions": [
+        "What do digital nomads pack?",
+        "What do you need as a digital nomad?",
+        "Is 30 too old to be a digital nomad?",
+        "Why is Bali good for digital nomads?"
+      ]
+    },
+    {
+      "Parent Question": "building a remote work routine",
+      "Questions": [
+        "How do I create a remote work plan?",
+        "How to structure a remote work day?",
+        "What is a remote work schedule?",
+        "How to create a schedule when you work from home?"
+      ]
+    },
+    {
+      "Parent Question": "visa options for digital nomads",
+      "Questions": [
+        "Which digital nomad visa is best?",
+        "What visa for digital nomad?",
+        "Which is the easiest digital nomad visa?",
+        "What are the best countries to visit as a digital nomad?"
+      ]
+    },
+    {
+      "Parent Question": "internet solutions for remote work",
+      "Questions": [
+        "What is the best internet for remote workers?",
+        "How to get internet for remote work?",
+        "How much internet do I need for remote work?",
+        "What are best practices when working remotely?"
+      ]
+    },
+    {
+      "Parent Question": "how to network as a digital nomad",
+      "Questions": [
+        "How to network as a digital nomad?",
+        "Is 30 too old to be digital nomad?",
+        "How to connect with other digital nomads?",
+        "Can networking be done remotely?"
+      ]
+    },
+    {
+      "Parent Question": "challenges of the digital nomad lifestyle",
+      "Questions": [
+        "What are the problems with digital nomads?",
+        "What are some of the challenges of nomadic life?",
+        "Is 30 too old to be digital nomad?",
+        "What problems do nomads face?"
+      ]
+    },
+    {
+      "Parent Question": "best countries with digital nomad visas",
+      "Questions": [
+        "Which country is best for a digital nomad visa?",
+        "Which countries have the most digital nomads?",
+        "What is the cheapest country for digital nomads?",
+        "Which is the easiest digital nomad visa to get?"
+      ]
+    },
+    {
+      "Parent Question": "passive income ideas for digital nomads",
+      "Questions": [
+        "How can I make $1000 a month in passive income?",
+        "How to make $100,000 in passive income?",
+        "How can I make $2000 a month in passive income?",
+        "How can I make $500 a month passive income?"
+     ]
       }
     ]
   }
 ]
+
 
 
 
