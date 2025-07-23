@@ -24860,6 +24860,101 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "MENTAL_HEALTH_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "anxiety relief techniques",
+      "Questions": [
+        "What is the 3 3 3 rule for anxiety?",
+        "What is the 5 5 5 method for anxiety?",
+        "How do I calm my anxiety in the moment?",
+        "What are the 5 C's of anxiety?"
+      ]
+    },
+    {
+      "Parent Question": "benefits of mindfulness",
+      "Questions": [
+        "What are the benefits of mindfulness?",
+        "Which is a common benefit of mindfulness?",
+        "What are the 10 benefits of meditation?",
+        "What is the main purpose of mindfulness?"
+      ]
+    },
+    {
+      "Parent Question": "breathing exercises for relaxation",
+      "Questions": [
+        "What does the 4-7-8 breathing technique do?",
+        "What is the best breathing technique to relax?",
+        "What breathing exercise can calm you down?",
+        "What is the 5 5 8 2 breathing technique?"
+      ]
+    },
+    {
+      "Parent Question": "building mental resilience",
+      "Questions": [
+        "How can we build mental resilience?",
+        "What are the 7 C's of resilience?",
+        "What are the 5 R's of resilience?",
+        "What is meant by mental resilience?"
+      ]
+    },
+    {
+      "Parent Question": "cognitive behavioral therapy techniques",
+      "Questions": [
+        "What are the techniques used in cognitive therapy?",
+        "What are the 5 steps of CBT?",
+        "What are the 5 components of cognitive behavioral therapy?",
+        "What are CBT exercises?"
+      ]
+    },
+    {
+      "Parent Question": "common signs of pet allergies",
+      "Questions": [
+        "How do I know if I am allergic to my pet?",
+        "What are the symptoms of pet allergies in humans?",
+        "What is the most common pet allergy?",
+        "How do you check for pet allergies?"
+      ]
+    },
+    {
+      "Parent Question": "deepak chopra meditation",
+      "Questions": [
+        "What type of meditation does Deepak Chopra do?",
+        "Is the 21-day meditation challenge free?",
+        "Why did Deepak Chopra leave the TM?",
+        "How did Deepak Chopra lose so much weight?"
+      ]
+    },
+    {
+      "Parent Question": "depression symptoms and treatment",
+      "Questions": [
+        "What is the best treatment for depression?",
+        "How to manage depressive symptoms?",
+        "What is the first treatment for depression?",
+        "How to calm a depressed mind?"
+      ]
+    },
+    {
+      "Parent Question": "emotional self regulation",
+      "Questions": [
+        "How to regulate yourself emotionally?",
+        "What is an example of emotional regulation?",
+        "Is emotional dysregulation the same as BPD?",
+        "Why is emotional regulation important?"
+      ]
+    },
+    {
+      "Parent Question": "gratitude journaling",
+      "Questions": [
+        "What is grateful journaling?",
+        "How to start a gratitude journaling?",
+        "What is the gratitude journaling theory?",
+        "How does gratitude journaling affect mental health?"
+      ]
+      }
+    ]
   }
 ]
 
