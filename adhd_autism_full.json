@@ -24955,8 +24955,1917 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "AI_FOR_HEALTHCARE_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "ai applications in genomic sequencing and gene therapy",
+      "Questions": [
+        "What are the applications of AI in gene therapy?",
+        "What are the applications of artificial intelligence in genomics?",
+        "How can AI be used in genetics?",
+        "How is AI used in bioinformatics?"
+      ]
+    },
+    {
+      "Parent Question": "What are the applications of AI in gene therapy?",
+      "Questions": [
+        "What is generative AI for genomics?",
+        "How is AI used in therapy?",
+        "How is AI used in DNA?",
+        "What are real life applications of gene therapy?",
+        "What is the role of AI in gene editing?",
+        "What are the main applications of artificial intelligence?"
+      ]
+    },
+    {
+      "Parent Question": "What are the applications of artificial intelligence in genomics?",
+      "Questions": [
+        "What is the most common application of genomics?",
+        "What are the applications of AI in neuroscience?",
+        "What is sequencing a genome?",
+        "How is AI used in gene therapy?",
+        "What are the applications of genomics technology?",
+        "Why is AI important in genetics?",
+        "What are the applications of genomic DNA?",
+        "What is the use of AI in bioinformatics?",
+        "What are genetic algorithms in AI?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used in genetics?",
+      "Questions": [
+        "What is the role of artificial intelligence in biological research?",
+        "What are some uses for artificial gene transfer?",
+        "How to use AI for transcription?",
+        "What is the main goal of genetic AI?",
+        "What is genome AI?",
+        "What is AI technique in biology?",
+        "How is AI used in gene editing?",
+        "How does genetic intelligence work?",
+        "What are the uses of artificial DNA?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in bioinformatics?",
+      "Questions": [
+        "Which AI is best for bioinformatics?",
+        "What is the application of bioinformatics in gene therapy?",
+        "How to use AI in applications?",
+        "What is genetic algorithm as used in AI?",
+        "What is generative AI in bioinformatics?",
+        "How is AI used in databases?",
+        "How is AI used in genomics?",
+        "What is the use of AI in transcription?",
+        "What is the application of AI in biology?"
+      ]
+    },
+    {
+      "Parent Question": "ai assisted robotic surgery advancements",
+      "Questions": [
+        "What are the new innovations in robotic surgery?",
+        "How does AI help robotic surgery?",
+        "How has robotic surgery advanced?",
+        "What is the future of robotic assisted surgery?"
+      ]
+    },
+    {
+      "Parent Question": "What are the new innovations in robotic surgery?",
+      "Questions": [
+        "What are the technologies for robot assisted surgery?",
+        "What is the latest robot technology?",
+        "What is the trend in robotic surgery?",
+        "Is the da Vinci Surgical Robot AI?",
+        "What are 2 examples of robotic surgery?",
+        "What are the benefits of robot assisted surgery?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help robotic surgery?",
+      "Questions": [
+        "What is an example of AI in surgery?",
+        "How can AI help in robotics?",
+        "What is the future of robotic medicine?",
+        "What are the current applications of AI in surgery?",
+        "What was the first surgery done by AI?",
+        "What is the success rate of AI surgery?",
+        "What is the new robotic surgery technology?",
+        "Will surgery be replaced by AI?",
+        "How is AI used in anesthesia?"
+      ]
+    },
+    {
+      "Parent Question": "How has robotic surgery advanced?",
+      "Questions": [
+        "How is AI used in robotic surgery?",
+        "Who is the most advanced surgical robot?",
+        "What are the breakthroughs of robotic surgery?",
+        "What are the disadvantages of AI in surgery?",
+        "Why robot assisted surgery?",
+        "Who is the leader in robotic surgery?",
+        "Who invented robotic surgery?",
+        "How many surgeries are performed by robots?",
+        "How efficient is robotic surgery?"
+      ]
+    },
+    {
+      "Parent Question": "What is the future of robotic assisted surgery?",
+      "Questions": [
+        "How has robotic surgery changed the world?",
+        "What is the growth rate of robotic-assisted surgery?",
+        "Is robotic-assisted surgery more expensive?",
+        "How does AI help in robotic surgery?",
+        "Is robotic surgery successful?",
+        "What is the future of robotics?",
+        "What is the future of robotics in healthcare?",
+        "How long does robotic surgery last?"
+      ]
+    },
+    {
+      "Parent Question": "ai driven drug repurposing for new treatments",
+      "Questions": [
+        "How is AI used in drug repurposing?",
+        "How is AI used for drug development?",
+        "What is an example of drug repurposing?",
+        "What company is using AI to develop new drugs?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in drug repurposing?",
+      "Questions": [
+        "What are examples of AI drugs?",
+        "How is AI used in treatment?",
+        "How is AI used in medicine today?",
+        "What is the first AI generated drug?",
+        "How is AI used in pharmacy?",
+        "Why is drug repurposing important?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used for drug development?",
+      "Questions": [
+        "How is artificial intelligence used in drug delivery?",
+        "What is the application of artificial intelligence in medicine?",
+        "What is the FDA approved AI designed drug?",
+        "What is generative AI in drug discovery?",
+        "How is FDA using AI?",
+        "How AI is changing the pharmaceutical industry?",
+        "How can AI help in treatment?",
+        "What is the AI platform for drug discovery?",
+        "How many AI discovered drugs are in clinical trials?"
+      ]
+    },
+    {
+      "Parent Question": "What is an example of drug repurposing?",
+      "Questions": [
+        "What is FDA-approved drug repurposing?",
+        "What is the process of repurposing?",
+        "What are the principles of drug repurposing?",
+        "What is repurpose examples?",
+        "What is the success rate of drug repurposing?",
+        "What is drug repurposing in AD?",
+        "What are two examples of modern drugs?",
+        "What are the challenges of drug repurposing?",
+        "What is the drug repurposing framework?"
+      ]
+    },
+    {
+      "Parent Question": "What company is using AI to develop new drugs?",
+      "Questions": [
+        "How is AI going to change medicine?",
+        "What is the first AI designed drug?",
+        "How do pharmacies use AI?",
+        "What is the use of AI in drug repurposing?",
+        "How is AI used in drugs?",
+        "Can pharmacy be replaced by AI?",
+        "Does Coca Cola use AI?",
+        "Does Pfizer use AI?"
+      ]
+    },
+    {
+      "Parent Question": "ai driven predictive analytics for disease prevention",
+      "Questions": [
+        "What is predictive analytics for disease prevention?",
+        "How can AI be used for predictive analytics in healthcare?",
+        "What is AI driven disease prediction?",
+        "How is AI used in disease detection?"
+      ]
+    },
+    {
+      "Parent Question": "What is predictive analytics for disease prevention?",
+      "Questions": [
+        "Which algorithm is used for disease prediction?",
+        "What is predictive analytics with an example?",
+        "What are predictive analytics tools?",
+        "What is disease prediction model?",
+        "What is predictive modeling for disease diagnosis?",
+        "What is the goal of predictive analytics?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used for predictive analytics in healthcare?",
+      "Questions": [
+        "How does AI use predictive analytics?",
+        "How is AI used to predict patient outcomes and disease progression?",
+        "How artificial intelligence AI is being used in healthcare?",
+        "What is predictive analytics for disease management?",
+        "How is AI used in analytics?",
+        "Can AI predict health issues?",
+        "Can AI diagnose disease?",
+        "How AI can be used in predictive maintenance?",
+        "How does AI improve accuracy in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "What is AI driven disease prediction?",
+      "Questions": [
+        "How can AI help cure diseases?",
+        "How does AI prediction work?",
+        "Can AI analyze medical data?",
+        "Can AI predict disease outbreaks?",
+        "How accurate is AI prediction?",
+        "Which machine learning model is best for disease prediction?",
+        "How does AI forecasting work?",
+        "What is the future of AI in medical diagnosis?",
+        "How is artificial intelligence used in medicine?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in disease detection?",
+      "Questions": [
+        "How is AI used in rare disease?",
+        "What can AI be used to detect?",
+        "How does AI reduce medical errors?",
+        "Can AI be used to find cures for diseases?",
+        "How does AI detection work?",
+        "What is predictive AI?",
+        "What is AI driven disease prediction?",
+        "What are the limitations of AI in diagnosing diseases?"
+      ]
+    },
+    {
+      "Parent Question": "ai driven prosthetics and assistive technologies",
+      "Questions": [
+        "How is AI used in assistive technology?",
+        "How is AI used in prosthetics?",
+        "What is the latest technology in prosthetics?",
+        "How can AI be used to help people with disabilities?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in assistive technology?",
+      "Questions": [
+        "How can AI be used for accessibility?",
+        "How AI can assist humans?",
+        "How is assistive technology used?",
+        "How AI can be used in technology?",
+        "How does AI technology work?",
+        "What is the difference between assistive AI and generative AI?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in prosthetics?",
+      "Questions": [
+        "How do smart prosthetics work?",
+        "How is AI used in physical therapy?",
+        "How is AI used in medical devices?",
+        "What technology is used in prosthetics?",
+        "How does AI help medical imaging?",
+        "How to improve prosthetics?",
+        "Can AI be used in surgery?",
+        "How do robot prosthetics work?",
+        "How is AI used in MRI?"
+      ]
+    },
+    {
+      "Parent Question": "What is the latest technology in prosthetics?",
+      "Questions": [
+        "How does AI help with prosthetics?",
+        "Is a prosthetic assistive technology?",
+        "What are the four types of prosthetics?",
+        "How advanced is prosthetic technology?",
+        "What software is used for prosthetics?",
+        "What is the most used prosthetic?",
+        "How are prosthetics used today?",
+        "What is a smart prosthetic?",
+        "What is digital prosthetics?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used to help people with disabilities?",
+      "Questions": [
+        "How does AI solve human problems?",
+        "How can AI help visually impaired?",
+        "How does AI increase accessibility?",
+        "How does AI benefit patients?",
+        "How is AI used in digital assistance?",
+        "How is AI used in therapy?",
+        "What is the role of AI in assistive technology?",
+        "How can AI help cure diseases?",
+        "How can AI assist us?"
+      ]
+    },
+    {
+      "Parent Question": "ai driven solutions for reducing medical errors",
+      "Questions": [
+        "How is AI being used to decrease medical errors?",
+        "How can AI reduce errors?",
+        "What is the AI solution for healthcare?",
+        "What technology is used to reduce medical errors?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI being used to decrease medical errors?",
+      "Questions": [
+        "How AI can be used in medical?",
+        "How do we prevent AI errors or AI bias?",
+        "Can AI solve health problems?",
+        "What are the benefits of AI in medical devices?",
+        "How does AI improve accuracy in healthcare?",
+        "How can AI help cure diseases?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI reduce errors?",
+      "Questions": [
+        "What are the 4 main problems AI can solve?",
+        "How does automation reduce human error?",
+        "How is AI being used to solve problems?",
+        "Can AI reduce medical errors?",
+        "What is one way that AI systems can improve reliability?",
+        "What is problem reduction techniques in AI?",
+        "How artificial intelligence helps to dash human errors?",
+        "How AI can reduce risk?",
+        "How uncertainty is solved in AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is the AI solution for healthcare?",
+      "Questions": [
+        "How will AI improve healthcare?",
+        "What are the applications of AI in healthcare?",
+        "How is AI used in medical diagnosis?",
+        "How many hospitals use AI?",
+        "What is the revolution of AI in healthcare?",
+        "What is the benefit of Google applying AI in the medical field?",
+        "Who invented AI?",
+        "Is Med-PaLM 2 available?",
+        "How is AI helping in our life?"
+      ]
+    },
+    {
+      "Parent Question": "What technology is used to reduce medical errors?",
+      "Questions": [
+        "How can AI reduce medical errors?",
+        "How are medical errors reduced?",
+        "What is the most used medical technology?",
+        "What technology is used for medication errors?",
+        "Which methods can contribute to a reduction of medication errors?",
+        "What can patients do to prevent medical errors?",
+        "What kind of technology is used in medicine?"
+      ]
+    },
+    {
+      "Parent Question": "ai in telemedicine and virtual healthcare services",
+      "Questions": [
+        "How is AI used in telemedicine?",
+        "How does AI contribute to the development of virtual healthcare?",
+        "How artificial intelligence AI is being used in healthcare?",
+        "What is the function of AI in virtual health assistants?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in telemedicine?",
+      "Questions": [
+        "How are robots and AI used in healthcare?",
+        "What is the role of AI in tele rehabilitation?",
+        "What are the risks of AI in healthcare?",
+        "What are the AI algorithms used in medicine?",
+        "How is AI used in EHR?",
+        "How is AI used in medical imaging?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI contribute to the development of virtual healthcare?",
+      "Questions": [
+        "How AI will impact the future of healthcare?",
+        "What are the advantages and benefits of using AI in healthcare?",
+        "What is the role of AI in the future of healthcare?",
+        "How is AI used in healthcare?",
+        "How is AI used in drug discovery?",
+        "What is artificial intelligence with examples?",
+        "How accurate is AI in healthcare?",
+        "When was AI first used in healthcare?",
+        "What are the examples of AI in medical diagnosis?"
+      ]
+    },
+    {
+      "Parent Question": "How artificial intelligence AI is being used in healthcare?",
+      "Questions": [
+        "How is artificial intelligence responsible in healthcare?",
+        "How many hospitals use AI?",
+        "How does AI reduce human error in healthcare?",
+        "How to use AI in medical practice?",
+        "How is AI being used today?",
+        "Will AI help cure diseases?",
+        "What are the main types of AI?",
+        "What is artificial intelligence in healthcare a perspective from Google?",
+        "What are the benefits of AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is the function of AI in virtual health assistants?",
+      "Questions": [
+        "What is the role of AI in telemedicine?",
+        "How is AI used in virtual assistants?",
+        "How will AI help in healthcare?",
+        "What is the future of AI in telehealth?",
+        "What is the role of AI in digital assistant?",
+        "What is the role of AI in assistive technology?",
+        "What is the use of artificial intelligence machine learning in healthcare applications?"
+      ]
+    },
+    {
+      "Parent Question": "ai powered electronic health records ehr automation",
+      "Questions": [
+        "How is AI used in electronic health records?",
+        "What is AI-powered healthcare?",
+        "What are the top 3 EHR systems?",
+        "Does Epic EHR have AI?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in electronic health records?",
+      "Questions": [
+        "What is the most common use of AI in healthcare?",
+        "Is AI used in health tracking?",
+        "What is the role of artificial intelligence in digital health?",
+        "What does the future of EHRs look like with AI artificial intelligence?",
+        "How is AI used in medical devices?",
+        "What are the use cases of EHR?"
+      ]
+    },
+    {
+      "Parent Question": "What is AI-powered healthcare?",
+      "Questions": [
+        "What is the benefit of AI in healthcare?",
+        "What are the advantages and benefits of using AI in healthcare?",
+        "Why is AI not used in healthcare?",
+        "How accurate is AI in healthcare?",
+        "What are the advantages of AI?",
+        "What are the examples of AI in medical diagnosis?",
+        "What is an example of AI used in healthcare?",
+        "What are the main types of AI?",
+        "How is AI used today?"
+      ]
+    },
+    {
+      "Parent Question": "What are the top 3 EHR systems?",
+      "Questions": [
+        "What is difference between EHR and EMR?",
+        "Who are the largest EHR companies?",
+        "What is the most commonly used database in healthcare?",
+        "What is an example of an EHR?",
+        "What is the difference between ERP and EHR?",
+        "Is Epic an EHR?",
+        "What is EHR technology?",
+        "What is the difference between a CRM and a EHR?",
+        "What is the difference between EHR and PM system?"
+      ]
+    },
+    {
+      "Parent Question": "Does Epic EHR have AI?",
+      "Questions": [
+        "Does epic use HL7?",
+        "What is generative AI in medical coding?",
+        "What is Cerner vs epic?",
+        "How is AI used in EHR?",
+        "Does Epic EHR have an API?",
+        "Does Epic have a chatbot?",
+        "What is AI Scribe?"
+      ]
+    },
+    {
+      "Parent Question": "ai powered sleep tracking and analysis",
+      "Questions": [
+        "Is sleep tracker AI accurate?",
+        "How does sleep tracker AI work?",
+        "How do you Analyse sleep data?",
+        "What is AI in sleep study?"
+      ]
+    },
+    {
+      "Parent Question": "Is sleep tracker AI accurate?",
+      "Questions": [
+        "How accurate is AI detector?",
+        "What is sleep AI?",
+        "What are the 4 stages of sleep?",
+        "Are sleep tracking apps useful?",
+        "What sleep tracker is the most accurate?",
+        "How is sleep quality tracked?"
+      ]
+    },
+    {
+      "Parent Question": "How does sleep tracker AI work?",
+      "Questions": [
+        "How does the AI detector work?",
+        "How to set up sleep tracker AI?",
+        "How do sleep trackers know?",
+        "How accurate is sleeptracker AI?",
+        "How does a sleep tracker app know you're asleep?",
+        "What is the use of sleep tracking?",
+        "How accurate is sleep score app?",
+        "Can sleep apps detect apnea?",
+        "Is sleep tracking automatic?"
+      ]
+    },
+    {
+      "Parent Question": "How do you Analyse sleep data?",
+      "Questions": [
+        "How is sleep analysis?",
+        "Which sleep tracker is most accurate?",
+        "What type of sleep is best?",
+        "How long does sleep analysis take?",
+        "What are the 5 stages of sleep?",
+        "How do researchers measure sleep activity?",
+        "How do we research sleep?",
+        "How do fitness trackers track sleep?",
+        "How much deep sleep is normal?"
+      ]
+    },
+    {
+      "Parent Question": "What is AI in sleep study?",
+      "Questions": [
+        "How is AI used to diagnose?",
+        "Will AI cure insomnia?",
+        "How does AI therapy work?",
+        "How is AI used medically?",
+        "Does AI need to sleep?",
+        "What is an AI for test?",
+        "How does AI work in MRI?",
+        "What is total AI in sleep apnea?",
+        "What is sleep IQ technology?"
+      ]
+    },
+    {
+      "Parent Question": "ai powered tools for personalized medicine",
+      "Questions": [
+        "How can AI be used in personalised medicine?",
+        "Which AI tool is used in healthcare?",
+        "What technology is used in personalized medicine?",
+        "What is AI powered Personalisation?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used in personalised medicine?",
+      "Questions": [
+        "What is personalized treatment plan by AI?",
+        "What is an example of personalized medicine?",
+        "What is one of the most significant contributions of AI to personalized medicine?",
+        "What are personalised medicine methods?",
+        "How is AI used in medicine?",
+        "How is AI used in personalized shopping?"
+      ]
+    },
+    {
+      "Parent Question": "Which AI tool is used in healthcare?",
+      "Questions": [
+        "Which AI is best for medicine?",
+        "What are AI tools available?",
+        "What are the AI algorithms used in medicine?",
+        "What is an AI medical device?",
+        "What is the best AI for psychiatry?",
+        "How is generative AI used in healthcare?",
+        "What is a dax copilot?",
+        "Can AI help cure diseases?",
+        "What is med gpt?"
+      ]
+    },
+    {
+      "Parent Question": "What technology is used in personalized medicine?",
+      "Questions": [
+        "How AI is used in personalized medicine?",
+        "What are the tools used in personalized medicine?",
+        "What are examples of Personalised medicine?",
+        "What is personalization in medical devices?",
+        "What is drug repurposing in personalized medicine?",
+        "What is another name for personalized medicine?",
+        "What is personalization technology?",
+        "What is the integration of personalized medicine?",
+        "What is the market for personalized medicine?"
+      ]
+    },
+    {
+      "Parent Question": "What is AI powered Personalisation?",
+      "Questions": [
+        "How to personalize with AI?",
+        "What are AI generated tools?",
+        "What is AI-powered devices?",
+        "What is an example of hyper personalization AI?",
+        "What is an AI-powered platform?",
+        "What is a personalization tool?",
+        "How does AI provide personalized learning?",
+        "What is AI-powered technology?"
+      ]
+    },
+    {
+      "Parent Question": "ai powered wearable health devices",
+      "Questions": [
+        "What are AI powered wearables in healthcare?",
+        "What are AI-powered devices?",
+        "What is AI powered healthcare?",
+        "What is an AI wearable?"
+      ]
+    },
+    {
+      "Parent Question": "What are AI powered wearables in healthcare?",
+      "Questions": [
+        "What is an example of AI used in healthcare?",
+        "What are the 4 wearable technologies?",
+        "What is an AI medical device?",
+        "What is wearable devices in healthcare?",
+        "How are AI robots used in healthcare?",
+        "What is a smart health device?"
+      ]
+    },
+    {
+      "Parent Question": "What are AI-powered devices?",
+      "Questions": [
+        "What is AI-powered technology?",
+        "How many AI devices are there?",
+        "What is an AI example?",
+        "How does AI device work?",
+        "What is the most popular AI?",
+        "What is the power of AI example?",
+        "How is AI used in healthcare?",
+        "What is an AI-powered tool?",
+        "What is the newest technology in AI?"
+      ]
+    },
+    {
+      "Parent Question": "What is AI powered healthcare?",
+      "Questions": [
+        "What is AI medical technology?",
+        "What are the advantages and benefits of using AI in healthcare?",
+        "Why is AI not used in healthcare?",
+        "When was AI first used in healthcare?",
+        "What are the advantages of AI?",
+        "How are robots and AI used in healthcare?",
+        "What percentage of AI is used in healthcare?",
+        "How is AI used today?",
+        "What is AI in radiology?"
+      ]
+    },
+    {
+      "Parent Question": "What is an AI wearable?",
+      "Questions": [
+        "What are examples of wearable devices?",
+        "What are AI devices?",
+        "Is smartwatch an AI?",
+        "What is a wearable health device?",
+        "What is AI in medical devices?",
+        "What is the difference between smart device and AI?",
+        "What is wearable devices app?",
+        "What is the difference between AI and VR?",
+        "Do smart devices use AI?"
+      ]
+    },
+    {
+      "Parent Question": "ai's impact on medical research and data analysis",
+      "Questions": [
+        "How does AI affect medical research?",
+        "How does AI impact data analysis?",
+        "What is the impact factor of AI in medicine?",
+        "How is AI used in healthcare data?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI affect medical research?",
+      "Questions": [
+        "How does AI affect research?",
+        "Will AI speed up medical research?",
+        "What is the role of AI in healthcare research paper?",
+        "How can AI be used in clinical research?",
+        "How will AI affect healthcare statistics?",
+        "What is the role of artificial intelligence in biomedical research?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI impact data analysis?",
+      "Questions": [
+        "What is the power of artificial intelligence in data analysis?",
+        "Which of the following is an example of AI in healthcare?",
+        "Can OpenAI Analyse data?",
+        "How is AI changing data?",
+        "Which is better AI or data analysis?",
+        "How can AI help in data quality?",
+        "How will AI affect data science?",
+        "How is AI used in big data analytics?",
+        "How fast can AI analyze data?"
+      ]
+    },
+    {
+      "Parent Question": "What is the impact factor of AI in medicine?",
+      "Questions": [
+        "How can AI help medical research?",
+        "What is the impact factor of intelligence in medicine?",
+        "What are 2 potential impacts of AI in medicine?",
+        "How is AI impacting healthcare?",
+        "What are the positive effects of AI in medicine?",
+        "How is AI used in medical devices?",
+        "How does AI affect medical diagnosis and treatment?",
+        "How does AI reduce medical errors?",
+        "How does AI affect medical imaging?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in healthcare data?",
+      "Questions": [
+        "What is the future of AI in medicine?",
+        "How is AI used in data science?",
+        "What is generative AI in healthcare analytics?",
+        "What is an example of AI used in healthcare?",
+        "How to use AI in medical practice?",
+        "What are the advantages of AI?",
+        "What are the benefits of AI in healthcare?",
+        "How is artificial intelligence responsible in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "ai's impact on nutrition and diet recommendations",
+      "Questions": [
+        "How to use AI for diet plan?",
+        "What is the best AI for nutrition?",
+        "How can AI help in achieving good health and well being?",
+        "What is AI in personalized nutrition and diet?"
+      ]
+    },
+    {
+      "Parent Question": "How to use AI for diet plan?",
+      "Questions": [
+        "How can AI help in nutrition?",
+        "How does AI affect food?",
+        "Is diet AI good?",
+        "How is AI used in health?",
+        "What does AI mean diet?",
+        "How can AI reduce hunger?"
+      ]
+    },
+    {
+      "Parent Question": "What is the best AI for nutrition?",
+      "Questions": [
+        "What is the nutrition model in AI?",
+        "Can nutritionist be replaced by AI?",
+        "Can AI help with weight loss?",
+        "Can AI create a diet plan?",
+        "What is the use of artificial nutrition?",
+        "What is the AI model of nutritionist?",
+        "How does AI help with food?",
+        "Which AI program is best?",
+        "How can AI help with diabetes?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI help in achieving good health and well being?",
+      "Questions": [
+        "How will AI affect health?",
+        "What are the advantages and benefits of using AI in healthcare?",
+        "How to use AI in health?",
+        "How is AI beneficial to public health?",
+        "How AI can improve health equity?",
+        "How can AI improve quality of life?",
+        "Who benefits from AI in healthcare?",
+        "What are three ways in which AI technologies are impacting your health and well-being?",
+        "Why is AI important in mental health?"
+      ]
+    },
+    {
+      "Parent Question": "What is AI in personalized nutrition and diet?",
+      "Questions": [
+        "What does AI mean in nutrition?",
+        "What is the importance of artificial nutrition?",
+        "How can AI be used for food?",
+        "What is the best AI for nutrition?",
+        "How AI is used in personalized learning?",
+        "What is artificial diet?",
+        "What is AI in nutrition terms?"
+      ]
+    },
+    {
+      "Parent Question": "ai's role in improving maternal and infant healthcare",
+      "Questions": [
+        "How is AI improving healthcare?",
+        "How does AI work for pregnancy?",
+        "What is the role of artificial intelligence in healthcare?",
+        "What is the role of artificial intelligence in obstetrics and gynecology?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI improving healthcare?",
+      "Questions": [
+        "What is the main advantage of using AI in healthcare?",
+        "What is the role of AI in the future of healthcare?",
+        "How does AI reduce human error in healthcare?",
+        "How does AI help in decision making in healthcare?",
+        "What are three ways in which AI technologies are impacting your health and well-being?",
+        "How can machine learning be used in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI work for pregnancy?",
+      "Questions": [
+        "How does AI pregnancy work?",
+        "How is AI used in maternal health?",
+        "What is the AI treatment for pregnancy?",
+        "What is the role of AI in IVF?",
+        "What is the role of AI in ultrasound?",
+        "How is AI used in delivery?",
+        "How does AI affect labor?",
+        "What is artificial intelligence in prenatal ultrasound diagnosis?",
+        "How does artificial womb technology work?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of artificial intelligence in healthcare?",
+      "Questions": [
+        "How is artificial intelligence responsible in healthcare?",
+        "What are the advantages of AI?",
+        "How accurate is AI in healthcare?",
+        "What is the role of AI?",
+        "What are the examples of AI in medical diagnosis?",
+        "How many hospitals use AI?",
+        "How is AI helping in our life?",
+        "What is the role of AI in mental health care?",
+        "What is the conclusion of AI in medicine?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of artificial intelligence in obstetrics and gynecology?",
+      "Questions": [
+        "What is AI in pregnancy?",
+        "Why is artificial intelligence used in healthcare?",
+        "What are the benefits of AI in ultrasound?",
+        "What is AI in reproductive health?",
+        "What technology is used in obstetrics?",
+        "Does artificial intelligence have a role in the IVF clinic?",
+        "How is artificial intelligence used in drug delivery?"
+      ]
+    },
+    {
+      "Parent Question": "ai's role in predicting epidemics and outbreaks",
+      "Questions": [
+        "Can AI predict disease outbreaks?",
+        "What is the role of AI in predicting disasters?",
+        "What is the role of AI in disease prediction?",
+        "What is the role of AI in forecasting?"
+      ]
+    },
+    {
+      "Parent Question": "Can AI predict disease outbreaks?",
+      "Questions": [
+        "Can AI be used to predict?",
+        "How is AI used in the early detection of disease?",
+        "What disease can AI detect?",
+        "How is AI used in epidemiology?",
+        "What is the role of artificial intelligence in enhancing disease surveillance and outbreak response in developing countries?",
+        "How accurate is AI in diagnosing patients?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in predicting disasters?",
+      "Questions": [
+        "How AI can actually be helpful in disaster response?",
+        "Can AI help predict the weather?",
+        "What technology is used to predict natural disasters?",
+        "What is the role of AI in disaster medicine?",
+        "What does AI predict about climate change?",
+        "How AI can reduce risk?",
+        "How can AI help with forecasting?",
+        "What is the role of robots in disaster management?",
+        "What is the role of AI in predictive maintenance?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in disease prediction?",
+      "Questions": [
+        "How to use AI for prediction?",
+        "How does AI contribute to early disease detection?",
+        "What is the use of AI in epidemiology?",
+        "How can AI be used to diagnose diseases?",
+        "What is the purpose of the disease prediction system?",
+        "How is AI used to predict patient outcomes and disease progression?",
+        "How does AI improve diagnostic accuracy?",
+        "What machine is used to diagnose diseases?",
+        "What is the role of AI in disease surveillance?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in forecasting?",
+      "Questions": [
+        "What is the role of AI in predicting disasters?",
+        "What is the main role of AI?",
+        "How accurate is AI prediction?",
+        "What is the role of AI in disease prediction?",
+        "What AI technique is used to predict?",
+        "Which AI model is used to predict future events?",
+        "How can artificial intelligence predict the weather and climate?"
+      ]
+    },
+    {
+      "Parent Question": "how ai can personalize fitness and wellness programs",
+      "Questions": [
+        "How can AI be used in fitness?",
+        "How to use AI for wellness?",
+        "How is the artificial intelligence AI changing the wellness industry?",
+        "How is AI used in good health and well being?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used in fitness?",
+      "Questions": [
+        "Can AI write a workout plan?",
+        "What is fitness function in AI?",
+        "What is the future of AI in fitness industry?",
+        "What is the best AI for workouts?",
+        "How can AI help physical health?",
+        "How can AI be used in training?"
+      ]
+    },
+    {
+      "Parent Question": "How to use AI for wellness?",
+      "Questions": [
+        "How to use AI in health?",
+        "How to create a wellness app?",
+        "How to use AI in daily life?",
+        "What is the application of artificial intelligence in health?",
+        "Can AI help with mental health?",
+        "What should AI technologies for health be designed to do?",
+        "How AI can be used to achieve good health and well being?",
+        "How can AI advance healthcare?",
+        "How do you use AI for your advantage?"
+      ]
+    },
+    {
+      "Parent Question": "How is the artificial intelligence AI changing the wellness industry?",
+      "Questions": [
+        "How artificial intelligence is changing health and health care?",
+        "What is the use of AI in wearables?",
+        "What are three ways in which AI technologies are impacting your health and well-being?",
+        "How has AI changed the workforce?",
+        "How AI and deep learning are changing the healthcare industry?",
+        "How is AI changing our culture?",
+        "How is AI impacting mental health?",
+        "How AI impact the future of work?",
+        "How can AI be used to achieve climate action?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in good health and well being?",
+      "Questions": [
+        "How to use AI for wellness?",
+        "What are the advantages and benefits of using AI in healthcare?",
+        "How can AI improve health for everyone?",
+        "How is AI being used in health?",
+        "How can AI help in SDG 3 Good health and well-being?",
+        "What impact can AI have on personal health?",
+        "How is AI beneficial to public health?"
+      ]
+    },
+    {
+      "Parent Question": "how ai can predict patient deterioration in icus",
+      "Questions": [
+        "How is AI used in ICU?",
+        "How does AI help in disease detection?",
+        "What is the AI for diagnosing patients?",
+        "How might AI assist healthcare professionals in diagnosing diseases or predicting patient outcomes?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in ICU?",
+      "Questions": [
+        "How does AI improve patient outcomes?",
+        "How do you assess an ICU patient?",
+        "How to use AI in hospital?",
+        "How is AI used in emergency management?",
+        "What is the role of AI in patient safety?",
+        "How is AI used in dementia patients?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help in disease detection?",
+      "Questions": [
+        "How is AI used to predict patient outcomes and disease progression?",
+        "What diseases can AI predict?",
+        "How does AI improve diagnostic accuracy?",
+        "What is the perspective of artificial intelligence in disease diagnosis?",
+        "What is disease prediction?",
+        "What is the use of AI detection?",
+        "What are the examples of AI in medical diagnosis?",
+        "Can AI diagnose mental illness?",
+        "What is predictive modeling for disease diagnosis?"
+      ]
+    },
+    {
+      "Parent Question": "What is the AI for diagnosing patients?",
+      "Questions": [
+        "How does AI help patients?",
+        "What is predictive artificial intelligence?",
+        "What is the best AI tool for medical diagnosis?",
+        "How to detect disease using AI?",
+        "What are the benefits of AI in healthcare diagnosis?",
+        "Can AI diagnose medical images?",
+        "How can AI enhance the accuracy of disease diagnostics?",
+        "How is AI used in medical devices?",
+        "What are the limitations of AI in diagnosing diseases?"
+      ]
+    },
+    {
+      "Parent Question": "How might AI assist healthcare professionals in diagnosing diseases or predicting patient outcomes?",
+      "Questions": [
+        "What is the role of AI in disease prediction?",
+        "How can AI predictive analytics for patient outcomes?",
+        "Can AI diagnose my symptoms?",
+        "What is the AI for diagnosing patients?",
+        "What are the advantages of machine learning prediction for disease?",
+        "How can artificial intelligence be used to improve patient care?",
+        "How is AI used in healthcare decision making?"
+      ]
+    },
+    {
+      "Parent Question": "how ai enhances clinical decision making for doctors",
+      "Questions": [
+        "What is the role of artificial intelligence in healthcare decision-making?",
+        "How does artificial intelligence help doctors?",
+        "How does AI help with decision-making?",
+        "How does AI help in clinical diagnosis?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of artificial intelligence in healthcare decision-making?",
+      "Questions": [
+        "How can AI improve clinical decision-making?",
+        "What is the contribution of artificial intelligence in clinical practice?",
+        "How is AI improving medicine?",
+        "Is it ethical to use AI in healthcare decision-making?",
+        "How artificial intelligence can support healthcare?",
+        "What is the role of AI in the future of healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "How does artificial intelligence help doctors?",
+      "Questions": [
+        "How artificial intelligence can make healthcare deep medicine?",
+        "How is artificial intelligence responsible in healthcare?",
+        "What are the benefits of AI in medical devices?",
+        "How doctors and artificial intelligence working together for a healthier future?",
+        "What are the applications of AI in healthcare?",
+        "How does AI enhance communication between patients and healthcare professionals?",
+        "How does AI improve medical diagnosis?",
+        "How does AI reduce human error in healthcare?",
+        "Will AI help cure diseases?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help with decision-making?",
+      "Questions": [
+        "How will AI change Intelligence and decision-making?",
+        "How is AI being used in the healthcare industry?",
+        "What is the role of Intelligence in decision-making?",
+        "What is intelligent decision-making in AI?",
+        "How does technology help in decision-making?",
+        "Is AI automated decision-making?",
+        "Can we trust AI decision-making?",
+        "What is the role of artificial intelligence in strategic decision-making?",
+        "What are the pros and cons of AI driven decision-making?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help in clinical diagnosis?",
+      "Questions": [
+        "How is AI used in clinical practice?",
+        "What are the examples of AI in medical diagnosis?",
+        "How is AI used in clinical decision-making?",
+        "What is the future of AI in medical diagnosis?",
+        "How does AI help in medicine?",
+        "How does AI help clinical trials?"
+      ]
+    },
+    {
+      "Parent Question": "how ai helps in detecting rare diseases faster",
+      "Questions": [
+        "How does AI help in early detection of diseases?",
+        "How is artificial intelligence making it easier to diagnose disease?",
+        "How can AI improve drug discovery?",
+        "What is the AI tool for disease detection?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help in early detection of diseases?",
+      "Questions": [
+        "How does AI improve diagnostic accuracy?",
+        "Can AI be used to find cures for diseases?",
+        "How can AI predict the onset of diseases?",
+        "What is the role of AI in disease surveillance?",
+        "How is AI used to predict patient outcomes and disease progression?",
+        "How will early disease detection using AI evolve in the next 15 years?"
+      ]
+    },
+    {
+      "Parent Question": "How is artificial intelligence making it easier to diagnose disease?",
+      "Questions": [
+        "How can AI help diagnosis?",
+        "Why is AI more accurate?",
+        "What are the benefits of AI in medical diagnosis?",
+        "How is AI used in the early detection of disease?",
+        "How effective is artificial intelligence?",
+        "How is AI used in diagnostic imaging?",
+        "What diseases can AI detect?",
+        "How can AI improve diagnostic accuracy in healthcare?",
+        "Can AI detect mental illness?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI improve drug discovery?",
+      "Questions": [
+        "Why artificial intelligence could speed drug discovery?",
+        "How artificial intelligence will change medicine?",
+        "How is AI used in e discovery?",
+        "How AI improved healthcare?",
+        "How does AI help clinical trials?",
+        "What is the AI platform for drug discovery?",
+        "How does AI help precision medicine?",
+        "What was the first AI drug discovery?",
+        "What are 2 potential impacts of AI in medicine?"
+      ]
+    },
+    {
+      "Parent Question": "What is the AI tool for disease detection?",
+      "Questions": [
+        "How is AI used in rare disease?",
+        "How does AI help in early detection of diseases?",
+        "How does AI detection work?",
+        "How is artificial intelligence making it easier to diagnose disease?",
+        "How to detect rare disease?",
+        "How does AI improve diagnostic accuracy?",
+        "What can AI be used to detect?"
+      ]
+    },
+    {
+      "Parent Question": "how ai helps in emergency response and triage",
+      "Questions": [
+        "What is the role of AI in triage system?",
+        "How is AI used in emergency management?",
+        "How is AI being used in emergency medicine?",
+        "How is AI helping in disaster prevention?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in triage system?",
+      "Questions": [
+        "What are the major benefits of AI in emergency radiology?",
+        "How will AI help in healthcare?",
+        "What is the role of AI in patient safety?",
+        "How can digital innovations transform emergency medical triage?",
+        "How is AI used in medical devices?",
+        "What is the responsibility of AI in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in emergency management?",
+      "Questions": [
+        "How does AI help first responders?",
+        "How is AI used in ICU?",
+        "How can AI be used in incident management?",
+        "How is AI used in emergency medicine?",
+        "How is AI used for safety?",
+        "How is artificial intelligence used in crisis management?",
+        "How to use AI in hospital?",
+        "How can AI be leveraged for effective disaster response and management?",
+        "How can AI help in risk management?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI being used in emergency medicine?",
+      "Questions": [
+        "What is AI triage?",
+        "How is AI being used in medicine?",
+        "How effective is AI in healthcare?",
+        "How can AI help in treatment?",
+        "What are the benefits of AI in medical devices?",
+        "What is TriageGO?",
+        "How does AI help in decision-making in healthcare?",
+        "How are robots and AI used in healthcare?",
+        "How is AI used in mental healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI helping in disaster prevention?",
+      "Questions": [
+        "What is the role of AI in emergency management?",
+        "What is an example of how AI is helping with safety?",
+        "How AI can prevent accidents?",
+        "How does AI reduce human risk?",
+        "How are robots used in disaster response?",
+        "How is AI helping security?",
+        "What is the role of artificial intelligence in crisis management?"
+      ]
+    },
+    {
+      "Parent Question": "how ai helps in optimizing hospital workflows",
+      "Questions": [
+        "How can AI be used to optimizing health?",
+        "How does AI help in hospital?",
+        "How can AI be effectively integrated into existing healthcare systems to optimize patient care and reduce costs while ensuring data privacy and security?",
+        "How does AI increase productivity in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used to optimizing health?",
+      "Questions": [
+        "How is artificial intelligence transforming healthcare?",
+        "How is optimization used in AI?",
+        "How can AI help in achieving good health and well being?",
+        "How does AI help in decision making in healthcare?",
+        "How many hospitals use AI?",
+        "How AI can improve health equity?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help in hospital?",
+      "Questions": [
+        "What is the main advantage of using AI in healthcare?",
+        "How does AI reduce human error in healthcare?",
+        "How are robots and AI used in healthcare?",
+        "How accurate is AI in healthcare?",
+        "What are three ways in which AI technologies are impacting your health and well-being?",
+        "What is the role of AI in healthcare diagnosis?",
+        "How is AI used in medical devices?",
+        "What are the benefits of AI?",
+        "What are the key steps involved in developing predictive models in healthcare AI?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be effectively integrated into existing healthcare systems to optimize patient care and reduce costs while ensuring data privacy and security?",
+      "Questions": [
+        "What is the role of AI in improving healthcare outcomes?",
+        "How AI and deep learning are changing the healthcare industry?",
+        "How is AI used in healthcare decision making?",
+        "How can the use of AI benefit the dissemination of clinical practice recommendations?",
+        "How can AI improve nursing care on a unit level?",
+        "How does AI contribute to the development of virtual healthcare?",
+        "How does AI help in hospital?",
+        "How does AI increase productivity in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI increase productivity in healthcare?",
+      "Questions": [
+        "What is AI and how can it benefit the healthcare revenue cycle?",
+        "What are the advantages and benefits of using AI in healthcare?",
+        "How can AI be used to enhance productivity?",
+        "What is the role of AI in the future of healthcare?",
+        "How AI will impact the future of healthcare?",
+        "What are the economic benefits of AI in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "how ai helps in reducing healthcare costs",
+      "Questions": [
+        "How can AI reduce the cost of care?",
+        "How does AI help in cost reduction?",
+        "How will AI help in healthcare?",
+        "How does AI help save money?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI reduce the cost of care?",
+      "Questions": [
+        "How hospitals are using AI to save lives?",
+        "How can AI help an organization increase profits and reduce costs?",
+        "How does AI increase productivity in healthcare?",
+        "How does AI reduce human error in healthcare?",
+        "What are pros and cons of AI in healthcare?",
+        "How AI can improve health equity?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help in cost reduction?",
+      "Questions": [
+        "What is the role of artificial intelligence in cost control evolving?",
+        "How does AI help economically?",
+        "What is AI-driven cost optimization?",
+        "How is AI used in pricing strategy?",
+        "How can AI improve financial services?",
+        "How do robots reduce costs?",
+        "How AI and machine learning helps improve insurance pricing?",
+        "What is cost benefit analysis of AI?",
+        "Is AI more cost effective than humans?"
+      ]
+    },
+    {
+      "Parent Question": "How will AI help in healthcare?",
+      "Questions": [
+        "What are the advantages and benefits of using AI in healthcare?",
+        "What is the role of AI in the future of healthcare?",
+        "How accurate is AI in healthcare?",
+        "When was AI first used in healthcare?",
+        "What are the benefits of AI?",
+        "How can machine learning be used in healthcare?",
+        "How many hospitals use AI?",
+        "Can AI help cure diseases?",
+        "How does AI help in finance?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help save money?",
+      "Questions": [
+        "Will AI reduce costs?",
+        "How to use AI for budget?",
+        "How can AI boost the economy?",
+        "How does AI reduce poverty?",
+        "How to use AI for financial planning?",
+        "How can AI help an organization increase profits and reduce costs?",
+        "How does AI help in wealth management?"
+      ]
+    },
+    {
+      "Parent Question": "how ai helps in remote patient monitoring",
+      "Questions": [
+        "How is AI used in remote patient monitoring?",
+        "What is remote heart monitoring system with AI enabled?",
+        "What is the use of technology for remote patient monitoring?",
+        "How does AI improve patient care?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in remote patient monitoring?",
+      "Questions": [
+        "What is the role of AI in remote sensing?",
+        "What is the role of AI in monitoring and diagnosing capabilities?",
+        "What is AI monitoring system?",
+        "What is the role of AI in patient safety?",
+        "What is the most common use of AI in healthcare?",
+        "How does remote patient monitoring improve patient outcomes?"
+      ]
+    },
+    {
+      "Parent Question": "What is remote heart monitoring system with AI enabled?",
+      "Questions": [
+        "What is the role of AI in cardiology?",
+        "Is AI used in health tracking?",
+        "What is remote health monitoring system?",
+        "How is AI used in remote monitoring?",
+        "How is AI used in patient monitoring?",
+        "How is AI used in ECG?",
+        "What is AI in remote sensing?",
+        "How is AI used in medical devices?",
+        "Can AI predict heart disease?"
+      ]
+    },
+    {
+      "Parent Question": "What is the use of technology for remote patient monitoring?",
+      "Questions": [
+        "What is an example of remote patient monitoring?",
+        "Which device is used for monitoring a patient?",
+        "How to build a remote patient monitoring system?",
+        "What is the difference between RPM and RTM?",
+        "What is remote monitoring tool?",
+        "What is the difference between remote patient monitoring and telehealth?",
+        "What is the application of remote monitoring?",
+        "What is data analysis in RPM?",
+        "What type of data can be collected through remote patient monitoring?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI improve patient care?",
+      "Questions": [
+        "How can AI contribute to patient-centred care?",
+        "What are the advantages and benefits of using AI in healthcare?",
+        "What are the benefits of AI in medical devices?",
+        "How can AI systems contribute to the development of patient-specific treatments?",
+        "What is the role of artificial intelligence in patient safety?",
+        "What is the role of AI in healthcare diagnosis?",
+        "How is AI used to predict patient outcomes and disease progression?"
+      ]
+    },
+    {
+      "Parent Question": "how ai improves patient outcomes in hospitals",
+      "Questions": [
+        "How AI can improve patient outcomes in healthcare?",
+        "What are the benefits of using AI in hospital?",
+        "How is AI used to predict patient outcomes and disease progression?",
+        "How can AI improve patient experience?"
+      ]
+    },
+    {
+      "Parent Question": "How AI can improve patient outcomes in healthcare?",
+      "Questions": [
+        "What are the advantages and benefits of using AI in healthcare?",
+        "How is AI used in healthcare decision making?",
+        "What is artificial intelligence for patient care?",
+        "How can AI help in achieving good health and well being?",
+        "How can AI contribute to patient-centred care?",
+        "What is the role of AI in the future of healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "What are the benefits of using AI in hospital?",
+      "Questions": [
+        "How does AI reduce human error in healthcare?",
+        "What are the advantages of artificial intelligence?",
+        "How accurate is AI in healthcare?",
+        "How is AI used in medical diagnosis?",
+        "How are robots and AI used in healthcare?",
+        "How can AI be helpful?",
+        "How will AI improve healthcare?",
+        "How does AI help in decision making in healthcare?",
+        "What are the benefits of artificial intelligence helping nurses with medical diagnosis?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used to predict patient outcomes and disease progression?",
+      "Questions": [
+        "What is the role of artificial intelligence in improving patient outcomes?",
+        "How can AI predictive analytics for patient outcomes?",
+        "How can AI systems contribute to the development of patient-specific treatments?",
+        "How does AI help clinical trials?",
+        "What is the role of AI in disease prediction?",
+        "Can AI analyze medical data?",
+        "How can AI improve diagnostic accuracy in healthcare?",
+        "What is the role of AI in improving clinical efficiency?",
+        "How will AI affect healthcare statistics?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI improve patient experience?",
+      "Questions": [
+        "How does AI help in hospitals?",
+        "How does AI improve user experience?",
+        "What is the role of AI in patient safety?",
+        "How does AI improve surgery?",
+        "What is one way AI improves the customer experience?",
+        "How many hospitals use AI?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is helping in detecting heart diseases early",
+      "Questions": [
+        "How artificial intelligence powered early detection of heart disease?",
+        "How does AI help in early detection of diseases?",
+        "Can AI help doctors detect heart disease?",
+        "How to detect heart attack using AI?"
+      ]
+    },
+    {
+      "Parent Question": "How artificial intelligence powered early detection of heart disease?",
+      "Questions": [
+        "What role does artificial intelligence play in predicting and treating heart disease?",
+        "How does AI detection work?",
+        "What is the AI tool for the heart?",
+        "What is the role of artificial intelligence in cardiology?",
+        "What is the AI test for the heart?",
+        "Why is early detection of cardiovascular disease important?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI help in early detection of diseases?",
+      "Questions": [
+        "How will early disease detection using AI evolve in the next 15 years?",
+        "What are the benefits of early detection of disease?",
+        "Can AI be used to find cures for diseases?",
+        "What diseases can be diagnosed with AI?",
+        "How does AI improve diagnostic accuracy?",
+        "How can AI predict the onset of diseases?",
+        "What are the benefits of AI in medical diagnosis?",
+        "How can AI help drug discovery?",
+        "How does AI help medical imaging?"
+      ]
+    },
+    {
+      "Parent Question": "Can AI help doctors detect heart disease?",
+      "Questions": [
+        "How to use AI in cardiology?",
+        "How do doctors detect heart disease?",
+        "What is AI in the heart?",
+        "Can AI solve health problems?",
+        "Can AI read ECG?",
+        "What can be used to detect problems with the heart?",
+        "How is AI used to diagnose disease?",
+        "Can AI spots heart conditions before symptoms?",
+        "Can an app detect heart problems?"
+      ]
+    },
+    {
+      "Parent Question": "How to detect heart attack using AI?",
+      "Questions": [
+        "Can AI predict the risk of heart disease?",
+        "How can AI detect mental illness?",
+        "What technology is used to detect heart attacks?",
+        "How are heart attacks detected?",
+        "Can AI detect stress?",
+        "How is AI detected?",
+        "What is the AI tool for the heart?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is improving drug discovery and development",
+      "Questions": [
+        "How is AI improving medicine?",
+        "What is the AI platform for drug discovery?",
+        "How is generative AI used in drug discovery?",
+        "How AI is changing the pharmaceutical industry?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI improving medicine?",
+      "Questions": [
+        "How can AI help drug development?",
+        "What are 2 potential impacts of AI in medicine?",
+        "What are the benefits of AI in medicine?",
+        "What is the impact factor of AI in medicine?",
+        "How does AI help precision medicine?",
+        "What is the potential impact of AI on clinical trials and drug development?"
+      ]
+    },
+    {
+      "Parent Question": "What is the AI platform for drug discovery?",
+      "Questions": [
+        "What is the success rate of AI drug discovery?",
+        "What are the technologies of drug discovery?",
+        "What was the first AI drug discovery?",
+        "What are examples of AI drugs?",
+        "What is drug discovery and development?",
+        "What are the algorithms for drug discovery?",
+        "What are the AI algorithms used in medicine?",
+        "How to use artificial intelligence in pharmaceutical industry?",
+        "What is AI discovery?"
+      ]
+    },
+    {
+      "Parent Question": "How is generative AI used in drug discovery?",
+      "Questions": [
+        "How is AI used in e discovery?",
+        "How to successfully scale generative AI in pharma?",
+        "What is the role of AI in drug repurposing?",
+        "How can generative AI be used in healthcare?",
+        "What drug company is using AI?",
+        "What are the positive effects of generative AI?",
+        "What was the first drug discovered by AI?",
+        "How is generative AI being used today?",
+        "How is ChatGPT used in the pharmaceutical industry?"
+      ]
+    },
+    {
+      "Parent Question": "How AI is changing the pharmaceutical industry?",
+      "Questions": [
+        "What is generative AI in drug discovery and development?",
+        "How has AI improved medicine?",
+        "What is the future of AI in pharmacy?",
+        "How technology has changed the pharmaceutical industry?",
+        "How artificial intelligence is changing the industry?",
+        "How can AI improve drug discovery?",
+        "How AI can be used in pharmacy?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is improving elderly care and aging related treatments",
+      "Questions": [
+        "How can AI be used to help the elderly?",
+        "How is AI currently being used in aged care?",
+        "How can artificial intelligence be used to improve patient care?",
+        "Is AI used in aging and age related diseases?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used to help the elderly?",
+      "Questions": [
+        "How can AI help in treatment?",
+        "What is the best AI for seniors?",
+        "How can AI help long term care?",
+        "What are three ways robots could help elderly?",
+        "How AI is helping people with therapy?",
+        "How is AI used in dementia care?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI currently being used in aged care?",
+      "Questions": [
+        "How is AI already being used in healthcare?",
+        "What is the role of AI in the future of healthcare?",
+        "How is AI being used in nursing?",
+        "How does AI help the elderly?",
+        "How is AI useful in healthcare?",
+        "When was AI used in healthcare?",
+        "How are robots and AI used in healthcare?",
+        "What is the use of artificial intelligence machine learning in healthcare applications?"
+      ]
+    },
+    {
+      "Parent Question": "How can artificial intelligence be used to improve patient care?",
+      "Questions": [
+        "How does AI help in treatment?",
+        "How much AI is used in healthcare?",
+        "How is artificial intelligence responsible in healthcare?",
+        "How can AI help in achieving good health and well being?",
+        "How does AI reduce human error in healthcare?",
+        "How does artificial intelligence apply to self care?",
+        "How is AI helping in our life?",
+        "What are the examples of AI in medical diagnosis?",
+        "How does AI help in decision making in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "Is AI used in aging and age related diseases?",
+      "Questions": [
+        "What is the artificial aging treatment?",
+        "What are the age related changes in the elderly?",
+        "Will AI help cure disease?",
+        "How is AI currently being used in aged care?",
+        "How is AI used in treatment?",
+        "How is AI being used in healthcare?",
+        "What is artificial aging?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is revolutionizing medical diagnosis",
+      "Questions": [
+        "How artificial intelligence in healthcare revolutionizing diagnosis and treatment?",
+        "How does AI improve medical diagnosis?",
+        "What is the AI model for medical diagnosis?",
+        "What is the role of AI in healthcare diagnosis and treatment?"
+      ]
+    },
+    {
+      "Parent Question": "How artificial intelligence in healthcare revolutionizing diagnosis and treatment?",
+      "Questions": [
+        "How AI is revolutionizing medicine?",
+        "What are the limitations of AI in diagnosing diseases?",
+        "How is artificial intelligence used in medicine?",
+        "How does AI help in early detection of diseases?",
+        "How does AI reduce human error in healthcare?",
+        "How artificial intelligence can make healthcare deep medicine?"
+      ]
+    },
+    {
+      "Parent Question": "How does AI improve medical diagnosis?",
+      "Questions": [
+        "What diseases can be diagnosed with AI?",
+        "What is the future of medical diagnostics?",
+        "What are the benefits of AI in medical devices?",
+        "What is Gen AI in medical diagnosis?",
+        "How can AI help cure diseases?",
+        "How does AI improve accuracy in healthcare?",
+        "What are the limitations of AI in medical diagnosis?",
+        "What is the role of AI in monitoring and diagnosing capabilities?",
+        "How does AI help medical imaging?"
+      ]
+    },
+    {
+      "Parent Question": "What is the AI model for medical diagnosis?",
+      "Questions": [
+        "What is the best AI tool for medical diagnosis?",
+        "How accurate is AI in medical diagnosis?",
+        "What are AI diagnostic tools?",
+        "What is the best AI tool for differential diagnosis?",
+        "What is a medical diagnosis expert system in AI?",
+        "Can chat GPT do medical diagnosis?",
+        "What is generative AI for medical diagnosis?",
+        "What are the AI algorithms used in medicine?",
+        "How is AI used to detect diseases?"
+      ]
+    },
+    {
+      "Parent Question": "What is the role of AI in healthcare diagnosis and treatment?",
+      "Questions": [
+        "How is AI revolutionizing healthcare?",
+        "What is the future of AI in medical diagnosis?",
+        "What is medical diagnosis software?",
+        "How does AI improve diagnostic accuracy?",
+        "Can AI diagnose my symptoms?",
+        "What are the examples of AI in medical diagnosis?",
+        "How accurate is AI in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is transforming surgical procedures",
+      "Questions": [
+        "How can AI be used in surgeries?",
+        "Will surgery be replaced by AI?",
+        "How artificial intelligence is transforming medicine?",
+        "How is AI revolutionizing robotic surgery?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used in surgeries?",
+      "Questions": [
+        "What is an example of AI surgery?",
+        "How is AI used in anesthesia?",
+        "What is the future of AI in surgery?",
+        "How can AI help in treatment?",
+        "How do robots help in surgery?",
+        "What was the first surgery done by AI?"
+      ]
+    },
+    {
+      "Parent Question": "Will surgery be replaced by AI?",
+      "Questions": [
+        "Will AI replace anesthesia?",
+        "Why should AI not be used in surgery?",
+        "How is AI used in healthcare?",
+        "How can AI be used in surgery?",
+        "How is AI changing medicine?",
+        "Will AI replace human work?",
+        "Will AI cure diseases?",
+        "Is robotic surgery an AI?",
+        "How big is the AI surgery market?"
+      ]
+    },
+    {
+      "Parent Question": "How artificial intelligence is transforming medicine?",
+      "Questions": [
+        "What is the future of AI in healthcare?",
+        "How AI is transforming technology?",
+        "Can AI discover new medicine?",
+        "How many hospitals use AI?",
+        "How AI is transforming science?",
+        "Who invented AI?",
+        "How AI has transformed healthcare?",
+        "What is the application of artificial intelligence in medicine?",
+        "What is the impact factor of AI in medicine?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI revolutionizing robotic surgery?",
+      "Questions": [
+        "How AI is revolutionizing medicine?",
+        "Will AI replace surgical techs?",
+        "Is robotic surgery the future of surgery?",
+        "How artificial intelligence is revolutionizing?",
+        "What is AI in radiology?",
+        "Will AI replace nurses?",
+        "What is the AI robot used in surgery?",
+        "How is AI changing robotics?"
+      ]
+    },
+    {
+      "Parent Question": "how ai is used for precision medicine",
+      "Questions": [
+        "How can AI be used in medicine?",
+        "What technology is used in precision medicine?",
+        "What is precision AI?",
+        "What is the algorithm for precision medicine?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI be used in medicine?",
+      "Questions": [
+        "What are the AI algorithms used in medicine?",
+        "What is the future of AI in medicine?",
+        "How is AI used in pharma?",
+        "Can AI help cure diseases?",
+        "How is AI ML used in the medical field?",
+        "How accurate is AI in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "What technology is used in precision medicine?",
+      "Questions": [
+        "How does AI help precision medicine?",
+        "What techniques are used in precision medicine?",
+        "What are the tools of precision medicine?",
+        "What is an example of precision medicine?",
+        "How to do precision medicine?",
+        "What is the difference between precision and accuracy medicine?",
+        "What are the applications of precision medicine?",
+        "What is end to end precision medicine?",
+        "What are the potential of precision medicine?"
+      ]
+    },
+    {
+      "Parent Question": "What is precision AI?",
+      "Questions": [
+        "What is precision in artificial intelligence?",
+        "Does AI increase accuracy?",
+        "Who is the founder of Precision AI?",
+        "How do you calculate precision in AI?",
+        "What is a precision robot?",
+        "What is accuracy vs precision AI?",
+        "What is the meaning of artificial precision?",
+        "How do you make AI accurate?",
+        "What is AI calibration?"
+      ]
+    },
+    {
+      "Parent Question": "What is the algorithm for precision medicine?",
+      "Questions": [
+        "How is AI used in precision medicine?",
+        "What is the technology in precision medicine?",
+        "What is AI in medicine?",
+        "How are algorithms used in medicine?",
+        "What is precision algorithm?",
+        "What are the methods in precision medicine?",
+        "Which algorithm has highest accuracy?",
+        "How can AI systems contribute to the development of patient-specific treatments?",
+        "What is the principle of precision medicine?"
+      ]
+    },
+    {
+      "Parent Question": "how ai powered virtual nurses assist in patient care",
+      "Questions": [
+        "How is AI used in nursing care?",
+        "How is AI used in virtual assistants?",
+        "How has AI improved patient care?",
+        "Does AI helps nurses in care of critically ill patients?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in nursing care?",
+      "Questions": [
+        "What is an example of AI used in healthcare?",
+        "What is the role of nursing informatics in AI?",
+        "How AI could be used in healthcare?",
+        "What is the role of the nurse leader in the use of AI in nursing practice?",
+        "What is the responsibility of AI in healthcare?",
+        "How are robots and AI used in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "How is AI used in virtual assistants?",
+      "Questions": [
+        "How do I create an AI virtual assistant?",
+        "How is AI used in virtual reality?",
+        "Which of the following is a famous AI-powered virtual assistant?",
+        "How do virtual assistants help?",
+        "What is the role of AI in assistive technology?",
+        "What is the role of AI in telehealth?",
+        "How does AI help with accessibility?",
+        "How do intelligent virtual assistants work?",
+        "What is the difference between conversational AI and virtual assistant?"
+      ]
+    },
+    {
+      "Parent Question": "How has AI improved patient care?",
+      "Questions": [
+        "What is AI in nursing?",
+        "What is artificial intelligence for patient care?",
+        "How to use AI in health care?",
+        "How can AI contribute to patient-centred care?",
+        "What is the role of AI in the future of healthcare?",
+        "How does AI contribute to the development of virtual healthcare?",
+        "How AI has transformed healthcare?",
+        "How can AI systems contribute to the development of patient-specific treatments?",
+        "How is AI used in healthcare diagnosis?"
+      ]
+    },
+    {
+      "Parent Question": "Does AI helps nurses in care of critically ill patients?",
+      "Questions": [
+        "How has AI improved patient care?",
+        "Can AI take over nurses?",
+        "What is the power of AI in healthcare?",
+        "What are the applications of AI in ICU?",
+        "What is the role of AI in patient safety?",
+        "Do patients trust AI in healthcare?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits of ai in automating administrative tasks in hospitals",
+      "Questions": [
+        "What are the benefits of using AI in hospital?",
+        "How can AI help with administration?",
+        "What are the advantages and benefits of using AI in healthcare?",
+        "What is the use of artificial intelligence in hospitals?"
+      ]
+    },
+    {
+      "Parent Question": "How can AI help with administration?",
+      "Questions": [
+        "What is the role of AI in administration?",
+        "How can I use AI as an administrative assistant?",
+        "How is AI used to streamline administrative tasks in the modern office?",
+        "How to use AI in system administration?",
+        "What are the new technologies in administrative tasks?",
+        "How does AI help in the automation process?",
+        "How is AI helping in the healthcare industry?",
+        "Who benefits from AI?",
+        "How is AI helping in the workplace?"
+      ]
+    },
+    {
+      "Parent Question": "the challenges of integrating ai into healthcare systems",
+      "Questions": [
+        "What are the challenges of implementing AI in healthcare?",
+        "Which of the following is a challenge of using AI in healthcare?",
+        "What are the limitations of AI in healthcare?",
+        "What are the failures of AI in healthcare?"
+      ]
+      }
+    ]
   }
 ]
+      
+       
 
 
 
