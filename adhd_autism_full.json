@@ -24143,6 +24143,101 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "GOLF_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "best golf drivers 2025",
+      "Questions": [
+        "What is the #1 driver in golf?",
+        "Is there a new ping driver coming out in 2025?",
+        "Is the SF1 driver legal?",
+        "Which ping G430 is most forgiving?"
+      ]
+    },
+    {
+      "Parent Question": "golf",
+      "Questions": [
+        "What does golf stand for?",
+        "What do you call a bad golf player?",
+        "How is the golf game played?",
+        "What country is golf most popular in?"
+      ]
+    },
+    {
+      "Parent Question": "golf clubs",
+      "Questions": [
+        "What are the 14 clubs in a golf bag?",
+        "What are the 3 most important golf clubs?",
+        "What is each golf club called?",
+        "What is a 7 golf club?"
+      ]
+    },
+    {
+      "Parent Question": "golf courses",
+      "Questions": [
+        "What is called golf course?",
+        "Does Egypt have golf courses?",
+        "How much to play golf in Egypt?",
+        "What is the most famous golf course in the world?"
+      ]
+    },
+    {
+      "Parent Question": "golf equipment",
+      "Questions": [
+        "What equipment is needed in golf?",
+        "What are the names of golf equipments?",
+        "What are the 14 clubs in a golf bag?",
+        "What is a golf stick called?"
+      ]
+    },
+    {
+      "Parent Question": "golf fitness training programs",
+      "Questions": [
+        "What is the best workout routine for golf?",
+        "How to improve fitness for golf?",
+        "What is Rory McIlroy's workout?",
+        "How to get fitter for golf?"
+      ]
+    },
+    {
+      "Parent Question": "golf lessons",
+      "Questions": [
+        "How much will golf lessons cost?",
+        "Is it worth paying for golf lessons?",
+        "How many lessons should I take for golf?",
+        "Is 40 too late to learn golf?"
+      ]
+    },
+    {
+      "Parent Question": "golf swing analysis apps",
+      "Questions": [
+        "Is there an app to analyze your golf swing?",
+        "Is there an AI golf swing analyzer?",
+        "How to record and analyze a golf swing?",
+        "Is Zepp golf free?"
+      ]
+    },
+    {
+      "Parent Question": "golf swing tips",
+      "Questions": [
+        "How to get a better swing in golf?",
+        "What should be the first move in the golf swing?",
+        "What is the key to a good golf swing?",
+        "How to swing a golf club correctly?"
+      ]
+    },
+    {
+      "Parent Question": "top golf courses",
+      "Questions": [
+        "What is the most famous golf course?",
+        "What is the best golf course in the world?",
+        "Does Egypt have golf courses?",
+        "What is Donald Trump's golf course called?"
+      ]
+      }
+    ]
   }
 ]
 
