@@ -23319,6 +23319,830 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "FIGHT_SPORTS_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "advanced wrestling takedowns",
+      "Questions": [
+        "What is the most effective takedown in wrestling?",
+        "What is advanced wrestling?",
+        "What are the 7 basic skills of wrestling?",
+        "How to improve wrestling takedowns?"
+      ]
+    },
+    {
+      "Parent Question": "basic brazilian jiu jitsu guard positions",
+      "Questions": [
+        "What is the guard position in Jiu Jitsu?",
+        "What is the easiest guard in BJJ?",
+        "What is the most common position in BJJ?",
+        "How many types of guards are there in BJJ?"
+      ]
+    },
+    {
+      "Parent Question": "basic defense techniques in kickboxing",
+      "Questions": [
+        "How do you defend in kickboxing?",
+        "What are the tactics of kickboxing?",
+        "What are the kicking techniques in kickboxing?",
+        "What is the 10 point must system in kickboxing?"
+      ]
+    },
+    {
+      "Parent Question": "best punches in boxing for knockout power",
+      "Questions": [
+        "What is the best knockout punch in boxing?",
+        "What punch causes most knockouts?",
+        "Which punch in boxing has the most power?",
+        "How do you increase knockout power in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "boxing basics for beginners",
+      "Questions": [
+        "How should a beginner start boxing?",
+        "What are the five basic skill in boxing?",
+        "What does 1, 2, 3, 4, 5, 6 mean in boxing?",
+        "Can I learn boxing on my own?"
+      ]
+    },
+    {
+      "Parent Question": "different types of clinch holds in muay thai",
+      "Questions": [
+        "What are the different types of clinch in Muay Thai?",
+        "What is the strongest strike in Muay Thai?",
+        "What is the clinch technique?",
+        "What is a plum clinch?"
+      ]
+    },
+    {
+      "Parent Question": "different types of punches in boxing",
+      "Questions": [
+        "How many types of punch are there in boxing?",
+        "What are the 9 punches in boxing?",
+        "What is 1, 2, 3, 4, 5, 6 boxing punches?",
+        "What is the 7 punch in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "how to avoid common mistakes in muay thai",
+      "Questions": [
+        "What is a Muay Thai fighter's weakness?",
+        "How to be successful in Muay Thai?",
+        "Is 2 years of Muay Thai enough?",
+        "How do you not get hit in Muay Thai?"
+      ]
+    },
+    {
+      "Parent Question": "how to build a knockout punch in boxing",
+      "Questions": [
+        "How to develop a knockout punch?",
+        "How to set up a knockout in boxing?",
+        "What does 1, 2, 3, 4, 5, 6 mean in boxing?",
+        "How to get knockouts in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "how to build a strong clinch game in muay thai",
+      "Questions": [
+        "How can I improve my Muay Thai clinch?",
+        "How to be strong in the clinch?",
+        "What is the most powerful technique in Muay Thai?",
+        "How do you build strength in Muay Thai?"
+      ]
+    },
+    {
+      "Parent Question": "how to counter submissions in brazilian jiu jitsu",
+      "Questions": [
+        "How to escape BJJ submissions?",
+        "What counters Brazilian Jiu Jitsu?",
+        "What is the hardest submission in BJJ?",
+        "How to be less tense in BJJ?"
+      ]
+    },
+    {
+      "Parent Question": "how to deal with fatigue during a fight",
+      "Questions": [
+        "How do I stop being tired in a fight?",
+        "How do you overcome battle fatigue?",
+        "Why do I get so tired while fighting?",
+        "How to manage fatigue from pain?"
+      ]
+    },
+    {
+      "Parent Question": "how to defend against a submission in jiu jitsu",
+      "Questions": [
+        "How to defend submissions in BJJ?",
+        "How to escape BJJ submissions?",
+        "How do you defend against in Jiu-Jitsu?",
+        "How to fight against Jiu-Jitsu?"
+      ]
+    },
+    {
+      "Parent Question": "how to defend against head kicks",
+      "Questions": [
+        "Can you block head kicks?",
+        "How to protect yourself from kicks?",
+        "What is the best way to block a kick?",
+        "How do you counter kicks?"
+      ]
+    },
+    {
+      "Parent Question": "how to defend against punches in boxing",
+      "Questions": [
+        "How to defend punches in boxing?",
+        "How do you counter punch in boxing?",
+        "What does 1, 2, 3, 4, 5, 6 mean in boxing?",
+        "How do you not get punched in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "how to defend against takedowns in wrestling",
+      "Questions": [
+        "How to defend from takedowns?",
+        "How to deny turning takedowns?",
+        "How to not get taken down in wrestling?",
+        "How to avoid being taken down?"
+      ]
+    },
+    {
+      "Parent Question": "how to effectively use elbows in mma",
+      "Questions": [
+        "How to use elbows in MMA?",
+        "How to elbow effectively?",
+        "Why are 12-6 elbows illegal in MMA?",
+        "How to practice elbow strike?"
+      ]
+    },
+    {
+      "Parent Question": "how to escape from a full mount in jiu jitsu",
+      "Questions": [
+        "How to get out of a mount in jiu jitsu?",
+        "How to get up from full mount?",
+        "What is the easiest mount escape?",
+        "How to get out of a top mount position?"
+      ]
+    },
+    {
+      "Parent Question": "how to escape from side control in brazilian jiu jitsu",
+      "Questions": [
+        "How to get out of side control in BJJ?",
+        "How to counter side control?",
+        "What is Brazilian Jiu Jitsu weakness?",
+        "How do you escape a Brazilian Jiu Jitsu mount?"
+      ]
+    },
+    {
+      "Parent Question": "how to escape submissions in brazilian jiu jitsu",
+      "Questions": [
+        "How to escape BJJ submissions?",
+        "How to defend submissions in BJJ?",
+        "How do you escape a Brazilian Jiu Jitsu mount?",
+        "What is the hardest submission in BJJ?"
+      ]
+    },
+    {
+      "Parent Question": "how to fight in a southpaw stance",
+      "Questions": [
+        "What is the best way to fight a southpaw?",
+        "Is it harder to fight a southpaw?",
+        "Can I train myself to be a southpaw?",
+        "Is a southpaw stance rare?"
+      ]
+    },
+    {
+      "Parent Question": "how to improve striking speed and accuracy",
+      "Questions": [
+        "How to improve punch speed and accuracy?",
+        "How to increase strike speed?",
+        "How do you increase striking force?",
+        "How to improve your jab speed?"
+      ]
+    },
+    {
+      "Parent Question": "how to improve your clinch defense",
+      "Questions": [
+        "How to improve clinch strength?",
+        "How do you defend a clinch?",
+        "How to defend clinch UFC 4?",
+        "How to break out of clinch?"
+      ]
+    },
+    {
+      "Parent Question": "how to improve your jab in boxing",
+      "Questions": [
+        "How can I improve my punches in boxing?",
+        "How do I get better at boxing body shots?",
+        "Why are my jabs so slow?",
+        "How do I practice my jab?"
+      ]
+    },
+    {
+      "Parent Question": "how to improve your sprawl in wrestling",
+      "Questions": [
+        "How to sprawl better in wrestling?",
+        "How to not get sprawled on in wrestling?",
+        "How to properly do a sprawl?",
+        "What does sprawling do in wrestling?"
+      ]
+    },
+    {
+      "Parent Question": "how to master the roundhouse kick",
+      "Questions": [
+        "How do I get more power in roundhouse kick?",
+        "How would you train your students to the round house kick?",
+        "How do you make roundhouse kicks harder?",
+        "How do you master your kicks?"
+      ]
+    },
+    {
+      "Parent Question": "how to perform a flying knee in mma",
+      "Questions": [
+        "How to do a flying knee in UFC?",
+        "How to perform a flying knee?",
+        "Is Flying knee allowed in UFC?",
+        "How to do a flying knee kick in UFC 5?"
+      ]
+    },
+    {
+      "Parent Question": "how to perform a guillotine choke in jiu jitsu",
+      "Questions": [
+        "Is guillotine choke allowed in BJJ?",
+        "How to escape an arm in guillotine?",
+        "Why does guillotine choke hurt?",
+        "How to defend a guillotine choke?"
+      ]
+    },
+    {
+      "Parent Question": "how to perform an armbar in jiu jitsu",
+      "Questions": [
+        "How to do an arm bar in Jiu-Jitsu?",
+        "What is the hardest move in BJJ?",
+        "How do you run an armbar?",
+        "How to get out of an armbar in Jiu-Jitsu?"
+      ]
+    },
+    {
+      "Parent Question": "how to perform a spinning back kick",
+      "Questions": [
+        "How to properly do a spinning back kick?",
+        "How effective is a spinning back kick?",
+        "How to do a backward kick?",
+        "What is the hardest kick in taekwondo?"
+      ]
+    },
+    {
+      "Parent Question": "how to prepare for an mma fight",
+      "Questions": [
+        "How do MMA fighters prepare for a fight?",
+        "How do I prepare my body for MMA?",
+        "What is the 12/6 rule in MMA?",
+        "What to do before the first MMA fight?"
+      ]
+    },
+    {
+      "Parent Question": "how to prevent injuries while training for fight sports",
+      "Questions": [
+        "How can combat sports injuries be prevented?",
+        "What are 3 ways to prevent sports injuries?",
+        "How to prevent injury in MMA?",
+        "Do fighters train with injuries?"
+      ]
+    },
+    {
+      "Parent Question": "how to recover from a knockout punch",
+      "Questions": [
+        "How long does it take to recover from a knockout punch?",
+        "How to recover after getting knocked out?",
+        "How to revive someone after a knockout?",
+        "How to recover from a punch?"
+      ]
+    },
+    {
+      "Parent Question": "how to throw and land a perfect knee in muay thai",
+      "Questions": [
+        "How to throw a good knee in Muay Thai?",
+        "How to improve knees in Muay Thai?",
+        "How do you throw a powerful knee?",
+        "How to land a flying knee?"
+      ]
+    },
+    {
+      "Parent Question": "how to throw a powerful low kick in muay thai",
+      "Questions": [
+        "How to throw a Muay Thai low kick?",
+        "How to get stronger low kicks?",
+        "How can I make my Muay Thai kick stronger?",
+        "How do you do a low kick hard?"
+      ]
+    },
+    {
+      "Parent Question": "how to train for mental clarity in fight sports",
+      "Questions": [
+        "How to train your mind for a fight?",
+        "How to get mentally prepared for a fight?",
+        "How do UFC fighters mentally prepare?",
+        "How to train your brain for boxing?"
+      ]
+    },
+    {
+      "Parent Question": "how to use distance to your advantage in mma",
+      "Questions": [
+        "How to control distance in MMA?",
+        "How to use height as an advantage in a fight?",
+        "How far should I run for MMA?",
+        "How to use your reach in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "how to use the cage in mma",
+      "Questions": [
+        "Can you use the cage in MMA?",
+        "How do cage fights work?",
+        "Why is MMA done in a cage?",
+        "How do you train for cage fighting?"
+      ]
+    },
+    {
+      "Parent Question": "how to work on your footwork for better movement",
+      "Questions": [
+        "How can I improve my footwork?",
+        "How do I get better at footwork dance?",
+        "How can I improve my footwork and balance?",
+        "How to move quicker on your feet?"
+      ]
+    },
+    {
+      "Parent Question": "how to work on your reaction time for fighting",
+      "Questions": [
+        "How to improve combat reflexes?",
+        "What is a good reaction time for a 14 year old?",
+        "How do I improve my reaction time?",
+        "How to improve reaction time in fighting?"
+      ]
+    },
+    {
+      "Parent Question": "jiu jitsu submissions and defenses",
+      "Questions": [
+        "How to defend submissions in BJJ?",
+        "What is the best submission in Jiu-Jitsu?",
+        "What is the hardest submission in Jiu-Jitsu?",
+        "How many submissions are there in Jiu-Jitsu?"
+      ]
+    },
+    {
+      "Parent Question": "kickboxing techniques for self defense",
+      "Questions": [
+        "What is the best kickboxing style for self-defense?",
+        "How to defend yourself in kickboxing?",
+        "Can kickboxing help you in a real fight?",
+        "What are the tactics of kickboxing?"
+      ]
+    },
+    {
+      "Parent Question": "krav maga self defense moves",
+      "Questions": [
+        "What's the #1 rule in Krav Maga?",
+        "What are Krav Maga Level 1 moves?",
+        "Can Krav Maga be used for self-defense?",
+        "What is the best self-defense move?"
+      ]
+    },
+    {
+      "Parent Question": "mixed martial arts mma techniques",
+      "Questions": [
+        "Which MMA technique is best?",
+        "What techniques are allowed in MMA?",
+        "What type of martial arts do MMA fighters use?",
+        "What are the techniques of mix martial art?"
+      ]
+    },
+    {
+      "Parent Question": "muay thai clinch techniques",
+      "Questions": [
+        "How can I improve my Muay Thai clinch?",
+        "What is the Thai clinch technique?",
+        "How to get into clinch Muay Thai?",
+        "What is the most powerful technique in Muay Thai?"
+      ]
+    },
+    {
+      "Parent Question": "techniques for landing clean uppercuts in boxing",
+      "Questions": [
+        "How do you land uppercuts in boxing?",
+        "What does 1, 2, 3, 4, 5, 6 mean in boxing?",
+        "What are clean punches in boxing?",
+        "How do you shadow box uppercuts?"
+      ]
+    },
+    {
+      "Parent Question": "the art of counter punching in boxing",
+      "Questions": [
+        "How to counter punch in boxing?",
+        "How to become a counter puncher in boxing?",
+        "Is counter punching a boxing style?",
+        "How to absorb punches in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "the basics of freestyle wrestling",
+      "Questions": [
+        "What is 5 points in freestyle wrestling?",
+        "Is 18 too late to start freestyle wrestling?",
+        "What is the most common takedown in freestyle wrestling?",
+        "What is the push out rule in freestyle wrestling?"
+      ]
+    },
+    {
+      "Parent Question": "the basics of headlock submissions in wrestling",
+      "Questions": [
+        "How do you do the headlock submission?",
+        "How to do a headlock in wrestling?",
+        "Is a headlock illegal in wrestling?",
+        "How to front headlock?"
+      ]
+    },
+    {
+      "Parent Question": "the basics of understanding fight strategy",
+      "Questions": [
+        "How to learn the basics of fighting?",
+        "How to fight strategy?",
+        "What is the best fighting technique to learn?",
+        "What are the principles of fighting?"
+      ]
+    },
+    {
+      "Parent Question": "the benefits of shadow boxing for training",
+      "Questions": [
+        "Is shadow boxing effective training?",
+        "What are the benefits of shadow boxing?",
+        "Can you build muscle by shadow boxing?",
+        "Is shadowboxing better than running?"
+      ]
+    },
+    {
+      "Parent Question": "the best types of strikes for self defense",
+      "Questions": [
+        "What is the best self-defense strike?",
+        "Which art is best for self-defense?",
+        "What is the best way to defend yourself?",
+        "What is the best weapon to carry for self-defense?"
+      ]
+    },
+    {
+      "Parent Question": "the concept of distance management in striking",
+      "Questions": [
+        "What is distance control in fighting?",
+        "How to improve your striking in MMA?",
+        "How to get in range in MMA?",
+        "How to keep distance in Muay Thai?"
+      ]
+    },
+    {
+      "Parent Question": "the difference between judo and wrestling techniques",
+      "Questions": [
+        "How does judo differ from wrestling?",
+        "Can you use judo techniques in wrestling?",
+        "Are judo and grappling the same?",
+        "What makes judo different?"
+      ]
+    },
+    {
+      "Parent Question": "the difference between muay thai and kickboxing",
+      "Questions": [
+        "Is there a difference between Muay Thai and kickboxing?",
+        "Can a kickboxer beat a Muay Thai fighter?",
+        "Is there a difference between Muay Thai and Thai Boxing?",
+        "Is Muay Thai or kickboxing better for street fights?"
+      ]
+    },
+    {
+      "Parent Question": "the difference between self defense and sport fighting",
+      "Questions": [
+        "What is the difference between self-defense and fighting?",
+        "What is the difference between sport fighting and street fighting?",
+        "Is karate a sport or self-defense?",
+        "What is the difference between a martial artist and a sports person?"
+      ]
+    },
+    {
+      "Parent Question": "the fundamentals of defending leg locks in grappling",
+      "Questions": [
+        "How to defend a leg lock?",
+        "How to stop leg lock?",
+        "How to escape ankle lock bjj?",
+        "Are leg locks legal in jiu-jitsu?"
+      ]
+    },
+    {
+      "Parent Question": "the fundamentals of kickboxing defense",
+      "Questions": [
+        "How to defend in kickboxing?",
+        "What are the fundamentals of kickboxing?",
+        "What are the principles of kickboxing?",
+        "Is kickboxing good for Defence?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of blocking in boxing",
+      "Questions": [
+        "Why is blocking important in boxing?",
+        "What is the importance of blocking?",
+        "Why is blocking important in martial arts?",
+        "What is the most important skill in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of body control in muay thai",
+      "Questions": [
+        "What is the most important thing in Muay Thai?",
+        "What does Muay Thai do to the body?",
+        "What is the perfect body for Muay Thai?",
+        "Why is balance important in Muay Thai?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of clinching in mma",
+      "Questions": [
+        "What is the purpose of the clinch in MMA?",
+        "Why is clinching important?",
+        "What is the most important thing in MMA?",
+        "Is clinching allowed in MMA?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of flexibility in muay thai",
+      "Questions": [
+        "How important is flexibility for Muay Thai?",
+        "How important is flexibility in fighting?",
+        "Does flexibility make you kick harder?",
+        "Do splits help with Muay Thai?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of footwork in boxing",
+      "Questions": [
+        "Why is footwork important?",
+        "Does footwork matter in fighting?",
+        "What is the most important thing in boxing?",
+        "What is footwork called in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of ground and pound in mma",
+      "Questions": [
+        "What is a ground and pound in MMA?",
+        "What is the most important thing in MMA?",
+        "Why is weight important in MMA?",
+        "What is the ground and pound fighting style?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of learning multiple martial arts",
+      "Questions": [
+        "Is it beneficial to learn multiple martial arts?",
+        "Should I learn mixed martial arts?",
+        "Why is learning martial arts important?",
+        "How many martial arts should you train at once?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of leg conditioning for striking",
+      "Questions": [
+        "Are legs important for punching?",
+        "What does leg conditioning do?",
+        "What are the most important muscles for striking?",
+        "How do you condition your legs for fighting?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of pressure in grappling",
+      "Questions": [
+        "What is the importance of pressure belts?",
+        "What is pressure in BJJ?",
+        "What muscles are most important for grappling?",
+        "Does strength help in grappling?"
+      ]
+    },
+    {
+      "Parent Question": "the importance of speed in counter striking",
+      "Questions": [
+        "Why is speed important in boxing?",
+        "What is the importance of speed?",
+        "Why is speed important in combat?",
+        "Are faster punches more powerful?"
+      ]
+    },
+    {
+      "Parent Question": "the role of conditioning in preparing for a fight",
+      "Questions": [
+        "How to condition for fighting?",
+        "What does conditioning mean in fighting?",
+        "What is the purpose of conditioning?",
+        "How do you prepare your body for a fight?"
+      ]
+    },
+    {
+      "Parent Question": "the role of defensive positioning in fight sports",
+      "Questions": [
+        "What is the purpose of using the defensive position?",
+        "What is the defensive stance in a fight?",
+        "What is the position of fighting?",
+        "Which stance is generally recommended for maintaining balance and mobility in self-defense?"
+      ]
+    },
+    {
+      "Parent Question": "the role of feints in boxing",
+      "Questions": [
+        "Why are feints important in boxing?",
+        "What is the purpose of a feint?",
+        "What does fainting do in boxing?",
+        "Are feints allowed in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "the role of foot sweeps in jiu jitsu",
+      "Questions": [
+        "What are sweeps in jiu jitsu?",
+        "How to foot sweep in BJJ?",
+        "How does a foot sweep work?",
+        "How to sweep someone off their feet in jiu jitsu?"
+      ]
+    },
+    {
+      "Parent Question": "the role of leverage in grappling techniques",
+      "Questions": [
+        "What are the techniques of grappling?",
+        "What is strength vs leverage?",
+        "What is a lever in BJJ?",
+        "Does strength help in grappling?"
+      ]
+    },
+    {
+      "Parent Question": "the role of mental toughness in fight sports",
+      "Questions": [
+        "What is the role of mental toughness in sports?",
+        "How to build mental toughness for fighting?",
+        "Why is mental toughness important?",
+        "Which sport requires mental toughness?"
+      ]
+    },
+    {
+      "Parent Question": "the role of the jab in setting up combos",
+      "Questions": [
+        "What is the purpose of the jab?",
+        "How do you set up a jab?",
+        "How to set up combos in boxing?",
+        "How to use the jab?"
+      ]
+    },
+    {
+      "Parent Question": "the role of timing in fight sports",
+      "Questions": [
+        "Is timing important in fighting?",
+        "What is the role of timing?",
+        "Why is timing important in sports?",
+        "What is the meaning of timing in boxing?"
+      ]
+    },
+    {
+      "Parent Question": "the significance of breathing techniques in fighting",
+      "Questions": [
+        "How important is breathing in a fight?",
+        "Is breathing important in martial arts?",
+        "Why are breathing techniques important?",
+        "What is the best breathing technique for fighting?"
+      ]
+    },
+    {
+      "Parent Question": "the significance of controlling posture in jiu jitsu",
+      "Questions": [
+        "What is the most important thing in Jiu Jitsu?",
+        "Why is good posture considered to be one of the fundamentals of martial arts?",
+        "What is the 80/20 rule in BJJ?",
+        "What is back control in Jiu Jitsu?"
+      ]
+    },
+    {
+      "Parent Question": "the significance of head movement in boxing",
+      "Questions": [
+        "Why is head movement important in boxing?",
+        "Why does a boxer move his head?",
+        "Should you move your head while punching?",
+        "What boxers have head movement?"
+      ]
+    },
+    {
+      "Parent Question": "tips for defending against leg kicks",
+      "Questions": [
+        "How to protect against a leg kick?",
+        "How do you guard leg kicks?",
+        "How to parry leg kicks?",
+        "How do UFC fighters block leg kicks?"
+      ]
+    },
+    {
+      "Parent Question": "tips for improving endurance in fight sports",
+      "Questions": [
+        "How to get better endurance for fighting?",
+        "How do MMA fighters train endurance?",
+        "How do boxers have so much stamina?",
+        "How can I increase my stamina for sports?"
+      ]
+    },
+    {
+      "Parent Question": "tips for improving striking combinations",
+      "Questions": [
+        "How to increase striking power?",
+        "How do I get better at combinations?",
+        "How to improve striking for MMA?",
+        "How to get faster at striking?"
+      ]
+    },
+    {
+      "Parent Question": "tips for training with heavy bags",
+      "Questions": [
+        "How to workout with a heavy bag?",
+        "How do I get better at heavy bags?",
+        "How long should you train on a heavy bag?",
+        "What is the proper way to hit a heavy bag?"
+      ]
+    },
+    {
+      "Parent Question": "training for mental discipline in fighting",
+      "Questions": [
+        "Which martial art is best for mental discipline?",
+        "How do you practice mental discipline?",
+        "How do you develop discipline in martial arts?",
+        "What is mind training for the martial arts?"
+      ]
+    },
+    {
+      "Parent Question": "training for speed and agility in fight sports",
+      "Questions": [
+        "How do you train for fighting speed?",
+        "How to increase speed and agility for fighting?",
+        "How to do speed and agility training?",
+        "How do boxers train agility?"
+      ]
+    },
+    {
+      "Parent Question": "training for stamina and conditioning in fight sports",
+      "Questions": [
+        "How do you train stamina for fighting?",
+        "How do UFC fighters build stamina?",
+        "How do you increase stamina in Fighting Academy?",
+        "What conditioning do MMA fighters do?"
+      ]
+    },
+    {
+      "Parent Question": "understanding guard passing in brazilian jiu jitsu",
+      "Questions": [
+        "How to pass the guard in Jiu-Jitsu?",
+        "What does &quot",
+        "How many points for guard pass BJJ?",
+        "What is the point of guard in BJJ?"
+      ]
+    },
+    {
+      "Parent Question": "understanding leg locks in brazilian jiu jitsu",
+      "Questions": [
+        "How to do a leg lock in BJJ?",
+        "Why are leg locks banned in BJJ?",
+        "How does a leg lock work?",
+        "What is the difference between 50 50 and ashi garami?"
+      ]
+    },
+    {
+      "Parent Question": "understanding the concept of timing in striking",
+      "Questions": [
+        "What is timing in fighting?",
+        "What is the meaning of timing in boxing?",
+        "How to work on timing in boxing?",
+        "What is timing sparring?"
+      ]
+    },
+    {
+      "Parent Question": "understanding the importance of weight class in mma",
+      "Questions": [
+        "How important is weight class in MMA?",
+        "How important is weight training for MMA?",
+        "What is the point of weight class?",
+        "Why is weight so important in fighting?"
+      ]
+    },
+    {
+      "Parent Question": "understanding the role of ground control in mma",
+      "Questions": [
+        "What is the grounded rule in MMA?",
+        "What is the 12/6 rule in MMA?",
+        "What does control mean in MMA?",
+        "What is the ground game in MMA?"
+      ]
+      }
+    ]
   }
 ]
 
