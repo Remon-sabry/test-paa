@@ -24238,6 +24238,191 @@
       ]
       }
     ]
+  },
+  {
+  "knowledge_base_name": "CYBERSECURITY_KnowledgeBase",
+  "data": [
+    {
+      "Parent Question": "1 cybersecurity tips",
+      "Questions": [
+        "What are the best tips for cybersecurity?",
+        "What is the 1 10 60 rule of cybersecurity?",
+        "What are the 5 C's of cyber security?",
+        "What are the 6 tips of cyber security awareness?"
+      ]
+    },
+    {
+      "Parent Question": "2 online privacy protection",
+      "Questions": [
+        "What is 2 way privacy protection?",
+        "What are the ways to protect your privacy online?",
+        "What are the different types of privacy online?",
+        "What are the different types of privacy protection?"
+      ]
+    },
+    {
+      "Parent Question": "3 best antivirus software",
+      "Questions": [
+        "What is the top 1 antivirus?",
+        "What is the 5 anti-virus software?",
+        "What are three antivirus software?",
+        "Can I have 3 antivirus?"
+      ]
+    },
+    {
+      "Parent Question": "4 how to create strong passwords",
+      "Questions": [
+        "What are the ways of creating strong passwords?",
+        "What is the 8 4 rule for creating strong passwords?",
+        "What is an example of a strong password?",
+        "How do I find a strong password?"
+      ]
+    },
+    {
+      "Parent Question": "5 two factor authentication setup",
+      "Questions": [
+        "How do you set up two-factor authentication?",
+        "What is 5 factor authentication?",
+        "What is an example of 2FA authentication?",
+        "How to enable 2FA on mobile?"
+      ]
+    },
+    {
+      "Parent Question": "6 avoiding phishing scams",
+      "Questions": [
+        "What can we do to avoid phishing?",
+        "How to avoid scams?",
+        "What is phishing how to recognize and avoid phishing scams?",
+        "What are the 4 steps to protect yourself from phishing attacks?"
+      ]
+    },
+    {
+      "Parent Question": "7 secure online shopping tips",
+      "Questions": [
+        "What is secure online shopping?",
+        "How do you stay safe when shopping online?",
+        "What are 4 tips for keeping safe online?",
+        "What are the 5 rules of staying safe online?"
+      ]
+    },
+    {
+      "Parent Question": "8 identity theft prevention",
+      "Questions": [
+        "What is 8s identity theft?",
+        "What are the 4 elements of identity theft?",
+        "What is the best identity theft protection?",
+        "What is the best way to resolve identity theft?"
+      ]
+    },
+    {
+      "Parent Question": "9 vpns for online security",
+      "Questions": [
+        "Which VPN has the best security?",
+        "Which VPN is 100% safe?",
+        "What VPN type is very secure?",
+        "Which is the safest online VPN?"
+      ]
+    },
+    {
+      "Parent Question": "10 privacy settings for social media",
+      "Questions": [
+        "What are privacy settings on social media?",
+        "What is an example of privacy settings?",
+        "How to protect your privacy when using social media?",
+        "How to be private on social media?"
+      ]
+    },
+    {
+      "Parent Question": "11 secure file sharing methods",
+      "Questions": [
+        "What are the secure file transfer methods?",
+        "What is the most secure way to share files?",
+        "What is a secure file sharing system?",
+        "What are the three 3 modes of share files?"
+      ]
+    },
+    {
+      "Parent Question": "12 cybersecurity for small businesses",
+      "Questions": [
+        "What is cyber security for small business?",
+        "What are the 10 forms of cyber security?",
+        "How many cyber attacks target small businesses?",
+        "What are the 10 recommended tips for cyber security?"
+      ]
+    },
+    {
+      "Parent Question": "13 protecting kids online",
+      "Questions": [
+        "Can kids under 13 have social media?",
+        "How can children be protected online?",
+        "How do I keep my 12 year old safe online?",
+        "What are the risks of children being online?"
+      ]
+    },
+    {
+      "Parent Question": "14 safe browsing practices",
+      "Questions": [
+        "What are safe browsing practices?",
+        "What are 7 internet safety tips?",
+        "How to do safe browsing?",
+        "What are the top 10 Internet safety rules to protect yourself from identity theft?"
+      ]
+    },
+    {
+      "Parent Question": "15 password manager reviews",
+      "Questions": [
+        "What is the very best password manager?",
+        "Which password manager has never been hacked?",
+        "Can I trust a password manager?",
+        "What is better than 1Password?"
+      ]
+    },
+    {
+      "Parent Question": "16 avoiding ransomware attacks",
+      "Questions": [
+        "What are the best ways to avoid ransomware?",
+        "What is the 3 2 1 rule for ransomware?",
+        "Is it possible to remove ransomware?",
+        "What is the top target for ransomware?"
+      ]
+    },
+    {
+      "Parent Question": "17 email security best practices",
+      "Questions": [
+        "What is a good security practice for email?",
+        "Which of the following is a best practice for email security?",
+        "What is the proper method for email security?",
+        "What is the security protocol for email?"
+      ]
+    },
+    {
+      "Parent Question": "18 wi fi network security",
+      "Questions": [
+        "What is Wi-Fi network security?",
+        "What is my Wi-Fi security type?",
+        "How to find network security key for Wi-Fi?",
+        "Which is the best Wi-Fi security WPA2 or WPA3?"
+      ]
+    },
+    {
+      "Parent Question": "19 cloud data protection",
+      "Questions": [
+        "What is cloud data protection?",
+        "What is cloud data security?",
+        "What are the protection method of a cloud?",
+        "What are the three types of data protection?"
+      ]
+    },
+    {
+      "Parent Question": "20 cybersecurity certifications and training",
+      "Questions": [
+        "Which certificate is best for cyber security?",
+        "What is security 5 certification?",
+        "What type of training is required for cyber security?",
+        "How much does it cost to get cyber security certification in India?"
+      ]
+      }
+    ]
   }
 ]
 
